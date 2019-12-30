@@ -1,0 +1,7 @@
+# `bool CDOTA_Item_Lua:CanUnitPickUp(hUnit )`
+## Function Description
+Returns true if this item can be picked up by the target unit.
+## Parameters
+Type|Name|Description
+--|--|--
+handle|hUnit|No Description Set

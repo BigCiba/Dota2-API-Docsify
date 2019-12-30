@@ -1,0 +1,3 @@
+# `void CDOTABaseAbility:MarkAbilityButtonDirty( )`
+## Function Description
+Mark the ability button for this ability as needing a refresh.
