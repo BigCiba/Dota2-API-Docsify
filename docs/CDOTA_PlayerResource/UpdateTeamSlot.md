@@ -1,7 +1,11 @@
-# `void CDOTA_PlayerResource:UpdateTeamSlot(iPlayerID, iTeamNumber, desiredSlot )`
-## Function Description
+# UpdateTeamSlot
+> `void UpdateTeamSlot(iPlayerID, iTeamNumber, desiredSlot)`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iPlayerID|No Description Set

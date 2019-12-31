@@ -1,7 +1,11 @@
-# `void CDOTAGamerules:SetRuneMinimapIconScale(float_1 )`
-## Function Description
+# SetRuneMinimapIconScale
+> `void SetRuneMinimapIconScale(float_1)`
+# Class
+> __✔ Server: CDOTAGamerules__  
+> __✖ Client: undefined__  
+# Function Description
 (flMinimapRuneIconScale) - Scale the rune icons on the minimap.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 float|float_1|No Description Set

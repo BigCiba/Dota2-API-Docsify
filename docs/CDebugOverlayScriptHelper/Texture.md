@@ -1,7 +1,11 @@
-# `void CDebugOverlayScriptHelper:Texture(string_1, Vector2D_2, Vector2D_3, int_4, int_5, int_6, int_7, Vector2D_8, Vector2D_9, float_10 )`
-## Function Description
+# Texture
+> `void Texture(string_1, Vector2D_2, Vector2D_3, int_4, int_5, int_6, int_7, Vector2D_8, Vector2D_9, float_10)`
+# Class
+> __✔ Server: CDebugOverlayScriptHelper__  
+> __✔ Client: CDebugOverlayScriptHelper__  
+# Function Description
 Draws a screen-space texture. Coordinates are in pixels.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

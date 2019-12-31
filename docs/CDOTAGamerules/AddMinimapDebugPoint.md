@@ -1,7 +1,11 @@
-# `void CDOTAGamerules:AddMinimapDebugPoint(int_1, Vector_2, int_3, int_4, int_5, int_6, float_7 )`
-## Function Description
+# AddMinimapDebugPoint
+> `void AddMinimapDebugPoint(int_1, Vector_2, int_3, int_4, int_5, int_6, float_7)`
+# Class
+> __✔ Server: CDOTAGamerules__  
+> __✖ Client: undefined__  
+# Function Description
 Add a point on the minimap.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|int_1|No Description Set

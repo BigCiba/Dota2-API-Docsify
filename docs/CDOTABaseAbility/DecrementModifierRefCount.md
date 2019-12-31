@@ -1,3 +1,7 @@
-# `void CDOTABaseAbility:DecrementModifierRefCount( )`
-## Function Description
+# DecrementModifierRefCount
+> `void DecrementModifierRefCount()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

@@ -1,7 +1,11 @@
-# `bool CDOTA_Buff:HasFunction(iFunction )`
-## Function Description
+# HasFunction
+> `bool HasFunction(iFunction)`
+# Class
+> __✔ Server: CDOTA_Buff__  
+> __✔ Client: CDOTA_Buff__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iFunction|No Description Set

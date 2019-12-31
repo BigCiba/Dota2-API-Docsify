@@ -1,7 +1,11 @@
-# `float CDOTA_PlayerResource:GetGoldPerMin(iPlayerID )`
-## Function Description
+# GetGoldPerMin
+> `float GetGoldPerMin(iPlayerID)`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iPlayerID|No Description Set

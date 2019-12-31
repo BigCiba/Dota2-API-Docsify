@@ -1,7 +1,11 @@
-# `void CDOTA_Item:SetDroppable(bDroppable )`
-## Function Description
+# SetDroppable
+> `void SetDroppable(bDroppable)`
+# Class
+> __✔ Server: CDOTA_Item__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 bool|bDroppable|No Description Set

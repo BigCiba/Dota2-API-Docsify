@@ -1,7 +1,11 @@
-# `bool CDOTA_BaseNPC:HasAbility(pszAbilityName )`
-## Function Description
+# HasAbility
+> `bool HasAbility(pszAbilityName)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 See whether this unit has an ability by name.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|pszAbilityName|No Description Set

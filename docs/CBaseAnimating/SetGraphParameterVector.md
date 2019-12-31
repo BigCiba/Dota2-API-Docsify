@@ -1,7 +1,11 @@
-# `void CBaseAnimating:SetGraphParameterVector(szName, vValue )`
-## Function Description
+# SetGraphParameterVector
+> `void SetGraphParameterVector(szName, vValue)`
+# Class
+> __✔ Server: CBaseAnimating__  
+> __✖ Client: undefined__  
+# Function Description
 Pass the vector value to the specified param in the graph
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|szName|No Description Set

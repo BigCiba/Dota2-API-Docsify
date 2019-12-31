@@ -1,7 +1,11 @@
-# `void CDebugOverlayScriptHelper:Cross3D(Vector_1, float_2, int_3, int_4, int_5, int_6, bool_7, float_8 )`
-## Function Description
+# Cross3D
+> `void Cross3D(Vector_1, float_2, int_3, int_4, int_5, int_6, bool_7, float_8)`
+# Class
+> __✔ Server: CDebugOverlayScriptHelper__  
+> __✔ Client: CDebugOverlayScriptHelper__  
+# Function Description
 Draws a world-aligned cross. Specify origin in world space.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|Vector_1|No Description Set

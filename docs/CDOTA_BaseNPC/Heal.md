@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC:Heal(flAmount, hInflictor )`
-## Function Description
+# Heal
+> `void Heal(flAmount, hInflictor)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Heal this unit.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 float|flAmount|No Description Set

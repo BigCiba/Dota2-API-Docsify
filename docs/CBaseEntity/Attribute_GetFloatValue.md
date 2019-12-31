@@ -1,7 +1,11 @@
-# `float CBaseEntity:Attribute_GetFloatValue(pName, flDefault )`
-## Function Description
+# Attribute_GetFloatValue
+> `float Attribute_GetFloatValue(pName, flDefault)`
+# Class
+> __✔ Server: CBaseEntity__  
+> __✖ Client: undefined__  
+# Function Description
 Get float value for an entity attribute.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|pName|No Description Set

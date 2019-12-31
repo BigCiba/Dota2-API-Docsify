@@ -1,7 +1,11 @@
-# `int CScriptParticleManager:CreateParticle(string_1, int_2, handle_3 )`
-## Function Description
+# CreateParticle
+> `int CreateParticle(string_1, int_2, handle_3)`
+# Class
+> __✔ Server: CScriptParticleManager__  
+> __✔ Client: CScriptParticleManager__  
+# Function Description
 Creates a new particle effect
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

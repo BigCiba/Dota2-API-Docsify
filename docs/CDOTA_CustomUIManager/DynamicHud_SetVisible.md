@@ -1,7 +1,11 @@
-# `void CDOTA_CustomUIManager:DynamicHud_SetVisible(int_1, string_2, bool_3 )`
-## Function Description
+# DynamicHud_SetVisible
+> `void DynamicHud_SetVisible(int_1, string_2, bool_3)`
+# Class
+> __✔ Server: CDOTA_CustomUIManager__  
+> __✖ Client: undefined__  
+# Function Description
 Toggle the visibility of an existing custom hud element ( int PlayerID /*-1 means everyone*/, string ElementID, bool Visible )
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|int_1|No Description Set

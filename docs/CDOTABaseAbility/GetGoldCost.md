@@ -1,7 +1,11 @@
-# `int CDOTABaseAbility:GetGoldCost(iLevel )`
-## Function Description
+# GetGoldCost
+> `int GetGoldCost(iLevel)`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iLevel|No Description Set

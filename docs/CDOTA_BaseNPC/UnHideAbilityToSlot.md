@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC:UnHideAbilityToSlot(pszAbilityName, pszReplacedAbilityName )`
-## Function Description
+# UnHideAbilityToSlot
+> `void UnHideAbilityToSlot(pszAbilityName, pszReplacedAbilityName)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Makes the first ability unhidden, and puts it where second ability currently is. Will do nothing if the first ability is already unhidden and in a valid slot.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|pszAbilityName|No Description Set

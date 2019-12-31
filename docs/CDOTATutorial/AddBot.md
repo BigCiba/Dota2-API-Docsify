@@ -1,7 +1,11 @@
-# `bool CDOTATutorial:AddBot(string_1, string_2, string_3, bool_4 )`
-## Function Description
+# AddBot
+> `bool AddBot(string_1, string_2, string_3, bool_4)`
+# Class
+> __✔ Server: CDOTATutorial__  
+> __✖ Client: undefined__  
+# Function Description
 Add a computer controlled bot.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

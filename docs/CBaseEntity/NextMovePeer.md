@@ -1,3 +1,7 @@
-# `handle CBaseEntity:NextMovePeer( )`
-## Function Description
+# NextMovePeer
+> `handle NextMovePeer()`
+# Class
+> __✔ Server: CBaseEntity__  
+> __✖ Client: undefined__  
+# Function Description
 

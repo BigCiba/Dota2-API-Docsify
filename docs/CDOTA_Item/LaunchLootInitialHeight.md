@@ -1,7 +1,11 @@
-# `void CDOTA_Item:LaunchLootInitialHeight(bAutoUse, flInitialHeight, flLaunchHeight, flDuration, vEndPoint )`
-## Function Description
+# LaunchLootInitialHeight
+> `void LaunchLootInitialHeight(bAutoUse, flInitialHeight, flLaunchHeight, flDuration, vEndPoint)`
+# Class
+> __✔ Server: CDOTA_Item__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 bool|bAutoUse|No Description Set

@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC:SetModifierStackCount(pszScriptName, hCaster, nStackCount )`
-## Function Description
+# SetModifierStackCount
+> `void SetModifierStackCount(pszScriptName, hCaster, nStackCount)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Sets the stack count of a given modifier.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|pszScriptName|No Description Set

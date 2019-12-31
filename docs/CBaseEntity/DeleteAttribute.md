@@ -1,7 +1,11 @@
-# `void CBaseEntity:DeleteAttribute(pName )`
-## Function Description
+# DeleteAttribute
+> `void DeleteAttribute(pName)`
+# Class
+> __✔ Server: CBaseEntity__  
+> __✖ Client: undefined__  
+# Function Description
 Delete an entity attribute.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|pName|No Description Set

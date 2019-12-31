@@ -1,7 +1,11 @@
-# `void ResolveNPCPositions(Vector_1, float_2 )`
-## Function Description
+# ResolveNPCPositions
+> `void ResolveNPCPositions(Vector_1, float_2)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 Check and fix units that have been assigned a position inside collision radius of other NPCs.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|Vector_1|No Description Set

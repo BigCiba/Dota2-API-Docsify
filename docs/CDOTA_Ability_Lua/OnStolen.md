@@ -1,7 +1,11 @@
-# `void CDOTA_Ability_Lua:OnStolen(hSourceAbility )`
-## Function Description
+# OnStolen
+> `void OnStolen(hSourceAbility)`
+# Class
+> __✔ Server: CDOTA_Ability_Lua__  
+> __✖ Client: undefined__  
+# Function Description
 ( HSCRIPT hAbility ) Special behavior when stolen by Spell Steal.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|hSourceAbility|No Description Set

@@ -1,7 +1,11 @@
-# `bool CDOTA_BaseNPC_Hero:AddExperience(flXP, nReason, bApplyBotDifficultyScaling, bIncrementTotal )`
-## Function Description
+# AddExperience
+> `bool AddExperience(flXP, nReason, bApplyBotDifficultyScaling, bIncrementTotal)`
+# Class
+> __✔ Server: CDOTA_BaseNPC_Hero__  
+> __✖ Client: undefined__  
+# Function Description
 Params: Float XP, Bool applyBotDifficultyScaling
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 float|flXP|No Description Set

@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC_Hero:IncrementDeaths(iKillerID )`
-## Function Description
+# IncrementDeaths
+> `void IncrementDeaths(iKillerID)`
+# Class
+> __✔ Server: CDOTA_BaseNPC_Hero__  
+> __✖ Client: undefined__  
+# Function Description
 Value is stored in PlayerResource.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iKillerID|No Description Set

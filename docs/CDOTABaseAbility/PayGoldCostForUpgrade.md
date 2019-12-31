@@ -1,3 +1,7 @@
-# `void CDOTABaseAbility:PayGoldCostForUpgrade( )`
-## Function Description
+# PayGoldCostForUpgrade
+> `void PayGoldCostForUpgrade()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

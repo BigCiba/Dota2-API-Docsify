@@ -1,3 +1,7 @@
-# `string CDOTABaseAbility:GetStolenActivityModifier( )`
-## Function Description
+# GetStolenActivityModifier
+> `string GetStolenActivityModifier()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

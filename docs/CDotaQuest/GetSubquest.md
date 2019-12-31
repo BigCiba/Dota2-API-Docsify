@@ -1,7 +1,11 @@
-# `handle CDotaQuest:GetSubquest(nIndex )`
-## Function Description
+# GetSubquest
+> `handle GetSubquest(nIndex)`
+# Class
+> __✔ Server: CDotaQuest__  
+> __✖ Client: undefined__  
+# Function Description
 Finds a subquest from this quest by index
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|nIndex|No Description Set

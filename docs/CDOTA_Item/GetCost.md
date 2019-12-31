@@ -1,3 +1,7 @@
-# `int CDOTA_Item:GetCost( )`
-## Function Description
+# GetCost
+> `int GetCost()`
+# Class
+> __✔ Server: CDOTA_Item__  
+> __✖ Client: undefined__  
+# Function Description
 

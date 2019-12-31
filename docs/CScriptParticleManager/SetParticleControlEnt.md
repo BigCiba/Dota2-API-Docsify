@@ -1,7 +1,11 @@
-# `void CScriptParticleManager:SetParticleControlEnt(int_1, int_2, handle_3, int_4, string_5, Vector_6, bool_7 )`
-## Function Description
+# SetParticleControlEnt
+> `void SetParticleControlEnt(int_1, int_2, handle_3, int_4, string_5, Vector_6, bool_7)`
+# Class
+> __✔ Server: CScriptParticleManager__  
+> __✔ Client: CScriptParticleManager__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|int_1|No Description Set

@@ -1,7 +1,11 @@
-# `void CDOTA_Ability_Animation_TailSpin:SetPlaybackRate(flRate )`
-## Function Description
+# SetPlaybackRate
+> `void SetPlaybackRate(flRate)`
+# Class
+> __✔ Server: CDOTA_Ability_Animation_TailSpin__  
+> __✖ Client: undefined__  
+# Function Description
 Override playbackrate
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 float|flRate|No Description Set

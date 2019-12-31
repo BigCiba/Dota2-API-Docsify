@@ -1,7 +1,11 @@
-# `void CBaseEntity:SetMaxHealth(amt )`
-## Function Description
+# SetMaxHealth
+> `void SetMaxHealth(amt)`
+# Class
+> __✔ Server: CBaseEntity__  
+> __✖ Client: undefined__  
+# Function Description
 Set the maximum health of this entity.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|amt|No Description Set

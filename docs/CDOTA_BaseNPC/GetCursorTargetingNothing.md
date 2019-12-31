@@ -1,3 +1,7 @@
-# `bool CDOTA_BaseNPC:GetCursorTargetingNothing( )`
-## Function Description
+# GetCursorTargetingNothing
+> `bool GetCursorTargetingNothing()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 

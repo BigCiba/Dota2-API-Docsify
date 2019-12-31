@@ -1,3 +1,7 @@
-# `int CDOTA_BaseNPC_Hero:GetBaseDamageMax( )`
-## Function Description
+# GetBaseDamageMax
+> `int GetBaseDamageMax()`
+# Class
+> __✔ Server: CDOTA_BaseNPC_Hero__  
+> __✖ Client: undefined__  
+# Function Description
 Hero damage is also affected by attributes.

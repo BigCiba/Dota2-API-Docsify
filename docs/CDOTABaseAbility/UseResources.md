@@ -1,7 +1,11 @@
-# `void CDOTABaseAbility:UseResources(bMana, bGold, bCooldown )`
-## Function Description
+# UseResources
+> `void UseResources(bMana, bGold, bCooldown)`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 bool|bMana|No Description Set

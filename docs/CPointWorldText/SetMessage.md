@@ -1,7 +1,11 @@
-# `void CPointWorldText:SetMessage(pMessage )`
-## Function Description
+# SetMessage
+> `void SetMessage(pMessage)`
+# Class
+> __✔ Server: CPointWorldText__  
+> __✔ Client: C_PointWorldText__  
+# Function Description
 Set the message on this entity.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|pMessage|No Description Set

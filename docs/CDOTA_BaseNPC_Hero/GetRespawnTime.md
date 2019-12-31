@@ -1,3 +1,7 @@
-# `float CDOTA_BaseNPC_Hero:GetRespawnTime( )`
-## Function Description
+# GetRespawnTime
+> `float GetRespawnTime()`
+# Class
+> __✔ Server: CDOTA_BaseNPC_Hero__  
+> __✖ Client: undefined__  
+# Function Description
 

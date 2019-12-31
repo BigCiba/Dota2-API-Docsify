@@ -1,7 +1,11 @@
-# `bool CDOTAGamerules:SetEventMetadataCustomTable(handle_1 )`
-## Function Description
+# SetEventMetadataCustomTable
+> `bool SetEventMetadataCustomTable(handle_1)`
+# Class
+> __✔ Server: CDOTAGamerules__  
+> __✖ Client: undefined__  
+# Function Description
 Event-only ( table hMetadataTable )
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|handle_1|No Description Set

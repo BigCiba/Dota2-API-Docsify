@@ -1,7 +1,11 @@
-# `void CDebugOverlayScriptHelper:BoxAngles(Vector_1, Vector_2, Vector_3, Quaternion_4, int_5, int_6, int_7, int_8, bool_9, float_10 )`
-## Function Description
+# BoxAngles
+> `void BoxAngles(Vector_1, Vector_2, Vector_3, Quaternion_4, int_5, int_6, int_7, int_8, bool_9, float_10)`
+# Class
+> __✔ Server: CDebugOverlayScriptHelper__  
+> __✔ Client: CDebugOverlayScriptHelper__  
+# Function Description
 Draws an oriented box at the origin. Specify bounds in local space.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|Vector_1|No Description Set

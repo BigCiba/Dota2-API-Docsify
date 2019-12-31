@@ -1,3 +1,7 @@
-# `bool CDOTA_Item:IsStackable( )`
-## Function Description
+# IsStackable
+> `bool IsStackable()`
+# Class
+> __✔ Server: CDOTA_Item__  
+> __✔ Client: C_DOTA_Item__  
+# Function Description
 

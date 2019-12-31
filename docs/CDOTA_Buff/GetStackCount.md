@@ -1,3 +1,7 @@
-# `int CDOTA_Buff:GetStackCount( )`
-## Function Description
+# GetStackCount
+> `int GetStackCount()`
+# Class
+> __✔ Server: CDOTA_Buff__  
+> __✔ Client: CDOTA_Buff__  
+# Function Description
 

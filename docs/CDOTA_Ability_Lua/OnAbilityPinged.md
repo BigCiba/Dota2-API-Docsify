@@ -1,7 +1,11 @@
-# `void CDOTA_Ability_Lua:OnAbilityPinged(nPlayerID, bCtrlHeld )`
-## Function Description
+# OnAbilityPinged
+> `void OnAbilityPinged(nPlayerID, bCtrlHeld)`
+# Class
+> __✔ Server: CDOTA_Ability_Lua__  
+> __✖ Client: undefined__  
+# Function Description
 The ability was pinged (nPlayerID, bCtrlHeld).
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|nPlayerID|No Description Set

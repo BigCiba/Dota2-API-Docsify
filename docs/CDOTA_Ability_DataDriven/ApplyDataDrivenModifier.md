@@ -1,7 +1,11 @@
-# `handle CDOTA_Ability_DataDriven:ApplyDataDrivenModifier(hCaster, hTarget, pszModifierName, hModifierTable )`
-## Function Description
+# ApplyDataDrivenModifier
+> `handle ApplyDataDrivenModifier(hCaster, hTarget, pszModifierName, hModifierTable)`
+# Class
+> __✔ Server: CDOTA_Ability_DataDriven__  
+> __✖ Client: undefined__  
+# Function Description
 Applies a data driven modifier to the target
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|hCaster|No Description Set

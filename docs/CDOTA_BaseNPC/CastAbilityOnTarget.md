@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC:CastAbilityOnTarget(hTarget, hAbility, iPlayerIndex )`
-## Function Description
+# CastAbilityOnTarget
+> `void CastAbilityOnTarget(hTarget, hAbility, iPlayerIndex)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Cast an ability on a target entity.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|hTarget|No Description Set

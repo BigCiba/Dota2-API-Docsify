@@ -1,3 +1,7 @@
-# `int CDOTA_BaseNPC:GetCurrentVisionRange( )`
-## Function Description
+# GetCurrentVisionRange
+> `int GetCurrentVisionRange()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✔ Client: C_DOTA_BaseNPC__  
+# Function Description
 Gets the current vision range.

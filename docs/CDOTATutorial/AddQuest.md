@@ -1,7 +1,11 @@
-# `void CDOTATutorial:AddQuest(string_1, int_2, string_3, string_4 )`
-## Function Description
+# AddQuest
+> `void AddQuest(string_1, int_2, string_3, string_4)`
+# Class
+> __✔ Server: CDOTATutorial__  
+> __✖ Client: undefined__  
+# Function Description
 Add a quest to the quest log
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

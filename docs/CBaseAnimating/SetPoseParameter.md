@@ -1,7 +1,11 @@
-# `float CBaseAnimating:SetPoseParameter(szName, fValue )`
-## Function Description
+# SetPoseParameter
+> `float SetPoseParameter(szName, fValue)`
+# Class
+> __✔ Server: CBaseAnimating__  
+> __✖ Client: undefined__  
+# Function Description
 Set the specified pose parameter to the specified value.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|szName|No Description Set

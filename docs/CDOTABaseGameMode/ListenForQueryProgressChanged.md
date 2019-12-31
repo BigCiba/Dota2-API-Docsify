@@ -1,7 +1,11 @@
-# `void CDOTABaseGameMode:ListenForQueryProgressChanged(hFunction, hContext )`
-## Function Description
+# ListenForQueryProgressChanged
+> `void ListenForQueryProgressChanged(hFunction, hContext)`
+# Class
+> __✔ Server: CDOTABaseGameMode__  
+> __✖ Client: undefined__  
+# Function Description
 Set function and context for real time combat analyzer query progress changed.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|hFunction|No Description Set

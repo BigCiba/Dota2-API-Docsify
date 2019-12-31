@@ -1,7 +1,11 @@
-# `void CBodyComponent:SetVelocity(Vector_1 )`
-## Function Description
+# SetVelocity
+> `void SetVelocity(Vector_1)`
+# Class
+> __✔ Server: CBodyComponent__  
+> __✔ Client: CBodyComponent__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|Vector_1|No Description Set

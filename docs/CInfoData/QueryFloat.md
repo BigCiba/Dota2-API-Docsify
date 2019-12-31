@@ -1,7 +1,11 @@
-# `float CInfoData:QueryFloat(tok, flDefault )`
-## Function Description
+# QueryFloat
+> `float QueryFloat(tok, flDefault)`
+# Class
+> __✔ Server: CInfoData__  
+> __✖ Client: undefined__  
+# Function Description
 Query float data for this key
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 utlstringtoken|tok|No Description Set

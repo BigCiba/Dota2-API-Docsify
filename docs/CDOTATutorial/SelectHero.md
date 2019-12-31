@@ -1,7 +1,11 @@
-# `void CDOTATutorial:SelectHero(string_1 )`
-## Function Description
+# SelectHero
+> `void SelectHero(string_1)`
+# Class
+> __✔ Server: CDOTATutorial__  
+> __✖ Client: undefined__  
+# Function Description
 Select a hero for the local player
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

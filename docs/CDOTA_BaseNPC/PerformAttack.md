@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC:PerformAttack(hTarget, bUseCastAttackOrb, bProcessProcs, bSkipCooldown, bIgnoreInvis, bUseProjectile, bFakeAttack, bNeverMiss )`
-## Function Description
+# PerformAttack
+> `void PerformAttack(hTarget, bUseCastAttackOrb, bProcessProcs, bSkipCooldown, bIgnoreInvis, bUseProjectile, bFakeAttack, bNeverMiss)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Performs an attack on a target.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|hTarget|No Description Set

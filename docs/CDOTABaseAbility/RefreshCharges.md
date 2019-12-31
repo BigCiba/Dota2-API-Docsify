@@ -1,3 +1,7 @@
-# `void CDOTABaseAbility:RefreshCharges( )`
-## Function Description
+# RefreshCharges
+> `void RefreshCharges()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

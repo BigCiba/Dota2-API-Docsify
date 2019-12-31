@@ -1,7 +1,11 @@
-# `void CBaseEntity:SetLocalAngles(fPitch, fYaw, fRoll )`
-## Function Description
+# SetLocalAngles
+> `void SetLocalAngles(fPitch, fYaw, fRoll)`
+# Class
+> __✔ Server: CBaseEntity__  
+> __✖ Client: undefined__  
+# Function Description
 Set entity local pitch, yaw, roll by component
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 float|fPitch|No Description Set

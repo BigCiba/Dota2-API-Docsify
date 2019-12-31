@@ -1,7 +1,11 @@
-# `table GridNav:GetAllTreesAroundPoint(Vector_1, float_2, bool_3 )`
-## Function Description
+# GetAllTreesAroundPoint
+> `table GetAllTreesAroundPoint(Vector_1, float_2, bool_3)`
+# Class
+> __✔ Server: GridNav__  
+> __✖ Client: undefined__  
+# Function Description
 Returns a table full of tree HSCRIPTS (vPosition, flRadius, bFullCollision).
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|Vector_1|No Description Set

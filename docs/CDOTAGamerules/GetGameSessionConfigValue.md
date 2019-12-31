@@ -1,7 +1,11 @@
-# `string CDOTAGamerules:GetGameSessionConfigValue(string_1, string_2 )`
-## Function Description
+# GetGameSessionConfigValue
+> `string GetGameSessionConfigValue(string_1, string_2)`
+# Class
+> __✔ Server: CDOTAGamerules__  
+> __✖ Client: undefined__  
+# Function Description
 Get a string value from the game session config (map options)
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

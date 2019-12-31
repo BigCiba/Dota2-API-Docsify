@@ -1,7 +1,11 @@
-# `void CDOTABaseAbility:SetOverrideCastPoint(flCastPoint )`
-## Function Description
+# SetOverrideCastPoint
+> `void SetOverrideCastPoint(flCastPoint)`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 float|flCastPoint|No Description Set

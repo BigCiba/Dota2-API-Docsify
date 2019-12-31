@@ -1,7 +1,11 @@
-# `void CBaseEntity:SetEntityName(pName )`
-## Function Description
+# SetEntityName
+> `void SetEntityName(pName)`
+# Class
+> __✔ Server: CBaseEntity__  
+> __✖ Client: undefined__  
+# Function Description
 Set the name of an entity.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|pName|No Description Set

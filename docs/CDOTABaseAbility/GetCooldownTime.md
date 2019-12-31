@@ -1,3 +1,7 @@
-# `float CDOTABaseAbility:GetCooldownTime( )`
-## Function Description
+# GetCooldownTime
+> `float GetCooldownTime()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

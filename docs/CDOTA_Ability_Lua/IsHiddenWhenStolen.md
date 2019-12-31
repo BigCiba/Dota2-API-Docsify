@@ -1,3 +1,7 @@
-# `bool CDOTA_Ability_Lua:IsHiddenWhenStolen( )`
-## Function Description
+# IsHiddenWhenStolen
+> `bool IsHiddenWhenStolen()`
+# Class
+> __✔ Server: CDOTA_Ability_Lua__  
+> __✖ Client: undefined__  
+# Function Description
 Returns true if this ability is hidden when stolen by Spell Steal.

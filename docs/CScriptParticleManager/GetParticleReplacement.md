@@ -1,7 +1,11 @@
-# `string CScriptParticleManager:GetParticleReplacement(string_1, handle_2 )`
-## Function Description
+# GetParticleReplacement
+> `string GetParticleReplacement(string_1, handle_2)`
+# Class
+> __✔ Server: CScriptParticleManager__  
+> __✔ Client: CScriptParticleManager__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

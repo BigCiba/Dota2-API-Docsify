@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC:PickupRune(hItem )`
-## Function Description
+# PickupRune
+> `void PickupRune(hItem)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Pick up a rune.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|hItem|No Description Set

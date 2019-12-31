@@ -1,7 +1,11 @@
-# `void CDOTA_Item:LaunchLoot(bAutoUse, flHeight, flDuration, vEndPoint )`
-## Function Description
+# LaunchLoot
+> `void LaunchLoot(bAutoUse, flHeight, flDuration, vEndPoint)`
+# Class
+> __✔ Server: CDOTA_Item__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 bool|bAutoUse|No Description Set

@@ -1,3 +1,7 @@
-# `string CDOTA_Buff:GetName( )`
-## Function Description
+# GetName
+> `string GetName()`
+# Class
+> __✔ Server: CDOTA_Buff__  
+> __✔ Client: CDOTA_Buff__  
+# Function Description
 

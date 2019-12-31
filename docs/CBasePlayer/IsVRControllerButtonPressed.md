@@ -1,7 +1,11 @@
-# `bool CBasePlayer:IsVRControllerButtonPressed(nButton )`
-## Function Description
+# IsVRControllerButtonPressed
+> `bool IsVRControllerButtonPressed(nButton)`
+# Class
+> __✔ Server: CBasePlayer__  
+> __✖ Client: undefined__  
+# Function Description
 Returns true if the controller button is pressed.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|nButton|No Description Set

@@ -1,7 +1,11 @@
-# `void CDOTA_Item_Physical:SetContainedItem(hItem )`
-## Function Description
+# SetContainedItem
+> `void SetContainedItem(hItem)`
+# Class
+> __✔ Server: CDOTA_Item_Physical__  
+> __✖ Client: undefined__  
+# Function Description
 Set the contained item.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|hItem|No Description Set

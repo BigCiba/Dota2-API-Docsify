@@ -1,3 +1,7 @@
-# `void CDOTA_BaseNPC:Interrupt( )`
-## Function Description
+# Interrupt
+> `void Interrupt()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 

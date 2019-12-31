@@ -1,7 +1,11 @@
-# `void CDOTAGamerules:SendCustomMessage(string_1, int_2, int_3 )`
-## Function Description
+# SendCustomMessage
+> `void SendCustomMessage(string_1, int_2, int_3)`
+# Class
+> __✔ Server: CDOTAGamerules__  
+> __✖ Client: undefined__  
+# Function Description
 Sends a message on behalf of a player.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

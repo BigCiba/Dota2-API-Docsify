@@ -1,7 +1,11 @@
-# `void DoScriptAssert(bool_1, string_2 )`
-## Function Description
+# DoScriptAssert
+> `void DoScriptAssert(bool_1, string_2)`
+# Class
+> __✔ Server: Globals__  
+> __✔ Client: Globals__  
+# Function Description
 #ScriptAssert:Asserts the passed in value. Prints out a message and brings up the assert dialog.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 bool|bool_1|No Description Set

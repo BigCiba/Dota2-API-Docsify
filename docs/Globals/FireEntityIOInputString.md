@@ -1,7 +1,11 @@
-# `void FireEntityIOInputString(ehandle_1, string_2, string_3 )`
-## Function Description
+# FireEntityIOInputString
+> `void FireEntityIOInputString(ehandle_1, string_2, string_3)`
+# Class
+> __✔ Server: Globals__  
+> __✔ Client: Globals__  
+# Function Description
 Fire Entity's Action Input with passed String - you own the memory
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 ehandle|ehandle_1|No Description Set

@@ -1,3 +1,7 @@
-# `string CDOTA_BaseNPC:GetRangedProjectileName( )`
-## Function Description
+# GetRangedProjectileName
+> `string GetRangedProjectileName()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 

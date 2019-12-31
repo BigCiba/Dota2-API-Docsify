@@ -1,7 +1,11 @@
-# `bool CDOTA_BaseNPC:IsPositionInRange(vPosition, flRange )`
-## Function Description
+# IsPositionInRange
+> `bool IsPositionInRange(vPosition, flRange)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|vPosition|No Description Set

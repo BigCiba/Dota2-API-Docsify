@@ -1,3 +1,7 @@
-# `bool CDOTA_Item:IsSellable( )`
-## Function Description
+# IsSellable
+> `bool IsSellable()`
+# Class
+> __✔ Server: CDOTA_Item__  
+> __✔ Client: C_DOTA_Item__  
+# Function Description
 

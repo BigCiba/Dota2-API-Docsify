@@ -1,7 +1,11 @@
-# `int CDOTA_Ability_Lua:GetChannelledManaCostPerSecond(iLevel )`
-## Function Description
+# GetChannelledManaCostPerSecond
+> `int GetChannelledManaCostPerSecond(iLevel)`
+# Class
+> __✔ Server: CDOTA_Ability_Lua__  
+> __✔ Client: C_DOTA_Ability_Lua__  
+# Function Description
 Return mana cost at the given level per second while channeling (-1 is current).
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iLevel|No Description Set

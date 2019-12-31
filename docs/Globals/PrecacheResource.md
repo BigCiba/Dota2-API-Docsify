@@ -1,7 +1,11 @@
-# `void PrecacheResource(string_1, string_2, handle_3 )`
-## Function Description
+# PrecacheResource
+> `void PrecacheResource(string_1, string_2, handle_3)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 Manually precache a single resource
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

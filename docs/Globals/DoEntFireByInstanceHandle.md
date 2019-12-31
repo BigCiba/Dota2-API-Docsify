@@ -1,7 +1,11 @@
-# `void DoEntFireByInstanceHandle(handle_1, string_2, string_3, float_4, handle_5, handle_6 )`
-## Function Description
+# DoEntFireByInstanceHandle
+> `void DoEntFireByInstanceHandle(handle_1, string_2, string_3, float_4, handle_5, handle_6)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 #EntFireByHandle:Generate and entity i/o event
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|handle_1|No Description Set

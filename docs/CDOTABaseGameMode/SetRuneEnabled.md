@@ -1,7 +1,11 @@
-# `void CDOTABaseGameMode:SetRuneEnabled(nRune, bEnabled )`
-## Function Description
+# SetRuneEnabled
+> `void SetRuneEnabled(nRune, bEnabled)`
+# Class
+> __✔ Server: CDOTABaseGameMode__  
+> __✖ Client: undefined__  
+# Function Description
 Set if a given type of rune is enabled.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|nRune|No Description Set

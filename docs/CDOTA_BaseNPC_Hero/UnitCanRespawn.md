@@ -1,3 +1,7 @@
-# `bool CDOTA_BaseNPC_Hero:UnitCanRespawn( )`
-## Function Description
+# UnitCanRespawn
+> `bool UnitCanRespawn()`
+# Class
+> __✔ Server: CDOTA_BaseNPC_Hero__  
+> __✖ Client: undefined__  
+# Function Description
 

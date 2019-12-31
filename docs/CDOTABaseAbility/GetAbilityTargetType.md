@@ -1,3 +1,7 @@
-# `int CDOTABaseAbility:GetAbilityTargetType( )`
-## Function Description
+# GetAbilityTargetType
+> `int GetAbilityTargetType()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

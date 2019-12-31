@@ -1,3 +1,7 @@
-# `float CDOTA_BaseNPC_Hero:GetStrengthGain( )`
-## Function Description
+# GetStrengthGain
+> `float GetStrengthGain()`
+# Class
+> __✔ Server: CDOTA_BaseNPC_Hero__  
+> __✖ Client: undefined__  
+# Function Description
 

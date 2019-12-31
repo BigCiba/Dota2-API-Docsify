@@ -1,3 +1,7 @@
-# `handle CDOTA_BaseNPC:GetCursorCastTarget( )`
-## Function Description
+# GetCursorCastTarget
+> `handle GetCursorCastTarget()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 

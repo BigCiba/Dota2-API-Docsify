@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC_Hero:SetBuybackGoldLimitTime(flTime )`
-## Function Description
+# SetBuybackGoldLimitTime
+> `void SetBuybackGoldLimitTime(flTime)`
+# Class
+> __✔ Server: CDOTA_BaseNPC_Hero__  
+> __✖ Client: undefined__  
+# Function Description
 Set the amount of time gold gain is limited after buying back.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 float|flTime|No Description Set

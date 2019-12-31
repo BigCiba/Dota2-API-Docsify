@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC:MakeVisibleDueToAttack(iTeam, flRadius )`
-## Function Description
+# MakeVisibleDueToAttack
+> `void MakeVisibleDueToAttack(iTeam, flRadius)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iTeam|No Description Set

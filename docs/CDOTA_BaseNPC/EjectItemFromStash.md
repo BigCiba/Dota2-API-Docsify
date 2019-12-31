@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC:EjectItemFromStash(hItem )`
-## Function Description
+# EjectItemFromStash
+> `void EjectItemFromStash(hItem)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Drops the selected item out of this unit's stash.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|hItem|No Description Set

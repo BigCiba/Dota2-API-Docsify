@@ -1,3 +1,7 @@
-# `handle CDOTABaseAbility:GetCursorTarget( )`
-## Function Description
+# GetCursorTarget
+> `handle GetCursorTarget()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

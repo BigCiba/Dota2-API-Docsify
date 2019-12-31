@@ -1,7 +1,11 @@
-# `void CDOTA_Item:SetPurchaser(hPurchaser )`
-## Function Description
+# SetPurchaser
+> `void SetPurchaser(hPurchaser)`
+# Class
+> __✔ Server: CDOTA_Item__  
+> __✖ Client: undefined__  
+# Function Description
 Set the purchaser of record for this item.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|hPurchaser|No Description Set

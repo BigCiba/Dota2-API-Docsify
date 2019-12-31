@@ -1,7 +1,11 @@
-# `void ProjectileManager:UpdateLinearProjectileDirection(int_1, Vector_2, float_3 )`
-## Function Description
+# UpdateLinearProjectileDirection
+> `void UpdateLinearProjectileDirection(int_1, Vector_2, float_3)`
+# Class
+> __✔ Server: ProjectileManager__  
+> __✖ Client: undefined__  
+# Function Description
 Update velocity
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|int_1|No Description Set

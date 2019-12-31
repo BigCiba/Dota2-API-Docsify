@@ -1,7 +1,11 @@
-# `handle CDOTA_PlayerResource:GetSelectedHeroEntity(iPlayerID )`
-## Function Description
+# GetSelectedHeroEntity
+> `handle GetSelectedHeroEntity(iPlayerID)`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iPlayerID|No Description Set

@@ -1,3 +1,7 @@
-# `int CDOTA_BaseNPC_Hero:GetMultipleKillCount( )`
-## Function Description
+# GetMultipleKillCount
+> `int GetMultipleKillCount()`
+# Class
+> __✔ Server: CDOTA_BaseNPC_Hero__  
+> __✖ Client: undefined__  
+# Function Description
 

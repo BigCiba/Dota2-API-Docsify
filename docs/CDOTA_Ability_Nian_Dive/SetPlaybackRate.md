@@ -1,7 +1,11 @@
-# `void CDOTA_Ability_Nian_Dive:SetPlaybackRate(flRate )`
-## Function Description
+# SetPlaybackRate
+> `void SetPlaybackRate(flRate)`
+# Class
+> __✔ Server: CDOTA_Ability_Nian_Dive__  
+> __✖ Client: undefined__  
+# Function Description
 Override playbackrate
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 float|flRate|No Description Set

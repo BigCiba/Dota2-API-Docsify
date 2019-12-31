@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC_Hero:SetRespawnPosition(vOrigin )`
-## Function Description
+# SetRespawnPosition
+> `void SetRespawnPosition(vOrigin)`
+# Class
+> __✔ Server: CDOTA_BaseNPC_Hero__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|vOrigin|No Description Set

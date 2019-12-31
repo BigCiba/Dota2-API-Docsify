@@ -1,3 +1,7 @@
-# `void CDOTA_Ability_Lua:OnHeroLevelUp( )`
-## Function Description
+# OnHeroLevelUp
+> `void OnHeroLevelUp()`
+# Class
+> __✔ Server: CDOTA_Ability_Lua__  
+> __✖ Client: undefined__  
+# Function Description
 Caster gained a level.

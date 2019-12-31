@@ -1,7 +1,11 @@
-# `table CEntities:FindAllByClassnameWithin(string_1, Vector_2, float_3 )`
-## Function Description
+# FindAllByClassnameWithin
+> `table FindAllByClassnameWithin(string_1, Vector_2, float_3)`
+# Class
+> __✔ Server: CEntities__  
+> __✖ Client: undefined__  
+# Function Description
 Find entities by class name within a radius.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

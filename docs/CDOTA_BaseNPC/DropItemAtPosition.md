@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC:DropItemAtPosition(vDest, hItem )`
-## Function Description
+# DropItemAtPosition
+> `void DropItemAtPosition(vDest, hItem)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Drop an item at a given point.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|vDest|No Description Set

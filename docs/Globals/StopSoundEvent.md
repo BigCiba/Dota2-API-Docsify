@@ -1,7 +1,11 @@
-# `void StopSoundEvent(string_1, handle_2 )`
-## Function Description
+# StopSoundEvent
+> `void StopSoundEvent(string_1, handle_2)`
+# Class
+> __✔ Server: Globals__  
+> __✔ Client: Globals__  
+# Function Description
 Stops a sound event with optional delivery
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

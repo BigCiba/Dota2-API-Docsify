@@ -1,7 +1,11 @@
-# `float UTIL_AngleDiff(float_1, float_2 )`
-## Function Description
+# UTIL_AngleDiff
+> `float UTIL_AngleDiff(float_1, float_2)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 Returns the number of degrees difference between two yaw angles
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 float|float_1|No Description Set

@@ -1,3 +1,7 @@
-# `float CDOTA_BaseNPC_Hero:GetAgility( )`
-## Function Description
+# GetAgility
+> `float GetAgility()`
+# Class
+> __✔ Server: CDOTA_BaseNPC_Hero__  
+> __✔ Client: C_DOTA_BaseNPC_Hero__  
+# Function Description
 

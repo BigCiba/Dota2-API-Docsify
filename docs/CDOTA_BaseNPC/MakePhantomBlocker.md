@@ -1,3 +1,7 @@
-# `void CDOTA_BaseNPC:MakePhantomBlocker( )`
-## Function Description
+# MakePhantomBlocker
+> `void MakePhantomBlocker()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 

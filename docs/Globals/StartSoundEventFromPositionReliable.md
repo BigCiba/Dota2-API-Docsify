@@ -1,7 +1,11 @@
-# `void StartSoundEventFromPositionReliable(string_1, Vector_2 )`
-## Function Description
+# StartSoundEventFromPositionReliable
+> `void StartSoundEventFromPositionReliable(string_1, Vector_2)`
+# Class
+> __✔ Server: Globals__  
+> __✔ Client: Globals__  
+# Function Description
 Start a sound event from position with reliable delivery
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

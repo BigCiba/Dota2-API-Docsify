@@ -1,7 +1,11 @@
-# `string GetDedicatedServerKey(string_1 )`
-## Function Description
+# GetDedicatedServerKey
+> `string GetDedicatedServerKey(string_1)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 ( version )
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

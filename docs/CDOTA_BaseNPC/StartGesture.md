@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC:StartGesture(nActivity )`
-## Function Description
+# StartGesture
+> `void StartGesture(nActivity)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Add the given gesture activity.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|nActivity|No Description Set

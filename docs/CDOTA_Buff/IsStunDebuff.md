@@ -1,3 +1,7 @@
-# `bool CDOTA_Buff:IsStunDebuff( )`
-## Function Description
+# IsStunDebuff
+> `bool IsStunDebuff()`
+# Class
+> __✔ Server: CDOTA_Buff__  
+> __✔ Client: CDOTA_Buff__  
+# Function Description
 

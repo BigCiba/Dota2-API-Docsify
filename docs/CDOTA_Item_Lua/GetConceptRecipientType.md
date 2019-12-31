@@ -1,3 +1,7 @@
-# `int CDOTA_Item_Lua:GetConceptRecipientType( )`
-## Function Description
+# GetConceptRecipientType
+> `int GetConceptRecipientType()`
+# Class
+> __✔ Server: CDOTA_Item_Lua__  
+> __✖ Client: undefined__  
+# Function Description
 Return who hears speech when this spell is cast.

@@ -1,3 +1,7 @@
-# `float CDOTA_BaseNPC_Hero:GetAgilityGain( )`
-## Function Description
+# GetAgilityGain
+> `float GetAgilityGain()`
+# Class
+> __✔ Server: CDOTA_BaseNPC_Hero__  
+> __✖ Client: undefined__  
+# Function Description
 

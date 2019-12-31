@@ -1,7 +1,11 @@
-# `void CDOTABaseGameMode:DisableHudFlip(bDisable )`
-## Function Description
+# DisableHudFlip
+> `void DisableHudFlip(bDisable)`
+# Class
+> __✔ Server: CDOTABaseGameMode__  
+> __✖ Client: undefined__  
+# Function Description
 Use to disable hud flip for this mod
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 bool|bDisable|No Description Set

@@ -1,7 +1,11 @@
-# `void CDOTABaseGameMode:SetCustomBackpackCooldownPercent(flPercent )`
-## Function Description
+# SetCustomBackpackCooldownPercent
+> `void SetCustomBackpackCooldownPercent(flPercent)`
+# Class
+> __✔ Server: CDOTABaseGameMode__  
+> __✖ Client: undefined__  
+# Function Description
 Set the rate cooldown ticks down for items in the backpack.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 float|flPercent|No Description Set

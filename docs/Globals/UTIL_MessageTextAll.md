@@ -1,7 +1,11 @@
-# `void UTIL_MessageTextAll(string_1, int_2, int_3, int_4, int_5 )`
-## Function Description
+# UTIL_MessageTextAll
+> `void UTIL_MessageTextAll(string_1, int_2, int_3, int_4, int_5)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 Sends colored text to all clients.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

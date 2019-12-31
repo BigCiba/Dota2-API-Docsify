@@ -1,7 +1,11 @@
-# `void CBaseEntity:SetHealth(nHealth )`
-## Function Description
+# SetHealth
+> `void SetHealth(nHealth)`
+# Class
+> __✔ Server: CBaseEntity__  
+> __✖ Client: undefined__  
+# Function Description
 Set the health of this entity.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|nHealth|No Description Set

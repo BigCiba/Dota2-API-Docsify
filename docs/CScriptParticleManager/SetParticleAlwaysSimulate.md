@@ -1,7 +1,11 @@
-# `void CScriptParticleManager:SetParticleAlwaysSimulate(int_1 )`
-## Function Description
+# SetParticleAlwaysSimulate
+> `void SetParticleAlwaysSimulate(int_1)`
+# Class
+> __✔ Server: CScriptParticleManager__  
+> __✔ Client: CScriptParticleManager__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|int_1|No Description Set

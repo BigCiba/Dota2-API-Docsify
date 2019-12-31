@@ -1,7 +1,11 @@
-# `handle CDOTA_Ability_DataDriven:ApplyDataDrivenThinker(hCaster, vLocation, pszModifierName, hModifierTable )`
-## Function Description
+# ApplyDataDrivenThinker
+> `handle ApplyDataDrivenThinker(hCaster, vLocation, pszModifierName, hModifierTable)`
+# Class
+> __✔ Server: CDOTA_Ability_DataDriven__  
+> __✖ Client: undefined__  
+# Function Description
 Applies a data driven thinker at the location
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|hCaster|No Description Set

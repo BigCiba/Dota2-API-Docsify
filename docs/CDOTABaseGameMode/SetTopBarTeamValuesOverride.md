@@ -1,7 +1,11 @@
-# `void CDOTABaseGameMode:SetTopBarTeamValuesOverride(bOverride )`
-## Function Description
+# SetTopBarTeamValuesOverride
+> `void SetTopBarTeamValuesOverride(bOverride)`
+# Class
+> __✔ Server: CDOTABaseGameMode__  
+> __✖ Client: undefined__  
+# Function Description
 Override the values of the team values on the top game bar.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 bool|bOverride|No Description Set

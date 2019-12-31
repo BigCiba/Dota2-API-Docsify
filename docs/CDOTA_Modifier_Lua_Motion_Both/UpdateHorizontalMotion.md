@@ -1,7 +1,11 @@
-# `void CDOTA_Modifier_Lua_Motion_Both:UpdateHorizontalMotion(me, dt )`
-## Function Description
+# UpdateHorizontalMotion
+> `void UpdateHorizontalMotion(me, dt)`
+# Class
+> __✔ Server: CDOTA_Modifier_Lua_Motion_Both__  
+> __✔ Client: CDOTA_Modifier_Lua_Motion_Both__  
+# Function Description
 Perform any motion from the given interval on the NPC.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|me|No Description Set

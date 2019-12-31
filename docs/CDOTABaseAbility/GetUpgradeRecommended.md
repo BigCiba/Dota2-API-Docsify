@@ -1,3 +1,7 @@
-# `bool CDOTABaseAbility:GetUpgradeRecommended( )`
-## Function Description
+# GetUpgradeRecommended
+> `bool GetUpgradeRecommended()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

@@ -1,7 +1,11 @@
-# `void Convars:RegisterConvar(string_1, string_2, string_3, int_4 )`
-## Function Description
+# RegisterConvar
+> `void RegisterConvar(string_1, string_2, string_3, int_4)`
+# Class
+> __✔ Server: Convars__  
+> __✔ Client: Convars__  
+# Function Description
 RegisterConvar(name, defaultValue, helpString, flags): register a new console variable.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

@@ -1,7 +1,11 @@
-# `int CDOTABaseGameMode:AddRealTimeCombatAnalyzerQuery(hQueryTable, hPlayer, pszQueryName )`
-## Function Description
+# AddRealTimeCombatAnalyzerQuery
+> `int AddRealTimeCombatAnalyzerQuery(hQueryTable, hPlayer, pszQueryName)`
+# Class
+> __✔ Server: CDOTABaseGameMode__  
+> __✖ Client: undefined__  
+# Function Description
 Begin tracking a sequence of events using the real time combat analyzer.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|hQueryTable|No Description Set

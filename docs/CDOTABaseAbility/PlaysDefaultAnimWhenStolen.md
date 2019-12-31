@@ -1,3 +1,7 @@
-# `bool CDOTABaseAbility:PlaysDefaultAnimWhenStolen( )`
-## Function Description
+# PlaysDefaultAnimWhenStolen
+> `bool PlaysDefaultAnimWhenStolen()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

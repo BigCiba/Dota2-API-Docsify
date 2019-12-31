@@ -1,7 +1,11 @@
-# `void PrecacheEntityListFromTable(handle_1, handle_2 )`
-## Function Description
+# PrecacheEntityListFromTable
+> `void PrecacheEntityListFromTable(handle_1, handle_2)`
+# Class
+> __✔ Server: Globals__  
+> __✔ Client: Globals__  
+# Function Description
 Precache a list of entity KeyValues tables
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|handle_1|No Description Set

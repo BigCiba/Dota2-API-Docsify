@@ -1,3 +1,7 @@
-# `handle CDOTA_BaseNPC:GetAttackTarget( )`
-## Function Description
+# GetAttackTarget
+> `handle GetAttackTarget()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 

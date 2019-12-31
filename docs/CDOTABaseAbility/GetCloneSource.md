@@ -1,3 +1,7 @@
-# `handle CDOTABaseAbility:GetCloneSource( )`
-## Function Description
+# GetCloneSource
+> `handle GetCloneSource()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

@@ -1,7 +1,11 @@
-# `int CDOTA_PlayerResource:GetTeamKills(iTeam )`
-## Function Description
+# GetTeamKills
+> `int GetTeamKills(iTeam)`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iTeam|No Description Set

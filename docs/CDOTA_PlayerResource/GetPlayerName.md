@@ -1,7 +1,11 @@
-# `string CDOTA_PlayerResource:GetPlayerName(iPlayerID )`
-## Function Description
+# GetPlayerName
+> `string GetPlayerName(iPlayerID)`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iPlayerID|No Description Set

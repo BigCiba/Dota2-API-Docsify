@@ -1,7 +1,11 @@
-# `void CDOTA_Item:SetCanBeUsedOutOfInventory(bValue )`
-## Function Description
+# SetCanBeUsedOutOfInventory
+> `void SetCanBeUsedOutOfInventory(bValue)`
+# Class
+> __✔ Server: CDOTA_Item__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 bool|bValue|No Description Set

@@ -1,7 +1,11 @@
-# `void InitLogFile(string_1, string_2 )`
-## Function Description
+# InitLogFile
+> `void InitLogFile(string_1, string_2)`
+# Class
+> __✔ Server: Globals__  
+> __✔ Client: Globals__  
+# Function Description
 InitLogFile is deprecated. Print to the console for logging instead.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

@@ -1,3 +1,7 @@
-# `void CDOTA_Modifier_Lua_Motion_Both:OnHorizontalMotionInterrupted( )`
-## Function Description
+# OnHorizontalMotionInterrupted
+> `void OnHorizontalMotionInterrupted()`
+# Class
+> __✔ Server: CDOTA_Modifier_Lua_Motion_Both__  
+> __✔ Client: CDOTA_Modifier_Lua_Motion_Both__  
+# Function Description
 Called when the motion gets interrupted.

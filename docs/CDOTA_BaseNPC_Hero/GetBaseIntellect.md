@@ -1,3 +1,7 @@
-# `float CDOTA_BaseNPC_Hero:GetBaseIntellect( )`
-## Function Description
+# GetBaseIntellect
+> `float GetBaseIntellect()`
+# Class
+> __✔ Server: CDOTA_BaseNPC_Hero__  
+> __✖ Client: undefined__  
+# Function Description
 

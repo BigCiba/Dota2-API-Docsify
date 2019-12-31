@@ -1,7 +1,11 @@
-# `void CBaseAnimating:SetGraphParameterFloat(szName, flValue )`
-## Function Description
+# SetGraphParameterFloat
+> `void SetGraphParameterFloat(szName, flValue)`
+# Class
+> __✔ Server: CBaseAnimating__  
+> __✖ Client: undefined__  
+# Function Description
 Pass the float value to the specified param
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|szName|No Description Set

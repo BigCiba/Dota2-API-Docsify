@@ -1,7 +1,11 @@
-# `void CDOTABaseAbility:SetInAbilityPhase(bInAbilityPhase )`
-## Function Description
+# SetInAbilityPhase
+> `void SetInAbilityPhase(bInAbilityPhase)`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 bool|bInAbilityPhase|No Description Set

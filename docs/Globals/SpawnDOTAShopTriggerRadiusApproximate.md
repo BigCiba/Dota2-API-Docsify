@@ -1,7 +1,11 @@
-# `handle SpawnDOTAShopTriggerRadiusApproximate(Vector_1, float_2 )`
-## Function Description
+# SpawnDOTAShopTriggerRadiusApproximate
+> `handle SpawnDOTAShopTriggerRadiusApproximate(Vector_1, float_2)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 (Vector vOrigin, float flRadius )
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|Vector_1|No Description Set

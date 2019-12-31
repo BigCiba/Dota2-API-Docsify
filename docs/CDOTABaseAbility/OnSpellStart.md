@@ -1,3 +1,7 @@
-# `void CDOTABaseAbility:OnSpellStart( )`
-## Function Description
+# OnSpellStart
+> `void OnSpellStart()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

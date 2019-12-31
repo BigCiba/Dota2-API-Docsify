@@ -1,7 +1,11 @@
-# `void CDebugOverlayScriptHelper:Box(Vector_1, Vector_2, int_3, int_4, int_5, int_6, bool_7, float_8 )`
-## Function Description
+# Box
+> `void Box(Vector_1, Vector_2, int_3, int_4, int_5, int_6, bool_7, float_8)`
+# Class
+> __✔ Server: CDebugOverlayScriptHelper__  
+> __✔ Client: CDebugOverlayScriptHelper__  
+# Function Description
 Draws a world-space axis-aligned box. Specify bounds in world space.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|Vector_1|No Description Set

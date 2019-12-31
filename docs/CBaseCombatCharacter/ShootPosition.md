@@ -1,7 +1,11 @@
-# `Vector CBaseCombatCharacter:ShootPosition(nHand, nMuzzle )`
-## Function Description
+# ShootPosition
+> `Vector ShootPosition(nHand, nMuzzle)`
+# Class
+> __✔ Server: CBaseCombatCharacter__  
+> __✖ Client: undefined__  
+# Function Description
 Returns the shoot position eyes (or hand in VR).
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|nHand|No Description Set

@@ -1,7 +1,11 @@
-# `int CDOTA_Ability_Lua:GetGoldCost(iLevel )`
-## Function Description
+# GetGoldCost
+> `int GetGoldCost(iLevel)`
+# Class
+> __✔ Server: CDOTA_Ability_Lua__  
+> __✔ Client: C_DOTA_Ability_Lua__  
+# Function Description
 Return gold cost at the given level (-1 is current).
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iLevel|No Description Set

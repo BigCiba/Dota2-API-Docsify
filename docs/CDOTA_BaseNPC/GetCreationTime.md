@@ -1,3 +1,7 @@
-# `float CDOTA_BaseNPC:GetCreationTime( )`
-## Function Description
+# GetCreationTime
+> `float GetCreationTime()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 

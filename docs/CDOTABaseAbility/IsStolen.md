@@ -1,3 +1,7 @@
-# `bool CDOTABaseAbility:IsStolen( )`
-## Function Description
+# IsStolen
+> `bool IsStolen()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

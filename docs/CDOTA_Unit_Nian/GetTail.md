@@ -1,3 +1,7 @@
-# `handle CDOTA_Unit_Nian:GetTail( )`
-## Function Description
+# GetTail
+> `handle GetTail()`
+# Class
+> __✔ Server: CDOTA_Unit_Nian__  
+> __✖ Client: undefined__  
+# Function Description
 Is the Nian's tail broken?

@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC_Hero:SetBotDifficulty(nDifficulty )`
-## Function Description
+# SetBotDifficulty
+> `void SetBotDifficulty(nDifficulty)`
+# Class
+> __✔ Server: CDOTA_BaseNPC_Hero__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|nDifficulty|No Description Set

@@ -1,3 +1,7 @@
-# `bool CDOTA_BaseNPC:IsShrine( )`
-## Function Description
+# IsShrine
+> `bool IsShrine()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Is this a shrine?

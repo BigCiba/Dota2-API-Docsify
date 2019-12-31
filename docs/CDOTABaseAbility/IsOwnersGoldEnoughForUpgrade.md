@@ -1,3 +1,7 @@
-# `bool CDOTABaseAbility:IsOwnersGoldEnoughForUpgrade( )`
-## Function Description
+# IsOwnersGoldEnoughForUpgrade
+> `bool IsOwnersGoldEnoughForUpgrade()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

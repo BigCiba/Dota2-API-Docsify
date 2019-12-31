@@ -1,7 +1,11 @@
-# `bool CDOTA_PlayerResource:IsHeroSelected(pHeroname )`
-## Function Description
+# IsHeroSelected
+> `bool IsHeroSelected(pHeroname)`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|pHeroname|No Description Set

@@ -1,3 +1,7 @@
-# `bool CDOTABaseAbility:GetAutoCastState( )`
-## Function Description
+# GetAutoCastState
+> `bool GetAutoCastState()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

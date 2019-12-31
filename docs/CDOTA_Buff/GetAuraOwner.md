@@ -1,3 +1,7 @@
-# `handle CDOTA_Buff:GetAuraOwner( )`
-## Function Description
+# GetAuraOwner
+> `handle GetAuraOwner()`
+# Class
+> __✔ Server: CDOTA_Buff__  
+> __✔ Client: CDOTA_Buff__  
+# Function Description
 

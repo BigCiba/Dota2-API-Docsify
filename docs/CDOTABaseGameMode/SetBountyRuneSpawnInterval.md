@@ -1,7 +1,11 @@
-# `void CDOTABaseGameMode:SetBountyRuneSpawnInterval(flInterval )`
-## Function Description
+# SetBountyRuneSpawnInterval
+> `void SetBountyRuneSpawnInterval(flInterval)`
+# Class
+> __✔ Server: CDOTABaseGameMode__  
+> __✖ Client: undefined__  
+# Function Description
 Set bounty rune spawn rate
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 float|flInterval|No Description Set

@@ -1,7 +1,11 @@
-# `bool SpawnEntityGroupFromTable(handle_1, bool_2, handle_3 )`
-## Function Description
+# SpawnEntityGroupFromTable
+> `bool SpawnEntityGroupFromTable(handle_1, bool_2, handle_3)`
+# Class
+> __✔ Server: Globals__  
+> __✔ Client: Globals__  
+# Function Description
 Hierarchically spawn an entity group from a set of spawn tables.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|handle_1|No Description Set

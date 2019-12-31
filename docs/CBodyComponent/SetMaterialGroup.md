@@ -1,7 +1,11 @@
-# `void CBodyComponent:SetMaterialGroup(utlstringtoken_1 )`
-## Function Description
+# SetMaterialGroup
+> `void SetMaterialGroup(utlstringtoken_1)`
+# Class
+> __✔ Server: CBodyComponent__  
+> __✔ Client: CBodyComponent__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 utlstringtoken|utlstringtoken_1|No Description Set

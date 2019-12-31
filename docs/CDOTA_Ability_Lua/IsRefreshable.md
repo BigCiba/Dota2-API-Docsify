@@ -1,3 +1,7 @@
-# `bool CDOTA_Ability_Lua:IsRefreshable( )`
-## Function Description
+# IsRefreshable
+> `bool IsRefreshable()`
+# Class
+> __✔ Server: CDOTA_Ability_Lua__  
+> __✖ Client: undefined__  
+# Function Description
 Returns true if this ability is refreshed by Refresher Orb.

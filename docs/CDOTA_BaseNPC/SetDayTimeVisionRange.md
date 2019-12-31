@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC:SetDayTimeVisionRange(iRange )`
-## Function Description
+# SetDayTimeVisionRange
+> `void SetDayTimeVisionRange(iRange)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Set the base vision range.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iRange|No Description Set

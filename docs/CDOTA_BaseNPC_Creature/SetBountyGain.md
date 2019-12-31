@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC_Creature:SetBountyGain(nBountyGain )`
-## Function Description
+# SetBountyGain
+> `void SetBountyGain(nBountyGain)`
+# Class
+> __✔ Server: CDOTA_BaseNPC_Creature__  
+> __✖ Client: undefined__  
+# Function Description
 Set the bounty gold gained per level on this creature.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|nBountyGain|No Description Set

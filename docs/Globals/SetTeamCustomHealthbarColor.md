@@ -1,7 +1,11 @@
-# `void SetTeamCustomHealthbarColor(int_1, int_2, int_3, int_4 )`
-## Function Description
+# SetTeamCustomHealthbarColor
+> `void SetTeamCustomHealthbarColor(int_1, int_2, int_3, int_4)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 ( teamNumber, r, g, b )
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|int_1|No Description Set

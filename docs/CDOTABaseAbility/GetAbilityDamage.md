@@ -1,3 +1,7 @@
-# `int CDOTABaseAbility:GetAbilityDamage( )`
-## Function Description
+# GetAbilityDamage
+> `int GetAbilityDamage()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

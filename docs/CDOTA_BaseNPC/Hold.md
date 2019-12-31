@@ -1,3 +1,7 @@
-# `void CDOTA_BaseNPC:Hold( )`
-## Function Description
+# Hold
+> `void Hold()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Hold position.

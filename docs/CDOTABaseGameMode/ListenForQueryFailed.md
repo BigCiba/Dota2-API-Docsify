@@ -1,7 +1,11 @@
-# `void CDOTABaseGameMode:ListenForQueryFailed(hFunction, hContext )`
-## Function Description
+# ListenForQueryFailed
+> `void ListenForQueryFailed(hFunction, hContext)`
+# Class
+> __✔ Server: CDOTABaseGameMode__  
+> __✖ Client: undefined__  
+# Function Description
 Set function and context for real time combat analyzer query failed.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|hFunction|No Description Set

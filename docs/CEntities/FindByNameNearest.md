@@ -1,7 +1,11 @@
-# `handle CEntities:FindByNameNearest(string_1, Vector_2, float_3 )`
-## Function Description
+# FindByNameNearest
+> `handle FindByNameNearest(string_1, Vector_2, float_3)`
+# Class
+> __✔ Server: CEntities__  
+> __✖ Client: undefined__  
+# Function Description
 Find entities by name nearest to a point.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

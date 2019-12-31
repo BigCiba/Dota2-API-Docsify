@@ -1,3 +1,7 @@
-# `int CDOTABaseAbility:GetAOERadius( )`
-## Function Description
+# GetAOERadius
+> `int GetAOERadius()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

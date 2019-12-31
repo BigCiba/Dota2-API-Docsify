@@ -1,7 +1,11 @@
-# `bool CCustomNetTableManager:SetTableValue(string_1, string_2, handle_3 )`
-## Function Description
+# SetTableValue
+> `bool SetTableValue(string_1, string_2, handle_3)`
+# Class
+> __✔ Server: CCustomNetTableManager__  
+> __✖ Client: undefined__  
+# Function Description
 ( string TableName, string KeyName, script_table Value )
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

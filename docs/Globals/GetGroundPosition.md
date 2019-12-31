@@ -1,7 +1,11 @@
-# `Vector GetGroundPosition(Vector_1, handle_2 )`
-## Function Description
+# GetGroundPosition
+> `Vector GetGroundPosition(Vector_1, handle_2)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 Returns the supplied position moved to the ground. Second parameter is an NPC for measuring movement collision hull offset.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|Vector_1|No Description Set

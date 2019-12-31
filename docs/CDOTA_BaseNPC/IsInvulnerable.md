@@ -1,3 +1,7 @@
-# `bool CDOTA_BaseNPC:IsInvulnerable( )`
-## Function Description
+# IsInvulnerable
+> `bool IsInvulnerable()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✔ Client: C_DOTA_BaseNPC__  
+# Function Description
 

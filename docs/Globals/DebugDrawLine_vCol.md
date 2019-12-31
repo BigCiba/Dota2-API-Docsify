@@ -1,7 +1,11 @@
-# `void DebugDrawLine_vCol(Vector_1, Vector_2, Vector_3, bool_4, float_5 )`
-## Function Description
+# DebugDrawLine_vCol
+> `void DebugDrawLine_vCol(Vector_1, Vector_2, Vector_3, bool_4, float_5)`
+# Class
+> __✔ Server: Globals__  
+> __✔ Client: Globals__  
+# Function Description
 Draw a debug line using color vec (start, end, vRgb, a, ztest, duration)
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|Vector_1|No Description Set

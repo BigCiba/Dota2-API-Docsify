@@ -1,7 +1,11 @@
-# `table CCustomNetTableManager:GetTableValue(string_1, string_2 )`
-## Function Description
+# GetTableValue
+> `table GetTableValue(string_1, string_2)`
+# Class
+> __✔ Server: CCustomNetTableManager__  
+> __✔ Client: CCustomNetTableManager__  
+# Function Description
 ( string TableName, string KeyName )
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

@@ -1,3 +1,7 @@
-# `int CDOTA_PlayerResource:NumPlayers( )`
-## Function Description
+# NumPlayers
+> `int NumPlayers()`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 

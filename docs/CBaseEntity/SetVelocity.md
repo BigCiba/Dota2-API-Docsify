@@ -1,7 +1,11 @@
-# `void CBaseEntity:SetVelocity(vecVelocity )`
-## Function Description
+# SetVelocity
+> `void SetVelocity(vecVelocity)`
+# Class
+> __✔ Server: CBaseEntity__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|vecVelocity|No Description Set

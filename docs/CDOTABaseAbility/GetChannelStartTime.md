@@ -1,3 +1,7 @@
-# `float CDOTABaseAbility:GetChannelStartTime( )`
-## Function Description
+# GetChannelStartTime
+> `float GetChannelStartTime()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

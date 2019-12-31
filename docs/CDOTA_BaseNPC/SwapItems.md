@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC:SwapItems(nSlot1, nSlot2 )`
-## Function Description
+# SwapItems
+> `void SwapItems(nSlot1, nSlot2)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Swap the contents of two item slots (slot1, slot2)
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|nSlot1|No Description Set

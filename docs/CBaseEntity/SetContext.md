@@ -1,7 +1,11 @@
-# `void CBaseEntity:SetContext(pName, pValue, duration )`
-## Function Description
+# SetContext
+> `void SetContext(pName, pValue, duration)`
+# Class
+> __✔ Server: CBaseEntity__  
+> __✖ Client: undefined__  
+# Function Description
 SetContext( name , value, duration ): store any key/value pair in this entity's dialog contexts. Value must be a string. Will last for duration (set 0 to mean 'forever').
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|pName|No Description Set

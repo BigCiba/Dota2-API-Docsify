@@ -1,7 +1,11 @@
-# `void ProjectileManager:ChangeTrackingProjectileSpeed(handle_1, int_2 )`
-## Function Description
+# ChangeTrackingProjectileSpeed
+> `void ChangeTrackingProjectileSpeed(handle_1, int_2)`
+# Class
+> __✔ Server: ProjectileManager__  
+> __✖ Client: undefined__  
+# Function Description
 Update speed
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|handle_1|No Description Set

@@ -1,7 +1,11 @@
-# `void CBaseAnimating:SetSequence(pSequenceName )`
-## Function Description
+# SetSequence
+> `void SetSequence(pSequenceName)`
+# Class
+> __✔ Server: CBaseAnimating__  
+> __✖ Client: undefined__  
+# Function Description
 Sets the active sequence by name, keeping the current cycle.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|pSequenceName|No Description Set

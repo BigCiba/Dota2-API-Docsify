@@ -1,7 +1,11 @@
-# `table CEntities:FindAllByModel(string_1 )`
-## Function Description
+# FindAllByModel
+> `table FindAllByModel(string_1)`
+# Class
+> __✔ Server: CEntities__  
+> __✖ Client: undefined__  
+# Function Description
 Find entities by model name.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

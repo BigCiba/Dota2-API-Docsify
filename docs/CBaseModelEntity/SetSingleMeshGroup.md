@@ -1,7 +1,11 @@
-# `void CBaseModelEntity:SetSingleMeshGroup(pMeshGroupName )`
-## Function Description
+# SetSingleMeshGroup
+> `void SetSingleMeshGroup(pMeshGroupName)`
+# Class
+> __✔ Server: CBaseModelEntity__  
+> __✖ Client: undefined__  
+# Function Description
 SetSingleMeshGroup( string ): Set a single mesh group for this entity.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|pMeshGroupName|No Description Set

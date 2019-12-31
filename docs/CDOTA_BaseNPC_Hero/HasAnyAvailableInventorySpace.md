@@ -1,3 +1,7 @@
-# `bool CDOTA_BaseNPC_Hero:HasAnyAvailableInventorySpace( )`
-## Function Description
+# HasAnyAvailableInventorySpace
+> `bool HasAnyAvailableInventorySpace()`
+# Class
+> __✔ Server: CDOTA_BaseNPC_Hero__  
+> __✖ Client: undefined__  
+# Function Description
 

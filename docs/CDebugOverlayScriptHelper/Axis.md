@@ -1,7 +1,11 @@
-# `void CDebugOverlayScriptHelper:Axis(Vector_1, Quaternion_2, float_3, bool_4, float_5 )`
-## Function Description
+# Axis
+> `void Axis(Vector_1, Quaternion_2, float_3, bool_4, float_5)`
+# Class
+> __✔ Server: CDebugOverlayScriptHelper__  
+> __✔ Client: CDebugOverlayScriptHelper__  
+# Function Description
 Draws an axis. Specify origin + orientation in world space.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|Vector_1|No Description Set

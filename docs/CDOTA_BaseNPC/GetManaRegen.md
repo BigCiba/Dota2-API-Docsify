@@ -1,3 +1,7 @@
-# `float CDOTA_BaseNPC:GetManaRegen( )`
-## Function Description
+# GetManaRegen
+> `float GetManaRegen()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✔ Client: C_DOTA_BaseNPC__  
+# Function Description
 

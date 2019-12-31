@@ -1,7 +1,11 @@
-# `void CDOTA_Item_Lua:OnHeroDiedNearby(unit, attacker, table )`
-## Function Description
+# OnHeroDiedNearby
+> `void OnHeroDiedNearby(unit, attacker, table)`
+# Class
+> __✔ Server: CDOTA_Item_Lua__  
+> __✖ Client: undefined__  
+# Function Description
 A hero has died in the vicinity (ie Urn), takes table of params.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|unit|No Description Set

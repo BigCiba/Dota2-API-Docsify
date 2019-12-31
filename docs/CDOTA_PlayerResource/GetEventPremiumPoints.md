@@ -1,7 +1,11 @@
-# `unsigned CDOTA_PlayerResource:GetEventPremiumPoints(nPlayerID )`
-## Function Description
+# GetEventPremiumPoints
+> `unsigned GetEventPremiumPoints(nPlayerID)`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|nPlayerID|No Description Set

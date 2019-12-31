@@ -1,7 +1,11 @@
-# `bool IsLocationVisible(int_1, Vector_2 )`
-## Function Description
+# IsLocationVisible
+> `bool IsLocationVisible(int_1, Vector_2)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 Ask fog of war if a location is visible to a certain team (nTeamNumber, vLocation).
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|int_1|No Description Set

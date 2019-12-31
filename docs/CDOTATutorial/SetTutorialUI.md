@@ -1,7 +1,11 @@
-# `void CDOTATutorial:SetTutorialUI(int_1 )`
-## Function Description
+# SetTutorialUI
+> `void SetTutorialUI(int_1)`
+# Class
+> __✔ Server: CDOTATutorial__  
+> __✖ Client: undefined__  
+# Function Description
 Set the UI to use a reduced version to focus attention to specific elements.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|int_1|No Description Set

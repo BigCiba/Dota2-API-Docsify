@@ -1,3 +1,7 @@
-# `int CDOTA_BaseNPC_Hero:GetDenies( )`
-## Function Description
+# GetDenies
+> `int GetDenies()`
+# Class
+> __✔ Server: CDOTA_BaseNPC_Hero__  
+> __✖ Client: undefined__  
+# Function Description
 Value is stored in PlayerResource.

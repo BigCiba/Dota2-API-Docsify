@@ -1,3 +1,7 @@
-# `bool CDOTA_BaseNPC:HasAnyActiveAbilities( )`
-## Function Description
+# HasAnyActiveAbilities
+> `bool HasAnyActiveAbilities()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 

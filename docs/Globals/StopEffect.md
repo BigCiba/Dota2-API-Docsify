@@ -1,7 +1,11 @@
-# `void StopEffect(handle_1, string_2 )`
-## Function Description
+# StopEffect
+> `void StopEffect(handle_1, string_2)`
+# Class
+> __✔ Server: Globals__  
+> __✔ Client: Globals__  
+# Function Description
 Pass entity and effect name
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|handle_1|No Description Set

@@ -1,7 +1,11 @@
-# `void CDOTA_PlayerResource:ClearLastHitStreak(iPlayerID )`
-## Function Description
+# ClearLastHitStreak
+> `void ClearLastHitStreak(iPlayerID)`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iPlayerID|No Description Set

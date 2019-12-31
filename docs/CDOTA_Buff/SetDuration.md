@@ -1,7 +1,11 @@
-# `void CDOTA_Buff:SetDuration(flDuration, bInformClient )`
-## Function Description
+# SetDuration
+> `void SetDuration(flDuration, bInformClient)`
+# Class
+> __✔ Server: CDOTA_Buff__  
+> __✔ Client: CDOTA_Buff__  
+# Function Description
 (flTime, bInformClients)
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 float|flDuration|No Description Set

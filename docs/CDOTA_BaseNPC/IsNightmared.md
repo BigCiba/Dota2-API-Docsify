@@ -1,3 +1,7 @@
-# `bool CDOTA_BaseNPC:IsNightmared( )`
-## Function Description
+# IsNightmared
+> `bool IsNightmared()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✔ Client: C_DOTA_BaseNPC__  
+# Function Description
 

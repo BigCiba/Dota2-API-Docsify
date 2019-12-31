@@ -1,7 +1,11 @@
-# `void DebugDrawBox(Vector_1, Vector_2, Vector_3, int_4, int_5, int_6, int_7, float_8 )`
-## Function Description
+# DebugDrawBox
+> `void DebugDrawBox(Vector_1, Vector_2, Vector_3, int_4, int_5, int_6, int_7, float_8)`
+# Class
+> __✔ Server: Globals__  
+> __✔ Client: Globals__  
+# Function Description
 Draw a debug overlay box (origin, mins, maxs, forward, r, g, b, a, duration )
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|Vector_1|No Description Set

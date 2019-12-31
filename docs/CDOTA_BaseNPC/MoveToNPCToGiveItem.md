@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC:MoveToNPCToGiveItem(hNPC, hItem )`
-## Function Description
+# MoveToNPCToGiveItem
+> `void MoveToNPCToGiveItem(hNPC, hItem)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Give an item to another unit.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|hNPC|No Description Set

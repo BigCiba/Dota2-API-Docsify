@@ -1,7 +1,11 @@
-# `void CDebugOverlayScriptHelper:EntityBounds(ehandle_1, int_2, int_3, int_4, int_5, bool_6, float_7 )`
-## Function Description
+# EntityBounds
+> `void EntityBounds(ehandle_1, int_2, int_3, int_4, int_5, bool_6, float_7)`
+# Class
+> __✔ Server: CDebugOverlayScriptHelper__  
+> __✔ Client: CDebugOverlayScriptHelper__  
+# Function Description
 Draws bounds of an entity
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 ehandle|ehandle_1|No Description Set

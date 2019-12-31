@@ -1,7 +1,11 @@
-# `void CCustomGameEventManager:Send_ServerToTeam(int_1, string_2, handle_3 )`
-## Function Description
+# Send_ServerToTeam
+> `void Send_ServerToTeam(int_1, string_2, handle_3)`
+# Class
+> __✔ Server: CCustomGameEventManager__  
+> __✖ Client: undefined__  
+# Function Description
 ( int TeamNumber, string EventName, table EventData )
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|int_1|No Description Set

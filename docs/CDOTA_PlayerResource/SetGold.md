@@ -1,7 +1,11 @@
-# `void CDOTA_PlayerResource:SetGold(iPlayerID, iGold, bReliable )`
-## Function Description
+# SetGold
+> `void SetGold(iPlayerID, iGold, bReliable)`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iPlayerID|No Description Set

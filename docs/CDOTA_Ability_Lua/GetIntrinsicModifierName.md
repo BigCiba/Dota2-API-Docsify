@@ -1,3 +1,7 @@
-# `string CDOTA_Ability_Lua:GetIntrinsicModifierName( )`
-## Function Description
+# GetIntrinsicModifierName
+> `string GetIntrinsicModifierName()`
+# Class
+> __✔ Server: CDOTA_Ability_Lua__  
+> __✖ Client: undefined__  
+# Function Description
 Returns the name of the modifier applied passively by this ability.

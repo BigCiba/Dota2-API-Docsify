@@ -1,7 +1,11 @@
-# `void CDOTABaseGameMode:SetHUDVisible(iHUDElement, bVisible )`
-## Function Description
+# SetHUDVisible
+> `void SetHUDVisible(iHUDElement, bVisible)`
+# Class
+> __✔ Server: CDOTABaseGameMode__  
+> __✖ Client: undefined__  
+# Function Description
 Set the HUD element visibility.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iHUDElement|No Description Set

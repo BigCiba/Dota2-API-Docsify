@@ -1,3 +1,7 @@
-# `void CDOTABaseAbility:IncrementModifierRefCount( )`
-## Function Description
+# IncrementModifierRefCount
+> `void IncrementModifierRefCount()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

@@ -1,7 +1,11 @@
-# `void SendOverheadEventMessage(handle_1, int_2, handle_3, int_4, handle_5 )`
-## Function Description
+# SendOverheadEventMessage
+> `void SendOverheadEventMessage(handle_1, int_2, handle_3, int_4, handle_5)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 ( DOTAPlayer sendToPlayer, int iMessageType, Entity targetEntity, int iValue, DOTAPlayer sourcePlayer ) - sendToPlayer and sourcePlayer can be nil - iMessageType is one of OVERHEAD_ALERT_*
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|handle_1|No Description Set

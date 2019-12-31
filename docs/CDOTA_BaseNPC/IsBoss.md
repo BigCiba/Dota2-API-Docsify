@@ -1,3 +1,7 @@
-# `bool CDOTA_BaseNPC:IsBoss( )`
-## Function Description
+# IsBoss
+> `bool IsBoss()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✔ Client: C_DOTA_BaseNPC__  
+# Function Description
 Is this unit a boss?

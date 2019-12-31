@@ -1,3 +1,7 @@
-# `handle CDOTA_Item:GetParent( )`
-## Function Description
+# GetParent
+> `handle GetParent()`
+# Class
+> __✔ Server: CDOTA_Item__  
+> __✖ Client: undefined__  
+# Function Description
 Get the parent for this item.

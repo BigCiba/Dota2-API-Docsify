@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC:PatrolToPosition(vDest )`
-## Function Description
+# PatrolToPosition
+> `void PatrolToPosition(vDest)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Issue a Patrol-To command.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|vDest|No Description Set

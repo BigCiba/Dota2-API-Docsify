@@ -1,7 +1,11 @@
-# `Vector GetTargetLinearLocation(int_1, int_2, int_3, Vector_4, int_5, int_6, int_7 )`
-## Function Description
+# GetTargetLinearLocation
+> `Vector GetTargetLinearLocation(int_1, int_2, int_3, Vector_4, int_5, int_6, int_7)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|int_1|No Description Set

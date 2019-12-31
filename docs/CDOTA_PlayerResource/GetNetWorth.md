@@ -1,7 +1,11 @@
-# `int CDOTA_PlayerResource:GetNetWorth(iPlayerID )`
-## Function Description
+# GetNetWorth
+> `int GetNetWorth(iPlayerID)`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iPlayerID|No Description Set

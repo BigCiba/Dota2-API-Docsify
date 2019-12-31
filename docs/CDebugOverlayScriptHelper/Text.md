@@ -1,7 +1,11 @@
-# `void CDebugOverlayScriptHelper:Text(Vector_1, int_2, string_3, float_4, int_5, int_6, int_7, int_8, float_9 )`
-## Function Description
+# Text
+> `void Text(Vector_1, int_2, string_3, float_4, int_5, int_6, int_7, int_8, float_9)`
+# Class
+> __✔ Server: CDebugOverlayScriptHelper__  
+> __✔ Client: CDebugOverlayScriptHelper__  
+# Function Description
 Draws 2D text. Specify origin in world space.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|Vector_1|No Description Set

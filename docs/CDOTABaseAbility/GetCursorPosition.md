@@ -1,3 +1,7 @@
-# `Vector CDOTABaseAbility:GetCursorPosition( )`
-## Function Description
+# GetCursorPosition
+> `Vector GetCursorPosition()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

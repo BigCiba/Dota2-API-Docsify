@@ -1,7 +1,11 @@
-# `float CDOTA_BaseNPC:GetRangeToUnit(hNPC )`
-## Function Description
+# GetRangeToUnit
+> `float GetRangeToUnit(hNPC)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|hNPC|No Description Set

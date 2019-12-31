@@ -1,7 +1,11 @@
-# `void CDotaQuest:SetTextReplaceValue(valueSlot, value )`
-## Function Description
+# SetTextReplaceValue
+> `void SetTextReplaceValue(valueSlot, value)`
+# Class
+> __✔ Server: CDotaQuest__  
+> __✖ Client: undefined__  
+# Function Description
 Set a quest value
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|valueSlot|No Description Set

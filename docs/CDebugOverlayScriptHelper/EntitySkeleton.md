@@ -1,7 +1,11 @@
-# `void CDebugOverlayScriptHelper:EntitySkeleton(ehandle_1, float_2 )`
-## Function Description
+# EntitySkeleton
+> `void EntitySkeleton(ehandle_1, float_2)`
+# Class
+> __✔ Server: CDebugOverlayScriptHelper__  
+> __✔ Client: CDebugOverlayScriptHelper__  
+# Function Description
 Draws the skeleton of the entity
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 ehandle|ehandle_1|No Description Set

@@ -1,3 +1,7 @@
-# `void CDOTA_BaseNPC_Hero:CalculateStatBonus( )`
-## Function Description
+# CalculateStatBonus
+> `void CalculateStatBonus()`
+# Class
+> __✔ Server: CDOTA_BaseNPC_Hero__  
+> __✖ Client: undefined__  
+# Function Description
 Recalculate all stats after the hero gains stats.

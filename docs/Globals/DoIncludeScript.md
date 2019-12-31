@@ -1,7 +1,11 @@
-# `bool DoIncludeScript(string_1, handle_2 )`
-## Function Description
+# DoIncludeScript
+> `bool DoIncludeScript(string_1, handle_2)`
+# Class
+> __✔ Server: Globals__  
+> __✔ Client: Globals__  
+# Function Description
 Execute a script (internal)
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

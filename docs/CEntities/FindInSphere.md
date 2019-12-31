@@ -1,7 +1,11 @@
-# `handle CEntities:FindInSphere(handle_1, Vector_2, float_3 )`
-## Function Description
+# FindInSphere
+> `handle FindInSphere(handle_1, Vector_2, float_3)`
+# Class
+> __✔ Server: CEntities__  
+> __✖ Client: undefined__  
+# Function Description
 Find entities within a radius. Pass 'null' to start an iteration, or reference to a previously found entity to continue a search
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|handle_1|No Description Set

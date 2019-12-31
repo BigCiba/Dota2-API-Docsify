@@ -1,7 +1,11 @@
-# `handle CDOTA_BaseNPC:AddNewModifier(hCaster, hAbility, pszScriptName, hModifierTable )`
-## Function Description
+# AddNewModifier
+> `handle AddNewModifier(hCaster, hAbility, pszScriptName, hModifierTable)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Add a modifier to this unit.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|hCaster|No Description Set

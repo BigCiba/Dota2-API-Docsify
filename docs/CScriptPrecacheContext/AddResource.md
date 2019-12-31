@@ -1,7 +1,11 @@
-# `void CScriptPrecacheContext:AddResource(string_1 )`
-## Function Description
+# AddResource
+> `void AddResource(string_1)`
+# Class
+> __✔ Server: CScriptPrecacheContext__  
+> __✔ Client: CScriptPrecacheContext__  
+# Function Description
 Precaches a specific resource
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

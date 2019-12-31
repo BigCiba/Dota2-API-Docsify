@@ -1,7 +1,11 @@
-# `int CDOTA_PlayerResource:GetNthPlayerIDOnTeam(iTeamNumber, iNthPlayer )`
-## Function Description
+# GetNthPlayerIDOnTeam
+> `int GetNthPlayerIDOnTeam(iTeamNumber, iNthPlayer)`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iTeamNumber|No Description Set

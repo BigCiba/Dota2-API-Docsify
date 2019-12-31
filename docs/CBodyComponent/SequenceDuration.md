@@ -1,7 +1,11 @@
-# `float CBodyComponent:SequenceDuration(string_1 )`
-## Function Description
+# SequenceDuration
+> `float SequenceDuration(string_1)`
+# Class
+> __✔ Server: CBodyComponent__  
+> __✔ Client: CBodyComponent__  
+# Function Description
 Returns the duration in seconds of the specified sequence
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

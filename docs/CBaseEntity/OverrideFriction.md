@@ -1,7 +1,11 @@
-# `void CBaseEntity:OverrideFriction(duration, friction )`
-## Function Description
+# OverrideFriction
+> `void OverrideFriction(duration, friction)`
+# Class
+> __✔ Server: CBaseEntity__  
+> __✖ Client: undefined__  
+# Function Description
 Takes duration, value for a temporary override.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 float|duration|No Description Set

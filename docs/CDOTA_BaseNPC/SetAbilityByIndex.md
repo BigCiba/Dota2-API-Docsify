@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC:SetAbilityByIndex(hAbility, iIndex )`
-## Function Description
+# SetAbilityByIndex
+> `void SetAbilityByIndex(hAbility, iIndex)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Set the ability by index.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|hAbility|No Description Set

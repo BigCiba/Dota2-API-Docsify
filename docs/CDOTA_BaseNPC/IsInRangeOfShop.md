@@ -1,7 +1,11 @@
-# `bool CDOTA_BaseNPC:IsInRangeOfShop(nShopType, bPhysical )`
-## Function Description
+# IsInRangeOfShop
+> `bool IsInRangeOfShop(nShopType, bPhysical)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Ask whether this unit is in range of the specified shop ( DOTA_SHOP_TYPE shop, bool bMustBePhysicallyNear
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|nShopType|No Description Set

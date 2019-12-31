@@ -1,3 +1,7 @@
-# `bool CDOTA_BaseNPC:IsMovementImpaired( )`
-## Function Description
+# IsMovementImpaired
+> `bool IsMovementImpaired()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 

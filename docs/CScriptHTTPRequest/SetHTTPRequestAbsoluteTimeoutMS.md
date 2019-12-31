@@ -1,7 +1,11 @@
-# `bool CScriptHTTPRequest:SetHTTPRequestAbsoluteTimeoutMS(unsigned_1 )`
-## Function Description
+# SetHTTPRequestAbsoluteTimeoutMS
+> `bool SetHTTPRequestAbsoluteTimeoutMS(unsigned_1)`
+# Class
+> __✔ Server: CScriptHTTPRequest__  
+> __✖ Client: undefined__  
+# Function Description
 Set the total timeout on the request.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 unsigned|unsigned_1|No Description Set

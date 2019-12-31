@@ -1,7 +1,11 @@
-# `void CDOTA_Modifier_Lua_Horizontal_Motion:SetPriority(nMotionPriority )`
-## Function Description
+# SetPriority
+> `void SetPriority(nMotionPriority)`
+# Class
+> __✔ Server: CDOTA_Modifier_Lua_Horizontal_Motion__  
+> __✖ Client: undefined__  
+# Function Description
 Set the priority
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|nMotionPriority|No Description Set

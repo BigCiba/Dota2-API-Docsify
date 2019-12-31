@@ -1,3 +1,7 @@
-# `bool CDOTA_BaseNPC:TriggerModifierDodge( )`
-## Function Description
+# TriggerModifierDodge
+> `bool TriggerModifierDodge()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 

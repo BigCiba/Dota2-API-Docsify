@@ -1,7 +1,11 @@
-# `void ShowCustomHeaderMessage(string_1, int_2, int_3, float_4 )`
-## Function Description
+# ShowCustomHeaderMessage
+> `void ShowCustomHeaderMessage(string_1, int_2, int_3, float_4)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 ( const char *pszMessage, int nPlayerID, int nValue, float flTime ) - Supports localized strings - %s1 = PlayerName, %s2 = Value, %s3 = TeamName
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

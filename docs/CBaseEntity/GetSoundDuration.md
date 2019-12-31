@@ -1,7 +1,11 @@
-# `float CBaseEntity:GetSoundDuration(soundname, actormodel )`
-## Function Description
+# GetSoundDuration
+> `float GetSoundDuration(soundname, actormodel)`
+# Class
+> __✔ Server: CBaseEntity__  
+> __✖ Client: undefined__  
+# Function Description
 Returns float duration of the sound. Takes soundname and optional actormodelname.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|soundname|No Description Set

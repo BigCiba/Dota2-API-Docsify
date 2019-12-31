@@ -1,7 +1,11 @@
-# `void CDOTAGamerules:SetHeroMinimapIconScale(float_1 )`
-## Function Description
+# SetHeroMinimapIconScale
+> `void SetHeroMinimapIconScale(float_1)`
+# Class
+> __✔ Server: CDOTAGamerules__  
+> __✖ Client: undefined__  
+# Function Description
 (flMinimapHeroIconScale) - Scale the hero minimap icons on the minimap.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 float|float_1|No Description Set

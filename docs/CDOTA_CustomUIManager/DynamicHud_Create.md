@@ -1,7 +1,11 @@
-# `void CDOTA_CustomUIManager:DynamicHud_Create(int_1, string_2, string_3, handle_4 )`
-## Function Description
+# DynamicHud_Create
+> `void DynamicHud_Create(int_1, string_2, string_3, handle_4)`
+# Class
+> __✔ Server: CDOTA_CustomUIManager__  
+> __✖ Client: undefined__  
+# Function Description
 Create a new custom UI HUD element for the specified player(s). ( int PlayerID /*-1 means everyone*/, string ElementID /* should be unique */, string LayoutFileName, table DialogVariables /* can be nil */ )
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|int_1|No Description Set

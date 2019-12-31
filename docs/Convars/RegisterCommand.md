@@ -1,7 +1,11 @@
-# `void Convars:RegisterCommand(string_1, handle_2, string_3, int_4 )`
-## Function Description
+# RegisterCommand
+> `void RegisterCommand(string_1, handle_2, string_3, int_4)`
+# Class
+> __✔ Server: Convars__  
+> __✔ Client: Convars__  
+# Function Description
 RegisterCommand(name, fn, helpString, flags) : register a console command.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

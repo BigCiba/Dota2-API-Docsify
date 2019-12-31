@@ -1,7 +1,11 @@
-# `void CDOTA_PlayerResource:IncrementLastHitStreak(iPlayerID )`
-## Function Description
+# IncrementLastHitStreak
+> `void IncrementLastHitStreak(iPlayerID)`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iPlayerID|No Description Set

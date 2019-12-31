@@ -1,7 +1,11 @@
-# `void GridNav:DestroyTreesAroundPoint(Vector_1, float_2, bool_3 )`
-## Function Description
+# DestroyTreesAroundPoint
+> `void DestroyTreesAroundPoint(Vector_1, float_2, bool_3)`
+# Class
+> __✔ Server: GridNav__  
+> __✖ Client: undefined__  
+# Function Description
 Destroy all trees in the area(vPosition, flRadius, bFullCollision
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|Vector_1|No Description Set

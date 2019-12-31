@@ -1,7 +1,11 @@
-# `void CDebugOverlayScriptHelper:EntityAxis(ehandle_1, float_2, bool_3, float_4 )`
-## Function Description
+# EntityAxis
+> `void EntityAxis(ehandle_1, float_2, bool_3, float_4)`
+# Class
+> __✔ Server: CDebugOverlayScriptHelper__  
+> __✔ Client: CDebugOverlayScriptHelper__  
+# Function Description
 Draws the axis of the entity origin
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 ehandle|ehandle_1|No Description Set

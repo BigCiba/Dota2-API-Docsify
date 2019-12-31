@@ -1,7 +1,11 @@
-# `void RegisterCustomAnimationScriptForModel(string_1, string_2 )`
-## Function Description
+# RegisterCustomAnimationScriptForModel
+> `void RegisterCustomAnimationScriptForModel(string_1, string_2)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 Register a custom animation script to run when a model loads
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

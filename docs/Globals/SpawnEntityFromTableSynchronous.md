@@ -1,7 +1,11 @@
-# `handle SpawnEntityFromTableSynchronous(string_1, handle_2 )`
-## Function Description
+# SpawnEntityFromTableSynchronous
+> `handle SpawnEntityFromTableSynchronous(string_1, handle_2)`
+# Class
+> __✔ Server: Globals__  
+> __✔ Client: Globals__  
+# Function Description
 Synchronously spawns a single entity from a table
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

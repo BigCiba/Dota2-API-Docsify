@@ -1,7 +1,11 @@
-# `int CScriptParticleManager:CreateParticleForTeam(string_1, int_2, handle_3, int_4 )`
-## Function Description
+# CreateParticleForTeam
+> `int CreateParticleForTeam(string_1, int_2, handle_3, int_4)`
+# Class
+> __✔ Server: CScriptParticleManager__  
+> __✔ Client: CScriptParticleManager__  
+# Function Description
 Creates a new particle effect that only plays for the specified team
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

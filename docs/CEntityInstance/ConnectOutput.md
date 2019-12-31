@@ -1,7 +1,11 @@
-# `void CEntityInstance:ConnectOutput(string_1, string_2 )`
-## Function Description
+# ConnectOutput
+> `void ConnectOutput(string_1, string_2)`
+# Class
+> __✔ Server: CEntityInstance__  
+> __✔ Client: CEntityInstance__  
+# Function Description
 Adds an I/O connection that will call the named function on this entity when the specified output fires.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

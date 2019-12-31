@@ -1,3 +1,7 @@
-# `bool CDOTA_BaseNPC:IsOther( )`
-## Function Description
+# IsOther
+> `bool IsOther()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✔ Client: C_DOTA_BaseNPC__  
+# Function Description
 Is this unit a ward-type unit?

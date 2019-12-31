@@ -1,3 +1,7 @@
-# `void CDOTABaseAbility:RefundManaCost( )`
-## Function Description
+# RefundManaCost
+> `void RefundManaCost()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

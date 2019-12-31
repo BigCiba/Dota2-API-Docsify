@@ -1,7 +1,11 @@
-# `handle CEntities:FindByTarget(handle_1, string_2 )`
-## Function Description
+# FindByTarget
+> `handle FindByTarget(handle_1, string_2)`
+# Class
+> __✔ Server: CEntities__  
+> __✖ Client: undefined__  
+# Function Description
 Find entities by targetname. Pass 'null' to start an iteration, or reference to a previously found entity to continue a search
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|handle_1|No Description Set

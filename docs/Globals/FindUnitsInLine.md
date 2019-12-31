@@ -1,7 +1,11 @@
-# `table FindUnitsInLine(int_1, Vector_2, Vector_3, handle_4, float_5, int_6, int_7, int_8 )`
-## Function Description
+# FindUnitsInLine
+> `table FindUnitsInLine(int_1, Vector_2, Vector_3, handle_4, float_5, int_6, int_7, int_8)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 Find units that intersect the given line with the given flags.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|int_1|No Description Set

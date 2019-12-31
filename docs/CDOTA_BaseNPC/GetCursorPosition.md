@@ -1,3 +1,7 @@
-# `Vector CDOTA_BaseNPC:GetCursorPosition( )`
-## Function Description
+# GetCursorPosition
+> `Vector GetCursorPosition()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 

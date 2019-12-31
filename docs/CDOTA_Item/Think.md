@@ -1,3 +1,7 @@
-# `void CDOTA_Item:Think( )`
-## Function Description
+# Think
+> `void Think()`
+# Class
+> __✔ Server: CDOTA_Item__  
+> __✖ Client: undefined__  
+# Function Description
 Think this item

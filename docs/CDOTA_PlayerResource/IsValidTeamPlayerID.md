@@ -1,7 +1,11 @@
-# `bool CDOTA_PlayerResource:IsValidTeamPlayerID(iPlayerID )`
-## Function Description
+# IsValidTeamPlayerID
+> `bool IsValidTeamPlayerID(iPlayerID)`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iPlayerID|No Description Set

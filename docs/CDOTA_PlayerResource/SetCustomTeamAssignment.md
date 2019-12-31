@@ -1,7 +1,11 @@
-# `void CDOTA_PlayerResource:SetCustomTeamAssignment(iPlayerID, iTeamAssignment )`
-## Function Description
+# SetCustomTeamAssignment
+> `void SetCustomTeamAssignment(iPlayerID, iTeamAssignment)`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 Set custom team assignment for this player.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iPlayerID|No Description Set

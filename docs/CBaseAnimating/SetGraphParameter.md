@@ -1,7 +1,11 @@
-# `void CBaseAnimating:SetGraphParameter(pszParam, svArg )`
-## Function Description
+# SetGraphParameter
+> `void SetGraphParameter(pszParam, svArg)`
+# Class
+> __✔ Server: CBaseAnimating__  
+> __✖ Client: undefined__  
+# Function Description
 Set the specific param value, type is inferred from the type in script
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|pszParam|No Description Set

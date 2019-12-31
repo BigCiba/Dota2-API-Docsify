@@ -1,7 +1,11 @@
-# `void CDOTATutorial:EnableTowerAggroViz(bool_1 )`
-## Function Description
+# EnableTowerAggroViz
+> `void EnableTowerAggroViz(bool_1)`
+# Class
+> __✔ Server: CDOTATutorial__  
+> __✖ Client: undefined__  
+# Function Description
 Alert the player when a tower becomes agro to their hero.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 bool|bool_1|No Description Set

@@ -1,7 +1,11 @@
-# `QAngle RotationDelta(QAngle_1, QAngle_2 )`
-## Function Description
+# RotationDelta
+> `QAngle RotationDelta(QAngle_1, QAngle_2)`
+# Class
+> __✔ Server: Globals__  
+> __✔ Client: Globals__  
+# Function Description
 Find the delta between two QAngles.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 QAngle|QAngle_1|No Description Set

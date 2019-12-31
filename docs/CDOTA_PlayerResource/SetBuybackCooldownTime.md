@@ -1,7 +1,11 @@
-# `void CDOTA_PlayerResource:SetBuybackCooldownTime(nPlayerID, flBuybackCooldown )`
-## Function Description
+# SetBuybackCooldownTime
+> `void SetBuybackCooldownTime(nPlayerID, flBuybackCooldown)`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|nPlayerID|No Description Set

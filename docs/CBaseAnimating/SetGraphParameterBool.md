@@ -1,7 +1,11 @@
-# `void CBaseAnimating:SetGraphParameterBool(szName, bValue )`
-## Function Description
+# SetGraphParameterBool
+> `void SetGraphParameterBool(szName, bValue)`
+# Class
+> __✔ Server: CBaseAnimating__  
+> __✖ Client: undefined__  
+# Function Description
 Set the specific param on or off
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|szName|No Description Set

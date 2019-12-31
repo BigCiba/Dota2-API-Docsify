@@ -1,7 +1,11 @@
-# `void SetRenderingEnabled(ehandle_1, bool_2 )`
-## Function Description
+# SetRenderingEnabled
+> `void SetRenderingEnabled(ehandle_1, bool_2)`
+# Class
+> __✔ Server: Globals__  
+> __✔ Client: Globals__  
+# Function Description
 Set rendering on/off for an ehandle
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 ehandle|ehandle_1|No Description Set

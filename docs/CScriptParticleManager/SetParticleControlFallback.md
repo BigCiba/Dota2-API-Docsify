@@ -1,7 +1,11 @@
-# `void CScriptParticleManager:SetParticleControlFallback(int_1, int_2, Vector_3 )`
-## Function Description
+# SetParticleControlFallback
+> `void SetParticleControlFallback(int_1, int_2, Vector_3)`
+# Class
+> __✔ Server: CScriptParticleManager__  
+> __✔ Client: CScriptParticleManager__  
+# Function Description
 (int iIndex, int iPoint, Vector vecPosition)
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|int_1|No Description Set

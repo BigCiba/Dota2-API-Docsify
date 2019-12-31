@@ -1,7 +1,11 @@
-# `void CBaseEntity:SetContextThink(pszContextName, hThinkFunc, flInterval )`
-## Function Description
+# SetContextThink
+> `void SetContextThink(pszContextName, hThinkFunc, flInterval)`
+# Class
+> __✔ Server: CBaseEntity__  
+> __✔ Client: C_BaseEntity__  
+# Function Description
 Set a think function on this entity.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|pszContextName|No Description Set

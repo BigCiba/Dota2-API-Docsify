@@ -1,7 +1,11 @@
-# `void CDOTA_PlayerResource:AddRunePickup(iPlayerID )`
-## Function Description
+# AddRunePickup
+> `void AddRunePickup(iPlayerID)`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iPlayerID|No Description Set

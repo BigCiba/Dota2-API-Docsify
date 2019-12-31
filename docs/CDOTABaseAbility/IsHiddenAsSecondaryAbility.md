@@ -1,3 +1,7 @@
-# `bool CDOTABaseAbility:IsHiddenAsSecondaryAbility( )`
-## Function Description
+# IsHiddenAsSecondaryAbility
+> `bool IsHiddenAsSecondaryAbility()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

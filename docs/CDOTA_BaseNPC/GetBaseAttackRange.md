@@ -1,3 +1,7 @@
-# `int CDOTA_BaseNPC:GetBaseAttackRange( )`
-## Function Description
+# GetBaseAttackRange
+> `int GetBaseAttackRange()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 

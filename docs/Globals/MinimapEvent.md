@@ -1,7 +1,11 @@
-# `void MinimapEvent(int_1, handle_2, int_3, int_4, int_5, int_6 )`
-## Function Description
+# MinimapEvent
+> `void MinimapEvent(int_1, handle_2, int_3, int_4, int_5, int_6)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 Start a minimap event. (nTeamID, hEntity, nXCoord, nYCoord, nEventType, nEventDuration).
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|int_1|No Description Set

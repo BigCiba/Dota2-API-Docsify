@@ -1,7 +1,11 @@
-# `void CNativeOutputs:AddOutput(string_1, string_2 )`
-## Function Description
+# AddOutput
+> `void AddOutput(string_1, string_2)`
+# Class
+> __✔ Server: CNativeOutputs__  
+> __✔ Client: CNativeOutputs__  
+# Function Description
 Add an output
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

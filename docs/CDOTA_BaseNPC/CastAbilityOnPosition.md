@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC:CastAbilityOnPosition(vPosition, hAbility, iPlayerIndex )`
-## Function Description
+# CastAbilityOnPosition
+> `void CastAbilityOnPosition(vPosition, hAbility, iPlayerIndex)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Cast an ability on a position.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|vPosition|No Description Set

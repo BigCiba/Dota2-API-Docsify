@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC:SetCursorPosition(vLocation )`
-## Function Description
+# SetCursorPosition
+> `void SetCursorPosition(vLocation)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|vLocation|No Description Set

@@ -1,7 +1,11 @@
-# `void CDebugOverlayScriptHelper:FilledRect2D(Vector2D_1, Vector2D_2, int_3, int_4, int_5, int_6, float_7 )`
-## Function Description
+# FilledRect2D
+> `void FilledRect2D(Vector2D_1, Vector2D_2, int_3, int_4, int_5, int_6, float_7)`
+# Class
+> __✔ Server: CDebugOverlayScriptHelper__  
+> __✔ Client: CDebugOverlayScriptHelper__  
+# Function Description
 Draws a screen-space filled 2D rectangle. Coordinates are in pixels.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector2D|Vector2D_1|No Description Set

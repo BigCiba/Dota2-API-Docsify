@@ -1,7 +1,11 @@
-# `void ExecuteOrderFromTable(handle_1 )`
-## Function Description
+# ExecuteOrderFromTable
+> `void ExecuteOrderFromTable(handle_1)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 Issue an order from a script table
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|handle_1|No Description Set

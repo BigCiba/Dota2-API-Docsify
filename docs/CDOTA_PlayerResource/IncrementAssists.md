@@ -1,7 +1,11 @@
-# `void CDOTA_PlayerResource:IncrementAssists(iPlayerID, iVictimID )`
-## Function Description
+# IncrementAssists
+> `void IncrementAssists(iPlayerID, iVictimID)`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iPlayerID|No Description Set

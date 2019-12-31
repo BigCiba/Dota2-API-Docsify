@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC:StartGestureWithPlaybackRate(nActivity, flRate )`
-## Function Description
+# StartGestureWithPlaybackRate
+> `void StartGestureWithPlaybackRate(nActivity, flRate)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Add the given gesture activity with a playback rate override.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|nActivity|No Description Set

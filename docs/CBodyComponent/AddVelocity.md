@@ -1,7 +1,11 @@
-# `void CBodyComponent:AddVelocity(Vector_1, Vector_2 )`
-## Function Description
+# AddVelocity
+> `void AddVelocity(Vector_1, Vector_2)`
+# Class
+> __✔ Server: CBodyComponent__  
+> __✔ Client: CBodyComponent__  
+# Function Description
 Add linear and angular velocity to the physics object
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|Vector_1|No Description Set

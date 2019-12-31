@@ -1,7 +1,11 @@
-# `handle CEntities:FindByNameWithin(handle_1, string_2, Vector_3, float_4 )`
-## Function Description
+# FindByNameWithin
+> `handle FindByNameWithin(handle_1, string_2, Vector_3, float_4)`
+# Class
+> __✔ Server: CEntities__  
+> __✖ Client: undefined__  
+# Function Description
 Find entities by name within a radius. Pass 'null' to start an iteration, or reference to a previously found entity to continue a search
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|handle_1|No Description Set

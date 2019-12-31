@@ -1,7 +1,11 @@
-# `void CDOTA_Item:SetCastOnPickup(bCastOnPickUp )`
-## Function Description
+# SetCastOnPickup
+> `void SetCastOnPickup(bCastOnPickUp)`
+# Class
+> __✔ Server: CDOTA_Item__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 bool|bCastOnPickUp|No Description Set

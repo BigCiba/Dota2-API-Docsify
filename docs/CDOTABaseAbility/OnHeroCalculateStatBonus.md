@@ -1,3 +1,7 @@
-# `void CDOTABaseAbility:OnHeroCalculateStatBonus( )`
-## Function Description
+# OnHeroCalculateStatBonus
+> `void OnHeroCalculateStatBonus()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

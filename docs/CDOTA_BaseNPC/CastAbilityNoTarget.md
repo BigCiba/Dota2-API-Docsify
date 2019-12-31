@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC:CastAbilityNoTarget(hAbility, iPlayerIndex )`
-## Function Description
+# CastAbilityNoTarget
+> `void CastAbilityNoTarget(hAbility, iPlayerIndex)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Cast an ability with no target.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|hAbility|No Description Set

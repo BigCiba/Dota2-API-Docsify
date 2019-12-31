@@ -1,7 +1,11 @@
-# `handle CreateItemOnPositionForLaunch(Vector_1, handle_2 )`
-## Function Description
+# CreateItemOnPositionForLaunch
+> `handle CreateItemOnPositionForLaunch(Vector_1, handle_2)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 Create a physical item at a given location, can start in air (but doesn't clear a space)
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|Vector_1|No Description Set

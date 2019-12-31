@@ -1,7 +1,11 @@
-# `handle CDOTA_BaseNPC:AddItem(hItem )`
-## Function Description
+# AddItem
+> `handle AddItem(hItem)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Add an item to this unit's inventory.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|hItem|No Description Set

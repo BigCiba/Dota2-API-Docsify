@@ -1,7 +1,11 @@
-# `handle CDOTAGamerules:AddBotPlayerWithEntityScript(string_1, string_2, int_3, string_4 )`
-## Function Description
+# AddBotPlayerWithEntityScript
+> `handle AddBotPlayerWithEntityScript(string_1, string_2, int_3, string_4)`
+# Class
+> __✔ Server: CDOTAGamerules__  
+> __✖ Client: undefined__  
+# Function Description
 Spawn a bot player of the passed hero name, player name, and team.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

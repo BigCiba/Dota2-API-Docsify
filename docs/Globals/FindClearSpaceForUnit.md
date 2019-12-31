@@ -1,7 +1,11 @@
-# `bool FindClearSpaceForUnit(handle_1, Vector_2, bool_3 )`
-## Function Description
+# FindClearSpaceForUnit
+> `bool FindClearSpaceForUnit(handle_1, Vector_2, bool_3)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 Place a unit somewhere not already occupied.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|handle_1|No Description Set

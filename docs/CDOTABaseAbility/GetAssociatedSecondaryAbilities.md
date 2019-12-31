@@ -1,3 +1,7 @@
-# `string CDOTABaseAbility:GetAssociatedSecondaryAbilities( )`
-## Function Description
+# GetAssociatedSecondaryAbilities
+> `string GetAssociatedSecondaryAbilities()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

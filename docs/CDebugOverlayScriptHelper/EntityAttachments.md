@@ -1,7 +1,11 @@
-# `void CDebugOverlayScriptHelper:EntityAttachments(ehandle_1, float_2, float_3 )`
-## Function Description
+# EntityAttachments
+> `void EntityAttachments(ehandle_1, float_2, float_3)`
+# Class
+> __✔ Server: CDebugOverlayScriptHelper__  
+> __✔ Client: CDebugOverlayScriptHelper__  
+# Function Description
 Draws the attachments of the entity
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 ehandle|ehandle_1|No Description Set

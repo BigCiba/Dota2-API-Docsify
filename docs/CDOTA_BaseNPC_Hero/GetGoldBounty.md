@@ -1,3 +1,7 @@
-# `int CDOTA_BaseNPC_Hero:GetGoldBounty( )`
-## Function Description
+# GetGoldBounty
+> `int GetGoldBounty()`
+# Class
+> __✔ Server: CDOTA_BaseNPC_Hero__  
+> __✖ Client: undefined__  
+# Function Description
 

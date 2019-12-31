@@ -1,7 +1,11 @@
-# `void CScriptParticleManager:SetParticleControlOrientationFLU(int_1, int_2, Vector_3, Vector_4, Vector_5 )`
-## Function Description
+# SetParticleControlOrientationFLU
+> `void SetParticleControlOrientationFLU(int_1, int_2, Vector_3, Vector_4, Vector_5)`
+# Class
+> __✔ Server: CScriptParticleManager__  
+> __✔ Client: CScriptParticleManager__  
+# Function Description
 (int nFXIndex, int nPoint, Vector vecForward, Vector vecLeft, Vector vecUp) - Set the orientation for a control on a particle effect
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|int_1|No Description Set

@@ -1,7 +1,11 @@
-# `table GlobalSys:CommandLineInt(string_1, int_2 )`
-## Function Description
+# CommandLineInt
+> `table CommandLineInt(string_1, int_2)`
+# Class
+> __✔ Server: GlobalSys__  
+> __✔ Client: GlobalSys__  
+# Function Description
 CommandLineInt(name) : returns the command line param as an int.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

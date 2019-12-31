@@ -1,7 +1,11 @@
-# `int DoCleaveAttack(handle_1, handle_2, handle_3, float_4, float_5, float_6, float_7, string_8 )`
-## Function Description
+# DoCleaveAttack
+> `int DoCleaveAttack(handle_1, handle_2, handle_3, float_4, float_5, float_6, float_7, string_8)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 (hAttacker, hTarget, hAbility, fDamage, fRadius, effectName)
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|handle_1|No Description Set

@@ -1,7 +1,11 @@
-# `void CDOTA_Item:SetShareability(iShareability )`
-## Function Description
+# SetShareability
+> `void SetShareability(iShareability)`
+# Class
+> __✔ Server: CDOTA_Item__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iShareability|No Description Set

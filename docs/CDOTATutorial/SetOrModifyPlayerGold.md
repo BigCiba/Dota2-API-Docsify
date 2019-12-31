@@ -1,7 +1,11 @@
-# `void CDOTATutorial:SetOrModifyPlayerGold(int_1, bool_2 )`
-## Function Description
+# SetOrModifyPlayerGold
+> `void SetOrModifyPlayerGold(int_1, bool_2)`
+# Class
+> __✔ Server: CDOTATutorial__  
+> __✖ Client: undefined__  
+# Function Description
 Set gold amount for the tutorial player. (int) GoldAmount, (bool) true=Set, false=Modify
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|int_1|No Description Set

@@ -1,3 +1,7 @@
-# `int CDOTA_Buff:GetSerialNumber( )`
-## Function Description
+# GetSerialNumber
+> `int GetSerialNumber()`
+# Class
+> __✔ Server: CDOTA_Buff__  
+> __✔ Client: CDOTA_Buff__  
+# Function Description
 

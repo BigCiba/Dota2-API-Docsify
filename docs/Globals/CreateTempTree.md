@@ -1,7 +1,11 @@
-# `handle CreateTempTree(Vector_1, float_2 )`
-## Function Description
+# CreateTempTree
+> `handle CreateTempTree(Vector_1, float_2)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 Create a temporary tree, uses a default tree model. (vLocation, flDuration).
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|Vector_1|No Description Set

@@ -1,3 +1,7 @@
-# `bool CDOTA_BaseNPC:IsMuted( )`
-## Function Description
+# IsMuted
+> `bool IsMuted()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✔ Client: C_DOTA_BaseNPC__  
+# Function Description
 

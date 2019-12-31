@@ -1,7 +1,11 @@
-# `bool CDOTA_BaseNPC:IsAttackingEntity(hEntity )`
-## Function Description
+# IsAttackingEntity
+> `bool IsAttackingEntity(hEntity)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|hEntity|No Description Set

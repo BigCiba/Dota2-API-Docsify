@@ -1,7 +1,11 @@
-# `bool CDOTA_PlayerResource:IsDisableHelpSetForPlayerID(nPlayerID, nOtherPlayerID )`
-## Function Description
+# IsDisableHelpSetForPlayerID
+> `bool IsDisableHelpSetForPlayerID(nPlayerID, nOtherPlayerID)`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|nPlayerID|No Description Set

@@ -1,7 +1,11 @@
-# `handle CreateTrigger(Vector_1, Vector_2, Vector_3 )`
-## Function Description
+# CreateTrigger
+> `handle CreateTrigger(Vector_1, Vector_2, Vector_3)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 CreateTrigger( vecMin, vecMax ) : Creates and returns an AABB trigger
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|Vector_1|No Description Set

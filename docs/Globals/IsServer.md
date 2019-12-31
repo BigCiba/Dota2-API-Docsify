@@ -1,3 +1,7 @@
-# `bool IsServer( )`
-## Function Description
+# IsServer
+> `bool IsServer()`
+# Class
+> __✔ Server: Globals__  
+> __✔ Client: Globals__  
+# Function Description
 Returns true if this is lua running from the server.dll.

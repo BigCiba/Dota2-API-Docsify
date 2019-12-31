@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC_Creature:CreatureLevelUp(iLevels )`
-## Function Description
+# CreatureLevelUp
+> `void CreatureLevelUp(iLevels)`
+# Class
+> __✔ Server: CDOTA_BaseNPC_Creature__  
+> __✖ Client: undefined__  
+# Function Description
 Level the creature up by the specified number of levels
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iLevels|No Description Set

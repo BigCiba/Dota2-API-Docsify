@@ -1,7 +1,11 @@
-# `Vector CInfoData:QueryVector(tok, vDefault )`
-## Function Description
+# QueryVector
+> `Vector QueryVector(tok, vDefault)`
+# Class
+> __✔ Server: CInfoData__  
+> __✖ Client: undefined__  
+# Function Description
 Query vector data for this key
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 utlstringtoken|tok|No Description Set

@@ -1,7 +1,11 @@
-# `void CBaseEntity:SetTeam(iTeamNum )`
-## Function Description
+# SetTeam
+> `void SetTeam(iTeamNum)`
+# Class
+> __✔ Server: CBaseEntity__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iTeamNum|No Description Set

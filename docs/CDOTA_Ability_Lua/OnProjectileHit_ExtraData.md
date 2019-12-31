@@ -1,7 +1,11 @@
-# `bool CDOTA_Ability_Lua:OnProjectileHit_ExtraData(hTarget, vLocation, table )`
-## Function Description
+# OnProjectileHit_ExtraData
+> `bool OnProjectileHit_ExtraData(hTarget, vLocation, table)`
+# Class
+> __✔ Server: CDOTA_Ability_Lua__  
+> __✖ Client: undefined__  
+# Function Description
 (HSCRIPT hTarget, Vector vLocation, table kv) Projectile has collided with a given target or reached its destination (target is invalid).
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|hTarget|No Description Set

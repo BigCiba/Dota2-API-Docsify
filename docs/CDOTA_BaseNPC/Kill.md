@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC:Kill(hAbility, hAttacker )`
-## Function Description
+# Kill
+> `void Kill(hAbility, hAttacker)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Kills this NPC, with the params Ability and Attacker.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|hAbility|No Description Set

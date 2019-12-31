@@ -1,7 +1,11 @@
-# `int CInfoData:QueryInt(tok, nDefault )`
-## Function Description
+# QueryInt
+> `int QueryInt(tok, nDefault)`
+# Class
+> __✔ Server: CInfoData__  
+> __✖ Client: undefined__  
+# Function Description
 Query int data for this key
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 utlstringtoken|tok|No Description Set

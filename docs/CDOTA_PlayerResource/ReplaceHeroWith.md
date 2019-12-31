@@ -1,7 +1,11 @@
-# `handle CDOTA_PlayerResource:ReplaceHeroWith(iPlayerID, pszHeroClass, nGold, nXP )`
-## Function Description
+# ReplaceHeroWith
+> `handle ReplaceHeroWith(iPlayerID, pszHeroClass, nGold, nXP)`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 (playerID, heroClassName, gold, XP) - replaces the player's hero with a new one of the specified class, gold and XP
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iPlayerID|No Description Set

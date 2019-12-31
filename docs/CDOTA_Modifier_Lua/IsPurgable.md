@@ -1,3 +1,7 @@
-# `bool CDOTA_Modifier_Lua:IsPurgable( )`
-## Function Description
+# IsPurgable
+> `bool IsPurgable()`
+# Class
+> __✔ Server: CDOTA_Modifier_Lua__  
+> __✔ Client: C_DOTA_Modifier_Lua__  
+# Function Description
 True/false if this modifier can be purged.

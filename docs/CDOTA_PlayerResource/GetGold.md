@@ -1,7 +1,11 @@
-# `int CDOTA_PlayerResource:GetGold(iPlayerID )`
-## Function Description
+# GetGold
+> `int GetGold(iPlayerID)`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iPlayerID|No Description Set

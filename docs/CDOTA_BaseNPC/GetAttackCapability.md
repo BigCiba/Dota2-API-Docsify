@@ -1,3 +1,7 @@
-# `int CDOTA_BaseNPC:GetAttackCapability( )`
-## Function Description
+# GetAttackCapability
+> `int GetAttackCapability()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 

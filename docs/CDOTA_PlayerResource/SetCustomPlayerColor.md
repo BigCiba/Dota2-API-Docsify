@@ -1,7 +1,11 @@
-# `void CDOTA_PlayerResource:SetCustomPlayerColor(iPlayerID, r, g, b )`
-## Function Description
+# SetCustomPlayerColor
+> `void SetCustomPlayerColor(iPlayerID, r, g, b)`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 Set custom color for player (minimap, scoreboard, etc)
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iPlayerID|No Description Set

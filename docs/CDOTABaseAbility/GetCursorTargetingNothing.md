@@ -1,3 +1,7 @@
-# `bool CDOTABaseAbility:GetCursorTargetingNothing( )`
-## Function Description
+# GetCursorTargetingNothing
+> `bool GetCursorTargetingNothing()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

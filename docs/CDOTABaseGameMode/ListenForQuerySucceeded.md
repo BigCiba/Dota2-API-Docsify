@@ -1,7 +1,11 @@
-# `void CDOTABaseGameMode:ListenForQuerySucceeded(hFunction, hContext )`
-## Function Description
+# ListenForQuerySucceeded
+> `void ListenForQuerySucceeded(hFunction, hContext)`
+# Class
+> __✔ Server: CDOTABaseGameMode__  
+> __✖ Client: undefined__  
+# Function Description
 Set function and context for real time combat analyzer query succeeded.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|hFunction|No Description Set

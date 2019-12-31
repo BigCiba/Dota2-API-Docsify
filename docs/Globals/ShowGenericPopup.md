@@ -1,7 +1,11 @@
-# `void ShowGenericPopup(string_1, string_2, string_3, string_4, int_5 )`
-## Function Description
+# ShowGenericPopup
+> `void ShowGenericPopup(string_1, string_2, string_3, string_4, int_5)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 Show a generic popup dialog for all players.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

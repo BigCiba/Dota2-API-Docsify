@@ -1,3 +1,7 @@
-# `void CDOTA_BaseNPC:DestroyAllSpeechBubbles( )`
-## Function Description
+# DestroyAllSpeechBubbles
+> `void DestroyAllSpeechBubbles()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 

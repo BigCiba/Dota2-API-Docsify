@@ -1,7 +1,11 @@
-# `int CDOTA_Item_Lua:CastFilterResultTarget(hTarget )`
-## Function Description
+# CastFilterResultTarget
+> `int CastFilterResultTarget(hTarget)`
+# Class
+> __✔ Server: CDOTA_Item_Lua__  
+> __✔ Client: C_DOTA_Item_Lua__  
+# Function Description
 (HSCRIPT hTarget) Determine whether an issued command on a target is valid.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|hTarget|No Description Set

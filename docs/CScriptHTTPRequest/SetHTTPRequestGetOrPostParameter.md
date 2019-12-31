@@ -1,7 +1,11 @@
-# `bool CScriptHTTPRequest:SetHTTPRequestGetOrPostParameter(string_1, string_2 )`
-## Function Description
+# SetHTTPRequestGetOrPostParameter
+> `bool SetHTTPRequestGetOrPostParameter(string_1, string_2)`
+# Class
+> __✔ Server: CScriptHTTPRequest__  
+> __✖ Client: undefined__  
+# Function Description
 Set a POST or GET parameter on the request.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

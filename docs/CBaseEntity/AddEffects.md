@@ -1,7 +1,11 @@
-# `void CBaseEntity:AddEffects(nFlags )`
-## Function Description
+# AddEffects
+> `void AddEffects(nFlags)`
+# Class
+> __✔ Server: CBaseEntity__  
+> __✖ Client: undefined__  
+# Function Description
 AddEffects( int ): Adds the render effect flag.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|nFlags|No Description Set

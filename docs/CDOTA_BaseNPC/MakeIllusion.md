@@ -1,3 +1,7 @@
-# `void CDOTA_BaseNPC:MakeIllusion( )`
-## Function Description
+# MakeIllusion
+> `void MakeIllusion()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 

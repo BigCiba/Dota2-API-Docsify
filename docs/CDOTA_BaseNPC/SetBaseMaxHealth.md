@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC:SetBaseMaxHealth(flBaseMaxHealth )`
-## Function Description
+# SetBaseMaxHealth
+> `void SetBaseMaxHealth(flBaseMaxHealth)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Set a new base max health value.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 float|flBaseMaxHealth|No Description Set

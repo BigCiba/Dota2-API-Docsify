@@ -1,7 +1,11 @@
-# `void PrecacheItemByNameSync(string_1, handle_2 )`
-## Function Description
+# PrecacheItemByNameSync
+> `void PrecacheItemByNameSync(string_1, handle_2)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 Precaches a DOTA item by its dota_npc_items.txt name
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

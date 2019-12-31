@@ -1,3 +1,7 @@
-# `float CDOTABaseAbility:GetCastPoint( )`
-## Function Description
+# GetCastPoint
+> `float GetCastPoint()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

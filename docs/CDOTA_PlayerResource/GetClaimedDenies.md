@@ -1,7 +1,11 @@
-# `int CDOTA_PlayerResource:GetClaimedDenies(iPlayerID )`
-## Function Description
+# GetClaimedDenies
+> `int GetClaimedDenies(iPlayerID)`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iPlayerID|No Description Set

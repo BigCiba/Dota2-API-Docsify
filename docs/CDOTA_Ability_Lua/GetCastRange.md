@@ -1,7 +1,11 @@
-# `int CDOTA_Ability_Lua:GetCastRange(vLocation, hTarget )`
-## Function Description
+# GetCastRange
+> `int GetCastRange(vLocation, hTarget)`
+# Class
+> __✔ Server: CDOTA_Ability_Lua__  
+> __✔ Client: C_DOTA_Ability_Lua__  
+# Function Description
 Return cast range of this ability.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|vLocation|No Description Set

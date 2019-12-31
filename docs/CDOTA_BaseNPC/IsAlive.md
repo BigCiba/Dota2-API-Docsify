@@ -1,3 +1,7 @@
-# `bool CDOTA_BaseNPC:IsAlive( )`
-## Function Description
+# IsAlive
+> `bool IsAlive()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Is this unit alive?

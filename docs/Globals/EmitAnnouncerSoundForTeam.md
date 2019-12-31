@@ -1,7 +1,11 @@
-# `void EmitAnnouncerSoundForTeam(string_1, int_2 )`
-## Function Description
+# EmitAnnouncerSoundForTeam
+> `void EmitAnnouncerSoundForTeam(string_1, int_2)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 Emit an announcer sound for a team.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

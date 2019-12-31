@@ -1,3 +1,7 @@
-# `void CDOTA_BaseNPC_Hero:IncrementLastHitMultikill( )`
-## Function Description
+# IncrementLastHitMultikill
+> `void IncrementLastHitMultikill()`
+# Class
+> __✔ Server: CDOTA_BaseNPC_Hero__  
+> __✖ Client: undefined__  
+# Function Description
 Value is stored in PlayerResource.

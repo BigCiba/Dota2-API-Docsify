@@ -1,7 +1,11 @@
-# `void CDOTABaseAbility:CreateVisibilityNode(vLocation, fRadius, fDuration )`
-## Function Description
+# CreateVisibilityNode
+> `void CreateVisibilityNode(vLocation, fRadius, fDuration)`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|vLocation|No Description Set

@@ -1,3 +1,7 @@
-# `int CDOTABaseAbility:NumModifiersUsingAbility( )`
-## Function Description
+# NumModifiersUsingAbility
+> `int NumModifiersUsingAbility()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

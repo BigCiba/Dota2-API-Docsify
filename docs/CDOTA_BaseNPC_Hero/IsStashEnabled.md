@@ -1,3 +1,7 @@
-# `bool CDOTA_BaseNPC_Hero:IsStashEnabled( )`
-## Function Description
+# IsStashEnabled
+> `bool IsStashEnabled()`
+# Class
+> __✔ Server: CDOTA_BaseNPC_Hero__  
+> __✖ Client: undefined__  
+# Function Description
 

@@ -1,7 +1,11 @@
-# `void UTIL_MessageText_WithContext(int_1, string_2, int_3, int_4, int_5, int_6, handle_7 )`
-## Function Description
+# UTIL_MessageText_WithContext
+> `void UTIL_MessageText_WithContext(int_1, string_2, int_3, int_4, int_5, int_6, handle_7)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 Sends colored text to one client. (Valid context keys: player_id, value, team_id)
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|int_1|No Description Set

@@ -1,7 +1,11 @@
-# `float DotProduct(Vector_1, Vector_2 )`
-## Function Description
+# DotProduct
+> `float DotProduct(Vector_1, Vector_2)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|Vector_1|No Description Set

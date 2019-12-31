@@ -1,3 +1,7 @@
-# `int CDOTA_PlayerResource:NumTeamPlayers( )`
-## Function Description
+# NumTeamPlayers
+> `int NumTeamPlayers()`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 

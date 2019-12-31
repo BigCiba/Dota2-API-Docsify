@@ -1,3 +1,7 @@
-# `bool CDOTA_BaseNPC:IsPhantomBlocker( )`
-## Function Description
+# IsPhantomBlocker
+> `bool IsPhantomBlocker()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 

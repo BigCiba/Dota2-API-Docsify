@@ -1,3 +1,7 @@
-# `float CDOTA_Buff:GetCreationTime( )`
-## Function Description
+# GetCreationTime
+> `float GetCreationTime()`
+# Class
+> __✔ Server: CDOTA_Buff__  
+> __✔ Client: CDOTA_Buff__  
+# Function Description
 

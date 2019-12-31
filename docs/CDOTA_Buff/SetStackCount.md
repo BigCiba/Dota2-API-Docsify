@@ -1,7 +1,11 @@
-# `void CDOTA_Buff:SetStackCount(iCount )`
-## Function Description
+# SetStackCount
+> `void SetStackCount(iCount)`
+# Class
+> __✔ Server: CDOTA_Buff__  
+> __✔ Client: CDOTA_Buff__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iCount|No Description Set

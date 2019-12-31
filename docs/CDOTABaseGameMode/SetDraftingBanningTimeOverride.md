@@ -1,7 +1,11 @@
-# `void CDOTABaseGameMode:SetDraftingBanningTimeOverride(flValue )`
-## Function Description
+# SetDraftingBanningTimeOverride
+> `void SetDraftingBanningTimeOverride(flValue)`
+# Class
+> __✔ Server: CDOTABaseGameMode__  
+> __✖ Client: undefined__  
+# Function Description
 Set drafting hero banning time
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 float|flValue|No Description Set

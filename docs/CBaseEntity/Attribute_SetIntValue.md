@@ -1,7 +1,11 @@
-# `void CBaseEntity:Attribute_SetIntValue(pName, nValue )`
-## Function Description
+# Attribute_SetIntValue
+> `void Attribute_SetIntValue(pName, nValue)`
+# Class
+> __✔ Server: CBaseEntity__  
+> __✖ Client: undefined__  
+# Function Description
 Set int value for an entity attribute.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|pName|No Description Set

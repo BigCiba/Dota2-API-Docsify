@@ -1,7 +1,11 @@
-# `void PrecacheUnitByNameAsync(string_1, handle_2, int_3 )`
-## Function Description
+# PrecacheUnitByNameAsync
+> `void PrecacheUnitByNameAsync(string_1, handle_2, int_3)`
+# Class
+> __✔ Server: Globals__  
+> __✖ Client: undefined__  
+# Function Description
 Asynchronously precaches a DOTA unit by its dota_npc_units.txt name, provides a callback when it's finished.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

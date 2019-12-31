@@ -1,7 +1,11 @@
-# `void DebugDrawText(Vector_1, string_2, bool_3, float_4 )`
-## Function Description
+# DebugDrawText
+> `void DebugDrawText(Vector_1, string_2, bool_3, float_4)`
+# Class
+> __✔ Server: Globals__  
+> __✔ Client: Globals__  
+# Function Description
 Draw text in 3d (origin, text, bViewCheck, duration)
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|Vector_1|No Description Set

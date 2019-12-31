@@ -1,3 +1,7 @@
-# `bool CDOTA_BaseNPC:ProvidesVision( )`
-## Function Description
+# ProvidesVision
+> `bool ProvidesVision()`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✔ Client: C_DOTA_BaseNPC__  
+# Function Description
 

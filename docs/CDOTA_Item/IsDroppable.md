@@ -1,3 +1,7 @@
-# `bool CDOTA_Item:IsDroppable( )`
-## Function Description
+# IsDroppable
+> `bool IsDroppable()`
+# Class
+> __✔ Server: CDOTA_Item__  
+> __✔ Client: C_DOTA_Item__  
+# Function Description
 

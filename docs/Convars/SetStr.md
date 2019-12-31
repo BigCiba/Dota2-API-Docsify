@@ -1,7 +1,11 @@
-# `void Convars:SetStr(string_1, string_2 )`
-## Function Description
+# SetStr
+> `void SetStr(string_1, string_2)`
+# Class
+> __✔ Server: Convars__  
+> __✔ Client: Convars__  
+# Function Description
 SetStr(name, val) : sets the value of the convar to the string.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 string|string_1|No Description Set

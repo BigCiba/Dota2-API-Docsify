@@ -1,7 +1,11 @@
-# `void CDOTA_BaseNPC:CastAbilityImmediately(hAbility, iPlayerIndex )`
-## Function Description
+# CastAbilityImmediately
+> `void CastAbilityImmediately(hAbility, iPlayerIndex)`
+# Class
+> __✔ Server: CDOTA_BaseNPC__  
+> __✖ Client: undefined__  
+# Function Description
 Cast an ability immediately.
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|hAbility|No Description Set

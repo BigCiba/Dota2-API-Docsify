@@ -1,7 +1,11 @@
-# `void CEnvProjectedTexture:SetNearRange(flRange )`
-## Function Description
+# SetNearRange
+> `void SetNearRange(flRange)`
+# Class
+> __✔ Server: CEnvProjectedTexture__  
+> __✖ Client: undefined__  
+# Function Description
 Set light minimum range
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 float|flRange|No Description Set

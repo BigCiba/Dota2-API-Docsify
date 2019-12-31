@@ -1,7 +1,11 @@
-# `void CDOTA_PlayerResource:SetLastBuybackTime(iPlayerID, iLastBuybackTime )`
-## Function Description
+# SetLastBuybackTime
+> `void SetLastBuybackTime(iPlayerID, iLastBuybackTime)`
+# Class
+> __✔ Server: CDOTA_PlayerResource__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 int|iPlayerID|No Description Set

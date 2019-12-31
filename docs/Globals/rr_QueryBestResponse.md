@@ -1,7 +1,11 @@
-# `bool rr_QueryBestResponse(handle_1, handle_2, handle_3 )`
-## Function Description
+# rr_QueryBestResponse
+> `bool rr_QueryBestResponse(handle_1, handle_2, handle_3)`
+# Class
+> __✔ Server: Globals__  
+> __✔ Client: Globals__  
+# Function Description
 Params: (entity, query) : tests 'query' against entity's response system and returns the best response found (or null if none found).
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 handle|handle_1|No Description Set

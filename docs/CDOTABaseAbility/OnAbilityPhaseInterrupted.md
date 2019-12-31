@@ -1,3 +1,7 @@
-# `void CDOTABaseAbility:OnAbilityPhaseInterrupted( )`
-## Function Description
+# OnAbilityPhaseInterrupted
+> `void OnAbilityPhaseInterrupted()`
+# Class
+> __✔ Server: CDOTABaseAbility__  
+> __✖ Client: undefined__  
+# Function Description
 

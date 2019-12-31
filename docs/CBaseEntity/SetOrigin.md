@@ -1,7 +1,11 @@
-# `void CBaseEntity:SetOrigin(v )`
-## Function Description
+# SetOrigin
+> `void SetOrigin(v)`
+# Class
+> __✔ Server: CBaseEntity__  
+> __✖ Client: undefined__  
+# Function Description
 
-## Parameters
+# Parameters
 Type|Name|Description
 --|--|--
 Vector|v|No Description Set

@@ -1,3 +1,7 @@
-# `void CDOTA_BaseNPC_Hero:PerformTaunt( )`
-## Function Description
+# PerformTaunt
+> `void PerformTaunt()`
+# Class
+> __✔ Server: CDOTA_BaseNPC_Hero__  
+> __✖ Client: undefined__  
+# Function Description
 
