@@ -1,8 +1,11 @@
 # SetRequiresReachingEndPath
-> `void SetRequiresReachingEndPath(bRequiresReachingEndPath)`
+```js	
+void SetRequiresReachingEndPath(bRequiresReachingEndPath)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Creature__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Creature`  
+✖ `Client: undefined`  
+
 # Function Description
 Set whether creatures require reaching their end path before becoming idle
 # Parameters

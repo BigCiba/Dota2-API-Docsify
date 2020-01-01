@@ -1,8 +1,11 @@
 # SetRuneSpawnFilter
-> `void SetRuneSpawnFilter(hFunction, hContext)`
+```js	
+void SetRuneSpawnFilter(hFunction, hContext)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set a filter function to control what rune spawns. (Modify the table and Return true to use new values, return false to cancel the event)
 # Parameters

@@ -1,8 +1,11 @@
 # YawArrow
-> `void YawArrow(Vector_1, float_2, float_3, float_4, int_5, int_6, int_7, int_8, bool_9, float_10)`
+```js	
+void YawArrow(Vector_1, float_2, float_3, float_4, int_5, int_6, int_7, int_8, bool_9, float_10)
+```
 # Class
-> __✔ Server: CDebugOverlayScriptHelper__  
-> __✔ Client: CDebugOverlayScriptHelper__  
+✔ `Server: CDebugOverlayScriptHelper`  
+✔ `Client: CDebugOverlayScriptHelper`  
+
 # Function Description
 Draws a arrow associated with a specific yaw. Specify endpoints in world space.
 # Parameters

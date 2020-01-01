@@ -1,8 +1,11 @@
 # SetTimeFrozen
-> `void SetTimeFrozen(bool_1)`
+```js	
+void SetTimeFrozen(bool_1)
+```
 # Class
-> __✔ Server: CDOTATutorial__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTATutorial`  
+✖ `Client: undefined`  
+
 # Function Description
 Set if we should freeze time or not.
 # Parameters

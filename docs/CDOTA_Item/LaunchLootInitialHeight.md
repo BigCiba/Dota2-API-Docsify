@@ -1,8 +1,11 @@
 # LaunchLootInitialHeight
-> `void LaunchLootInitialHeight(bAutoUse, flInitialHeight, flLaunchHeight, flDuration, vEndPoint)`
+```js	
+void LaunchLootInitialHeight(bAutoUse, flInitialHeight, flLaunchHeight, flDuration, vEndPoint)
+```
 # Class
-> __✔ Server: CDOTA_Item__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Item`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

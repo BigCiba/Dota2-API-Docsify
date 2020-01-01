@@ -1,8 +1,11 @@
 # SetSelectedHero
-> `void SetSelectedHero(pszHeroName)`
+```js	
+void SetSelectedHero(pszHeroName)
+```
 # Class
-> __✔ Server: CDOTAPlayer__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAPlayer`  
+✖ `Client: undefined`  
+
 # Function Description
 Sets this player's hero selection.
 # Parameters

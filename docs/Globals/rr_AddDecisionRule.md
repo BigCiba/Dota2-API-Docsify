@@ -1,8 +1,11 @@
 # rr_AddDecisionRule
-> `bool rr_AddDecisionRule(handle_1)`
+```js	
+bool rr_AddDecisionRule(handle_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Add a rule to the decision database.
 # Parameters

@@ -1,7 +1,10 @@
 # GetContainedItem
-> `handle GetContainedItem()`
+```js	
+handle GetContainedItem()
+```
 # Class
-> __✔ Server: CDOTA_Item_Physical__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Item_Physical`  
+✖ `Client: undefined`  
+
 # Function Description
 Returned the contained item.

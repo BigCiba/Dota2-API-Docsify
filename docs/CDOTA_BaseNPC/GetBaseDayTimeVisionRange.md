@@ -1,7 +1,10 @@
 # GetBaseDayTimeVisionRange
-> `int GetBaseDayTimeVisionRange()`
+```js	
+int GetBaseDayTimeVisionRange()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns the vision range before modifiers.

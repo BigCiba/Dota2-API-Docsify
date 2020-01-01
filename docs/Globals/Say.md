@@ -1,8 +1,11 @@
 # Say
-> `void Say(handle_1, string_2, bool_3)`
+```js	
+void Say(handle_1, string_2, bool_3)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Have Entity say string, and teamOnly or not
 # Parameters

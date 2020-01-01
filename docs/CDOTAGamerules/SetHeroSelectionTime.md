@@ -1,8 +1,11 @@
 # SetHeroSelectionTime
-> `void SetHeroSelectionTime(float_1)`
+```js	
+void SetHeroSelectionTime(float_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Sets the amount of time players have to pick their hero.
 # Parameters

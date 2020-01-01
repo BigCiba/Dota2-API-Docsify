@@ -1,8 +1,11 @@
 # GetNetWorth
-> `int GetNetWorth(iPlayerID)`
+```js	
+int GetNetWorth(iPlayerID)
+```
 # Class
-> __✔ Server: CDOTA_PlayerResource__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_PlayerResource`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

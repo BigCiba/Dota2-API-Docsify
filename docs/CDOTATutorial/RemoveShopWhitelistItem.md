@@ -1,8 +1,11 @@
 # RemoveShopWhitelistItem
-> `void RemoveShopWhitelistItem(string_1)`
+```js	
+void RemoveShopWhitelistItem(string_1)
+```
 # Class
-> __✔ Server: CDOTATutorial__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTATutorial`  
+✖ `Client: undefined`  
+
 # Function Description
 Remove an item from the shop whitelist.
 # Parameters

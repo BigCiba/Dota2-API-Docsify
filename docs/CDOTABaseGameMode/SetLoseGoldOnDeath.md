@@ -1,8 +1,11 @@
 # SetLoseGoldOnDeath
-> `void SetLoseGoldOnDeath(bEnabled)`
+```js	
+void SetLoseGoldOnDeath(bEnabled)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Use to disable gold loss on death.
 # Parameters

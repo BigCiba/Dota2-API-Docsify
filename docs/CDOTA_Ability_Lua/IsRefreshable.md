@@ -1,7 +1,10 @@
 # IsRefreshable
-> `bool IsRefreshable()`
+```js	
+bool IsRefreshable()
+```
 # Class
-> __✔ Server: CDOTA_Ability_Lua__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Ability_Lua`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns true if this ability is refreshed by Refresher Orb.

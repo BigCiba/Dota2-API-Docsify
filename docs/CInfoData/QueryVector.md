@@ -1,8 +1,11 @@
 # QueryVector
-> `Vector QueryVector(tok, vDefault)`
+```js	
+Vector QueryVector(tok, vDefault)
+```
 # Class
-> __✔ Server: CInfoData__  
-> __✖ Client: undefined__  
+✔ `Server: CInfoData`  
+✖ `Client: undefined`  
+
 # Function Description
 Query vector data for this key
 # Parameters

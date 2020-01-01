@@ -1,8 +1,11 @@
 # SetCreepMinimapIconScale
-> `void SetCreepMinimapIconScale(float_1)`
+```js	
+void SetCreepMinimapIconScale(float_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 (flMinimapCreepIconScale) - Scale the creep icons on the minimap.
 # Parameters

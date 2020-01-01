@@ -1,8 +1,11 @@
 # FindUnitsInLine
-> `table FindUnitsInLine(int_1, Vector_2, Vector_3, handle_4, float_5, int_6, int_7, int_8)`
+```js	
+table FindUnitsInLine(int_1, Vector_2, Vector_3, handle_4, float_5, int_6, int_7, int_8)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Find units that intersect the given line with the given flags.
 # Parameters

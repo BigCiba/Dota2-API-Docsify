@@ -1,8 +1,11 @@
 # SetShopOpen
-> `void SetShopOpen(bool_1)`
+```js	
+void SetShopOpen(bool_1)
+```
 # Class
-> __✔ Server: CDOTATutorial__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTATutorial`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the shop open or closed.
 # Parameters

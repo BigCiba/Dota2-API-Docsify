@@ -1,8 +1,11 @@
 # RespawnHero
-> `void RespawnHero(bBuyBack, bRespawnPenalty)`
+```js	
+void RespawnHero(bBuyBack, bRespawnPenalty)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Hero__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Hero`  
+✖ `Client: undefined`  
+
 # Function Description
 Respawn this hero.
 # Parameters

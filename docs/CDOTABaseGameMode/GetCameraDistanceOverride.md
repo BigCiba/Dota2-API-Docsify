@@ -1,7 +1,10 @@
 # GetCameraDistanceOverride
-> `float GetCameraDistanceOverride()`
+```js	
+float GetCameraDistanceOverride()
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set a different camera distance; dota default is 1134.

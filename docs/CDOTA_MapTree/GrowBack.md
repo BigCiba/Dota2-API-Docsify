@@ -1,7 +1,10 @@
 # GrowBack
-> `void GrowBack()`
+```js	
+void GrowBack()
+```
 # Class
-> __✔ Server: CDOTA_MapTree__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_MapTree`  
+✖ `Client: undefined`  
+
 # Function Description
 Grows back the tree if it was cut down.

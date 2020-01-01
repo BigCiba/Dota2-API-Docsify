@@ -1,7 +1,10 @@
 # ValidatePrivateScriptScope
-> `void ValidatePrivateScriptScope()`
+```js	
+void ValidatePrivateScriptScope()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Validates the private script scope and creates it if one doesn't exist.

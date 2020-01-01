@@ -1,7 +1,10 @@
 # GetAssignedHero
-> `handle GetAssignedHero()`
+```js	
+handle GetAssignedHero()
+```
 # Class
-> __✔ Server: CDOTAPlayer__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAPlayer`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the player's hero.

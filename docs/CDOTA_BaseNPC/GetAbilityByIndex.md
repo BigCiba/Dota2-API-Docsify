@@ -1,8 +1,11 @@
 # GetAbilityByIndex
-> `handle GetAbilityByIndex(iIndex)`
+```js	
+handle GetAbilityByIndex(iIndex)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Retrieve an ability by index from the unit.
 # Parameters

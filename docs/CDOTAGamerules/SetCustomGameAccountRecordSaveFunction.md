@@ -1,8 +1,11 @@
 # SetCustomGameAccountRecordSaveFunction
-> `void SetCustomGameAccountRecordSaveFunction(handle_1, handle_2)`
+```js	
+void SetCustomGameAccountRecordSaveFunction(handle_1, handle_2)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 (Preview/Unreleased) Sets a callback to handle saving custom game account records (callback is passed a Player ID and should return a flat simple table)
 # Parameters

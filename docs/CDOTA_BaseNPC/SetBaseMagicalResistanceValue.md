@@ -1,8 +1,11 @@
 # SetBaseMagicalResistanceValue
-> `void SetBaseMagicalResistanceValue(flMagicalResistanceValue)`
+```js	
+void SetBaseMagicalResistanceValue(flMagicalResistanceValue)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Sets base magical armor value.
 # Parameters

@@ -1,8 +1,11 @@
 # CastFilterResultTarget
-> `int CastFilterResultTarget(hTarget)`
+```js	
+int CastFilterResultTarget(hTarget)
+```
 # Class
-> __✔ Server: CDOTA_Item_Lua__  
-> __✔ Client: C_DOTA_Item_Lua__  
+✔ `Server: CDOTA_Item_Lua`  
+✔ `Client: C_DOTA_Item_Lua`  
+
 # Function Description
 (HSCRIPT hTarget) Determine whether an issued command on a target is valid.
 # Parameters

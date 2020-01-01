@@ -1,7 +1,10 @@
 # GetBackswingTime
-> `float GetBackswingTime()`
+```js	
+float GetBackswingTime()
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 

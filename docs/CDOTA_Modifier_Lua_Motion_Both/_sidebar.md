@@ -1,4 +1,4 @@
-* [◼️CDOTA_Modifier_Lua_Motion_Both](/)
+* [**CDOTA_Modifier_Lua_Motion_Both**](/)
 	* [ApplyHorizontalMotionController](CDOTA_Modifier_Lua_Motion_Both/ApplyHorizontalMotionController)
 	* [ApplyVerticalMotionController](CDOTA_Modifier_Lua_Motion_Both/ApplyVerticalMotionController)
 	* [GetPriority](CDOTA_Modifier_Lua_Motion_Both/GetPriority)

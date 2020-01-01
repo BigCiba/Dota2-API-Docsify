@@ -1,8 +1,11 @@
 # ModifyHealth
-> `void ModifyHealth(iDesiredHealthValue, hAbility, bLethal, iAdditionalFlags)`
+```js	
+void ModifyHealth(iDesiredHealthValue, hAbility, bLethal, iAdditionalFlags)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Sets the health to a specific value, with optional flags or inflictors.
 # Parameters

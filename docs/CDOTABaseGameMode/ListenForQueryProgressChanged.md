@@ -1,8 +1,11 @@
 # ListenForQueryProgressChanged
-> `void ListenForQueryProgressChanged(hFunction, hContext)`
+```js	
+void ListenForQueryProgressChanged(hFunction, hContext)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set function and context for real time combat analyzer query progress changed.
 # Parameters

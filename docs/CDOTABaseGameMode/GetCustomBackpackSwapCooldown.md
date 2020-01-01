@@ -1,7 +1,10 @@
 # GetCustomBackpackSwapCooldown
-> `float GetCustomBackpackSwapCooldown()`
+```js	
+float GetCustomBackpackSwapCooldown()
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the current custom backpack swap cooldown.

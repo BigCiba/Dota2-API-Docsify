@@ -1,8 +1,11 @@
 # HasFunction
-> `bool HasFunction(iFunction)`
+```js	
+bool HasFunction(iFunction)
+```
 # Class
-> __✔ Server: CDOTA_Buff__  
-> __✔ Client: CDOTA_Buff__  
+✔ `Server: CDOTA_Buff`  
+✔ `Client: CDOTA_Buff`  
+
 # Function Description
 
 # Parameters

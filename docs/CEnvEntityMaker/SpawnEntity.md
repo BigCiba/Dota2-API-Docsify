@@ -1,7 +1,10 @@
 # SpawnEntity
-> `void SpawnEntity()`
+```js	
+void SpawnEntity()
+```
 # Class
-> __✔ Server: CEnvEntityMaker__  
-> __✖ Client: undefined__  
+✔ `Server: CEnvEntityMaker`  
+✖ `Client: undefined`  
+
 # Function Description
 Create an entity at the location of the maker

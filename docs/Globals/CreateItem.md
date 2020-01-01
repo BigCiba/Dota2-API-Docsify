@@ -1,8 +1,11 @@
 # CreateItem
-> `handle CreateItem(string_1, handle_2, handle_3)`
+```js	
+handle CreateItem(string_1, handle_2, handle_3)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Create a DOTA item
 # Parameters

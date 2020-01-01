@@ -1,8 +1,11 @@
 # CreateSceneEntity
-> `handle CreateSceneEntity(string_1)`
+```js	
+handle CreateSceneEntity(string_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Create a scene entity to play the specified scene.
 # Parameters

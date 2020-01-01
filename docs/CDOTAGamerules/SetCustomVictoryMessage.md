@@ -1,8 +1,11 @@
 # SetCustomVictoryMessage
-> `void SetCustomVictoryMessage(string_1)`
+```js	
+void SetCustomVictoryMessage(string_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Sets the victory message.
 # Parameters

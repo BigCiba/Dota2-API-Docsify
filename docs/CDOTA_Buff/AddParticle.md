@@ -1,8 +1,11 @@
 # AddParticle
-> `void AddParticle(i, bDestroyImmediately, bStatusEffect, iPriority, bHeroEffect, bOverheadEffect)`
+```js	
+void AddParticle(i, bDestroyImmediately, bStatusEffect, iPriority, bHeroEffect, bOverheadEffect)
+```
 # Class
-> __✔ Server: CDOTA_Buff__  
-> __✔ Client: CDOTA_Buff__  
+✔ `Server: CDOTA_Buff`  
+✔ `Client: CDOTA_Buff`  
+
 # Function Description
 (index, bDestroyImmediately, bStatusEffect, priority, bHeroEffect, bOverheadEffect
 # Parameters

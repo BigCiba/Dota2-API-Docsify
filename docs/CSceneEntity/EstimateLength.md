@@ -1,7 +1,10 @@
 # EstimateLength
-> `float EstimateLength()`
+```js	
+float EstimateLength()
+```
 # Class
-> __✔ Server: CSceneEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CSceneEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns length of this scene in seconds.

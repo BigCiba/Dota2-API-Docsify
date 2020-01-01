@@ -1,7 +1,10 @@
 # GetBonusManaRegen
-> `float GetBonusManaRegen()`
+```js	
+float GetBonusManaRegen()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 This Mana regen is derived from constant bonuses like Basilius.

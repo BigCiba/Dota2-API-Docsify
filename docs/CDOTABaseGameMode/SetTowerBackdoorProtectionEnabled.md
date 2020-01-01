@@ -1,8 +1,11 @@
 # SetTowerBackdoorProtectionEnabled
-> `void SetTowerBackdoorProtectionEnabled(bEnabled)`
+```js	
+void SetTowerBackdoorProtectionEnabled(bEnabled)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Enables/Disables tower backdoor protection.
 # Parameters

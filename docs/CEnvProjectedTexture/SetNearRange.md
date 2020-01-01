@@ -1,8 +1,11 @@
 # SetNearRange
-> `void SetNearRange(flRange)`
+```js	
+void SetNearRange(flRange)
+```
 # Class
-> __✔ Server: CEnvProjectedTexture__  
-> __✖ Client: undefined__  
+✔ `Server: CEnvProjectedTexture`  
+✖ `Client: undefined`  
+
 # Function Description
 Set light minimum range
 # Parameters

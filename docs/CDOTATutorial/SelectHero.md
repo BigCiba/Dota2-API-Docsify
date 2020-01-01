@@ -1,8 +1,11 @@
 # SelectHero
-> `void SelectHero(string_1)`
+```js	
+void SelectHero(string_1)
+```
 # Class
-> __✔ Server: CDOTATutorial__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTATutorial`  
+✖ `Client: undefined`  
+
 # Function Description
 Select a hero for the local player
 # Parameters

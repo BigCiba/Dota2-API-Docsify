@@ -1,7 +1,10 @@
 # GetSpawnedEntities
-> `handle GetSpawnedEntities()`
+```js	
+handle GetSpawnedEntities()
+```
 # Class
-> __✔ Server: CPointTemplate__  
-> __✖ Client: undefined__  
+✔ `Server: CPointTemplate`  
+✖ `Client: undefined`  
+
 # Function Description
 GetSpawnedEntities() : Get the list of the most recent spawned entities

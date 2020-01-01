@@ -1,8 +1,11 @@
 # IncrementTotalEarnedXP
-> `void IncrementTotalEarnedXP(iPlayerID, iXP, nReason)`
+```js	
+void IncrementTotalEarnedXP(iPlayerID, iXP, nReason)
+```
 # Class
-> __✔ Server: CDOTA_PlayerResource__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_PlayerResource`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

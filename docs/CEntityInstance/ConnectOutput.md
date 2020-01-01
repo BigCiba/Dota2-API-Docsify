@@ -1,8 +1,11 @@
 # ConnectOutput
-> `void ConnectOutput(string_1, string_2)`
+```js	
+void ConnectOutput(string_1, string_2)
+```
 # Class
-> __✔ Server: CEntityInstance__  
-> __✔ Client: CEntityInstance__  
+✔ `Server: CEntityInstance`  
+✔ `Client: CEntityInstance`  
+
 # Function Description
 Adds an I/O connection that will call the named function on this entity when the specified output fires.
 # Parameters

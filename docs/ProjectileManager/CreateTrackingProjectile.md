@@ -1,8 +1,11 @@
 # CreateTrackingProjectile
-> `void CreateTrackingProjectile(handle_1)`
+```js	
+void CreateTrackingProjectile(handle_1)
+```
 # Class
-> __✔ Server: ProjectileManager__  
-> __✖ Client: undefined__  
+✔ `Server: ProjectileManager`  
+✖ `Client: undefined`  
+
 # Function Description
 Creates a tracking projectile
 # Parameters

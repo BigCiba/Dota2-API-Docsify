@@ -1,7 +1,10 @@
 # GetInitialGoalEntity
-> `handle GetInitialGoalEntity()`
+```js	
+handle GetInitialGoalEntity()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns the initial waypoint goal for this NPC.

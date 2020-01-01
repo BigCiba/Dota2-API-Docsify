@@ -1,8 +1,11 @@
 # OnChannelThink
-> `void OnChannelThink(flInterval)`
+```js	
+void OnChannelThink(flInterval)
+```
 # Class
-> __✔ Server: CDOTA_Ability_Lua__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Ability_Lua`  
+✖ `Client: undefined`  
+
 # Function Description
 (float flInterval) Channeling is taking place.
 # Parameters

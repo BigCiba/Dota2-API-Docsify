@@ -1,8 +1,11 @@
 # SetAbsOrigin
-> `void SetAbsOrigin(origin)`
+```js	
+void SetAbsOrigin(origin)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

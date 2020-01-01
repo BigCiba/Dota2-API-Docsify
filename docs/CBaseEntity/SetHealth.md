@@ -1,8 +1,11 @@
 # SetHealth
-> `void SetHealth(nHealth)`
+```js	
+void SetHealth(nHealth)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the health of this entity.
 # Parameters

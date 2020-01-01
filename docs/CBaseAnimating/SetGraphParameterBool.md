@@ -1,8 +1,11 @@
 # SetGraphParameterBool
-> `void SetGraphParameterBool(szName, bValue)`
+```js	
+void SetGraphParameterBool(szName, bValue)
+```
 # Class
-> __✔ Server: CBaseAnimating__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseAnimating`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the specific param on or off
 # Parameters

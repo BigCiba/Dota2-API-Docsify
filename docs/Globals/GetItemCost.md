@@ -1,8 +1,11 @@
 # GetItemCost
-> `int GetItemCost(string_1)`
+```js	
+int GetItemCost(string_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the cost of an item by name.
 # Parameters

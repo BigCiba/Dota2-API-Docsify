@@ -1,8 +1,11 @@
 # SetConstraint
-> `void SetConstraint(vPos)`
+```js	
+void SetConstraint(vPos)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the position of the constraint.
 # Parameters

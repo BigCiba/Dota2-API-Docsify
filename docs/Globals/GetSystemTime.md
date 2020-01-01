@@ -1,7 +1,10 @@
 # GetSystemTime
-> `string GetSystemTime()`
+```js	
+string GetSystemTime()
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the current real world time

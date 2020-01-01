@@ -1,8 +1,11 @@
 # AddQuest
-> `void AddQuest(string_1, int_2, string_3, string_4)`
+```js	
+void AddQuest(string_1, int_2, string_3, string_4)
+```
 # Class
-> __✔ Server: CDOTATutorial__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTATutorial`  
+✖ `Client: undefined`  
+
 # Function Description
 Add a quest to the quest log
 # Parameters

@@ -1,8 +1,11 @@
 # SetTrackingProjectileFilter
-> `void SetTrackingProjectileFilter(hFunction, hContext)`
+```js	
+void SetTrackingProjectileFilter(hFunction, hContext)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set a filter function to control when tracking projectiles are launched. (Modify the table and Return true to use new values, return false to cancel the event)
 # Parameters

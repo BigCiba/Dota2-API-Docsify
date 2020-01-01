@@ -1,8 +1,11 @@
 # SetVelocity
-> `void SetVelocity(Vector_1)`
+```js	
+void SetVelocity(Vector_1)
+```
 # Class
-> __✔ Server: CBodyComponent__  
-> __✔ Client: CBodyComponent__  
+✔ `Server: CBodyComponent`  
+✔ `Client: CBodyComponent`  
+
 # Function Description
 
 # Parameters

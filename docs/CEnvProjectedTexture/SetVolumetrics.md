@@ -1,8 +1,11 @@
 # SetVolumetrics
-> `void SetVolumetrics(bOn, flIntensity, flNoise, nPlanes, flPlaneOffset)`
+```js	
+void SetVolumetrics(bOn, flIntensity, flNoise, nPlanes, flPlaneOffset)
+```
 # Class
-> __✔ Server: CEnvProjectedTexture__  
-> __✖ Client: undefined__  
+✔ `Server: CEnvProjectedTexture`  
+✖ `Client: undefined`  
+
 # Function Description
 Turn on/off light volumetrics: bool bOn, float flIntensity, float flNoise, int nPlanes, float flPlaneOffset
 # Parameters

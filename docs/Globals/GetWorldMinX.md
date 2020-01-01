@@ -1,7 +1,10 @@
 # GetWorldMinX
-> `float GetWorldMinX()`
+```js	
+float GetWorldMinX()
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Gets the world's minimum X position.

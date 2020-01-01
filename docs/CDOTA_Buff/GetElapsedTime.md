@@ -1,7 +1,10 @@
 # GetElapsedTime
-> `float GetElapsedTime()`
+```js	
+float GetElapsedTime()
+```
 # Class
-> __✔ Server: CDOTA_Buff__  
-> __✔ Client: CDOTA_Buff__  
+✔ `Server: CDOTA_Buff`  
+✔ `Client: CDOTA_Buff`  
+
 # Function Description
 

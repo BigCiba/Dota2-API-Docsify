@@ -1,7 +1,10 @@
 # GetMaximumGoldBounty
-> `int GetMaximumGoldBounty()`
+```js	
+int GetMaximumGoldBounty()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the maximum gold bounty for this unit.

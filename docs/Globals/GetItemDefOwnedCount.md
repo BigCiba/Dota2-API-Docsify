@@ -1,8 +1,11 @@
 # GetItemDefOwnedCount
-> `int GetItemDefOwnedCount(int_1, int_2)`
+```js	
+int GetItemDefOwnedCount(int_1, int_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

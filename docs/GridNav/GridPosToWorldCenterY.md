@@ -1,8 +1,11 @@
 # GridPosToWorldCenterY
-> `float GridPosToWorldCenterY(int_1)`
+```js	
+float GridPosToWorldCenterY(int_1)
+```
 # Class
-> __✔ Server: GridNav__  
-> __✖ Client: undefined__  
+✔ `Server: GridNav`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the Y position of the center of a given Y index
 # Parameters

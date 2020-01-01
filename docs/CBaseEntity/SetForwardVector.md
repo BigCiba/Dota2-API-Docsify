@@ -1,8 +1,11 @@
 # SetForwardVector
-> `void SetForwardVector(v)`
+```js	
+void SetForwardVector(v)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the orientation of the entity to have this forward vector.
 # Parameters

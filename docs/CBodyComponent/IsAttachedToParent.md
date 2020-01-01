@@ -1,7 +1,10 @@
 # IsAttachedToParent
-> `bool IsAttachedToParent()`
+```js	
+bool IsAttachedToParent()
+```
 # Class
-> __✔ Server: CBodyComponent__  
-> __✔ Client: CBodyComponent__  
+✔ `Server: CBodyComponent`  
+✔ `Client: CBodyComponent`  
+
 # Function Description
 Is attached to parent

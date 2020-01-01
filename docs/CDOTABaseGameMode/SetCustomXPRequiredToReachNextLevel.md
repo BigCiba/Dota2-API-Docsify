@@ -1,8 +1,11 @@
 # SetCustomXPRequiredToReachNextLevel
-> `void SetCustomXPRequiredToReachNextLevel(hTable)`
+```js	
+void SetCustomXPRequiredToReachNextLevel(hTable)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Allows definition of a table of hero XP values.
 # Parameters

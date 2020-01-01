@@ -1,7 +1,10 @@
 # GetUpVector
-> `Vector GetUpVector()`
+```js	
+Vector GetUpVector()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the up vector of the entity.

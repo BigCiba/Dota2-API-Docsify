@@ -1,8 +1,11 @@
 # DestroyLinearProjectile
-> `void DestroyLinearProjectile(int_1)`
+```js	
+void DestroyLinearProjectile(int_1)
+```
 # Class
-> __✔ Server: ProjectileManager__  
-> __✖ Client: undefined__  
+✔ `Server: ProjectileManager`  
+✖ `Client: undefined`  
+
 # Function Description
 Destroys the linear projectile matching the argument ID
 # Parameters

@@ -1,8 +1,11 @@
 # OnAbilityPinged
-> `void OnAbilityPinged(nPlayerID, bCtrlHeld)`
+```js	
+void OnAbilityPinged(nPlayerID, bCtrlHeld)
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

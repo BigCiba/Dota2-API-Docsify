@@ -1,8 +1,11 @@
 # GetItemDefQuantity
-> `int GetItemDefQuantity(int_1, int_2)`
+```js	
+int GetItemDefQuantity(int_1, int_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

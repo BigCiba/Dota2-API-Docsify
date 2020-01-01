@@ -1,8 +1,11 @@
 # SetBuybackEnabled
-> `void SetBuybackEnabled(bEnabled)`
+```js	
+void SetBuybackEnabled(bEnabled)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Enables or disables buyback completely.
 # Parameters

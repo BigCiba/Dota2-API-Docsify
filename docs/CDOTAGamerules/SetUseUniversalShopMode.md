@@ -1,8 +1,11 @@
 # SetUseUniversalShopMode
-> `void SetUseUniversalShopMode(bool_1)`
+```js	
+void SetUseUniversalShopMode(bool_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 When true, all items are available at as long as any shop is in range.
 # Parameters

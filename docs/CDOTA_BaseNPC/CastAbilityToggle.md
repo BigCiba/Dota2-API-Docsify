@@ -1,8 +1,11 @@
 # CastAbilityToggle
-> `void CastAbilityToggle(hAbility, iPlayerIndex)`
+```js	
+void CastAbilityToggle(hAbility, iPlayerIndex)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Toggle an ability.
 # Parameters

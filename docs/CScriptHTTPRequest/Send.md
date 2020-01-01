@@ -1,8 +1,11 @@
 # Send
-> `bool Send(handle_1)`
+```js	
+bool Send(handle_1)
+```
 # Class
-> __✔ Server: CScriptHTTPRequest__  
-> __✖ Client: undefined__  
+✔ `Server: CScriptHTTPRequest`  
+✖ `Client: undefined`  
+
 # Function Description
 Send a HTTP request.
 # Parameters

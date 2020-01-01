@@ -1,7 +1,10 @@
 # Hold
-> `void Hold()`
+```js	
+void Hold()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Hold position.

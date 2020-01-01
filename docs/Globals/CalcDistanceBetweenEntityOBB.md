@@ -1,8 +1,11 @@
 # CalcDistanceBetweenEntityOBB
-> `float CalcDistanceBetweenEntityOBB(handle_1, handle_2)`
+```js	
+float CalcDistanceBetweenEntityOBB(handle_1, handle_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Compute the distance between two entity OBB. A negative return value indicates an input error. A return value of zero indicates that the OBBs are overlapping.
 # Parameters

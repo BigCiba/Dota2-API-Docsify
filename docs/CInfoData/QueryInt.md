@@ -1,8 +1,11 @@
 # QueryInt
-> `int QueryInt(tok, nDefault)`
+```js	
+int QueryInt(tok, nDefault)
+```
 # Class
-> __✔ Server: CInfoData__  
-> __✖ Client: undefined__  
+✔ `Server: CInfoData`  
+✖ `Client: undefined`  
+
 # Function Description
 Query int data for this key
 # Parameters

@@ -1,4 +1,4 @@
-* [◼️CBaseEntity](/)
+* [**CBaseEntity**](/)
 	* [AddEffects](CBaseEntity/AddEffects)
 	* [ApplyAbsVelocityImpulse](CBaseEntity/ApplyAbsVelocityImpulse)
 	* [ApplyLocalAngularVelocityImpulse](CBaseEntity/ApplyLocalAngularVelocityImpulse)

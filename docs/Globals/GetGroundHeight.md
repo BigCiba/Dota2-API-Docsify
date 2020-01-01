@@ -1,8 +1,11 @@
 # GetGroundHeight
-> `float GetGroundHeight(Vector_1, handle_2)`
+```js	
+float GetGroundHeight(Vector_1, handle_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

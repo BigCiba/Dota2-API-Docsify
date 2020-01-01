@@ -1,7 +1,10 @@
 # GetAbsOrigin
-> `Vector GetAbsOrigin()`
+```js	
+Vector GetAbsOrigin()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✔ Client: C_BaseEntity__  
+✔ `Server: CBaseEntity`  
+✔ `Client: C_BaseEntity`  
+
 # Function Description
 

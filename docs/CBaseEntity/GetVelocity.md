@@ -1,7 +1,10 @@
 # GetVelocity
-> `Vector GetVelocity()`
+```js	
+Vector GetVelocity()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 

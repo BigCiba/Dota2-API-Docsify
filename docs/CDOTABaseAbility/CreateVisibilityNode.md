@@ -1,8 +1,11 @@
 # CreateVisibilityNode
-> `void CreateVisibilityNode(vLocation, fRadius, fDuration)`
+```js	
+void CreateVisibilityNode(vLocation, fRadius, fDuration)
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

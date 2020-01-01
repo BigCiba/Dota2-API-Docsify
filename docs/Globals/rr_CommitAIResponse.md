@@ -1,8 +1,11 @@
 # rr_CommitAIResponse
-> `bool rr_CommitAIResponse(handle_1, handle_2)`
+```js	
+bool rr_CommitAIResponse(handle_1, handle_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Commit the result of QueryBestResponse back to the given entity to play. Call with params (entity, airesponse)
 # Parameters

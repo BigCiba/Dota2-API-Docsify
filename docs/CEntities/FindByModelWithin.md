@@ -1,8 +1,11 @@
 # FindByModelWithin
-> `handle FindByModelWithin(handle_1, string_2, Vector_3, float_4)`
+```js	
+handle FindByModelWithin(handle_1, string_2, Vector_3, float_4)
+```
 # Class
-> __✔ Server: CEntities__  
-> __✖ Client: undefined__  
+✔ `Server: CEntities`  
+✖ `Client: undefined`  
+
 # Function Description
 Find entities by model name within a radius. Pass 'null' to start an iteration, or reference to a previously found entity to continue a search
 # Parameters

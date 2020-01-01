@@ -1,8 +1,11 @@
 # SetFreeCourierModeEnabled
-> `void SetFreeCourierModeEnabled(bEnabled)`
+```js	
+void SetFreeCourierModeEnabled(bEnabled)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 If set to true, enable 7.23 free courier mode.
 # Parameters

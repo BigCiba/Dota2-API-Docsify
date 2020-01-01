@@ -1,7 +1,10 @@
 # IsTailAlive
-> `bool IsTailAlive()`
+```js	
+bool IsTailAlive()
+```
 # Class
-> __✔ Server: CDOTA_Unit_Nian__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Unit_Nian`  
+✖ `Client: undefined`  
+
 # Function Description
 Is the Nian's tail broken?

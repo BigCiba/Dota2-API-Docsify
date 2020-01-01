@@ -1,8 +1,11 @@
 # LaunchLoot
-> `void LaunchLoot(bAutoUse, flHeight, flDuration, vEndPoint)`
+```js	
+void LaunchLoot(bAutoUse, flHeight, flDuration, vEndPoint)
+```
 # Class
-> __✔ Server: CDOTA_Item__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Item`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

@@ -1,4 +1,4 @@
-* [◼️CDOTA_Buff](/)
+* [**CDOTA_Buff**](/)
 	* [AddParticle](CDOTA_Buff/AddParticle)
 	* [DecrementStackCount](CDOTA_Buff/DecrementStackCount)
 	* [Destroy](CDOTA_Buff/Destroy)

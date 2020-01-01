@@ -1,8 +1,11 @@
 # ChangeTrackingProjectileSpeed
-> `void ChangeTrackingProjectileSpeed(handle_1, int_2)`
+```js	
+void ChangeTrackingProjectileSpeed(handle_1, int_2)
+```
 # Class
-> __✔ Server: ProjectileManager__  
-> __✖ Client: undefined__  
+✔ `Server: ProjectileManager`  
+✖ `Client: undefined`  
+
 # Function Description
 Update speed
 # Parameters

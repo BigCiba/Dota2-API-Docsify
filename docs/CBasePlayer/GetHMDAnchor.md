@@ -1,7 +1,10 @@
 # GetHMDAnchor
-> `handle GetHMDAnchor()`
+```js	
+handle GetHMDAnchor()
+```
 # Class
-> __✔ Server: CBasePlayer__  
-> __✖ Client: undefined__  
+✔ `Server: CBasePlayer`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns the HMD anchor entity for this player if it exists.

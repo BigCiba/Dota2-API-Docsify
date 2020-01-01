@@ -1,8 +1,11 @@
 # SetSingleMeshGroup
-> `void SetSingleMeshGroup(pMeshGroupName)`
+```js	
+void SetSingleMeshGroup(pMeshGroupName)
+```
 # Class
-> __✔ Server: CBaseModelEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseModelEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 SetSingleMeshGroup( string ): Set a single mesh group for this entity.
 # Parameters

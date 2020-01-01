@@ -1,8 +1,11 @@
 # StartSoundEventFromPosition
-> `void StartSoundEventFromPosition(string_1, Vector_2)`
+```js	
+void StartSoundEventFromPosition(string_1, Vector_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Start a sound event from position
 # Parameters

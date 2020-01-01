@@ -1,7 +1,10 @@
 # IsHeroRespawnEnabled
-> `bool IsHeroRespawnEnabled()`
+```js	
+bool IsHeroRespawnEnabled()
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns whether hero respawn is enabled.

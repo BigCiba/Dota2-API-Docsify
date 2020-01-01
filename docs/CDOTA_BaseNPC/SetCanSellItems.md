@@ -1,8 +1,11 @@
 # SetCanSellItems
-> `void SetCanSellItems(bCanSell)`
+```js	
+void SetCanSellItems(bCanSell)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Set whether or not this unit is allowed to sell items (bCanSellItems)
 # Parameters

@@ -1,8 +1,11 @@
 # Init
-> `void Init(int_1)`
+```js	
+void Init(int_1)
+```
 # Class
-> __✔ Server: CNativeOutputs__  
-> __✔ Client: CNativeOutputs__  
+✔ `Server: CNativeOutputs`  
+✔ `Client: CNativeOutputs`  
+
 # Function Description
 Initialize with number of outputs
 # Parameters

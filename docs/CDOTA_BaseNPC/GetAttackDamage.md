@@ -1,7 +1,10 @@
 # GetAttackDamage
-> `int GetAttackDamage()`
+```js	
+int GetAttackDamage()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns a random integer between the minimum and maximum base damage of the unit.

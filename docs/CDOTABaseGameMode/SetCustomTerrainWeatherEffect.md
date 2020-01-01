@@ -1,8 +1,11 @@
 # SetCustomTerrainWeatherEffect
-> `void SetCustomTerrainWeatherEffect(pszEffectName)`
+```js	
+void SetCustomTerrainWeatherEffect(pszEffectName)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the effect used as a custom weather effect, when units are on non-default terrain, in this mode.
 # Parameters

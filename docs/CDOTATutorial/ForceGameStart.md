@@ -1,7 +1,10 @@
 # ForceGameStart
-> `void ForceGameStart()`
+```js	
+void ForceGameStart()
+```
 # Class
-> __✔ Server: CDOTATutorial__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTATutorial`  
+✖ `Client: undefined`  
+
 # Function Description
 Force the start of the game.

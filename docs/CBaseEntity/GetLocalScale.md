@@ -1,7 +1,10 @@
 # GetLocalScale
-> `float GetLocalScale()`
+```js	
+float GetLocalScale()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 

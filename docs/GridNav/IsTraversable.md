@@ -1,8 +1,11 @@
 # IsTraversable
-> `bool IsTraversable(Vector_1)`
+```js	
+bool IsTraversable(Vector_1)
+```
 # Class
-> __✔ Server: GridNav__  
-> __✖ Client: undefined__  
+✔ `Server: GridNav`  
+✖ `Client: undefined`  
+
 # Function Description
 Checks whether the given position is traversable
 # Parameters

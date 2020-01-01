@@ -1,8 +1,11 @@
 # Send_ServerToPlayer
-> `void Send_ServerToPlayer(handle_1, string_2, handle_3)`
+```js	
+void Send_ServerToPlayer(handle_1, string_2, handle_3)
+```
 # Class
-> __✔ Server: CCustomGameEventManager__  
-> __✖ Client: undefined__  
+✔ `Server: CCustomGameEventManager`  
+✖ `Client: undefined`  
+
 # Function Description
 ( Entity Player, string EventName, table EventData )
 # Parameters

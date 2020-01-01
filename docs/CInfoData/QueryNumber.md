@@ -1,8 +1,11 @@
 # QueryNumber
-> `float QueryNumber(tok, flDefault)`
+```js	
+float QueryNumber(tok, flDefault)
+```
 # Class
-> __✔ Server: CInfoData__  
-> __✖ Client: undefined__  
+✔ `Server: CInfoData`  
+✖ `Client: undefined`  
+
 # Function Description
 Query number data for this key
 # Parameters

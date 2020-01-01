@@ -1,8 +1,11 @@
 # GetMaxOutputDelay
-> `float GetMaxOutputDelay(ehandle_1, string_2)`
+```js	
+float GetMaxOutputDelay(ehandle_1, string_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Get the longest delay for all events attached to an output
 # Parameters

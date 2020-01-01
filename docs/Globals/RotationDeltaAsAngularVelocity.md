@@ -1,8 +1,11 @@
 # RotationDeltaAsAngularVelocity
-> `Vector RotationDeltaAsAngularVelocity(QAngle_1, QAngle_2)`
+```js	
+Vector RotationDeltaAsAngularVelocity(QAngle_1, QAngle_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 converts delta QAngle to an angular velocity Vector
 # Parameters

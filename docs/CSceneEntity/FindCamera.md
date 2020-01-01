@@ -1,7 +1,10 @@
 # FindCamera
-> `handle FindCamera()`
+```js	
+handle FindCamera()
+```
 # Class
-> __✔ Server: CSceneEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CSceneEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the camera

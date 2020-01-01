@@ -1,8 +1,11 @@
 # FindModifierByName
-> `handle FindModifierByName(pszScriptName)`
+```js	
+handle FindModifierByName(pszScriptName)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Return a handle to the modifier of the given name if found, else nil (string Name )
 # Parameters

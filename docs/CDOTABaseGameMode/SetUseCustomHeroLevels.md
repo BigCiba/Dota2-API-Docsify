@@ -1,8 +1,11 @@
 # SetUseCustomHeroLevels
-> `void SetUseCustomHeroLevels(bEnabled)`
+```js	
+void SetUseCustomHeroLevels(bEnabled)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Turn on custom-defined XP values for hero level ups.  The table should be defined before switching this on.
 # Parameters

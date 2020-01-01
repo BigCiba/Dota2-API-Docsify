@@ -1,7 +1,10 @@
 # IsChampion
-> `bool IsChampion()`
+```js	
+bool IsChampion()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Creature__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Creature`  
+✖ `Client: undefined`  
+
 # Function Description
 Is this unit a champion?

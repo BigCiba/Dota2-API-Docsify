@@ -1,8 +1,11 @@
 # RollPercentage
-> `bool RollPercentage(int_1)`
+```js	
+bool RollPercentage(int_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 (int nPct)
 # Parameters

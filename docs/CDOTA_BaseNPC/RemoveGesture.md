@@ -1,8 +1,11 @@
 # RemoveGesture
-> `void RemoveGesture(nActivity)`
+```js	
+void RemoveGesture(nActivity)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Remove the given gesture activity.
 # Parameters

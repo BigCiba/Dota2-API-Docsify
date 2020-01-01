@@ -1,7 +1,10 @@
 # RespawnUnit
-> `void RespawnUnit()`
+```js	
+void RespawnUnit()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Respawns the target unit if it can be respawned.

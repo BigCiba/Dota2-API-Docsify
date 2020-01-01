@@ -1,8 +1,11 @@
 # SetMaximumAttackSpeed
-> `void SetMaximumAttackSpeed(nMaxSpeed)`
+```js	
+void SetMaximumAttackSpeed(nMaxSpeed)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the maximum attack speed for units.
 # Parameters

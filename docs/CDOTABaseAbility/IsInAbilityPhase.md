@@ -1,7 +1,10 @@
 # IsInAbilityPhase
-> `bool IsInAbilityPhase()`
+```js	
+bool IsInAbilityPhase()
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns whether the ability is currently casting.

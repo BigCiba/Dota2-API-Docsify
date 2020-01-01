@@ -1,7 +1,10 @@
 # IsGamePaused
-> `bool IsGamePaused()`
+```js	
+bool IsGamePaused()
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns whether the game is paused.

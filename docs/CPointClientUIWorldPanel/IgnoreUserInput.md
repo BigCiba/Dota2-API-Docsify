@@ -1,7 +1,10 @@
 # IgnoreUserInput
-> `void IgnoreUserInput()`
+```js	
+void IgnoreUserInput()
+```
 # Class
-> __✔ Server: CPointClientUIWorldPanel__  
-> __✖ Client: undefined__  
+✔ `Server: CPointClientUIWorldPanel`  
+✖ `Client: undefined`  
+
 # Function Description
 Tells the panel to ignore user input.

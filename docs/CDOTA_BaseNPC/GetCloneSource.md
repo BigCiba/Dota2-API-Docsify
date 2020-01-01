@@ -1,7 +1,10 @@
 # GetCloneSource
-> `handle GetCloneSource()`
+```js	
+handle GetCloneSource()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Get clone source (Meepo Prime, if this is a Meepo)

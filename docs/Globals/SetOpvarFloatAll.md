@@ -1,8 +1,11 @@
 # SetOpvarFloatAll
-> `void SetOpvarFloatAll(string_1, string_2, string_3, float_4)`
+```js	
+void SetOpvarFloatAll(string_1, string_2, string_3, float_4)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Sets an opvar value for all players
 # Parameters

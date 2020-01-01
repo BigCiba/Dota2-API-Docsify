@@ -1,7 +1,10 @@
 # GetMustReachEachGoalEntity
-> `bool GetMustReachEachGoalEntity()`
+```js	
+bool GetMustReachEachGoalEntity()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Set whether this NPC is required to reach each goal entity, rather than being allowed to unkink their path.

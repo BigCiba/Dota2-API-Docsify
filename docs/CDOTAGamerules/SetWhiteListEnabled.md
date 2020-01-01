@@ -1,8 +1,11 @@
 # SetWhiteListEnabled
-> `void SetWhiteListEnabled(bool_1)`
+```js	
+void SetWhiteListEnabled(bool_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Item whitelist functionality enable/disable
 # Parameters

@@ -1,7 +1,10 @@
 # GetTrapTarget
-> `Vector GetTrapTarget()`
+```js	
+Vector GetTrapTarget()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Trap_Ward__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Trap_Ward`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the trap target for this entity.

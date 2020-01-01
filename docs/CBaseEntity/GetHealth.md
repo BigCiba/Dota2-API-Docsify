@@ -1,7 +1,10 @@
 # GetHealth
-> `int GetHealth()`
+```js	
+int GetHealth()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the health of this entity.

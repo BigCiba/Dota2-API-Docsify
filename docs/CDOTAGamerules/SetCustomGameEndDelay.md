@@ -1,8 +1,11 @@
 # SetCustomGameEndDelay
-> `void SetCustomGameEndDelay(float_1)`
+```js	
+void SetCustomGameEndDelay(float_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Sets the game end delay.
 # Parameters

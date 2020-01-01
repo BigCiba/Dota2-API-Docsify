@@ -1,4 +1,4 @@
-* [◼️CDOTA_PlayerResource](/)
+* [**CDOTA_PlayerResource**](/)
 	* [AddAegisPickup](CDOTA_PlayerResource/AddAegisPickup)
 	* [AddClaimedFarm](CDOTA_PlayerResource/AddClaimedFarm)
 	* [AddGoldSpentOnSupport](CDOTA_PlayerResource/AddGoldSpentOnSupport)

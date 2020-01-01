@@ -1,7 +1,10 @@
 # UTIL_ResetMessageTextAll
-> `void UTIL_ResetMessageTextAll()`
+```js	
+void UTIL_ResetMessageTextAll()
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Clear all message text from all clients.

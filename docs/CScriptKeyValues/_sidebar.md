@@ -1,2 +1,2 @@
-* [◼️CScriptKeyValues](/)
+* [**CScriptKeyValues**](/)
 	* [GetValue](CScriptKeyValues/GetValue)

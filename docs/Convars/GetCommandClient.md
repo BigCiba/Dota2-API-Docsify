@@ -1,7 +1,10 @@
 # GetCommandClient
-> `handle GetCommandClient()`
+```js	
+handle GetCommandClient()
+```
 # Class
-> __✔ Server: Convars__  
-> __✔ Client: Convars__  
+✔ `Server: Convars`  
+✔ `Client: Convars`  
+
 # Function Description
 GetCommandClient() : returns the player who issued this console command.

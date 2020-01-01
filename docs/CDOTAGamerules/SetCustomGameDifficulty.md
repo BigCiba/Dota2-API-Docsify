@@ -1,8 +1,11 @@
 # SetCustomGameDifficulty
-> `void SetCustomGameDifficulty(int_1)`
+```js	
+void SetCustomGameDifficulty(int_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the difficulty level of the custom game mode
 # Parameters

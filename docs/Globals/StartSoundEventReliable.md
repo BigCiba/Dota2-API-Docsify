@@ -1,8 +1,11 @@
 # StartSoundEventReliable
-> `void StartSoundEventReliable(string_1, handle_2)`
+```js	
+void StartSoundEventReliable(string_1, handle_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Start a sound event with reliable delivery
 # Parameters

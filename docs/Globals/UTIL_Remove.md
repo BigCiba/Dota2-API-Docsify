@@ -1,8 +1,11 @@
 # UTIL_Remove
-> `void UTIL_Remove(handle_1)`
+```js	
+void UTIL_Remove(handle_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Removes the specified entity
 # Parameters

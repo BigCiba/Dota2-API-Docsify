@@ -1,8 +1,11 @@
 # GetAttachmentForward
-> `Vector GetAttachmentForward(iAttachment)`
+```js	
+Vector GetAttachmentForward(iAttachment)
+```
 # Class
-> __✔ Server: CBaseAnimating__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseAnimating`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the attachment id's forward vector.
 # Parameters

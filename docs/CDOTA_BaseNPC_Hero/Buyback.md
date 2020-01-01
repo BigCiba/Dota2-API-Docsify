@@ -1,7 +1,10 @@
 # Buyback
-> `void Buyback()`
+```js	
+void Buyback()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Hero__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Hero`  
+✖ `Client: undefined`  
+
 # Function Description
 Spend the gold and buyback with this hero.

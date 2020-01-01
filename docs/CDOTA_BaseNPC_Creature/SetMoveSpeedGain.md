@@ -1,8 +1,11 @@
 # SetMoveSpeedGain
-> `void SetMoveSpeedGain(nMoveSpeedGain)`
+```js	
+void SetMoveSpeedGain(nMoveSpeedGain)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Creature__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Creature`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the move speed gained per level on this creature.
 # Parameters

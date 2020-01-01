@@ -1,8 +1,11 @@
 # SetGoldPerTick
-> `void SetGoldPerTick(int_1)`
+```js	
+void SetGoldPerTick(int_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the auto gold increase per timed interval.
 # Parameters

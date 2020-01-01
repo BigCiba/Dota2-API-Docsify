@@ -1,8 +1,11 @@
 # UTIL_RemoveImmediate
-> `void UTIL_RemoveImmediate(handle_1)`
+```js	
+void UTIL_RemoveImmediate(handle_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Immediately removes the specified entity
 # Parameters

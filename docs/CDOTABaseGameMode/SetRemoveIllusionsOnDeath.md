@@ -1,8 +1,11 @@
 # SetRemoveIllusionsOnDeath
-> `void SetRemoveIllusionsOnDeath(bRemove)`
+```js	
+void SetRemoveIllusionsOnDeath(bRemove)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Make it so illusions are immediately removed upon death, rather than sticking around for a few seconds.
 # Parameters

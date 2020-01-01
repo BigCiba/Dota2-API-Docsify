@@ -1,4 +1,4 @@
-* [◼️CDOTATutorial](/)
+* [**CDOTATutorial**](/)
 	* [AddBot](CDOTATutorial/AddBot)
 	* [AddQuest](CDOTATutorial/AddQuest)
 	* [AddShopWhitelistItem](CDOTATutorial/AddShopWhitelistItem)

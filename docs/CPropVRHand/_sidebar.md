@@ -1,4 +1,4 @@
-* [◼️CPropVRHand](/)
+* [**CPropVRHand**](/)
 	* [AddHandAttachment](CPropVRHand/AddHandAttachment)
 	* [AddHandModelOverride](CPropVRHand/AddHandModelOverride)
 	* [FindHandModelOverride](CPropVRHand/FindHandModelOverride)

@@ -1,8 +1,11 @@
 # Send_ServerToTeam
-> `void Send_ServerToTeam(int_1, string_2, handle_3)`
+```js	
+void Send_ServerToTeam(int_1, string_2, handle_3)
+```
 # Class
-> __✔ Server: CCustomGameEventManager__  
-> __✖ Client: undefined__  
+✔ `Server: CCustomGameEventManager`  
+✖ `Client: undefined`  
+
 # Function Description
 ( int TeamNumber, string EventName, table EventData )
 # Parameters

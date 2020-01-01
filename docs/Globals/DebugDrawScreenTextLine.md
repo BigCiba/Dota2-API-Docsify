@@ -1,8 +1,11 @@
 # DebugDrawScreenTextLine
-> `void DebugDrawScreenTextLine(float_1, float_2, int_3, string_4, int_5, int_6, int_7, int_8, float_9)`
+```js	
+void DebugDrawScreenTextLine(float_1, float_2, int_3, string_4, int_5, int_6, int_7, int_8, float_9)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Draw text with a line offset (x, y, lineOffset, text, r, g, b, a, duration)
 # Parameters

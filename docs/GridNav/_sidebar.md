@@ -1,4 +1,4 @@
-* [◼️GridNav](/)
+* [**GridNav**](/)
 	* [CanFindPath](GridNav/CanFindPath)
 	* [DestroyTreesAroundPoint](GridNav/DestroyTreesAroundPoint)
 	* [FindPathLength](GridNav/FindPathLength)

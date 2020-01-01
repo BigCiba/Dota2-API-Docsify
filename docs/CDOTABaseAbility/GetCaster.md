@@ -1,7 +1,10 @@
 # GetCaster
-> `handle GetCaster()`
+```js	
+handle GetCaster()
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✔ Client: C_DOTABaseAbility__  
+✔ `Server: CDOTABaseAbility`  
+✔ `Client: C_DOTABaseAbility`  
+
 # Function Description
 

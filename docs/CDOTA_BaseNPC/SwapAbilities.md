@@ -1,8 +1,11 @@
 # SwapAbilities
-> `void SwapAbilities(pAbilityName1, pAbilityName2, bEnable1, bEnable2)`
+```js	
+void SwapAbilities(pAbilityName1, pAbilityName2, bEnable1, bEnable2)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Swaps the slots of the two passed abilities and sets them enabled/disabled.
 # Parameters

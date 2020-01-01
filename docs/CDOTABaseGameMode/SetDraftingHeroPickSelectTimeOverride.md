@@ -1,8 +1,11 @@
 # SetDraftingHeroPickSelectTimeOverride
-> `void SetDraftingHeroPickSelectTimeOverride(flValue)`
+```js	
+void SetDraftingHeroPickSelectTimeOverride(flValue)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set drafting hero pick time
 # Parameters

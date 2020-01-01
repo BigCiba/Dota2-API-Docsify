@@ -1,8 +1,11 @@
 # SpawnEntityListFromTableSynchronous
-> `handle SpawnEntityListFromTableSynchronous(handle_1)`
+```js	
+handle SpawnEntityListFromTableSynchronous(handle_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Synchronously spawn an entity group from a list of spawn tables.
 # Parameters

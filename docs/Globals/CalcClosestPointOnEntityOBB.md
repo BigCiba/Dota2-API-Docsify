@@ -1,8 +1,11 @@
 # CalcClosestPointOnEntityOBB
-> `Vector CalcClosestPointOnEntityOBB(handle_1, Vector_2)`
+```js	
+Vector CalcClosestPointOnEntityOBB(handle_1, Vector_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Compute the closest point on the OBB of an entity.
 # Parameters

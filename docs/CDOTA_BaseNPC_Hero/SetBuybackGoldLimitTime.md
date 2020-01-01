@@ -1,8 +1,11 @@
 # SetBuybackGoldLimitTime
-> `void SetBuybackGoldLimitTime(flTime)`
+```js	
+void SetBuybackGoldLimitTime(flTime)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Hero__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Hero`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the amount of time gold gain is limited after buying back.
 # Parameters

@@ -1,8 +1,11 @@
 # SetCustomBuybackCost
-> `void SetCustomBuybackCost(iPlayerID, iGoldCost)`
+```js	
+void SetCustomBuybackCost(iPlayerID, iGoldCost)
+```
 # Class
-> __✔ Server: CDOTA_PlayerResource__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_PlayerResource`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the buyback cost for this player.
 # Parameters

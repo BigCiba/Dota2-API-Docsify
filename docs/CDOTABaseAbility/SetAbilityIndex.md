@@ -1,8 +1,11 @@
 # SetAbilityIndex
-> `void SetAbilityIndex(iIndex)`
+```js	
+void SetAbilityIndex(iIndex)
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

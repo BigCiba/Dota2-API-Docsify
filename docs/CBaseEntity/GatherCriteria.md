@@ -1,8 +1,11 @@
 # GatherCriteria
-> `void GatherCriteria(hResult)`
+```js	
+void GatherCriteria(hResult)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns a table containing the criteria that would be used for response queries on this entity. This is the same as the table that is passed to response rule script function callbacks.
 # Parameters

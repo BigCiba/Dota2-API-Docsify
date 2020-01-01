@@ -1,8 +1,11 @@
 # SetRenderMode
-> `void SetRenderMode(nMode)`
+```js	
+void SetRenderMode(nMode)
+```
 # Class
-> __✔ Server: CBaseModelEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseModelEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 SetRenderMode( int ): Sets the render mode of the entity.
 # Parameters

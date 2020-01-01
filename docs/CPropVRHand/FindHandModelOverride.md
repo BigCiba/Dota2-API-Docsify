@@ -1,8 +1,11 @@
 # FindHandModelOverride
-> `handle FindHandModelOverride(pModelName)`
+```js	
+handle FindHandModelOverride(pModelName)
+```
 # Class
-> __✔ Server: CPropVRHand__  
-> __✖ Client: undefined__  
+✔ `Server: CPropVRHand`  
+✖ `Client: undefined`  
+
 # Function Description
 Find a specific model override for this hand
 # Parameters

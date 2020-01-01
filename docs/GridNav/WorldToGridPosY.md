@@ -1,8 +1,11 @@
 # WorldToGridPosY
-> `int WorldToGridPosY(float_1)`
+```js	
+int WorldToGridPosY(float_1)
+```
 # Class
-> __✔ Server: GridNav__  
-> __✖ Client: undefined__  
+✔ `Server: GridNav`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the Y index of a given world Y position
 # Parameters

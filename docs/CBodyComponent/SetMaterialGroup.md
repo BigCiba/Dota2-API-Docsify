@@ -1,8 +1,11 @@
 # SetMaterialGroup
-> `void SetMaterialGroup(utlstringtoken_1)`
+```js	
+void SetMaterialGroup(utlstringtoken_1)
+```
 # Class
-> __✔ Server: CBodyComponent__  
-> __✔ Client: CBodyComponent__  
+✔ `Server: CBodyComponent`  
+✔ `Client: CBodyComponent`  
+
 # Function Description
 
 # Parameters

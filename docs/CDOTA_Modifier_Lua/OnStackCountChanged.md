@@ -1,8 +1,11 @@
 # OnStackCountChanged
-> `void OnStackCountChanged(iStackCount)`
+```js	
+void OnStackCountChanged(iStackCount)
+```
 # Class
-> __✔ Server: CDOTA_Modifier_Lua__  
-> __✔ Client: C_DOTA_Modifier_Lua__  
+✔ `Server: CDOTA_Modifier_Lua`  
+✔ `Client: C_DOTA_Modifier_Lua`  
+
 # Function Description
 Runs when stack count changes (param is old count).
 # Parameters

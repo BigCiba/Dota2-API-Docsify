@@ -1,8 +1,11 @@
 # QueryString
-> `string QueryString(tok, pDefault)`
+```js	
+string QueryString(tok, pDefault)
+```
 # Class
-> __✔ Server: CInfoData__  
-> __✖ Client: undefined__  
+✔ `Server: CInfoData`  
+✖ `Client: undefined`  
+
 # Function Description
 Query string data for this key
 # Parameters

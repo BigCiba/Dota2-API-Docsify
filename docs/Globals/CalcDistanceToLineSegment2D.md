@@ -1,8 +1,11 @@
 # CalcDistanceToLineSegment2D
-> `float CalcDistanceToLineSegment2D(Vector_1, Vector_2, Vector_3)`
+```js	
+float CalcDistanceToLineSegment2D(Vector_1, Vector_2, Vector_3)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 
 # Parameters

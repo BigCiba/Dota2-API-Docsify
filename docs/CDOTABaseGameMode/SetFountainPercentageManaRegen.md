@@ -1,8 +1,11 @@
 # SetFountainPercentageManaRegen
-> `void SetFountainPercentageManaRegen(flPercentageManaRegen)`
+```js	
+void SetFountainPercentageManaRegen(flPercentageManaRegen)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the percentage rate that the fountain will regen mana. (-1 for default)
 # Parameters

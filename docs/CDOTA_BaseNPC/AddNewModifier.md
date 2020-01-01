@@ -1,8 +1,11 @@
 # AddNewModifier
-> `handle AddNewModifier(hCaster, hAbility, pszScriptName, hModifierTable)`
+```js	
+handle AddNewModifier(hCaster, hAbility, pszScriptName, hModifierTable)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Add a modifier to this unit.
 # Parameters

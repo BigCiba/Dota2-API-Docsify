@@ -1,8 +1,11 @@
 # DebugDrawCircle
-> `void DebugDrawCircle(Vector_1, Vector_2, float_3, float_4, bool_5, float_6)`
+```js	
+void DebugDrawCircle(Vector_1, Vector_2, float_3, float_4, bool_5, float_6)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Draw a debug circle (center, vRgb, a, rad, ztest, duration)
 # Parameters

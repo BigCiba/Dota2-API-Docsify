@@ -1,7 +1,10 @@
 # GetUseCustomHeroLevels
-> `bool GetUseCustomHeroLevels()`
+```js	
+bool GetUseCustomHeroLevels()
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Are custom-defined XP values for hero level ups in use?

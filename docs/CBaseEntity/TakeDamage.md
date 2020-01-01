@@ -1,8 +1,11 @@
 # TakeDamage
-> `int TakeDamage(hInfo)`
+```js	
+int TakeDamage(hInfo)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Apply damage to this entity. Use CreateDamageInfo() to create a damageinfo object.
 # Parameters

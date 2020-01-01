@@ -1,8 +1,11 @@
 # OnProjectileThinkHandle
-> `void OnProjectileThinkHandle(iProjectileHandle)`
+```js	
+void OnProjectileThinkHandle(iProjectileHandle)
+```
 # Class
-> __✔ Server: CDOTA_Ability_Lua__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Ability_Lua`  
+✖ `Client: undefined`  
+
 # Function Description
 (int nProjectileHandle) Projectile is actively moving.
 # Parameters

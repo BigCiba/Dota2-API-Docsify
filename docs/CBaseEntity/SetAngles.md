@@ -1,8 +1,11 @@
 # SetAngles
-> `void SetAngles(fPitch, fYaw, fRoll)`
+```js	
+void SetAngles(fPitch, fYaw, fRoll)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Set entity pitch, yaw, roll by component.
 # Parameters

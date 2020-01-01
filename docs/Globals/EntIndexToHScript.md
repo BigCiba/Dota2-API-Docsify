@@ -1,8 +1,11 @@
 # EntIndexToHScript
-> `handle EntIndexToHScript(int_1)`
+```js	
+handle EntIndexToHScript(int_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Turn an entity index integer to an HScript representing that entity's script instance.
 # Parameters

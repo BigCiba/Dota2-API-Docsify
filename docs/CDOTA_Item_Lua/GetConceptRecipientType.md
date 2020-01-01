@@ -1,7 +1,10 @@
 # GetConceptRecipientType
-> `int GetConceptRecipientType()`
+```js	
+int GetConceptRecipientType()
+```
 # Class
-> __✔ Server: CDOTA_Item_Lua__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Item_Lua`  
+✖ `Client: undefined`  
+
 # Function Description
 Return who hears speech when this spell is cast.

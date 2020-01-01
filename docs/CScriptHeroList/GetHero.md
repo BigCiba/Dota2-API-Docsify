@@ -1,8 +1,11 @@
 # GetHero
-> `handle GetHero(int_1)`
+```js	
+handle GetHero(int_1)
+```
 # Class
-> __✔ Server: CScriptHeroList__  
-> __✖ Client: undefined__  
+✔ `Server: CScriptHeroList`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the Nth hero in the Hero List
 # Parameters

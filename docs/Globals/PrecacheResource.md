@@ -1,8 +1,11 @@
 # PrecacheResource
-> `void PrecacheResource(string_1, string_2, handle_3)`
+```js	
+void PrecacheResource(string_1, string_2, handle_3)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Manually precache a single resource
 # Parameters

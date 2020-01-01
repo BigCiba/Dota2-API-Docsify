@@ -1,7 +1,10 @@
 # IsBuybackEnabled
-> `bool IsBuybackEnabled()`
+```js	
+bool IsBuybackEnabled()
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Enables or disables buyback completely.

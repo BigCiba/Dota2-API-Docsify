@@ -1,8 +1,11 @@
 # BoxAngles
-> `void BoxAngles(Vector_1, Vector_2, Vector_3, Quaternion_4, int_5, int_6, int_7, int_8, bool_9, float_10)`
+```js	
+void BoxAngles(Vector_1, Vector_2, Vector_3, Quaternion_4, int_5, int_6, int_7, int_8, bool_9, float_10)
+```
 # Class
-> __✔ Server: CDebugOverlayScriptHelper__  
-> __✔ Client: CDebugOverlayScriptHelper__  
+✔ `Server: CDebugOverlayScriptHelper`  
+✔ `Client: CDebugOverlayScriptHelper`  
+
 # Function Description
 Draws an oriented box at the origin. Specify bounds in local space.
 # Parameters

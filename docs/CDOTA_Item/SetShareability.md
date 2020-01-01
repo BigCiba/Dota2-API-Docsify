@@ -1,8 +1,11 @@
 # SetShareability
-> `void SetShareability(iShareability)`
+```js	
+void SetShareability(iShareability)
+```
 # Class
-> __✔ Server: CDOTA_Item__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Item`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

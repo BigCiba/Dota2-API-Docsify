@@ -1,8 +1,11 @@
 # FireEntityIOInputNameOnly
-> `void FireEntityIOInputNameOnly(ehandle_1, string_2)`
+```js	
+void FireEntityIOInputNameOnly(ehandle_1, string_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Fire Entity's Action Input w/no data
 # Parameters

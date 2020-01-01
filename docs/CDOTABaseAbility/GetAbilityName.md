@@ -1,7 +1,10 @@
 # GetAbilityName
-> `string GetAbilityName()`
+```js	
+string GetAbilityName()
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns the name of this ability.

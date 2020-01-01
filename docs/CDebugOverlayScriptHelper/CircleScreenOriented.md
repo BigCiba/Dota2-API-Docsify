@@ -1,8 +1,11 @@
 # CircleScreenOriented
-> `void CircleScreenOriented(Vector_1, float_2, int_3, int_4, int_5, int_6, bool_7, float_8)`
+```js	
+void CircleScreenOriented(Vector_1, float_2, int_3, int_4, int_5, int_6, bool_7, float_8)
+```
 # Class
-> __✔ Server: CDebugOverlayScriptHelper__  
-> __✔ Client: CDebugOverlayScriptHelper__  
+✔ `Server: CDebugOverlayScriptHelper`  
+✔ `Client: CDebugOverlayScriptHelper`  
+
 # Function Description
 Draws a circle oriented to the screen. Specify center in world space.
 # Parameters

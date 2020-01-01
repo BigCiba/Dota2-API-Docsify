@@ -1,8 +1,11 @@
 # GetCastRange
-> `int GetCastRange(vLocation, hTarget)`
+```js	
+int GetCastRange(vLocation, hTarget)
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 Gets the cast range of the ability.
 # Parameters

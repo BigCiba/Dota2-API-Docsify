@@ -1,8 +1,11 @@
 # SpendMana
-> `void SpendMana(flManaSpent, hAbility)`
+```js	
+void SpendMana(flManaSpent, hAbility)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Spend mana from this unit, this can be used for spending mana from abilities or item usage.
 # Parameters

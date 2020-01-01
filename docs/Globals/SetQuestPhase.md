@@ -1,8 +1,11 @@
 # SetQuestPhase
-> `void SetQuestPhase(int_1)`
+```js	
+void SetQuestPhase(int_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Set the current quest phase.
 # Parameters

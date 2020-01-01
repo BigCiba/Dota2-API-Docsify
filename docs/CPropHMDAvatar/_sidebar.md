@@ -1,2 +1,2 @@
-* [◼️CPropHMDAvatar](/)
+* [**CPropHMDAvatar**](/)
 	* [GetVRHand](CPropHMDAvatar/GetVRHand)

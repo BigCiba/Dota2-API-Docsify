@@ -1,8 +1,11 @@
 # SetHeroSelectPenaltyTime
-> `void SetHeroSelectPenaltyTime(float_1)`
+```js	
+void SetHeroSelectPenaltyTime(float_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Sets amount of penalty time before randoming a hero
 # Parameters

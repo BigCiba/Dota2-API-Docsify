@@ -1,4 +1,4 @@
-* [◼️CBodyComponent](/)
+* [**CBodyComponent**](/)
 	* [AddImpulseAtPosition](CBodyComponent/AddImpulseAtPosition)
 	* [AddVelocity](CBodyComponent/AddVelocity)
 	* [DetachFromParent](CBodyComponent/DetachFromParent)

@@ -1,8 +1,11 @@
 # PrepareSpawners
-> `void PrepareSpawners(float_1)`
+```js	
+void PrepareSpawners(float_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Prepare Dota lane style spawners with a given interval
 # Parameters

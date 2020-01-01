@@ -1,8 +1,11 @@
 # UTIL_MessageTextAll
-> `void UTIL_MessageTextAll(string_1, int_2, int_3, int_4, int_5)`
+```js	
+void UTIL_MessageTextAll(string_1, int_2, int_3, int_4, int_5)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Sends colored text to all clients.
 # Parameters

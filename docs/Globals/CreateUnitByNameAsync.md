@@ -1,8 +1,11 @@
 # CreateUnitByNameAsync
-> `int CreateUnitByNameAsync(string_1, Vector_2, bool_3, handle_4, handle_5, int_6, handle_7)`
+```js	
+int CreateUnitByNameAsync(string_1, Vector_2, bool_3, handle_4, handle_5, int_6, handle_7)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Creates a DOTA unit by its dota_npc_units.txt name
 # Parameters

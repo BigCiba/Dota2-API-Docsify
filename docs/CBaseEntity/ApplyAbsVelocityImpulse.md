@@ -1,8 +1,11 @@
 # ApplyAbsVelocityImpulse
-> `void ApplyAbsVelocityImpulse(vecImpulse)`
+```js	
+void ApplyAbsVelocityImpulse(vecImpulse)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Apply a Velocity Impulse
 # Parameters

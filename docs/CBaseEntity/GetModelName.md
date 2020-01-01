@@ -1,7 +1,10 @@
 # GetModelName
-> `string GetModelName()`
+```js	
+string GetModelName()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns the name of the model.

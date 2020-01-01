@@ -1,7 +1,10 @@
 # OnUpgrade
-> `void OnUpgrade()`
+```js	
+void OnUpgrade()
+```
 # Class
-> __✔ Server: CDOTA_Item_Lua__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Item_Lua`  
+✖ `Client: undefined`  
+
 # Function Description
 Ability gained a level.

@@ -1,8 +1,11 @@
 # SetContainedItem
-> `void SetContainedItem(hItem)`
+```js	
+void SetContainedItem(hItem)
+```
 # Class
-> __✔ Server: CDOTA_Item_Physical__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Item_Physical`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the contained item.
 # Parameters

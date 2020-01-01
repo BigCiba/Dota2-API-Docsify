@@ -1,8 +1,11 @@
 # SetFloat
-> `void SetFloat(string_1, float_2)`
+```js	
+void SetFloat(string_1, float_2)
+```
 # Class
-> __✔ Server: Convars__  
-> __✔ Client: Convars__  
+✔ `Server: Convars`  
+✔ `Client: Convars`  
+
 # Function Description
 SetFloat(name, val) : sets the value of the convar to the float.
 # Parameters

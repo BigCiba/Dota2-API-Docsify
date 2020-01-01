@@ -1,7 +1,10 @@
 # ResetGameTime
-> `void ResetGameTime()`
+```js	
+void ResetGameTime()
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Restart gametime from 0

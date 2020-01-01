@@ -1,8 +1,11 @@
 # SetBotThinkingEnabled
-> `void SetBotThinkingEnabled(bEnabled)`
+```js	
+void SetBotThinkingEnabled(bEnabled)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Enables/Disables bots in custom games. Note: this will only work with default heroes in the dota map.
 # Parameters

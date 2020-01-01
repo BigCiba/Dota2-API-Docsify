@@ -1,8 +1,11 @@
 # IsCosmetic
-> `bool IsCosmetic(hEntity)`
+```js	
+bool IsCosmetic(hEntity)
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

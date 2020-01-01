@@ -1,8 +1,11 @@
 # DynamicHud_SetDialogVariables
-> `void DynamicHud_SetDialogVariables(int_1, string_2, handle_3)`
+```js	
+void DynamicHud_SetDialogVariables(int_1, string_2, handle_3)
+```
 # Class
-> __✔ Server: CDOTA_CustomUIManager__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_CustomUIManager`  
+✖ `Client: undefined`  
+
 # Function Description
 Add or modify dialog variables for an existing custom hud element ( int PlayerID /*-1 means everyone*/, string ElementID, table DialogVariables )
 # Parameters

@@ -1,8 +1,11 @@
 # CompleteQuest
-> `void CompleteQuest(string_1)`
+```js	
+void CompleteQuest(string_1)
+```
 # Class
-> __✔ Server: CDOTATutorial__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTATutorial`  
+✖ `Client: undefined`  
+
 # Function Description
 Complete a quest,
 # Parameters

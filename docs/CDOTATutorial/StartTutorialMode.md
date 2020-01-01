@@ -1,7 +1,10 @@
 # StartTutorialMode
-> `void StartTutorialMode()`
+```js	
+void StartTutorialMode()
+```
 # Class
-> __✔ Server: CDOTATutorial__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTATutorial`  
+✖ `Client: undefined`  
+
 # Function Description
 Initialize Tutorial Mode

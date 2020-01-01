@@ -1,8 +1,11 @@
 # SetCustomGameForceHero
-> `void SetCustomGameForceHero(pHeroName)`
+```js	
+void SetCustomGameForceHero(pHeroName)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Force all players to use the specified hero and disable the normal hero selection process. Must be used before hero selection.
 # Parameters

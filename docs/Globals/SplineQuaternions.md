@@ -1,8 +1,11 @@
 # SplineQuaternions
-> `Quaternion SplineQuaternions(Quaternion_1, Quaternion_2, float_3)`
+```js	
+Quaternion SplineQuaternions(Quaternion_1, Quaternion_2, float_3)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 (quaternion,quaternion,float) very basic interpolation of v0 to v1 over t on [0,1]
 # Parameters

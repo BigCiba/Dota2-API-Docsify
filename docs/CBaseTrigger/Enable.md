@@ -1,7 +1,10 @@
 # Enable
-> `void Enable()`
+```js	
+void Enable()
+```
 # Class
-> __✔ Server: CBaseTrigger__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseTrigger`  
+✖ `Client: undefined`  
+
 # Function Description
 Enable the trigger

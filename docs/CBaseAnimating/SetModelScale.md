@@ -1,8 +1,11 @@
 # SetModelScale
-> `void SetModelScale(flScale)`
+```js	
+void SetModelScale(flScale)
+```
 # Class
-> __✔ Server: CBaseAnimating__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseAnimating`  
+✖ `Client: undefined`  
+
 # Function Description
 Set scale of entity's model.
 # Parameters

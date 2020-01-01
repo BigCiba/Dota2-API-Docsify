@@ -1,7 +1,10 @@
 # GetNianTotalDamageTaken
-> `int GetNianTotalDamageTaken()`
+```js	
+int GetNianTotalDamageTaken()
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 For New Bloom, get total damage taken by the Nian / Year Beast

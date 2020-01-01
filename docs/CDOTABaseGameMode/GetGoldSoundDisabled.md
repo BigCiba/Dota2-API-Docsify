@@ -1,7 +1,10 @@
 # GetGoldSoundDisabled
-> `bool GetGoldSoundDisabled()`
+```js	
+bool GetGoldSoundDisabled()
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Turn the sound when gold is acquired off/on.

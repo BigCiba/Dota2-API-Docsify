@@ -1,8 +1,11 @@
 # SetShopType
-> `void SetShopType(eShopType)`
+```js	
+void SetShopType(eShopType)
+```
 # Class
-> __✔ Server: CDOTA_ShopTrigger__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_ShopTrigger`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the DOTA_SHOP_TYPE.
 # Parameters

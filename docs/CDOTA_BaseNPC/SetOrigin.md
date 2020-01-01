@@ -1,8 +1,11 @@
 # SetOrigin
-> `void SetOrigin(vLocation)`
+```js	
+void SetOrigin(vLocation)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the unit's origin.
 # Parameters

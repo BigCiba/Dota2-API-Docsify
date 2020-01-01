@@ -1,8 +1,11 @@
 # IsOwnersGoldEnough
-> `bool IsOwnersGoldEnough(nIssuerPlayerID)`
+```js	
+bool IsOwnersGoldEnough(nIssuerPlayerID)
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

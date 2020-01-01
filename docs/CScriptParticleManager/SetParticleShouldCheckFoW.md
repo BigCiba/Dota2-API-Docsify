@@ -1,8 +1,11 @@
 # SetParticleShouldCheckFoW
-> `bool SetParticleShouldCheckFoW(int_1, bool_2)`
+```js	
+bool SetParticleShouldCheckFoW(int_1, bool_2)
+```
 # Class
-> __✔ Server: CScriptParticleManager__  
-> __✔ Client: CScriptParticleManager__  
+✔ `Server: CScriptParticleManager`  
+✔ `Client: CScriptParticleManager`  
+
 # Function Description
 int nfxindex, bool bCheckFoW
 # Parameters

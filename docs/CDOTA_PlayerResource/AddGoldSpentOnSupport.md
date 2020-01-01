@@ -1,8 +1,11 @@
 # AddGoldSpentOnSupport
-> `void AddGoldSpentOnSupport(iPlayerID, iCost)`
+```js	
+void AddGoldSpentOnSupport(iPlayerID, iCost)
+```
 # Class
-> __✔ Server: CDOTA_PlayerResource__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_PlayerResource`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

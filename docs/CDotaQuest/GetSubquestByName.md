@@ -1,8 +1,11 @@
 # GetSubquestByName
-> `handle GetSubquestByName(pszName)`
+```js	
+handle GetSubquestByName(pszName)
+```
 # Class
-> __✔ Server: CDotaQuest__  
-> __✖ Client: undefined__  
+✔ `Server: CDotaQuest`  
+✖ `Client: undefined`  
+
 # Function Description
 Finds a subquest from this quest by name
 # Parameters

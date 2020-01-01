@@ -1,8 +1,11 @@
 # SetContextNum
-> `void SetContextNum(pName, fValue, duration)`
+```js	
+void SetContextNum(pName, fValue, duration)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 SetContextNum( name , value, duration ): store any key/value pair in this entity's dialog contexts. Value must be a number (int or float). Will last for duration (set 0 to mean 'forever').
 # Parameters

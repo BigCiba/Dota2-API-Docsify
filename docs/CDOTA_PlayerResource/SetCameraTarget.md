@@ -1,8 +1,11 @@
 # SetCameraTarget
-> `void SetCameraTarget(nPlayerID, hTarget)`
+```js	
+void SetCameraTarget(nPlayerID, hTarget)
+```
 # Class
-> __✔ Server: CDOTA_PlayerResource__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_PlayerResource`  
+✖ `Client: undefined`  
+
 # Function Description
 (playerID, entity) - force the given player's camera to follow the given entity
 # Parameters

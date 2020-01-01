@@ -1,8 +1,11 @@
 # SequenceDuration
-> `float SequenceDuration(string_1)`
+```js	
+float SequenceDuration(string_1)
+```
 # Class
-> __✔ Server: CBodyComponent__  
-> __✔ Client: CBodyComponent__  
+✔ `Server: CBodyComponent`  
+✔ `Client: CBodyComponent`  
+
 # Function Description
 Returns the duration in seconds of the specified sequence
 # Parameters

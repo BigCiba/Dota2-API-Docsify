@@ -1,8 +1,11 @@
 # ModifyGold
-> `int ModifyGold(iGoldChange, bReliable, iReason)`
+```js	
+int ModifyGold(iGoldChange, bReliable, iReason)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Hero__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Hero`  
+✖ `Client: undefined`  
+
 # Function Description
 Gives this hero some gold.  Args: int nGoldChange, bool bReliable, int reason
 # Parameters

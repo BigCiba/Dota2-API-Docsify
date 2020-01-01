@@ -1,8 +1,11 @@
 # SetPrimaryAttribute
-> `void SetPrimaryAttribute(nPrimaryAttribute)`
+```js	
+void SetPrimaryAttribute(nPrimaryAttribute)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Hero__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Hero`  
+✖ `Client: undefined`  
+
 # Function Description
 Set this hero's primary attribute value.
 # Parameters

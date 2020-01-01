@@ -1,8 +1,11 @@
 # SetControllableByPlayer
-> `void SetControllableByPlayer(iIndex, bSkipAdjustingPosition)`
+```js	
+void SetControllableByPlayer(iIndex, bSkipAdjustingPosition)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Set this unit controllable by the player with the passed ID.
 # Parameters

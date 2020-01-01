@@ -1,8 +1,11 @@
 # HasSelectedHero
-> `bool HasSelectedHero(iPlayerID)`
+```js	
+bool HasSelectedHero(iPlayerID)
+```
 # Class
-> __✔ Server: CDOTA_PlayerResource__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_PlayerResource`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

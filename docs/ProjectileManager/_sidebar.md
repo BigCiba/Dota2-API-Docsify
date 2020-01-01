@@ -1,4 +1,4 @@
-* [◼️ProjectileManager](/)
+* [**ProjectileManager**](/)
 	* [ChangeTrackingProjectileSpeed](ProjectileManager/ChangeTrackingProjectileSpeed)
 	* [CreateLinearProjectile](ProjectileManager/CreateLinearProjectile)
 	* [CreateTrackingProjectile](ProjectileManager/CreateTrackingProjectile)

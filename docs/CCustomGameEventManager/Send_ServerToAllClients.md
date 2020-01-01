@@ -1,8 +1,11 @@
 # Send_ServerToAllClients
-> `void Send_ServerToAllClients(string_1, handle_2)`
+```js	
+void Send_ServerToAllClients(string_1, handle_2)
+```
 # Class
-> __✔ Server: CCustomGameEventManager__  
-> __✖ Client: undefined__  
+✔ `Server: CCustomGameEventManager`  
+✖ `Client: undefined`  
+
 # Function Description
 ( string EventName, table EventData )
 # Parameters

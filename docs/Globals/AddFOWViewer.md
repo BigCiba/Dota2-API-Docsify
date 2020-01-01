@@ -1,8 +1,11 @@
 # AddFOWViewer
-> `void AddFOWViewer(int_1, Vector_2, float_3, float_4, bool_5)`
+```js	
+void AddFOWViewer(int_1, Vector_2, float_3, float_4, bool_5)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`
+
 # Function Description
 Add temporary vision for a given team ( nTeamID, vLocation, flRadius, flDuration, bObstructedVision)
 # Parameters

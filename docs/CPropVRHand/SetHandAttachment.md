@@ -1,8 +1,11 @@
 # SetHandAttachment
-> `void SetHandAttachment(hAttachment)`
+```js	
+void SetHandAttachment(hAttachment)
+```
 # Class
-> __✔ Server: CPropVRHand__  
-> __✖ Client: undefined__  
+✔ `Server: CPropVRHand`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the attachment for this hand
 # Parameters

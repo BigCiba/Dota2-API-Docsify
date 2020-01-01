@@ -1,7 +1,10 @@
 # entindex
-> `int entindex()`
+```js	
+int entindex()
+```
 # Class
-> __✔ Server: CEntityInstance__  
-> __✔ Client: CEntityInstance__  
+✔ `Server: CEntityInstance`  
+✔ `Client: CEntityInstance`  
+
 # Function Description
 

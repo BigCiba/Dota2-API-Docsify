@@ -1,8 +1,11 @@
 # AddCSSClasses
-> `void AddCSSClasses(pszClasses)`
+```js	
+void AddCSSClasses(pszClasses)
+```
 # Class
-> __✔ Server: CPointClientUIWorldPanel__  
-> __✖ Client: undefined__  
+✔ `Server: CPointClientUIWorldPanel`  
+✖ `Client: undefined`  
+
 # Function Description
 Adds CSS class(es) to the panel
 # Parameters

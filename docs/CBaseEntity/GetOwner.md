@@ -1,7 +1,10 @@
 # GetOwner
-> `handle GetOwner()`
+```js	
+handle GetOwner()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Gets this entity's owner

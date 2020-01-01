@@ -1,8 +1,11 @@
 # UTIL_AngleDiff
-> `float UTIL_AngleDiff(float_1, float_2)`
+```js	
+float UTIL_AngleDiff(float_1, float_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns the number of degrees difference between two yaw angles
 # Parameters

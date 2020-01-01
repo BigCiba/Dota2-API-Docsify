@@ -1,8 +1,11 @@
 # AddHandModelOverride
-> `handle AddHandModelOverride(pModelName)`
+```js	
+handle AddHandModelOverride(pModelName)
+```
 # Class
-> __✔ Server: CPropVRHand__  
-> __✖ Client: undefined__  
+✔ `Server: CPropVRHand`  
+✖ `Client: undefined`  
+
 # Function Description
 Add a model override for this hand
 # Parameters

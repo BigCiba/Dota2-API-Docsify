@@ -1,8 +1,11 @@
 # HasAttribute
-> `bool HasAttribute(pName)`
+```js	
+bool HasAttribute(pName)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 See if an entity has a particular attribute.
 # Parameters

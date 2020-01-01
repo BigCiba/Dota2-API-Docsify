@@ -1,8 +1,11 @@
 # SetCustomBackpackSwapCooldown
-> `void SetCustomBackpackSwapCooldown(flCooldown)`
+```js	
+void SetCustomBackpackSwapCooldown(flCooldown)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set a custom cooldown for swapping items into the backpack.
 # Parameters

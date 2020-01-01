@@ -1,8 +1,11 @@
 # SetEntityName
-> `void SetEntityName(pName)`
+```js	
+void SetEntityName(pName)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the name of an entity.
 # Parameters

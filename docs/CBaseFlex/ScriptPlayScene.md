@@ -1,8 +1,11 @@
 # ScriptPlayScene
-> `float ScriptPlayScene(pszScene, flDelay)`
+```js	
+float ScriptPlayScene(pszScene, flDelay)
+```
 # Class
-> __✔ Server: CBaseFlex__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseFlex`  
+✖ `Client: undefined`  
+
 # Function Description
 ( vcd file, delay ) - play specified vcd file
 # Parameters

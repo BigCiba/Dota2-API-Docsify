@@ -1,8 +1,11 @@
 # SetVelocity
-> `void SetVelocity(vecVelocity)`
+```js	
+void SetVelocity(vecVelocity)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

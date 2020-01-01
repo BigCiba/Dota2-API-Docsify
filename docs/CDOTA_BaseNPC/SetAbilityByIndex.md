@@ -1,8 +1,11 @@
 # SetAbilityByIndex
-> `void SetAbilityByIndex(hAbility, iIndex)`
+```js	
+void SetAbilityByIndex(hAbility, iIndex)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the ability by index.
 # Parameters

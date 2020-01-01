@@ -1,8 +1,11 @@
 # UnregisterListener
-> `void UnregisterListener(int_1)`
+```js	
+void UnregisterListener(int_1)
+```
 # Class
-> __✔ Server: CCustomGameEventManager__  
-> __✖ Client: undefined__  
+✔ `Server: CCustomGameEventManager`  
+✖ `Client: undefined`  
+
 # Function Description
 ( int ListnerID ) - Unregister a specific listener
 # Parameters

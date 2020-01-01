@@ -1,8 +1,11 @@
 # StartSoundEvent
-> `void StartSoundEvent(string_1, handle_2)`
+```js	
+void StartSoundEvent(string_1, handle_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Start a sound event
 # Parameters

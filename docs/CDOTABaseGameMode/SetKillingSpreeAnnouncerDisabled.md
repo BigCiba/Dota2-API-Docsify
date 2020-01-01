@@ -1,8 +1,11 @@
 # SetKillingSpreeAnnouncerDisabled
-> `void SetKillingSpreeAnnouncerDisabled(bDisabled)`
+```js	
+void SetKillingSpreeAnnouncerDisabled(bDisabled)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Mutes the in-game killing spree announcer.
 # Parameters

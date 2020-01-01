@@ -1,8 +1,11 @@
 # OnStolen
-> `void OnStolen(hSourceAbility)`
+```js	
+void OnStolen(hSourceAbility)
+```
 # Class
-> __✔ Server: CDOTA_Item_Lua__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Item_Lua`  
+✖ `Client: undefined`  
+
 # Function Description
 ( HSCRIPT hAbility ) Special behavior when stolen by Spell Steal.
 # Parameters

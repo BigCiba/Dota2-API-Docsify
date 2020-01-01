@@ -1,8 +1,11 @@
 # SetHTTPRequestNetworkActivityTimeout
-> `bool SetHTTPRequestNetworkActivityTimeout(unsigned_1)`
+```js	
+bool SetHTTPRequestNetworkActivityTimeout(unsigned_1)
+```
 # Class
-> __✔ Server: CScriptHTTPRequest__  
-> __✖ Client: undefined__  
+✔ `Server: CScriptHTTPRequest`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the network timeout on the request - this timer is reset when any data is received.
 # Parameters

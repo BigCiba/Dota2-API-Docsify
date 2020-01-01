@@ -1,8 +1,11 @@
 # GetCustomTeamAssignment
-> `int GetCustomTeamAssignment(iPlayerID)`
+```js	
+int GetCustomTeamAssignment(iPlayerID)
+```
 # Class
-> __✔ Server: CDOTA_PlayerResource__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_PlayerResource`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the current custom team assignment for this player.
 # Parameters

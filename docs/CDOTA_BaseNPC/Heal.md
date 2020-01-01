@@ -1,8 +1,11 @@
 # Heal
-> `void Heal(flAmount, hInflictor)`
+```js	
+void Heal(flAmount, hInflictor)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Heal this unit.
 # Parameters

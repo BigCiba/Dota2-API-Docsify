@@ -1,7 +1,10 @@
 # GetSystemDate
-> `string GetSystemDate()`
+```js	
+string GetSystemDate()
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the current real world date

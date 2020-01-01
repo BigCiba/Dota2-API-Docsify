@@ -1,8 +1,11 @@
 # ListenToGameEvent
-> `int ListenToGameEvent(string_1, handle_2, handle_3)`
+```js	
+int ListenToGameEvent(string_1, handle_2, handle_3)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Register as a listener for a game event from script.
 # Parameters

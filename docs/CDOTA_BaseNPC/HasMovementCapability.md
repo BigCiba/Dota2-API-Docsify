@@ -1,7 +1,10 @@
 # HasMovementCapability
-> `bool HasMovementCapability()`
+```js	
+bool HasMovementCapability()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✔ Client: C_DOTA_BaseNPC__  
+✔ `Server: CDOTA_BaseNPC`  
+✔ `Client: C_DOTA_BaseNPC`  
+
 # Function Description
 

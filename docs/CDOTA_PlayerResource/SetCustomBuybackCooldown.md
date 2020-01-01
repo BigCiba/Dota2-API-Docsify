@@ -1,8 +1,11 @@
 # SetCustomBuybackCooldown
-> `void SetCustomBuybackCooldown(iPlayerID, flCooldownTime)`
+```js	
+void SetCustomBuybackCooldown(iPlayerID, flCooldownTime)
+```
 # Class
-> __✔ Server: CDOTA_PlayerResource__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_PlayerResource`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the buyback cooldown for this player.
 # Parameters

@@ -1,8 +1,11 @@
 # RandomFloat
-> `float RandomFloat(float_1, float_2)`
+```js	
+float RandomFloat(float_1, float_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Get a random float within a range
 # Parameters

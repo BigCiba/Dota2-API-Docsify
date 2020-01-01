@@ -1,7 +1,10 @@
 # Kill
-> `void Kill()`
+```js	
+void Kill()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 

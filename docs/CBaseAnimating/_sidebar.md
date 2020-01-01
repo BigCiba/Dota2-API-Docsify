@@ -1,4 +1,4 @@
-* [◼️CBaseAnimating](/)
+* [**CBaseAnimating**](/)
 	* [ActiveSequenceDuration](CBaseAnimating/ActiveSequenceDuration)
 	* [GetAttachmentAngles](CBaseAnimating/GetAttachmentAngles)
 	* [GetAttachmentForward](CBaseAnimating/GetAttachmentForward)

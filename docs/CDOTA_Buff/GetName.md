@@ -1,7 +1,10 @@
 # GetName
-> `string GetName()`
+```js	
+string GetName()
+```
 # Class
-> __✔ Server: CDOTA_Buff__  
-> __✔ Client: CDOTA_Buff__  
+✔ `Server: CDOTA_Buff`  
+✔ `Client: CDOTA_Buff`  
+
 # Function Description
 

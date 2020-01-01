@@ -1,8 +1,11 @@
 # SetRuneSpawnTime
-> `void SetRuneSpawnTime(float_1)`
+```js	
+void SetRuneSpawnTime(float_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Sets the amount of time between rune spawns.
 # Parameters

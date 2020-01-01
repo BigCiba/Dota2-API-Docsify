@@ -1,8 +1,11 @@
 # CastAbilityOnPosition
-> `void CastAbilityOnPosition(vPosition, hAbility, iPlayerIndex)`
+```js	
+void CastAbilityOnPosition(vPosition, hAbility, iPlayerIndex)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Cast an ability on a position.
 # Parameters

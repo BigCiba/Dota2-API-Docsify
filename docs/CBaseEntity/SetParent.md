@@ -1,8 +1,11 @@
 # SetParent
-> `void SetParent(hParent, pAttachmentname)`
+```js	
+void SetParent(hParent, pAttachmentname)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the parent for this entity.
 # Parameters

@@ -1,8 +1,11 @@
 # ShowGenericPopupToPlayer
-> `void ShowGenericPopupToPlayer(handle_1, string_2, string_3, string_4, string_5, int_6)`
+```js	
+void ShowGenericPopupToPlayer(handle_1, string_2, string_3, string_4, string_5, int_6)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Show a generic popup dialog to a specific player.
 # Parameters

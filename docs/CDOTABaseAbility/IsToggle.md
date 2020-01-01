@@ -1,7 +1,10 @@
 # IsToggle
-> `bool IsToggle()`
+```js	
+bool IsToggle()
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 

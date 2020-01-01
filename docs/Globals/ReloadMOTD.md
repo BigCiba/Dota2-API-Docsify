@@ -1,7 +1,10 @@
 # ReloadMOTD
-> `void ReloadMOTD()`
+```js	
+void ReloadMOTD()
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Reloads the MotD file

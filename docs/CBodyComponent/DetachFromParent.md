@@ -1,7 +1,10 @@
 # DetachFromParent
-> `void DetachFromParent()`
+```js	
+void DetachFromParent()
+```
 # Class
-> __✔ Server: CBodyComponent__  
-> __✔ Client: CBodyComponent__  
+✔ `Server: CBodyComponent`  
+✔ `Client: CBodyComponent`  
+
 # Function Description
 Detach from its parent

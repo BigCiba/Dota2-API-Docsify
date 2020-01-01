@@ -1,7 +1,10 @@
 # GetWeaponCount
-> `int GetWeaponCount()`
+```js	
+int GetWeaponCount()
+```
 # Class
-> __✔ Server: CBaseCombatCharacter__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseCombatCharacter`  
+✖ `Client: undefined`  
+
 # Function Description
 GetWeaponCount() : Gets the number of weapons currently equipped

@@ -1,8 +1,11 @@
 # SpeakAbilityConcept
-> `void SpeakAbilityConcept(iConcept)`
+```js	
+void SpeakAbilityConcept(iConcept)
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

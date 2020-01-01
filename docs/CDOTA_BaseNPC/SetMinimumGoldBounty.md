@@ -1,8 +1,11 @@
 # SetMinimumGoldBounty
-> `void SetMinimumGoldBounty(iGoldBountyMin)`
+```js	
+void SetMinimumGoldBounty(iGoldBountyMin)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the minimum gold bounty for this unit.
 # Parameters

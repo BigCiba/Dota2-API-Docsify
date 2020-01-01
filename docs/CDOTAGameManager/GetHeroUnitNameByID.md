@@ -1,8 +1,11 @@
 # GetHeroUnitNameByID
-> `string GetHeroUnitNameByID(int_1)`
+```js	
+string GetHeroUnitNameByID(int_1)
+```
 # Class
-> __✔ Server: CDOTAGameManager__  
-> __✔ Client: CDOTAGameManager__  
+✔ `Server: CDOTAGameManager`  
+✔ `Client: CDOTAGameManager`  
+
 # Function Description
 Get the hero unit name given the hero ID.
 # Parameters

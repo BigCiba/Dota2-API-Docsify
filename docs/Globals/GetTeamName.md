@@ -1,8 +1,11 @@
 # GetTeamName
-> `string GetTeamName(int_1)`
+```js	
+string GetTeamName(int_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 ( int teamID )
 # Parameters

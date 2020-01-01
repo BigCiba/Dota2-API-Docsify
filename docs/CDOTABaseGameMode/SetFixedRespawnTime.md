@@ -1,8 +1,11 @@
 # SetFixedRespawnTime
-> `void SetFixedRespawnTime(flFixedRespawnTime)`
+```js	
+void SetFixedRespawnTime(flFixedRespawnTime)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set a fixed delay for all players to respawn after.
 # Parameters

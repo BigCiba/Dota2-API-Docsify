@@ -1,8 +1,11 @@
 # RemoveRealTimeCombatAnalyzerQuery
-> `void RemoveRealTimeCombatAnalyzerQuery(nQueryID)`
+```js	
+void RemoveRealTimeCombatAnalyzerQuery(nQueryID)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Stop tracking a combat analyzer query.
 # Parameters

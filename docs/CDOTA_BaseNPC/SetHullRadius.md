@@ -1,8 +1,11 @@
 # SetHullRadius
-> `void SetHullRadius(flHullRadius)`
+```js	
+void SetHullRadius(flHullRadius)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the collision hull radius of this NPC.
 # Parameters

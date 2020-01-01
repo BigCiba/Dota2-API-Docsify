@@ -1,8 +1,11 @@
 # FindNamedEntity
-> `handle FindNamedEntity(string_1)`
+```js	
+handle FindNamedEntity(string_1)
+```
 # Class
-> __✔ Server: CSceneEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CSceneEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 given an entity reference, such as !target, get actual entity from scene object
 # Parameters

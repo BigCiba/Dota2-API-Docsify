@@ -1,7 +1,10 @@
 # GetLocalPlayer
-> `handle GetLocalPlayer()`
+```js	
+handle GetLocalPlayer()
+```
 # Class
-> __✔ Server: CEntities__  
-> __✖ Client: undefined__  
+✔ `Server: CEntities`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the local player.

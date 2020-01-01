@@ -1,7 +1,10 @@
 # RemoveAllItemDrops
-> `void RemoveAllItemDrops()`
+```js	
+void RemoveAllItemDrops()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Creature__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Creature`  
+✖ `Client: undefined`  
+
 # Function Description
 Remove all item drops from this creature.

@@ -1,7 +1,10 @@
 # IsInToolsMode
-> `bool IsInToolsMode()`
+```js	
+bool IsInToolsMode()
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Returns true if this is lua running within tools mode.

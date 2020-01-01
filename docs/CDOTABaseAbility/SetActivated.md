@@ -1,8 +1,11 @@
 # SetActivated
-> `void SetActivated(bActivated)`
+```js	
+void SetActivated(bActivated)
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

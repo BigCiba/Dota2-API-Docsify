@@ -1,4 +1,4 @@
-* [◼️CCustomGameEventManager](/)
+* [**CCustomGameEventManager**](/)
 	* [RegisterListener](CCustomGameEventManager/RegisterListener)
 	* [Send_ServerToAllClients](CCustomGameEventManager/Send_ServerToAllClients)
 	* [Send_ServerToPlayer](CCustomGameEventManager/Send_ServerToPlayer)

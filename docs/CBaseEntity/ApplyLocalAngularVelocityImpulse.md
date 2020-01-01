@@ -1,8 +1,11 @@
 # ApplyLocalAngularVelocityImpulse
-> `void ApplyLocalAngularVelocityImpulse(angImpulse)`
+```js	
+void ApplyLocalAngularVelocityImpulse(angImpulse)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Apply an Ang Velocity Impulse
 # Parameters

@@ -1,8 +1,11 @@
 # RemoveSpawnGroupFilterProxy
-> `void RemoveSpawnGroupFilterProxy(string_1)`
+```js	
+void RemoveSpawnGroupFilterProxy(string_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Remove the C proxy for a script-based spawn group filter
 # Parameters

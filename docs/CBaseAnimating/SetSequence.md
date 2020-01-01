@@ -1,8 +1,11 @@
 # SetSequence
-> `void SetSequence(pSequenceName)`
+```js	
+void SetSequence(pSequenceName)
+```
 # Class
-> __✔ Server: CBaseAnimating__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseAnimating`  
+✖ `Client: undefined`  
+
 # Function Description
 Sets the active sequence by name, keeping the current cycle.
 # Parameters

@@ -1,8 +1,11 @@
 # SetAdditionalBattleMusicWeight
-> `void SetAdditionalBattleMusicWeight(flWeight)`
+```js	
+void SetAdditionalBattleMusicWeight(flWeight)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Combat involving this creature will have this weight added to the music calcuations.
 # Parameters

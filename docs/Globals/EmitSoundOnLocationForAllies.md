@@ -1,8 +1,11 @@
 # EmitSoundOnLocationForAllies
-> `void EmitSoundOnLocationForAllies(Vector_1, string_2, handle_3)`
+```js	
+void EmitSoundOnLocationForAllies(Vector_1, string_2, handle_3)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Emit a sound on a location from a unit, only for players allied with that unit (vLocation, soundName, hCaster
 # Parameters

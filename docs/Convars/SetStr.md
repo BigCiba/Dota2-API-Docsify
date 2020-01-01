@@ -1,8 +1,11 @@
 # SetStr
-> `void SetStr(string_1, string_2)`
+```js	
+void SetStr(string_1, string_2)
+```
 # Class
-> __✔ Server: Convars__  
-> __✔ Client: Convars__  
+✔ `Server: Convars`  
+✔ `Client: Convars`  
+
 # Function Description
 SetStr(name, val) : sets the value of the convar to the string.
 # Parameters

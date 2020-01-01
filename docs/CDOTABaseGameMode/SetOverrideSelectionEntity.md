@@ -1,8 +1,11 @@
 # SetOverrideSelectionEntity
-> `void SetOverrideSelectionEntity(hOverrideEntity)`
+```js	
+void SetOverrideSelectionEntity(hOverrideEntity)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set an override for the default selection entity, instead of each player's hero.
 # Parameters

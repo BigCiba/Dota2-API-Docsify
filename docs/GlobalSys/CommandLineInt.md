@@ -1,8 +1,11 @@
 # CommandLineInt
-> `table CommandLineInt(string_1, int_2)`
+```js	
+table CommandLineInt(string_1, int_2)
+```
 # Class
-> __✔ Server: GlobalSys__  
-> __✔ Client: GlobalSys__  
+✔ `Server: GlobalSys`  
+✔ `Client: GlobalSys`  
+
 # Function Description
 CommandLineInt(name) : returns the command line param as an int.
 # Parameters

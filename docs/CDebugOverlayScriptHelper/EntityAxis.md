@@ -1,8 +1,11 @@
 # EntityAxis
-> `void EntityAxis(ehandle_1, float_2, bool_3, float_4)`
+```js	
+void EntityAxis(ehandle_1, float_2, bool_3, float_4)
+```
 # Class
-> __✔ Server: CDebugOverlayScriptHelper__  
-> __✔ Client: CDebugOverlayScriptHelper__  
+✔ `Server: CDebugOverlayScriptHelper`  
+✔ `Client: CDebugOverlayScriptHelper`  
+
 # Function Description
 Draws the axis of the entity origin
 # Parameters

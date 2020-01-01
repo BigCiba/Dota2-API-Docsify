@@ -1,8 +1,11 @@
 # SetBodygroup
-> `void SetBodygroup(iGroup, iValue)`
+```js	
+void SetBodygroup(iGroup, iValue)
+```
 # Class
-> __✔ Server: CBaseModelEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseModelEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Sets a bodygroup.
 # Parameters

@@ -1,8 +1,11 @@
 # ForcePlayActivityOnce
-> `void ForcePlayActivityOnce(nActivity)`
+```js	
+void ForcePlayActivityOnce(nActivity)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Play an activity once, and then go back to idle.
 # Parameters

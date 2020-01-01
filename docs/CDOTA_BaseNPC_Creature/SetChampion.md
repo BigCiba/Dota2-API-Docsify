@@ -1,8 +1,11 @@
 # SetChampion
-> `void SetChampion(bIsChampion)`
+```js	
+void SetChampion(bIsChampion)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Creature__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Creature`  
+✖ `Client: undefined`  
+
 # Function Description
 Flag this unit as a champion creature.
 # Parameters

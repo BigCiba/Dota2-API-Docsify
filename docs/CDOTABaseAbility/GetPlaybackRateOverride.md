@@ -1,7 +1,10 @@
 # GetPlaybackRateOverride
-> `float GetPlaybackRateOverride()`
+```js	
+float GetPlaybackRateOverride()
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 

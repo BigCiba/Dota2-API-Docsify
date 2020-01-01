@@ -1,8 +1,11 @@
 # EnablePlayerOffscreenTip
-> `void EnablePlayerOffscreenTip(bool_1)`
+```js	
+void EnablePlayerOffscreenTip(bool_1)
+```
 # Class
-> __✔ Server: CDOTATutorial__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTATutorial`  
+✖ `Client: undefined`  
+
 # Function Description
 Enable the tip to alert players how to find their hero.
 # Parameters

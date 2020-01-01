@@ -1,8 +1,11 @@
 # CheckForCourierSpawning
-> `void CheckForCourierSpawning(hHero)`
+```js	
+void CheckForCourierSpawning(hHero)
+```
 # Class
-> __✔ Server: CDOTAPlayer__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAPlayer`  
+✖ `Client: undefined`  
+
 # Function Description
 Attempt to spawn the appropriate couriers for this mode.
 # Parameters

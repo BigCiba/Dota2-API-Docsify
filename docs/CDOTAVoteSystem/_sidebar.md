@@ -1,2 +1,2 @@
-* [◼️CDOTAVoteSystem](/)
+* [**CDOTAVoteSystem**](/)
 	* [StartVote](CDOTAVoteSystem/StartVote)

@@ -1,8 +1,11 @@
 # SetDynamicVsDynamicContinuous
-> `void SetDynamicVsDynamicContinuous(bIsDynamicVsDynamicContinuousEnabled)`
+```js	
+void SetDynamicVsDynamicContinuous(bIsDynamicVsDynamicContinuousEnabled)
+```
 # Class
-> __✔ Server: CPhysicsProp__  
-> __✖ Client: undefined__  
+✔ `Server: CPhysicsProp`  
+✖ `Client: undefined`  
+
 # Function Description
 Enable/disable dynamic vs dynamic continuous collision traces
 # Parameters

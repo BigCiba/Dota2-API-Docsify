@@ -1,7 +1,10 @@
 # GetAbilityType
-> `int GetAbilityType()`
+```js	
+int GetAbilityType()
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 

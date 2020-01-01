@@ -1,7 +1,10 @@
 # OnAbilityPhaseStart
-> `bool OnAbilityPhaseStart()`
+```js	
+bool OnAbilityPhaseStart()
+```
 # Class
-> __✔ Server: CDOTA_Ability_Lua__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Ability_Lua`  
+✖ `Client: undefined`  
+
 # Function Description
 Cast time begins (return true for successful cast).

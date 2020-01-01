@@ -1,8 +1,11 @@
 # SetSelectionGoldPenaltyEnabled
-> `void SetSelectionGoldPenaltyEnabled(bEnabled)`
+```js	
+void SetSelectionGoldPenaltyEnabled(bEnabled)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Enable/disable gold penalty for late picking.
 # Parameters

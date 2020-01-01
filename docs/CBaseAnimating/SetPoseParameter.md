@@ -1,8 +1,11 @@
 # SetPoseParameter
-> `float SetPoseParameter(szName, fValue)`
+```js	
+float SetPoseParameter(szName, fValue)
+```
 # Class
-> __✔ Server: CBaseAnimating__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseAnimating`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the specified pose parameter to the specified value.
 # Parameters

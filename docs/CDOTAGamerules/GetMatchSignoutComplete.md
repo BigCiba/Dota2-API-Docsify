@@ -1,7 +1,10 @@
 # GetMatchSignoutComplete
-> `bool GetMatchSignoutComplete()`
+```js	
+bool GetMatchSignoutComplete()
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Have we received the post match signout message that includes reward information

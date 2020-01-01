@@ -1,7 +1,10 @@
 # GetBounds
-> `table GetBounds()`
+```js	
+table GetBounds()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Get a table containing the 'Mins' & 'Maxs' vector bounds, centered on object.

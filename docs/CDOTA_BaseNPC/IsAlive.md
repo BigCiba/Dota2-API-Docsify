@@ -1,7 +1,10 @@
 # IsAlive
-> `bool IsAlive()`
+```js	
+bool IsAlive()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Is this unit alive?

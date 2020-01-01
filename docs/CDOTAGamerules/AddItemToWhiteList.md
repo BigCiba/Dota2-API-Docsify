@@ -1,8 +1,11 @@
 # AddItemToWhiteList
-> `void AddItemToWhiteList(string_1)`
+```js	
+void AddItemToWhiteList(string_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Add an item to the whitelist
 # Parameters

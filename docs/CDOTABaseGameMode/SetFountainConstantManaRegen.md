@@ -1,8 +1,11 @@
 # SetFountainConstantManaRegen
-> `void SetFountainConstantManaRegen(flConstantManaRegen)`
+```js	
+void SetFountainConstantManaRegen(flConstantManaRegen)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the constant rate that the fountain will regen mana. (-1 for default)
 # Parameters

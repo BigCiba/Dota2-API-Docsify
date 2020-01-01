@@ -1,8 +1,11 @@
 # GetCustomGameTeamMaxPlayers
-> `int GetCustomGameTeamMaxPlayers(int_1)`
+```js	
+int GetCustomGameTeamMaxPlayers(int_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Get whether a team is selectable during game setup
 # Parameters

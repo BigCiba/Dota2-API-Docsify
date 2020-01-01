@@ -1,8 +1,11 @@
 # RedirectOutput
-> `void RedirectOutput(string_1, string_2, handle_3)`
+```js	
+void RedirectOutput(string_1, string_2, handle_3)
+```
 # Class
-> __✔ Server: CEntityInstance__  
-> __✔ Client: CEntityInstance__  
+✔ `Server: CEntityInstance`  
+✔ `Client: CEntityInstance`  
+
 # Function Description
 Adds an I/O connection that will call the named function on the passed entity when the specified output fires.
 # Parameters

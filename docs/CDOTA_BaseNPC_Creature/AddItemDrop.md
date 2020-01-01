@@ -1,8 +1,11 @@
 # AddItemDrop
-> `void AddItemDrop(hDropData)`
+```js	
+void AddItemDrop(hDropData)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Creature__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Creature`  
+✖ `Client: undefined`  
+
 # Function Description
 Add the specified item drop to this creature.
 # Parameters

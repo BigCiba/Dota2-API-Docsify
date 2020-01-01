@@ -1,8 +1,11 @@
 # GetManaCost
-> `int GetManaCost(iLevel)`
+```js	
+int GetManaCost(iLevel)
+```
 # Class
-> __✔ Server: CDOTA_Ability_Lua__  
-> __✔ Client: C_DOTA_Ability_Lua__  
+✔ `Server: CDOTA_Ability_Lua`  
+✔ `Client: C_DOTA_Ability_Lua`  
+
 # Function Description
 Return mana cost at the given level (-1 is current).
 # Parameters

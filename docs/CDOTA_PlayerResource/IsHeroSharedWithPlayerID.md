@@ -1,8 +1,11 @@
 # IsHeroSharedWithPlayerID
-> `bool IsHeroSharedWithPlayerID(nUnitOwnerPlayerID, nOtherPlayerID)`
+```js	
+bool IsHeroSharedWithPlayerID(nUnitOwnerPlayerID, nOtherPlayerID)
+```
 # Class
-> __✔ Server: CDOTA_PlayerResource__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_PlayerResource`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

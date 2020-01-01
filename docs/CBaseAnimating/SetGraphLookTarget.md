@@ -1,8 +1,11 @@
 # SetGraphLookTarget
-> `void SetGraphLookTarget(vValue)`
+```js	
+void SetGraphLookTarget(vValue)
+```
 # Class
-> __✔ Server: CBaseAnimating__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseAnimating`  
+✖ `Client: undefined`  
+
 # Function Description
 Pass the desired look target in world space to the graph
 # Parameters

@@ -1,7 +1,10 @@
 # GetRenderAlpha
-> `int GetRenderAlpha()`
+```js	
+int GetRenderAlpha()
+```
 # Class
-> __✔ Server: CBaseModelEntity__  
-> __✔ Client: C_BaseModelEntity__  
+✔ `Server: CBaseModelEntity`  
+✔ `Client: C_BaseModelEntity`  
+
 # Function Description
 GetRenderAlpha(): Get the alpha modulation of this entity.

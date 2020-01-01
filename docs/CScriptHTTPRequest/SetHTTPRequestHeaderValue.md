@@ -1,8 +1,11 @@
 # SetHTTPRequestHeaderValue
-> `bool SetHTTPRequestHeaderValue(string_1, string_2)`
+```js	
+bool SetHTTPRequestHeaderValue(string_1, string_2)
+```
 # Class
-> __✔ Server: CScriptHTTPRequest__  
-> __✖ Client: undefined__  
+✔ `Server: CScriptHTTPRequest`  
+✖ `Client: undefined`  
+
 # Function Description
 Set a header value on the request.
 # Parameters

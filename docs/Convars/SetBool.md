@@ -1,8 +1,11 @@
 # SetBool
-> `void SetBool(string_1, bool_2)`
+```js	
+void SetBool(string_1, bool_2)
+```
 # Class
-> __✔ Server: Convars__  
-> __✔ Client: Convars__  
+✔ `Server: Convars`  
+✔ `Client: Convars`  
+
 # Function Description
 SetBool(name, val) : sets the value of the convar to the bool.
 # Parameters

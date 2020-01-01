@@ -1,7 +1,10 @@
 # GetWeatherWindDirection
-> `Vector GetWeatherWindDirection()`
+```js	
+Vector GetWeatherWindDirection()
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✔ Client: CDOTAGamerules__  
+✔ `Server: CDOTAGamerules`  
+✔ `Client: CDOTAGamerules`  
+
 # Function Description
 Get Weather Wind Direction Vector

@@ -1,8 +1,11 @@
 # ResetSequence
-> `void ResetSequence(pSequenceName)`
+```js	
+void ResetSequence(pSequenceName)
+```
 # Class
-> __✔ Server: CBaseAnimating__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseAnimating`  
+✖ `Client: undefined`  
+
 # Function Description
 Sets the active sequence by name, resetting the current cycle.
 # Parameters

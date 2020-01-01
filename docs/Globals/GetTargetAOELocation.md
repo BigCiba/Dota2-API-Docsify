@@ -1,8 +1,11 @@
 # GetTargetAOELocation
-> `Vector GetTargetAOELocation(int_1, int_2, int_3, Vector_4, int_5, int_6, int_7)`
+```js	
+Vector GetTargetAOELocation(int_1, int_2, int_3, Vector_4, int_5, int_6, int_7)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

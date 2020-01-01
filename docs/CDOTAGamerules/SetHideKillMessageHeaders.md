@@ -1,8 +1,11 @@
 # SetHideKillMessageHeaders
-> `void SetHideKillMessageHeaders(bool_1)`
+```js	
+void SetHideKillMessageHeaders(bool_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Sets whether the multikill, streak, and first-blood banners appear at the top of the screen.
 # Parameters

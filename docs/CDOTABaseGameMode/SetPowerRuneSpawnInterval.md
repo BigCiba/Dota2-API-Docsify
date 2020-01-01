@@ -1,8 +1,11 @@
 # SetPowerRuneSpawnInterval
-> `void SetPowerRuneSpawnInterval(flInterval)`
+```js	
+void SetPowerRuneSpawnInterval(flInterval)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set power rune spawn rate
 # Parameters

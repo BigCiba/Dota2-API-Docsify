@@ -1,8 +1,11 @@
 # SetBotsInLateGame
-> `void SetBotsInLateGame(bLateGame)`
+```js	
+void SetBotsInLateGame(bLateGame)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set if bots should enable their late game behavior.
 # Parameters

@@ -1,7 +1,10 @@
 # GetCustomScanCooldown
-> `float GetCustomScanCooldown()`
+```js	
+float GetCustomScanCooldown()
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the current custom scan cooldown.

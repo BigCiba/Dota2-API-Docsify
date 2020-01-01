@@ -1,8 +1,11 @@
 # GetEntityIndexForTreeId
-> `<unknown> GetEntityIndexForTreeId(unsigned_1)`
+```js	
+<unknown> GetEntityIndexForTreeId(unsigned_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the enity index for a tree id specified as the entindex_target of a DOTA_UNIT_ORDER_CAST_TARGET_TREE.
 # Parameters

@@ -1,8 +1,11 @@
 # ListenForQueryFailed
-> `void ListenForQueryFailed(hFunction, hContext)`
+```js	
+void ListenForQueryFailed(hFunction, hContext)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set function and context for real time combat analyzer query failed.
 # Parameters

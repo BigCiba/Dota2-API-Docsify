@@ -1,8 +1,11 @@
 # SetParticleFoWProperties
-> `void SetParticleFoWProperties(int_1, int_2, int_3, float_4)`
+```js	
+void SetParticleFoWProperties(int_1, int_2, int_3, float_4)
+```
 # Class
-> __✔ Server: CScriptParticleManager__  
-> __✔ Client: CScriptParticleManager__  
+✔ `Server: CScriptParticleManager`  
+✔ `Client: CScriptParticleManager`  
+
 # Function Description
 int nfxindex, int nPoint, int nPoint2, float flRadius
 # Parameters

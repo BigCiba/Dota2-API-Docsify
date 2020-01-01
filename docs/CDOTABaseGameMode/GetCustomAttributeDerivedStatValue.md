@@ -1,8 +1,11 @@
 # GetCustomAttributeDerivedStatValue
-> `float GetCustomAttributeDerivedStatValue(nDerivedStatType, hHero)`
+```js	
+float GetCustomAttributeDerivedStatValue(nDerivedStatType, hHero)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Get current derived stat value constant.
 # Parameters

@@ -1,8 +1,11 @@
 # SetKillableTombstones
-> `void SetKillableTombstones(bEnabled)`
+```js	
+void SetKillableTombstones(bEnabled)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set whether tombstones can be channeled to be removed by enemy heroes.
 # Parameters

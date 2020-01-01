@@ -1,8 +1,11 @@
 # PickupDroppedItem
-> `void PickupDroppedItem(hItem)`
+```js	
+void PickupDroppedItem(hItem)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Pick up a dropped item.
 # Parameters

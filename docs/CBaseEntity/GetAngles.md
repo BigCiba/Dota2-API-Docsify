@@ -1,7 +1,10 @@
 # GetAngles
-> `QAngle GetAngles()`
+```js	
+QAngle GetAngles()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 

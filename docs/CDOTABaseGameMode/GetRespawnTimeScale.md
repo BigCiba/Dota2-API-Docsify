@@ -1,7 +1,10 @@
 # GetRespawnTimeScale
-> `float GetRespawnTimeScale()`
+```js	
+float GetRespawnTimeScale()
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns the scale applied to non-fixed respawn times.

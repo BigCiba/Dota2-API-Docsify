@@ -1,8 +1,11 @@
 # SetCursorPosition
-> `void SetCursorPosition(vLocation)`
+```js	
+void SetCursorPosition(vLocation)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

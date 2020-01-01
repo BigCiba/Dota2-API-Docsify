@@ -1,8 +1,11 @@
 # TraceCollideable
-> `bool TraceCollideable(handle_1)`
+```js	
+bool TraceCollideable(handle_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Pass table - Inputs: start, end, ent, (optional mins, maxs) -- outputs: pos, fraction, hit, startsolid, normal
 # Parameters

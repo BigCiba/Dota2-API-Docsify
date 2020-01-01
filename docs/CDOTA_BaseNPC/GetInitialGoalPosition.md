@@ -1,7 +1,10 @@
 # GetInitialGoalPosition
-> `Vector GetInitialGoalPosition()`
+```js	
+Vector GetInitialGoalPosition()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Get waypoint position for this NPC.

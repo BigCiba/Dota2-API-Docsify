@@ -1,7 +1,10 @@
 # GetFrameCount
-> `int GetFrameCount()`
+```js	
+int GetFrameCount()
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Returns the engines current frame count

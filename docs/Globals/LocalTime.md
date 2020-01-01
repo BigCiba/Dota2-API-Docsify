@@ -1,7 +1,10 @@
 # LocalTime
-> `table LocalTime()`
+```js	
+table LocalTime()
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Get the current local time

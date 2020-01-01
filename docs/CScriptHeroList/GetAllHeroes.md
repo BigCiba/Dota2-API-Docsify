@@ -1,7 +1,10 @@
 # GetAllHeroes
-> `table GetAllHeroes()`
+```js	
+table GetAllHeroes()
+```
 # Class
-> __✔ Server: CScriptHeroList__  
-> __✖ Client: undefined__  
+✔ `Server: CScriptHeroList`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns all the heroes in the world

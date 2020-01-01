@@ -1,7 +1,10 @@
 # First
-> `handle First()`
+```js	
+handle First()
+```
 # Class
-> __✔ Server: CEntities__  
-> __✔ Client: CEntities__  
+✔ `Server: CEntities`  
+✔ `Client: CEntities`  
+
 # Function Description
 Begin an iteration over the list of entities

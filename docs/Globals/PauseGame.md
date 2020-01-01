@@ -1,8 +1,11 @@
 # PauseGame
-> `void PauseGame(bool_1)`
+```js	
+void PauseGame(bool_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Pause or unpause the game.
 # Parameters

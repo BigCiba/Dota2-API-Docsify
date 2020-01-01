@@ -1,8 +1,11 @@
 # SetLightGroup
-> `void SetLightGroup(pLightGroup)`
+```js	
+void SetLightGroup(pLightGroup)
+```
 # Class
-> __✔ Server: CBaseModelEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseModelEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 SetLightGroup( string ): Sets the light group of the entity.
 # Parameters

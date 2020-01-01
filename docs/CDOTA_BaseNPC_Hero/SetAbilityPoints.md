@@ -1,8 +1,11 @@
 # SetAbilityPoints
-> `void SetAbilityPoints(iPoints)`
+```js	
+void SetAbilityPoints(iPoints)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Hero__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Hero`  
+✖ `Client: undefined`  
+
 # Function Description
 Sets the current unspent ability points.
 # Parameters

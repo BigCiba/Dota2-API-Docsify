@@ -1,8 +1,11 @@
 # IsTouching
-> `bool IsTouching(hEnt)`
+```js	
+bool IsTouching(hEnt)
+```
 # Class
-> __✔ Server: CBaseTrigger__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseTrigger`  
+✖ `Client: undefined`  
+
 # Function Description
 Checks whether the passed entity is touching the trigger.
 # Parameters

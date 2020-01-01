@@ -1,8 +1,11 @@
 # AddActivityModifier
-> `void AddActivityModifier(szName)`
+```js	
+void AddActivityModifier(szName)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Add an activity modifier that affects future StartGesture calls
 # Parameters

@@ -1,8 +1,11 @@
 # GetSteamID
-> `uint64 GetSteamID(iPlayerID)`
+```js	
+uint64 GetSteamID(iPlayerID)
+```
 # Class
-> __✔ Server: CDOTA_PlayerResource__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_PlayerResource`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the 64 bit steam ID for a given player.
 # Parameters

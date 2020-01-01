@@ -1,7 +1,10 @@
 # GetPurchaseTime
-> `float GetPurchaseTime()`
+```js	
+float GetPurchaseTime()
+```
 # Class
-> __✔ Server: CDOTA_Item__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Item`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the purchase time of this item

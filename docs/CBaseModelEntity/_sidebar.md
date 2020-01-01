@@ -1,4 +1,4 @@
-* [◼️CBaseModelEntity](/)
+* [**CBaseModelEntity**](/)
 	* [GetMaterialGroupHash](CBaseModelEntity/GetMaterialGroupHash)
 	* [GetMaterialGroupMask](CBaseModelEntity/GetMaterialGroupMask)
 	* [GetRenderAlpha](CBaseModelEntity/GetRenderAlpha)

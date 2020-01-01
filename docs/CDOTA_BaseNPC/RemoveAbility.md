@@ -1,8 +1,11 @@
 # RemoveAbility
-> `void RemoveAbility(pszAbilityName)`
+```js	
+void RemoveAbility(pszAbilityName)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Remove an ability from this unit by name.
 # Parameters

@@ -1,8 +1,11 @@
 # TransformPointEntityToWorld
-> `Vector TransformPointEntityToWorld(vPoint)`
+```js	
+Vector TransformPointEntityToWorld(vPoint)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns the input Vector transformed from entity to world space
 # Parameters

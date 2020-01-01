@@ -1,8 +1,11 @@
 # GetCooldown
-> `float GetCooldown(iLevel)`
+```js	
+float GetCooldown(iLevel)
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the cooldown duration for this ability at a given level, not the amount of cooldown actually left.
 # Parameters

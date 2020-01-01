@@ -1,8 +1,11 @@
 # Circle
-> `void Circle(Vector_1, Quaternion_2, float_3, int_4, int_5, int_6, int_7, bool_8, float_9)`
+```js	
+void Circle(Vector_1, Quaternion_2, float_3, int_4, int_5, int_6, int_7, bool_8, float_9)
+```
 # Class
-> __✔ Server: CDebugOverlayScriptHelper__  
-> __✔ Client: CDebugOverlayScriptHelper__  
+✔ `Server: CDebugOverlayScriptHelper`  
+✔ `Client: CDebugOverlayScriptHelper`  
+
 # Function Description
 Draws a circle. Specify center in world space.
 # Parameters

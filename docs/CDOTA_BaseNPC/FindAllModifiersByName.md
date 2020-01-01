@@ -1,8 +1,11 @@
 # FindAllModifiersByName
-> `table FindAllModifiersByName(pszScriptName)`
+```js	
+table FindAllModifiersByName(pszScriptName)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns a table of all of the modifiers on the NPC with the passed name (modifierName)
 # Parameters

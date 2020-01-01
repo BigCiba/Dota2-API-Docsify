@@ -1,8 +1,11 @@
 # BeginTemporaryNight
-> `void BeginTemporaryNight(float_1)`
+```js	
+void BeginTemporaryNight(float_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Begin temporary night.
 # Parameters

@@ -1,8 +1,11 @@
 # IsDisableHelpSetForPlayerID
-> `bool IsDisableHelpSetForPlayerID(nPlayerID, nOtherPlayerID)`
+```js	
+bool IsDisableHelpSetForPlayerID(nPlayerID, nOtherPlayerID)
+```
 # Class
-> __✔ Server: CDOTA_PlayerResource__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_PlayerResource`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

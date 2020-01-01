@@ -1,8 +1,11 @@
 # GetLinearProjectileRadius
-> `float GetLinearProjectileRadius(int_1)`
+```js	
+float GetLinearProjectileRadius(int_1)
+```
 # Class
-> __✔ Server: ProjectileManager__  
-> __✖ Client: undefined__  
+✔ `Server: ProjectileManager`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns current radius of projectile
 # Parameters

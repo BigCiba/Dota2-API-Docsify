@@ -1,7 +1,10 @@
 # GetPublicScriptScope
-> `handle GetPublicScriptScope()`
+```js	
+handle GetPublicScriptScope()
+```
 # Class
-> __✔ Server: CEntityInstance__  
-> __✔ Client: CEntityInstance__  
+✔ `Server: CEntityInstance`  
+✔ `Client: CEntityInstance`  
+
 # Function Description
 Retrieve the public script-side data associated with an entity

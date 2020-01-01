@@ -1,8 +1,11 @@
 # GetSoundDuration
-> `float GetSoundDuration(soundname, actormodel)`
+```js	
+float GetSoundDuration(soundname, actormodel)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns float duration of the sound. Takes soundname and optional actormodelname.
 # Parameters

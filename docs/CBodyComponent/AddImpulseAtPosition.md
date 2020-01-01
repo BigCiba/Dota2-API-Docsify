@@ -1,8 +1,11 @@
 # AddImpulseAtPosition
-> `void AddImpulseAtPosition(Vector_1, Vector_2)`
+```js	
+void AddImpulseAtPosition(Vector_1, Vector_2)
+```
 # Class
-> __✔ Server: CBodyComponent__  
-> __✔ Client: CBodyComponent__  
+✔ `Server: CBodyComponent`  
+✔ `Client: CBodyComponent`  
+
 # Function Description
 Apply an impulse at a worldspace position to the physics
 # Parameters

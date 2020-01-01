@@ -1,7 +1,10 @@
 # GetListenServerHost
-> `handle GetListenServerHost()`
+```js	
+handle GetListenServerHost()
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Get the local player on a listen server.

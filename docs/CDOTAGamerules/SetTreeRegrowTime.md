@@ -1,8 +1,11 @@
 # SetTreeRegrowTime
-> `void SetTreeRegrowTime(float_1)`
+```js	
+void SetTreeRegrowTime(float_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Sets the tree regrow time in seconds.
 # Parameters

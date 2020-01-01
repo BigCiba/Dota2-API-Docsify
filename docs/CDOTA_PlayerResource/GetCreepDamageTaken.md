@@ -1,8 +1,11 @@
 # GetCreepDamageTaken
-> `int GetCreepDamageTaken(iPlayerID, bTotal)`
+```js	
+int GetCreepDamageTaken(iPlayerID, bTotal)
+```
 # Class
-> __✔ Server: CDOTA_PlayerResource__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_PlayerResource`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

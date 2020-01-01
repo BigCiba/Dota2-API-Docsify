@@ -1,8 +1,11 @@
 # GetValue
-> `table GetValue(string_1)`
+```js	
+table GetValue(string_1)
+```
 # Class
-> __✔ Server: CScriptKeyValues__  
-> __✔ Client: CScriptKeyValues__  
+✔ `Server: CScriptKeyValues`  
+✔ `Client: CScriptKeyValues`  
+
 # Function Description
 Reads a spawn key
 # Parameters

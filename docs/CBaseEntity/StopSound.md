@@ -1,8 +1,11 @@
 # StopSound
-> `void StopSound(soundname)`
+```js	
+void StopSound(soundname)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Stops a named sound playing from this entity.
 # Parameters

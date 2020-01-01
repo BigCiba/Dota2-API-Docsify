@@ -1,8 +1,11 @@
 # GetFloat
-> `table GetFloat(string_1)`
+```js	
+table GetFloat(string_1)
+```
 # Class
-> __✔ Server: Convars__  
-> __✔ Client: Convars__  
+✔ `Server: Convars`  
+✔ `Client: Convars`  
+
 # Function Description
 GetFloat(name) : returns the convar as a float. May return null if no such convar.
 # Parameters

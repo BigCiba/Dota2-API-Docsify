@@ -1,8 +1,11 @@
 # SetLocalOrigin
-> `void SetLocalOrigin(origin)`
+```js	
+void SetLocalOrigin(origin)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Set entity local origin from a Vector
 # Parameters

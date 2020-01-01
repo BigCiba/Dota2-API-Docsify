@@ -1,8 +1,11 @@
 # SetUseDefaultDOTARuneSpawnLogic
-> `void SetUseDefaultDOTARuneSpawnLogic(bEnabled)`
+```js	
+void SetUseDefaultDOTARuneSpawnLogic(bEnabled)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 If set to true, use current rune spawn rules.  Either setting respects custom spawn intervals.
 # Parameters

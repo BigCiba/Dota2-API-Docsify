@@ -1,8 +1,11 @@
 # Text
-> `void Text(Vector_1, int_2, string_3, float_4, int_5, int_6, int_7, int_8, float_9)`
+```js	
+void Text(Vector_1, int_2, string_3, float_4, int_5, int_6, int_7, int_8, float_9)
+```
 # Class
-> __✔ Server: CDebugOverlayScriptHelper__  
-> __✔ Client: CDebugOverlayScriptHelper__  
+✔ `Server: CDebugOverlayScriptHelper`  
+✔ `Client: CDebugOverlayScriptHelper`  
+
 # Function Description
 Draws 2D text. Specify origin in world space.
 # Parameters

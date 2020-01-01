@@ -1,8 +1,11 @@
 # SetGraphParameterFloat
-> `void SetGraphParameterFloat(szName, flValue)`
+```js	
+void SetGraphParameterFloat(szName, flValue)
+```
 # Class
-> __✔ Server: CBaseAnimating__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseAnimating`  
+✖ `Client: undefined`  
+
 # Function Description
 Pass the float value to the specified param
 # Parameters

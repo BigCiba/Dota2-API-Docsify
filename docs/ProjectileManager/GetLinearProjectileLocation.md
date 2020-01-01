@@ -1,8 +1,11 @@
 # GetLinearProjectileLocation
-> `Vector GetLinearProjectileLocation(int_1)`
+```js	
+Vector GetLinearProjectileLocation(int_1)
+```
 # Class
-> __✔ Server: ProjectileManager__  
-> __✖ Client: undefined__  
+✔ `Server: ProjectileManager`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns current location of projectile
 # Parameters

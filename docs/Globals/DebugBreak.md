@@ -1,7 +1,10 @@
 # DebugBreak
-> `void DebugBreak()`
+```js	
+void DebugBreak()
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Breaks in the debugger

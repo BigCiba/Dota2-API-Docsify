@@ -1,8 +1,11 @@
 # SetShowcaseTime
-> `void SetShowcaseTime(float_1)`
+```js	
+void SetShowcaseTime(float_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Sets the amount of time players have between the strategy phase and entering the pre-game phase.
 # Parameters

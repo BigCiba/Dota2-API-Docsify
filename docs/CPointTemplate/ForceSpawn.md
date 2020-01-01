@@ -1,7 +1,10 @@
 # ForceSpawn
-> `void ForceSpawn()`
+```js	
+void ForceSpawn()
+```
 # Class
-> __✔ Server: CPointTemplate__  
-> __✖ Client: undefined__  
+✔ `Server: CPointTemplate`  
+✖ `Client: undefined`  
+
 # Function Description
 ForceSpawn() : Spawns all of the entities the point_template is pointing at.

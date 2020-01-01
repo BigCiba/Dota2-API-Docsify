@@ -1,8 +1,11 @@
 # SetUseBaseGoldBountyOnHeroes
-> `void SetUseBaseGoldBountyOnHeroes(bool_1)`
+```js	
+void SetUseBaseGoldBountyOnHeroes(bool_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Heroes will use the basic NPC functionality for determining their bounty, rather than DOTA specific formulas.
 # Parameters

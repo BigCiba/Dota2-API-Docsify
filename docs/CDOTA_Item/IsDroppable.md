@@ -1,7 +1,10 @@
 # IsDroppable
-> `bool IsDroppable()`
+```js	
+bool IsDroppable()
+```
 # Class
-> __✔ Server: CDOTA_Item__  
-> __✔ Client: C_DOTA_Item__  
+✔ `Server: CDOTA_Item`  
+✔ `Client: C_DOTA_Item`  
+
 # Function Description
 

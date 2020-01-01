@@ -1,7 +1,10 @@
 # ToggleAutoCast
-> `void ToggleAutoCast()`
+```js	
+void ToggleAutoCast()
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 

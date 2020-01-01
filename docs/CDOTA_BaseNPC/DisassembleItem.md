@@ -1,8 +1,11 @@
 # DisassembleItem
-> `void DisassembleItem(hItem)`
+```js	
+void DisassembleItem(hItem)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Disassemble the passed item in this unit's inventory.
 # Parameters

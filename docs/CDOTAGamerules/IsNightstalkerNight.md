@@ -1,7 +1,10 @@
 # IsNightstalkerNight
-> `bool IsNightstalkerNight()`
+```js	
+bool IsNightstalkerNight()
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Is it night stalker night-time?

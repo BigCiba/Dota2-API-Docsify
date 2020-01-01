@@ -1,8 +1,11 @@
 # CreateParticle
-> `int CreateParticle(string_1, int_2, handle_3)`
+```js	
+int CreateParticle(string_1, int_2, handle_3)
+```
 # Class
-> __✔ Server: CScriptParticleManager__  
-> __✔ Client: CScriptParticleManager__  
+✔ `Server: CScriptParticleManager`  
+✔ `Client: CScriptParticleManager`  
+
 # Function Description
 Creates a new particle effect
 # Parameters

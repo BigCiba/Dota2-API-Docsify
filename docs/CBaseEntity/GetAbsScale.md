@@ -1,7 +1,10 @@
 # GetAbsScale
-> `float GetAbsScale()`
+```js	
+float GetAbsScale()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 

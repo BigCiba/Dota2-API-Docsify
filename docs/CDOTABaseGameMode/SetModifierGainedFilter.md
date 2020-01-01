@@ -1,8 +1,11 @@
 # SetModifierGainedFilter
-> `void SetModifierGainedFilter(hFunction, hContext)`
+```js	
+void SetModifierGainedFilter(hFunction, hContext)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set a filter function to control modifiers that are gained, return false to destroy modifier.
 # Parameters

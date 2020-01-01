@@ -1,8 +1,11 @@
 # FireGameEventLocal
-> `void FireGameEventLocal(string_1, handle_2)`
+```js	
+void FireGameEventLocal(string_1, handle_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Fire a game event without broadcasting to the client.
 # Parameters

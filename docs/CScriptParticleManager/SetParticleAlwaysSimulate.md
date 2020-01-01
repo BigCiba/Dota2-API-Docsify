@@ -1,8 +1,11 @@
 # SetParticleAlwaysSimulate
-> `void SetParticleAlwaysSimulate(int_1)`
+```js	
+void SetParticleAlwaysSimulate(int_1)
+```
 # Class
-> __✔ Server: CScriptParticleManager__  
-> __✔ Client: CScriptParticleManager__  
+✔ `Server: CScriptParticleManager`  
+✔ `Client: CScriptParticleManager`  
+
 # Function Description
 
 # Parameters

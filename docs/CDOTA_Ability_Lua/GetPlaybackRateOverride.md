@@ -1,7 +1,10 @@
 # GetPlaybackRateOverride
-> `float GetPlaybackRateOverride()`
+```js	
+float GetPlaybackRateOverride()
+```
 # Class
-> __✔ Server: CDOTA_Ability_Lua__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Ability_Lua`  
+✖ `Client: undefined`  
+
 # Function Description
 Return the animation rate of the cast animation.

@@ -1,8 +1,11 @@
 # BeginNightstalkerNight
-> `void BeginNightstalkerNight(float_1)`
+```js	
+void BeginNightstalkerNight(float_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Begin night stalker night.
 # Parameters

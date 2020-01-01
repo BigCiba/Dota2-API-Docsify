@@ -1,4 +1,4 @@
-* [◼️CDOTAPlayer](/)
+* [**CDOTAPlayer**](/)
 	* [CheckForCourierSpawning](CDOTAPlayer/CheckForCourierSpawning)
 	* [GetAssignedHero](CDOTAPlayer/GetAssignedHero)
 	* [GetPlayerID](CDOTAPlayer/GetPlayerID)

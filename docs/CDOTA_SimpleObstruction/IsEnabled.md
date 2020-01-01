@@ -1,7 +1,10 @@
 # IsEnabled
-> `bool IsEnabled()`
+```js	
+bool IsEnabled()
+```
 # Class
-> __✔ Server: CDOTA_SimpleObstruction__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_SimpleObstruction`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns whether the obstruction is currently active

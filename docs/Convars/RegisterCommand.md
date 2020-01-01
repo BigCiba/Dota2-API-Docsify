@@ -1,8 +1,11 @@
 # RegisterCommand
-> `void RegisterCommand(string_1, handle_2, string_3, int_4)`
+```js	
+void RegisterCommand(string_1, handle_2, string_3, int_4)
+```
 # Class
-> __✔ Server: Convars__  
-> __✔ Client: Convars__  
+✔ `Server: Convars`  
+✔ `Client: Convars`  
+
 # Function Description
 RegisterCommand(name, fn, helpString, flags) : register a console command.
 # Parameters

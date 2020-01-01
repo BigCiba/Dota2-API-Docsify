@@ -1,7 +1,10 @@
 # GetPlayerCount
-> `int GetPlayerCount()`
+```js	
+int GetPlayerCount()
+```
 # Class
-> __✔ Server: CDOTA_PlayerResource__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_PlayerResource`  
+✖ `Client: undefined`  
+
 # Function Description
 Includes spectators and players not assigned to a team

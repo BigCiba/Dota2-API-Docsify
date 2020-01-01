@@ -1,8 +1,11 @@
 # Msg
-> `void Msg(string_1)`
+```js	
+void Msg(string_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Print a message
 # Parameters

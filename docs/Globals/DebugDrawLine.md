@@ -1,8 +1,11 @@
 # DebugDrawLine
-> `void DebugDrawLine(Vector_1, Vector_2, int_3, int_4, int_5, bool_6, float_7)`
+```js	
+void DebugDrawLine(Vector_1, Vector_2, int_3, int_4, int_5, bool_6, float_7)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Draw a debug overlay line (origin, target, r, g, b, ztest, duration)
 # Parameters

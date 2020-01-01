@@ -1,8 +1,11 @@
 # VectorAngles
-> `QAngle VectorAngles(Vector_1)`
+```js	
+QAngle VectorAngles(Vector_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

@@ -1,8 +1,11 @@
 # GetClaimedFarm
-> `float GetClaimedFarm(iPlayerID, bOnlyEarned)`
+```js	
+float GetClaimedFarm(iPlayerID, bOnlyEarned)
+```
 # Class
-> __✔ Server: CDOTA_PlayerResource__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_PlayerResource`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

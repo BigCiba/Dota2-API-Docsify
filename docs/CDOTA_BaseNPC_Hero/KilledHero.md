@@ -1,8 +1,11 @@
 # KilledHero
-> `void KilledHero(hHero, hInflictor)`
+```js	
+void KilledHero(hHero, hInflictor)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Hero__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Hero`  
+✖ `Client: undefined`  
+
 # Function Description
 Args: Hero, Inflictor
 # Parameters

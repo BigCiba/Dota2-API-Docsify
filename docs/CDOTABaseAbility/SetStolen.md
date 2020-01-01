@@ -1,8 +1,11 @@
 # SetStolen
-> `void SetStolen(bStolen)`
+```js	
+void SetStolen(bStolen)
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

@@ -1,8 +1,11 @@
 # GetTableValue
-> `table GetTableValue(string_1, string_2)`
+```js	
+table GetTableValue(string_1, string_2)
+```
 # Class
-> __✔ Server: CCustomNetTableManager__  
-> __✔ Client: CCustomNetTableManager__  
+✔ `Server: CCustomNetTableManager`  
+✔ `Client: CCustomNetTableManager`  
+
 # Function Description
 ( string TableName, string KeyName )
 # Parameters

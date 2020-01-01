@@ -1,8 +1,11 @@
 # RemoveSubquest
-> `void RemoveSubquest(hSubquest)`
+```js	
+void RemoveSubquest(hSubquest)
+```
 # Class
-> __✔ Server: CDotaQuest__  
-> __✖ Client: undefined__  
+✔ `Server: CDotaQuest`  
+✖ `Client: undefined`  
+
 # Function Description
 Remove a subquest from this quest
 # Parameters

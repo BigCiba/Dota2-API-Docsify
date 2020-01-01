@@ -1,8 +1,11 @@
 # DebugDrawText
-> `void DebugDrawText(Vector_1, string_2, bool_3, float_4)`
+```js	
+void DebugDrawText(Vector_1, string_2, bool_3, float_4)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Draw text in 3d (origin, text, bViewCheck, duration)
 # Parameters

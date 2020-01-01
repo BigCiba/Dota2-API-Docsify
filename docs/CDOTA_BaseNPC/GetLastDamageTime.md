@@ -1,7 +1,10 @@
 # GetLastDamageTime
-> `float GetLastDamageTime()`
+```js	
+float GetLastDamageTime()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the last time this NPC took damage

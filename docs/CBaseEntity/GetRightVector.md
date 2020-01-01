@@ -1,7 +1,10 @@
 # GetRightVector
-> `Vector GetRightVector()`
+```js	
+Vector GetRightVector()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the right vector of the entity.

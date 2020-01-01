@@ -1,8 +1,11 @@
 # SetParticleControlFallback
-> `void SetParticleControlFallback(int_1, int_2, Vector_3)`
+```js	
+void SetParticleControlFallback(int_1, int_2, Vector_3)
+```
 # Class
-> __✔ Server: CScriptParticleManager__  
-> __✔ Client: CScriptParticleManager__  
+✔ `Server: CScriptParticleManager`  
+✔ `Client: CScriptParticleManager`  
+
 # Function Description
 (int iIndex, int iPoint, Vector vecPosition)
 # Parameters

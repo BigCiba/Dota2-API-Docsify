@@ -1,8 +1,11 @@
 # SetCustomGameAllowHeroPickMusic
-> `void SetCustomGameAllowHeroPickMusic(bool_1)`
+```js	
+void SetCustomGameAllowHeroPickMusic(bool_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Sets a flag to enable/disable the default music handling code for custom games
 # Parameters

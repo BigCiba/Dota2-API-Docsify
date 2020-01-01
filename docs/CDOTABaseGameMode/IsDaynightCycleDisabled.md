@@ -1,7 +1,10 @@
 # IsDaynightCycleDisabled
-> `bool IsDaynightCycleDisabled()`
+```js	
+bool IsDaynightCycleDisabled()
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Is the day/night cycle disabled?

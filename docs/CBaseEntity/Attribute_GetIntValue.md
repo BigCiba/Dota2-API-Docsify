@@ -1,8 +1,11 @@
 # Attribute_GetIntValue
-> `int Attribute_GetIntValue(pName, nDefault)`
+```js	
+int Attribute_GetIntValue(pName, nDefault)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Get int value for an entity attribute.
 # Parameters

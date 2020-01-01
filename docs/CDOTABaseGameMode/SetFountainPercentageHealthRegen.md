@@ -1,8 +1,11 @@
 # SetFountainPercentageHealthRegen
-> `void SetFountainPercentageHealthRegen(flPercentageHealthRegen)`
+```js	
+void SetFountainPercentageHealthRegen(flPercentageHealthRegen)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the percentage rate that the fountain will regen health. (-1 for default)
 # Parameters

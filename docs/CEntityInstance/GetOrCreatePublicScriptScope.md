@@ -1,7 +1,10 @@
 # GetOrCreatePublicScriptScope
-> `handle GetOrCreatePublicScriptScope()`
+```js	
+handle GetOrCreatePublicScriptScope()
+```
 # Class
-> __✔ Server: CEntityInstance__  
-> __✔ Client: CEntityInstance__  
+✔ `Server: CEntityInstance`  
+✔ `Client: CEntityInstance`  
+
 # Function Description
 Retrieve, creating if necessary, the public script-side data associated with an entity

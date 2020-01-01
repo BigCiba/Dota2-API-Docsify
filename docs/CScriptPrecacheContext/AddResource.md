@@ -1,8 +1,11 @@
 # AddResource
-> `void AddResource(string_1)`
+```js	
+void AddResource(string_1)
+```
 # Class
-> __✔ Server: CScriptPrecacheContext__  
-> __✔ Client: CScriptPrecacheContext__  
+✔ `Server: CScriptPrecacheContext`  
+✔ `Client: CScriptPrecacheContext`  
+
 # Function Description
 Precaches a specific resource
 # Parameters

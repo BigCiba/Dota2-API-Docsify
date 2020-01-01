@@ -1,8 +1,11 @@
 # Line2D
-> `void Line2D(Vector2D_1, Vector2D_2, int_3, int_4, int_5, int_6, float_7)`
+```js	
+void Line2D(Vector2D_1, Vector2D_2, int_3, int_4, int_5, int_6, float_7)
+```
 # Class
-> __✔ Server: CDebugOverlayScriptHelper__  
-> __✔ Client: CDebugOverlayScriptHelper__  
+✔ `Server: CDebugOverlayScriptHelper`  
+✔ `Client: CDebugOverlayScriptHelper`  
+
 # Function Description
 Draws a line between two points in screenspace
 # Parameters

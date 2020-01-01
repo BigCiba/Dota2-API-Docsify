@@ -1,7 +1,10 @@
 # IsTemporaryNight
-> `bool IsTemporaryNight()`
+```js	
+bool IsTemporaryNight()
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Is it temporarily night-time?

@@ -1,8 +1,11 @@
 # SellItem
-> `void SellItem(hItem)`
+```js	
+void SellItem(hItem)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Sells the passed item in this unit's inventory.
 # Parameters

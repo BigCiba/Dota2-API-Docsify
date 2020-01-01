@@ -1,8 +1,11 @@
 # CreateDamageInfo
-> `handle CreateDamageInfo(handle_1, handle_2, Vector_3, Vector_4, float_5, int_6)`
+```js	
+handle CreateDamageInfo(handle_1, handle_2, Vector_3, Vector_4, float_5, int_6)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 (hInflictor, hAttacker, flDamage) - Allocate a damageinfo object, used as an argument to TakeDamage(). Call DestroyDamageInfo( hInfo ) to free the object.
 # Parameters

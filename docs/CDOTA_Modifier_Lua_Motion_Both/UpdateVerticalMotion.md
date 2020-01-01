@@ -1,8 +1,11 @@
 # UpdateVerticalMotion
-> `void UpdateVerticalMotion(me, dt)`
+```js	
+void UpdateVerticalMotion(me, dt)
+```
 # Class
-> __✔ Server: CDOTA_Modifier_Lua_Motion_Both__  
-> __✔ Client: CDOTA_Modifier_Lua_Motion_Both__  
+✔ `Server: CDOTA_Modifier_Lua_Motion_Both`  
+✔ `Client: CDOTA_Modifier_Lua_Motion_Both`  
+
 # Function Description
 Perform any motion from the given interval on the NPC.
 # Parameters

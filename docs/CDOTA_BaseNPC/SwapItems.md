@@ -1,8 +1,11 @@
 # SwapItems
-> `void SwapItems(nSlot1, nSlot2)`
+```js	
+void SwapItems(nSlot1, nSlot2)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Swap the contents of two item slots (slot1, slot2)
 # Parameters

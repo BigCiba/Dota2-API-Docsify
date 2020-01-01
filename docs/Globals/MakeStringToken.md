@@ -1,8 +1,11 @@
 # MakeStringToken
-> `int MakeStringToken(string_1)`
+```js	
+int MakeStringToken(string_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Checks to see if the given hScript is a valid entity
 # Parameters

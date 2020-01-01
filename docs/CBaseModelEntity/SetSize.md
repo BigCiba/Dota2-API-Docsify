@@ -1,8 +1,11 @@
 # SetSize
-> `void SetSize(mins, maxs)`
+```js	
+void SetSize(mins, maxs)
+```
 # Class
-> __✔ Server: CBaseModelEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseModelEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

@@ -1,8 +1,11 @@
 # UpgradeAbility
-> `void UpgradeAbility(hAbility)`
+```js	
+void UpgradeAbility(hAbility)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Hero__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Hero`  
+✖ `Client: undefined`  
+
 # Function Description
 This upgrades the passed ability if it exists and the hero has enough ability points.
 # Parameters

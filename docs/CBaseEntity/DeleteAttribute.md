@@ -1,8 +1,11 @@
 # DeleteAttribute
-> `void DeleteAttribute(pName)`
+```js	
+void DeleteAttribute(pName)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Delete an entity attribute.
 # Parameters

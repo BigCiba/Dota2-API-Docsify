@@ -1,8 +1,11 @@
 # GetDOTATime
-> `float GetDOTATime(bool_1, bool_2)`
+```js	
+float GetDOTATime(bool_1, bool_2)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✔ Client: CDOTAGamerules__  
+✔ `Server: CDOTAGamerules`  
+✔ `Client: CDOTAGamerules`  
+
 # Function Description
 (b IncludePregameTime b IncludeNegativeTime) Returns the actual DOTA in-game clock time.
 # Parameters

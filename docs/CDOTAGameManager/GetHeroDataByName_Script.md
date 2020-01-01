@@ -1,8 +1,11 @@
 # GetHeroDataByName_Script
-> `table GetHeroDataByName_Script(string_1)`
+```js	
+table GetHeroDataByName_Script(string_1)
+```
 # Class
-> __✔ Server: CDOTAGameManager__  
-> __✔ Client: CDOTAGameManager__  
+✔ `Server: CDOTAGameManager`  
+✔ `Client: CDOTAGameManager`  
+
 # Function Description
 Get the hero unit 
 # Parameters

@@ -1,8 +1,11 @@
 # ApplyDamage
-> `float ApplyDamage(handle_1)`
+```js	
+float ApplyDamage(handle_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Damage an npc.
 # Parameters

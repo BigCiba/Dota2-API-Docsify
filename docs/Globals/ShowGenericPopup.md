@@ -1,8 +1,11 @@
 # ShowGenericPopup
-> `void ShowGenericPopup(string_1, string_2, string_3, string_4, int_5)`
+```js	
+void ShowGenericPopup(string_1, string_2, string_3, string_4, int_5)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Show a generic popup dialog for all players.
 # Parameters

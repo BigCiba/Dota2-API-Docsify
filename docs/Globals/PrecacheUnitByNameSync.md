@@ -1,8 +1,11 @@
 # PrecacheUnitByNameSync
-> `void PrecacheUnitByNameSync(string_1, handle_2, int_3)`
+```js	
+void PrecacheUnitByNameSync(string_1, handle_2, int_3)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Precaches a DOTA unit by its dota_npc_units.txt name
 # Parameters

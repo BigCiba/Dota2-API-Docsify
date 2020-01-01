@@ -1,7 +1,10 @@
 # GetCurrentActiveAbility
-> `handle GetCurrentActiveAbility()`
+```js	
+handle GetCurrentActiveAbility()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the ability this unit is currently casting.

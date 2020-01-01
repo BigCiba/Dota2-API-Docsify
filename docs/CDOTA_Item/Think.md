@@ -1,7 +1,10 @@
 # Think
-> `void Think()`
+```js	
+void Think()
+```
 # Class
-> __✔ Server: CDOTA_Item__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Item`  
+✖ `Client: undefined`  
+
 # Function Description
 Think this item

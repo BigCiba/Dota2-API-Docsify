@@ -1,8 +1,11 @@
 # NotifyWearablesOfModelChange
-> `void NotifyWearablesOfModelChange(bOriginalModel)`
+```js	
+void NotifyWearablesOfModelChange(bOriginalModel)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

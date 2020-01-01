@@ -1,7 +1,10 @@
 # GetCustomBackpackCooldownPercent
-> `float GetCustomBackpackCooldownPercent()`
+```js	
+float GetCustomBackpackCooldownPercent()
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the current rate cooldown ticks down for items in the backpack.

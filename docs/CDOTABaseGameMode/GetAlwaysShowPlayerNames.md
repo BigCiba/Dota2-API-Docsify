@@ -1,7 +1,10 @@
 # GetAlwaysShowPlayerNames
-> `bool GetAlwaysShowPlayerNames()`
+```js	
+bool GetAlwaysShowPlayerNames()
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Get whether player names are always shown, regardless of client setting.

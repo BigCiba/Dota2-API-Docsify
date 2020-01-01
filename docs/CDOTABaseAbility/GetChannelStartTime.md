@@ -1,7 +1,10 @@
 # GetChannelStartTime
-> `float GetChannelStartTime()`
+```js	
+float GetChannelStartTime()
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 

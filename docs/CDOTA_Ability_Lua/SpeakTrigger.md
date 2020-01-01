@@ -1,7 +1,10 @@
 # SpeakTrigger
-> `int SpeakTrigger()`
+```js	
+int SpeakTrigger()
+```
 # Class
-> __✔ Server: CDOTA_Ability_Lua__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Ability_Lua`  
+✖ `Client: undefined`  
+
 # Function Description
 Return the type of speech used.

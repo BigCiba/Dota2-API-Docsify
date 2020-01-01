@@ -1,8 +1,11 @@
 # SetModifierStackCount
-> `void SetModifierStackCount(pszScriptName, hCaster, nStackCount)`
+```js	
+void SetModifierStackCount(pszScriptName, hCaster, nStackCount)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Sets the stack count of a given modifier.
 # Parameters

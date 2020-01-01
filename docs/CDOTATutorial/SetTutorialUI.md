@@ -1,8 +1,11 @@
 # SetTutorialUI
-> `void SetTutorialUI(int_1)`
+```js	
+void SetTutorialUI(int_1)
+```
 # Class
-> __✔ Server: CDOTATutorial__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTATutorial`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the UI to use a reduced version to focus attention to specific elements.
 # Parameters

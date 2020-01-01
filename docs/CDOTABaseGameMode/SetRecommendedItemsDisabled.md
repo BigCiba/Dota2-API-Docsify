@@ -1,8 +1,11 @@
 # SetRecommendedItemsDisabled
-> `void SetRecommendedItemsDisabled(bDisabled)`
+```js	
+void SetRecommendedItemsDisabled(bDisabled)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Turn the panel for showing recommended items at the shop off/on.
 # Parameters

@@ -1,8 +1,11 @@
 # SetCustomBuybackCostEnabled
-> `void SetCustomBuybackCostEnabled(bEnabled)`
+```js	
+void SetCustomBuybackCostEnabled(bEnabled)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Turns on capability to define custom buyback costs.
 # Parameters

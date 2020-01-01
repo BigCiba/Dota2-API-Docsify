@@ -1,4 +1,4 @@
-* [◼️CDOTA_Ability_Lua](/)
+* [**CDOTA_Ability_Lua**](/)
 	* [CastFilterResult](CDOTA_Ability_Lua/CastFilterResult)
 	* [CastFilterResultLocation](CDOTA_Ability_Lua/CastFilterResultLocation)
 	* [CastFilterResultTarget](CDOTA_Ability_Lua/CastFilterResultTarget)

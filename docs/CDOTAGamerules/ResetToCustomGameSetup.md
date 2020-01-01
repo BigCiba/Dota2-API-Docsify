@@ -1,7 +1,10 @@
 # ResetToCustomGameSetup
-> `void ResetToCustomGameSetup()`
+```js	
+void ResetToCustomGameSetup()
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Restart at custom game setup.

@@ -1,4 +1,4 @@
-* [◼️CDebugOverlayScriptHelper](/)
+* [**CDebugOverlayScriptHelper**](/)
 	* [Axis](CDebugOverlayScriptHelper/Axis)
 	* [Box](CDebugOverlayScriptHelper/Box)
 	* [BoxAngles](CDebugOverlayScriptHelper/BoxAngles)

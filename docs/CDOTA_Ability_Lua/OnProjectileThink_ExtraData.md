@@ -1,8 +1,11 @@
 # OnProjectileThink_ExtraData
-> `void OnProjectileThink_ExtraData(vLocation, table)`
+```js	
+void OnProjectileThink_ExtraData(vLocation, table)
+```
 # Class
-> __✔ Server: CDOTA_Ability_Lua__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Ability_Lua`  
+✖ `Client: undefined`  
+
 # Function Description
 (Vector vLocation, table kv ) Projectile is actively moving.
 # Parameters

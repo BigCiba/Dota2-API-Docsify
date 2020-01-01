@@ -1,8 +1,11 @@
 # SpawnEntityAtEntityOrigin
-> `void SpawnEntityAtEntityOrigin(hEntity)`
+```js	
+void SpawnEntityAtEntityOrigin(hEntity)
+```
 # Class
-> __✔ Server: CEnvEntityMaker__  
-> __✖ Client: undefined__  
+✔ `Server: CEnvEntityMaker`  
+✖ `Client: undefined`  
+
 # Function Description
 Create an entity at the location of a specified entity instance
 # Parameters

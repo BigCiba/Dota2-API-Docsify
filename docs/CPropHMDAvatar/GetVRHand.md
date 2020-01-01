@@ -1,8 +1,11 @@
 # GetVRHand
-> `handle GetVRHand(nHandID)`
+```js	
+handle GetVRHand(nHandID)
+```
 # Class
-> __✔ Server: CPropHMDAvatar__  
-> __✖ Client: undefined__  
+✔ `Server: CPropHMDAvatar`  
+✖ `Client: undefined`  
+
 # Function Description
 Get VR hand by ID
 # Parameters

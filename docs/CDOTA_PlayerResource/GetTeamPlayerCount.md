@@ -1,7 +1,10 @@
 # GetTeamPlayerCount
-> `int GetTeamPlayerCount()`
+```js	
+int GetTeamPlayerCount()
+```
 # Class
-> __✔ Server: CDOTA_PlayerResource__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_PlayerResource`  
+✖ `Client: undefined`  
+
 # Function Description
 Players on a valid team (radiant, dire, or custom*) who haven't abandoned the game

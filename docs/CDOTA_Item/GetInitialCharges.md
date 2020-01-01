@@ -1,7 +1,10 @@
 # GetInitialCharges
-> `int GetInitialCharges()`
+```js	
+int GetInitialCharges()
+```
 # Class
-> __✔ Server: CDOTA_Item__  
-> __✔ Client: C_DOTA_Item__  
+✔ `Server: CDOTA_Item`  
+✔ `Client: C_DOTA_Item`  
+
 # Function Description
 Get the initial number of charges this item has.

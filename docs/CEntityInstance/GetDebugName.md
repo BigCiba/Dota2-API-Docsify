@@ -1,7 +1,10 @@
 # GetDebugName
-> `string GetDebugName()`
+```js	
+string GetDebugName()
+```
 # Class
-> __✔ Server: CEntityInstance__  
-> __✔ Client: CEntityInstance__  
+✔ `Server: CEntityInstance`  
+✔ `Client: CEntityInstance`  
+
 # Function Description
 Get the entity name w/help if not defined (i.e. classname/etc)

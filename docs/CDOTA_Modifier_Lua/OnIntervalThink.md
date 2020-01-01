@@ -1,7 +1,10 @@
 # OnIntervalThink
-> `void OnIntervalThink()`
+```js	
+void OnIntervalThink()
+```
 # Class
-> __✔ Server: CDOTA_Modifier_Lua__  
-> __✔ Client: C_DOTA_Modifier_Lua__  
+✔ `Server: CDOTA_Modifier_Lua`  
+✔ `Client: C_DOTA_Modifier_Lua`  
+
 # Function Description
 Runs when the think interval occurs.

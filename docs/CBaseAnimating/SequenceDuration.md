@@ -1,8 +1,11 @@
 # SequenceDuration
-> `float SequenceDuration(pSequenceName)`
+```js	
+float SequenceDuration(pSequenceName)
+```
 # Class
-> __✔ Server: CBaseAnimating__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseAnimating`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns the duration in seconds of the given sequence name.
 # Parameters

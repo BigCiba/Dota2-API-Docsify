@@ -1,8 +1,11 @@
 # FindByClassnameNearest
-> `handle FindByClassnameNearest(string_1, Vector_2, float_3)`
+```js	
+handle FindByClassnameNearest(string_1, Vector_2, float_3)
+```
 # Class
-> __✔ Server: CEntities__  
-> __✖ Client: undefined__  
+✔ `Server: CEntities`  
+✖ `Client: undefined`  
+
 # Function Description
 Find entities by class name nearest to a point.
 # Parameters

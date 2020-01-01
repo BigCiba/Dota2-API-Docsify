@@ -1,8 +1,11 @@
 # Line
-> `void Line(Vector_1, Vector_2, int_3, int_4, int_5, int_6, bool_7, float_8)`
+```js	
+void Line(Vector_1, Vector_2, int_3, int_4, int_5, int_6, bool_7, float_8)
+```
 # Class
-> __✔ Server: CDebugOverlayScriptHelper__  
-> __✔ Client: CDebugOverlayScriptHelper__  
+✔ `Server: CDebugOverlayScriptHelper`  
+✔ `Client: CDebugOverlayScriptHelper`  
+
 # Function Description
 Draws a line between two points
 # Parameters

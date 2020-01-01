@@ -1,8 +1,11 @@
 # RemoveCSSClasses
-> `void RemoveCSSClasses(pszClasses)`
+```js	
+void RemoveCSSClasses(pszClasses)
+```
 # Class
-> __✔ Server: CPointClientUIWorldPanel__  
-> __✖ Client: undefined__  
+✔ `Server: CPointClientUIWorldPanel`  
+✖ `Client: undefined`  
+
 # Function Description
 Remove CSS class(es) from the panel
 # Parameters

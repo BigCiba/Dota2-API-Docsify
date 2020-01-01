@@ -1,7 +1,10 @@
 # FirstMoveChild
-> `handle FirstMoveChild()`
+```js	
+handle FirstMoveChild()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 

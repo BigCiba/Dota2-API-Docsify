@@ -1,8 +1,11 @@
 # SetInvulnCount
-> `void SetInvulnCount(nInvulnCount)`
+```js	
+void SetInvulnCount(nInvulnCount)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Building__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Building`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the invulnerability counter of this building.
 # Parameters

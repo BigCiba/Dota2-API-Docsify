@@ -1,4 +1,4 @@
-* [◼️CInfoData](/)
+* [**CInfoData**](/)
 	* [QueryColor](CInfoData/QueryColor)
 	* [QueryFloat](CInfoData/QueryFloat)
 	* [QueryInt](CInfoData/QueryInt)

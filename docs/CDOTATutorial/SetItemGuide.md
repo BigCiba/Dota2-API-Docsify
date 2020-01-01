@@ -1,8 +1,11 @@
 # SetItemGuide
-> `void SetItemGuide(string_1)`
+```js	
+void SetItemGuide(string_1)
+```
 # Class
-> __✔ Server: CDOTATutorial__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTATutorial`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the current item guide.
 # Parameters

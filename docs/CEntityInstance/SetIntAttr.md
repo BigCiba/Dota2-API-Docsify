@@ -1,8 +1,11 @@
 # SetIntAttr
-> `void SetIntAttr(string_1, int_2)`
+```js	
+void SetIntAttr(string_1, int_2)
+```
 # Class
-> __✔ Server: CEntityInstance__  
-> __✔ Client: CEntityInstance__  
+✔ `Server: CEntityInstance`  
+✔ `Client: CEntityInstance`  
+
 # Function Description
 Set Integer Attribute
 # Parameters

@@ -1,7 +1,10 @@
 # GetCenter
-> `Vector GetCenter()`
+```js	
+Vector GetCenter()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Get vector to center of object - absolute coords

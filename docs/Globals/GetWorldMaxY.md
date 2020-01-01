@@ -1,7 +1,10 @@
 # GetWorldMaxY
-> `float GetWorldMaxY()`
+```js	
+float GetWorldMaxY()
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Gets the world's maximum Y position.

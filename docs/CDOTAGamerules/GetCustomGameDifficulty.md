@@ -1,7 +1,10 @@
 # GetCustomGameDifficulty
-> `int GetCustomGameDifficulty()`
+```js	
+int GetCustomGameDifficulty()
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✔ Client: CDOTAGamerules__  
+✔ `Server: CDOTAGamerules`  
+✔ `Client: CDOTAGamerules`  
+
 # Function Description
 Returns the difficulty level of the custom game mode

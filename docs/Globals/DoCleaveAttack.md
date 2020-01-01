@@ -1,8 +1,11 @@
 # DoCleaveAttack
-> `int DoCleaveAttack(handle_1, handle_2, handle_3, float_4, float_5, float_6, float_7, string_8)`
+```js	
+int DoCleaveAttack(handle_1, handle_2, handle_3, float_4, float_5, float_6, float_7, string_8)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 (hAttacker, hTarget, hAbility, fDamage, fRadius, effectName)
 # Parameters

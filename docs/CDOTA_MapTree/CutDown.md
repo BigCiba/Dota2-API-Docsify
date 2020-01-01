@@ -1,8 +1,11 @@
 # CutDown
-> `void CutDown(nTeamNumberKnownTo)`
+```js	
+void CutDown(nTeamNumberKnownTo)
+```
 # Class
-> __✔ Server: CDOTA_MapTree__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_MapTree`  
+✖ `Client: undefined`  
+
 # Function Description
 Cuts down this tree. Parameters: int nTeamNumberKnownTo (-1 = invalid team)
 # Parameters

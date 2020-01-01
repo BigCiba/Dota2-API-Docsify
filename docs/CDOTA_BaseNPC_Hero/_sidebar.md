@@ -1,4 +1,4 @@
-* [◼️CDOTA_BaseNPC_Hero](/)
+* [**CDOTA_BaseNPC_Hero**](/)
 	* [AddExperience](CDOTA_BaseNPC_Hero/AddExperience)
 	* [Buyback](CDOTA_BaseNPC_Hero/Buyback)
 	* [CalculateStatBonus](CDOTA_BaseNPC_Hero/CalculateStatBonus)

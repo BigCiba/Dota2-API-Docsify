@@ -1,8 +1,11 @@
 # DestroyParticle
-> `void DestroyParticle(int_1, bool_2)`
+```js	
+void DestroyParticle(int_1, bool_2)
+```
 # Class
-> __✔ Server: CScriptParticleManager__  
-> __✔ Client: CScriptParticleManager__  
+✔ `Server: CScriptParticleManager`  
+✔ `Client: CScriptParticleManager`  
+
 # Function Description
 (int index, bool bDestroyImmediately) - Destroy a particle, if bDestroyImmediately destroy it without playing end caps.
 # Parameters

@@ -1,7 +1,10 @@
 # GetItemName
-> `string GetItemName()`
+```js	
+string GetItemName()
+```
 # Class
-> __✔ Server: CDOTA_ItemSpawner__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_ItemSpawner`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns the item name

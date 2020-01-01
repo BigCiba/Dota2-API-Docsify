@@ -1,8 +1,11 @@
 # SetCameraSmoothCountOverride
-> `void SetCameraSmoothCountOverride(nSmoothCount)`
+```js	
+void SetCameraSmoothCountOverride(nSmoothCount)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set a different camera smooth count; dota default is 8.
 # Parameters

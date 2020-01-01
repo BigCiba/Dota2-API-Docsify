@@ -1,4 +1,4 @@
-* [◼️CBasePlayer](/)
+* [**CBasePlayer**](/)
 	* [AreChaperoneBoundsVisible](CBasePlayer/AreChaperoneBoundsVisible)
 	* [GetHMDAnchor](CBasePlayer/GetHMDAnchor)
 	* [GetHMDAvatar](CBasePlayer/GetHMDAvatar)

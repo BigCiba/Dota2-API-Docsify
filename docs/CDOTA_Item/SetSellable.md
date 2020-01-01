@@ -1,8 +1,11 @@
 # SetSellable
-> `void SetSellable(bSellable)`
+```js	
+void SetSellable(bSellable)
+```
 # Class
-> __✔ Server: CDOTA_Item__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Item`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

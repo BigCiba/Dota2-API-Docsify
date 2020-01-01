@@ -1,8 +1,11 @@
 # SetGoldTickTime
-> `void SetGoldTickTime(float_1)`
+```js	
+void SetGoldTickTime(float_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the time interval between auto gold increases.
 # Parameters

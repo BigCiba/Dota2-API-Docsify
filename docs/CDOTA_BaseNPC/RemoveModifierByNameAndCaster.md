@@ -1,8 +1,11 @@
 # RemoveModifierByNameAndCaster
-> `void RemoveModifierByNameAndCaster(pszScriptName, hCaster)`
+```js	
+void RemoveModifierByNameAndCaster(pszScriptName, hCaster)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Removes a modifier that was cast by the given caster.
 # Parameters

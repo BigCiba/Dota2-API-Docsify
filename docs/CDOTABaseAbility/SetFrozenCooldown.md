@@ -1,8 +1,11 @@
 # SetFrozenCooldown
-> `void SetFrozenCooldown(bFrozenCooldown)`
+```js	
+void SetFrozenCooldown(bFrozenCooldown)
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

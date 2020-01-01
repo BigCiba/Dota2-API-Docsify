@@ -1,7 +1,10 @@
 # GetLevel
-> `int GetLevel()`
+```js	
+int GetLevel()
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✔ Client: C_DOTABaseAbility__  
+✔ `Server: CDOTABaseAbility`  
+✔ `Client: C_DOTABaseAbility`  
+
 # Function Description
 Get the current level of the ability.

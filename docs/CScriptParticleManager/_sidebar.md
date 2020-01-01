@@ -1,4 +1,4 @@
-* [◼️CScriptParticleManager](/)
+* [**CScriptParticleManager**](/)
 	* [CreateParticle](CScriptParticleManager/CreateParticle)
 	* [CreateParticleForPlayer](CScriptParticleManager/CreateParticleForPlayer)
 	* [CreateParticleForTeam](CScriptParticleManager/CreateParticleForTeam)

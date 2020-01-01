@@ -1,8 +1,11 @@
 # FindByName
-> `handle FindByName(handle_1, string_2)`
+```js	
+handle FindByName(handle_1, string_2)
+```
 # Class
-> __✔ Server: CEntities__  
-> __✖ Client: undefined__  
+✔ `Server: CEntities`  
+✖ `Client: undefined`  
+
 # Function Description
 Find entities by name. Pass 'null' to start an iteration, or reference to a previously found entity to continue a search
 # Parameters

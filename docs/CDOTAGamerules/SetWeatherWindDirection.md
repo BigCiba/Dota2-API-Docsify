@@ -1,8 +1,11 @@
 # SetWeatherWindDirection
-> `void SetWeatherWindDirection(Vector_1)`
+```js	
+void SetWeatherWindDirection(Vector_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Set Weather Wind Direction Vector
 # Parameters

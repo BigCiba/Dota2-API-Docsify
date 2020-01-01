@@ -1,7 +1,10 @@
 # SpendCharge
-> `void SpendCharge()`
+```js	
+void SpendCharge()
+```
 # Class
-> __✔ Server: CDOTA_Item__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Item`  
+✖ `Client: undefined`  
+
 # Function Description
 

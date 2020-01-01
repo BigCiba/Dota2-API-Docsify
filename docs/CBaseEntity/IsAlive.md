@@ -1,7 +1,10 @@
 # IsAlive
-> `bool IsAlive()`
+```js	
+bool IsAlive()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Is this entity alive?

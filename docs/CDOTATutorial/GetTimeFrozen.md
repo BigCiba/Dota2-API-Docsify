@@ -1,7 +1,10 @@
 # GetTimeFrozen
-> `bool GetTimeFrozen()`
+```js	
+bool GetTimeFrozen()
+```
 # Class
-> __✔ Server: CDOTATutorial__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTATutorial`  
+✖ `Client: undefined`  
+
 # Function Description
 Is our time frozen?

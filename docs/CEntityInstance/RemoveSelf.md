@@ -1,7 +1,10 @@
 # RemoveSelf
-> `void RemoveSelf()`
+```js	
+void RemoveSelf()
+```
 # Class
-> __✔ Server: CEntityInstance__  
-> __✔ Client: CEntityInstance__  
+✔ `Server: CEntityInstance`  
+✔ `Client: CEntityInstance`  
+
 # Function Description
 Delete this entity

@@ -1,4 +1,4 @@
-* [◼️CDOTA_Modifier_Lua_Vertical_Motion](/)
+* [**CDOTA_Modifier_Lua_Vertical_Motion**](/)
 	* [ApplyVerticalMotionController](CDOTA_Modifier_Lua_Vertical_Motion/ApplyVerticalMotionController)
 	* [GetMotionPriority](CDOTA_Modifier_Lua_Vertical_Motion/GetMotionPriority)
 	* [OnVerticalMotionInterrupted](CDOTA_Modifier_Lua_Vertical_Motion/OnVerticalMotionInterrupted)

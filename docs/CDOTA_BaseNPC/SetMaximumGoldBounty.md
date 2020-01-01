@@ -1,8 +1,11 @@
 # SetMaximumGoldBounty
-> `void SetMaximumGoldBounty(iGoldBountyMax)`
+```js	
+void SetMaximumGoldBounty(iGoldBountyMax)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the maximum gold bounty for this unit.
 # Parameters

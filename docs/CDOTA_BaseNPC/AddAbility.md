@@ -1,8 +1,11 @@
 # AddAbility
-> `handle AddAbility(pszAbilityName)`
+```js	
+handle AddAbility(pszAbilityName)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Add an ability to this unit by name.
 # Parameters

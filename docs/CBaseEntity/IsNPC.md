@@ -1,7 +1,10 @@
 # IsNPC
-> `bool IsNPC()`
+```js	
+bool IsNPC()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Is this entity an CAI_BaseNPC?

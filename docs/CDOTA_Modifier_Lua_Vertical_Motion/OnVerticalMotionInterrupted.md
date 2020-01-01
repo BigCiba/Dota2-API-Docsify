@@ -1,7 +1,10 @@
 # OnVerticalMotionInterrupted
-> `void OnVerticalMotionInterrupted()`
+```js	
+void OnVerticalMotionInterrupted()
+```
 # Class
-> __✔ Server: CDOTA_Modifier_Lua_Vertical_Motion__  
-> __✔ Client: CDOTA_Modifier_Lua_Vertical_Motion__  
+✔ `Server: CDOTA_Modifier_Lua_Vertical_Motion`  
+✔ `Client: CDOTA_Modifier_Lua_Vertical_Motion`  
+
 # Function Description
 Called when the motion gets interrupted.

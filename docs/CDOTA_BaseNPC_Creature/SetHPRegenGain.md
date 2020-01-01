@@ -1,8 +1,11 @@
 # SetHPRegenGain
-> `void SetHPRegenGain(flHPRegenGain)`
+```js	
+void SetHPRegenGain(flHPRegenGain)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Creature__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Creature`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the hit points regen gained per level on this creature.
 # Parameters

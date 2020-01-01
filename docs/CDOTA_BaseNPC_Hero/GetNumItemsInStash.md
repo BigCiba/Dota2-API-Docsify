@@ -1,7 +1,10 @@
 # GetNumItemsInStash
-> `int GetNumItemsInStash()`
+```js	
+int GetNumItemsInStash()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Hero__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Hero`  
+✖ `Client: undefined`  
+
 # Function Description
 

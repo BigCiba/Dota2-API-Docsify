@@ -1,8 +1,11 @@
 # DebugDrawBoxDirection
-> `void DebugDrawBoxDirection(Vector_1, Vector_2, Vector_3, Vector_4, Vector_5, float_6, float_7)`
+```js	
+void DebugDrawBoxDirection(Vector_1, Vector_2, Vector_3, Vector_4, Vector_5, float_6, float_7)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Draw a debug forward box (cent, min, max, forward, vRgb, a, duration)
 # Parameters

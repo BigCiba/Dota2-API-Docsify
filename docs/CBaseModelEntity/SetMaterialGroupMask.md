@@ -1,8 +1,11 @@
 # SetMaterialGroupMask
-> `void SetMaterialGroupMask(nMeshGroupMask)`
+```js	
+void SetMaterialGroupMask(nMeshGroupMask)
+```
 # Class
-> __✔ Server: CBaseModelEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseModelEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 SetMaterialGroupMask( uint64 ): Set the mesh group mask of this entity.
 # Parameters

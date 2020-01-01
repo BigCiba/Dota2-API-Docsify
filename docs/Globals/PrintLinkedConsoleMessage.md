@@ -1,8 +1,11 @@
 # PrintLinkedConsoleMessage
-> `void PrintLinkedConsoleMessage(string_1, string_2)`
+```js	
+void PrintLinkedConsoleMessage(string_1, string_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Print a console message with a linked console command
 # Parameters

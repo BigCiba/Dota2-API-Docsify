@@ -1,8 +1,11 @@
 # GetPhysVelocity
-> `Vector GetPhysVelocity(handle_1)`
+```js	
+Vector GetPhysVelocity(handle_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Get Velocity for VPHYS or normal object
 # Parameters

@@ -1,7 +1,10 @@
 # GetAnglesAsVector
-> `Vector GetAnglesAsVector()`
+```js	
+Vector GetAnglesAsVector()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Get entity pitch, yaw, roll as a vector.

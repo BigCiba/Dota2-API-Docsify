@@ -1,8 +1,11 @@
 # PrecacheModel
-> `void PrecacheModel(string_1, handle_2)`
+```js	
+void PrecacheModel(string_1, handle_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 ( modelName, context ) - Manually precache a single model
 # Parameters

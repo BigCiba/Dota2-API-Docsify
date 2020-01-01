@@ -1,7 +1,10 @@
 # GetTopBarTeamValuesOverride
-> `bool GetTopBarTeamValuesOverride()`
+```js	
+bool GetTopBarTeamValuesOverride()
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Override the values of the team values on the top game bar.

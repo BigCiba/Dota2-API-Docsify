@@ -1,8 +1,11 @@
 # SetBaseManaRegen
-> `void SetBaseManaRegen(flManaRegen)`
+```js	
+void SetBaseManaRegen(flManaRegen)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

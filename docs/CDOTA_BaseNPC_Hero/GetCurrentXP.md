@@ -1,7 +1,10 @@
 # GetCurrentXP
-> `int GetCurrentXP()`
+```js	
+int GetCurrentXP()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Hero__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Hero`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns the amount of XP 

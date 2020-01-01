@@ -1,8 +1,11 @@
 # CanUnitPickUp
-> `bool CanUnitPickUp(hUnit)`
+```js	
+bool CanUnitPickUp(hUnit)
+```
 # Class
-> __✔ Server: CDOTA_Item_Lua__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Item_Lua`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns true if this item can be picked up by the target unit.
 # Parameters

@@ -1,7 +1,10 @@
 # GetChannelAnimation
-> `int GetChannelAnimation()`
+```js	
+int GetChannelAnimation()
+```
 # Class
-> __✔ Server: CDOTA_Ability_Lua__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Ability_Lua`  
+✖ `Client: undefined`  
+
 # Function Description
 Return channel animation of this ability.

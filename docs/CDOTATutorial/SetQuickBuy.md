@@ -1,8 +1,11 @@
 # SetQuickBuy
-> `void SetQuickBuy(string_1)`
+```js	
+void SetQuickBuy(string_1)
+```
 # Class
-> __✔ Server: CDOTATutorial__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTATutorial`  
+✖ `Client: undefined`  
+
 # Function Description
 Set players quick buy item.
 # Parameters

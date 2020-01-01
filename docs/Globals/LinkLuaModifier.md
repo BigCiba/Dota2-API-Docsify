@@ -1,8 +1,11 @@
 # LinkLuaModifier
-> `void LinkLuaModifier(string_1, string_2, int_3)`
+```js	
+void LinkLuaModifier(string_1, string_2, int_3)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Link a lua-defined modifier with the associated class ( className, fileName, LuaModifierType).
 # Parameters

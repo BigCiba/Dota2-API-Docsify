@@ -1,8 +1,11 @@
 # CommandLineCheck
-> `table CommandLineCheck(string_1)`
+```js	
+table CommandLineCheck(string_1)
+```
 # Class
-> __✔ Server: GlobalSys__  
-> __✔ Client: GlobalSys__  
+✔ `Server: GlobalSys`  
+✔ `Client: GlobalSys`  
+
 # Function Description
 CommandLineCheck(name) : returns true if the command line param was used, otherwise false.
 # Parameters

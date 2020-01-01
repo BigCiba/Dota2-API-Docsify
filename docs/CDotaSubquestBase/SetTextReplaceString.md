@@ -1,8 +1,11 @@
 # SetTextReplaceString
-> `void SetTextReplaceString(pszString)`
+```js	
+void SetTextReplaceString(pszString)
+```
 # Class
-> __✔ Server: CDotaSubquestBase__  
-> __✖ Client: undefined__  
+✔ `Server: CDotaSubquestBase`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the text replace string for this subquest
 # Parameters

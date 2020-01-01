@@ -1,8 +1,11 @@
 # StopListeningToGameEvent
-> `bool StopListeningToGameEvent(int_1)`
+```js	
+bool StopListeningToGameEvent(int_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Stop listening to a particular game event.
 # Parameters

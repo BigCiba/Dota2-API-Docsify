@@ -1,8 +1,11 @@
 # SetParticleControlEnt
-> `void SetParticleControlEnt(int_1, int_2, handle_3, int_4, string_5, Vector_6, bool_7)`
+```js	
+void SetParticleControlEnt(int_1, int_2, handle_3, int_4, string_5, Vector_6, bool_7)
+```
 # Class
-> __✔ Server: CScriptParticleManager__  
-> __✔ Client: CScriptParticleManager__  
+✔ `Server: CScriptParticleManager`  
+✔ `Client: CScriptParticleManager`  
+
 # Function Description
 
 # Parameters

@@ -1,8 +1,11 @@
 # SetGraphParameterInt
-> `void SetGraphParameterInt(szName, nValue)`
+```js	
+void SetGraphParameterInt(szName, nValue)
+```
 # Class
-> __✔ Server: CBaseAnimating__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseAnimating`  
+✖ `Client: undefined`  
+
 # Function Description
 Pass the int value to the specified param
 # Parameters

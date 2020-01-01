@@ -1,7 +1,10 @@
 # GetHeroCount
-> `int GetHeroCount()`
+```js	
+int GetHeroCount()
+```
 # Class
-> __✔ Server: CScriptHeroList__  
-> __✖ Client: undefined__  
+✔ `Server: CScriptHeroList`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns the number of heroes in the world

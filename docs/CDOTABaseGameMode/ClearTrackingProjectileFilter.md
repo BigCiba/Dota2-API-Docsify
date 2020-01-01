@@ -1,7 +1,10 @@
 # ClearTrackingProjectileFilter
-> `void ClearTrackingProjectileFilter()`
+```js	
+void ClearTrackingProjectileFilter()
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Clear the script filter that controls when tracking projectiles are launched.

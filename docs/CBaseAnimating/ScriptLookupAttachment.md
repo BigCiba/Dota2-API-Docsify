@@ -1,8 +1,11 @@
 # ScriptLookupAttachment
-> `int ScriptLookupAttachment(pAttachmentName)`
+```js	
+int ScriptLookupAttachment(pAttachmentName)
+```
 # Class
-> __✔ Server: CBaseAnimating__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseAnimating`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the named attachment id.
 # Parameters

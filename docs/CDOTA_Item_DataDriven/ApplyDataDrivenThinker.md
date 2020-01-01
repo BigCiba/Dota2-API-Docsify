@@ -1,8 +1,11 @@
 # ApplyDataDrivenThinker
-> `handle ApplyDataDrivenThinker(hCaster, vLocation, pszModifierName, hModifierTable)`
+```js	
+handle ApplyDataDrivenThinker(hCaster, vLocation, pszModifierName, hModifierTable)
+```
 # Class
-> __✔ Server: CDOTA_Item_DataDriven__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Item_DataDriven`  
+✖ `Client: undefined`  
+
 # Function Description
 Applies a data driven thinker at the location
 # Parameters

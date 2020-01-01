@@ -1,8 +1,11 @@
 # GetParticleReplacement
-> `string GetParticleReplacement(string_1, handle_2)`
+```js	
+string GetParticleReplacement(string_1, handle_2)
+```
 # Class
-> __✔ Server: CScriptParticleManager__  
-> __✔ Client: CScriptParticleManager__  
+✔ `Server: CScriptParticleManager`  
+✔ `Client: CScriptParticleManager`  
+
 # Function Description
 
 # Parameters

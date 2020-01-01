@@ -1,7 +1,10 @@
 # GetUserID
-> `int GetUserID()`
+```js	
+int GetUserID()
+```
 # Class
-> __✔ Server: CBasePlayer__  
-> __✖ Client: undefined__  
+✔ `Server: CBasePlayer`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns the player's user id.

@@ -1,7 +1,10 @@
 # OnToggle
-> `void OnToggle()`
+```js	
+void OnToggle()
+```
 # Class
-> __✔ Server: CDOTA_Ability_Lua__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Ability_Lua`  
+✖ `Client: undefined`  
+
 # Function Description
 Ability is toggled on/off.

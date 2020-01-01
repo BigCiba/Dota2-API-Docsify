@@ -1,7 +1,10 @@
 # GetAngularVelocity
-> `Vector GetAngularVelocity()`
+```js	
+Vector GetAngularVelocity()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the local angular velocity - returns a vector of pitch,yaw,roll

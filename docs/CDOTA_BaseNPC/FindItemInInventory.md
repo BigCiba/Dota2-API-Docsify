@@ -1,8 +1,11 @@
 # FindItemInInventory
-> `handle FindItemInInventory(pszItemName)`
+```js	
+handle FindItemInInventory(pszItemName)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Get handle to first item in inventory, else nil.
 # Parameters

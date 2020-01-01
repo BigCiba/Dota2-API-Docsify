@@ -1,7 +1,10 @@
 # GetPrimaryAttribute
-> `int GetPrimaryAttribute()`
+```js	
+int GetPrimaryAttribute()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Hero__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Hero`  
+✖ `Client: undefined`  
+
 # Function Description
 0 = strength, 1 = agility, 2 = intelligence.

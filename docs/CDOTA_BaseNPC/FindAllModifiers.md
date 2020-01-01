@@ -1,7 +1,10 @@
 # FindAllModifiers
-> `table FindAllModifiers()`
+```js	
+table FindAllModifiers()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns a table of all of the modifiers on the NPC.

@@ -1,8 +1,11 @@
 # SetAlwaysShowPlayerInventory
-> `void SetAlwaysShowPlayerInventory(bAlwaysShow)`
+```js	
+void SetAlwaysShowPlayerInventory(bAlwaysShow)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Show the player hero's inventory in the HUD, regardless of what unit is selected.
 # Parameters

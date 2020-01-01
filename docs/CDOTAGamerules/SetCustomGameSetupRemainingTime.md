@@ -1,8 +1,11 @@
 # SetCustomGameSetupRemainingTime
-> `void SetCustomGameSetupRemainingTime(float_1)`
+```js	
+void SetCustomGameSetupRemainingTime(float_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the amount of remaining time, in seconds, for custom game setup. 0 = finish immediately, -1 = wait forever
 # Parameters

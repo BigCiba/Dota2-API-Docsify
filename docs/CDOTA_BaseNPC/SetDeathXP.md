@@ -1,8 +1,11 @@
 # SetDeathXP
-> `void SetDeathXP(iXPBounty)`
+```js	
+void SetDeathXP(iXPBounty)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the XP bounty on this unit.
 # Parameters

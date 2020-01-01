@@ -1,8 +1,11 @@
 # SetInt
-> `void SetInt(string_1, int_2)`
+```js	
+void SetInt(string_1, int_2)
+```
 # Class
-> __✔ Server: Convars__  
-> __✔ Client: Convars__  
+✔ `Server: Convars`  
+✔ `Client: Convars`  
+
 # Function Description
 SetInt(name, val) : sets the value of the convar to the int.
 # Parameters

@@ -1,8 +1,11 @@
 # SetAnnouncerDisabled
-> `void SetAnnouncerDisabled(bDisabled)`
+```js	
+void SetAnnouncerDisabled(bDisabled)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Mutes the in-game announcer.
 # Parameters

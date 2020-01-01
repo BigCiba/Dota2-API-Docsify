@@ -1,8 +1,11 @@
 # IsMarkedForDeletion
-> `bool IsMarkedForDeletion(handle_1)`
+```js	
+bool IsMarkedForDeletion(handle_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Returns true if the entity is valid and marked for deletion.
 # Parameters

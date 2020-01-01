@@ -1,4 +1,4 @@
-* [◼️CDOTA_BaseNPC](/)
+* [**CDOTA_BaseNPC**](/)
 	* [AddAbility](CDOTA_BaseNPC/AddAbility)
 	* [AddActivityModifier](CDOTA_BaseNPC/AddActivityModifier)
 	* [AddItem](CDOTA_BaseNPC/AddItem)

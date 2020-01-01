@@ -1,8 +1,11 @@
 # CastFilterResultLocation
-> `int CastFilterResultLocation(vLocation)`
+```js	
+int CastFilterResultLocation(vLocation)
+```
 # Class
-> __✔ Server: CDOTA_Ability_Lua__  
-> __✔ Client: C_DOTA_Ability_Lua__  
+✔ `Server: CDOTA_Ability_Lua`  
+✔ `Client: C_DOTA_Ability_Lua`  
+
 # Function Description
 (Vector vLocation) Determine whether an issued command on a location is valid.
 # Parameters

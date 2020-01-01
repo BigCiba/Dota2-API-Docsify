@@ -1,8 +1,11 @@
 # GetGameSessionConfigValue
-> `string GetGameSessionConfigValue(string_1, string_2)`
+```js	
+string GetGameSessionConfigValue(string_1, string_2)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Get a string value from the game session config (map options)
 # Parameters

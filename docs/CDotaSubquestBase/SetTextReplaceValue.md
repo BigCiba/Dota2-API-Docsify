@@ -1,8 +1,11 @@
 # SetTextReplaceValue
-> `void SetTextReplaceValue(valueSlot, value)`
+```js	
+void SetTextReplaceValue(valueSlot, value)
+```
 # Class
-> __✔ Server: CDotaSubquestBase__  
-> __✖ Client: undefined__  
+✔ `Server: CDotaSubquestBase`  
+✖ `Client: undefined`  
+
 # Function Description
 Set a subquest value
 # Parameters

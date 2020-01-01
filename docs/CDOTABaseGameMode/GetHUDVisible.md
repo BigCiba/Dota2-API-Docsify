@@ -1,8 +1,11 @@
 # GetHUDVisible
-> `bool GetHUDVisible(iElement)`
+```js	
+bool GetHUDVisible(iElement)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns the HUD element visibility.
 # Parameters

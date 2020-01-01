@@ -1,7 +1,10 @@
 # ForceRefresh
-> `void ForceRefresh()`
+```js	
+void ForceRefresh()
+```
 # Class
-> __✔ Server: CDOTA_Buff__  
-> __✔ Client: CDOTA_Buff__  
+✔ `Server: CDOTA_Buff`  
+✔ `Client: CDOTA_Buff`  
+
 # Function Description
 Run all associated refresh functions on this modifier as if it was re-applied.

@@ -1,8 +1,11 @@
 # CreateHeroForPlayer
-> `handle CreateHeroForPlayer(string_1, handle_2)`
+```js	
+handle CreateHeroForPlayer(string_1, handle_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Creates a DOTA hero by its dota_npc_units.txt name and sets it as the given player's controlled hero
 # Parameters

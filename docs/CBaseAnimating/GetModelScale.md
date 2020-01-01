@@ -1,7 +1,10 @@
 # GetModelScale
-> `float GetModelScale()`
+```js	
+float GetModelScale()
+```
 # Class
-> __✔ Server: CBaseAnimating__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseAnimating`  
+✖ `Client: undefined`  
+
 # Function Description
 Get scale of entity's model.

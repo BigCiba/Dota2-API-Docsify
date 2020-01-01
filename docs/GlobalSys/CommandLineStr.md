@@ -1,8 +1,11 @@
 # CommandLineStr
-> `table CommandLineStr(string_1, string_2)`
+```js	
+table CommandLineStr(string_1, string_2)
+```
 # Class
-> __✔ Server: GlobalSys__  
-> __✔ Client: GlobalSys__  
+✔ `Server: GlobalSys`  
+✔ `Client: GlobalSys`  
+
 # Function Description
 CommandLineStr(name) : returns the command line param as a string.
 # Parameters

@@ -1,8 +1,11 @@
 # SetPriority
-> `void SetPriority(nMotionPriority)`
+```js	
+void SetPriority(nMotionPriority)
+```
 # Class
-> __✔ Server: CDOTA_Modifier_Lua_Motion_Both__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Modifier_Lua_Motion_Both`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the priority
 # Parameters

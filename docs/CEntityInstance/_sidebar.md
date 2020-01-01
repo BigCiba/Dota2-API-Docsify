@@ -1,4 +1,4 @@
-* [◼️CEntityInstance](/)
+* [**CEntityInstance**](/)
 	* [ConnectOutput](CEntityInstance/ConnectOutput)
 	* [Destroy](CEntityInstance/Destroy)
 	* [DisconnectOutput](CEntityInstance/DisconnectOutput)

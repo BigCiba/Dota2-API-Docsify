@@ -1,4 +1,4 @@
-* [◼️CDOTA_Modifier_Lua](/)
+* [**CDOTA_Modifier_Lua**](/)
 	* [AllowIllusionDuplicate](CDOTA_Modifier_Lua/AllowIllusionDuplicate)
 	* [CanParentBeAutoAttacked](CDOTA_Modifier_Lua/CanParentBeAutoAttacked)
 	* [DestroyOnExpire](CDOTA_Modifier_Lua/DestroyOnExpire)

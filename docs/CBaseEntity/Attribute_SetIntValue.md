@@ -1,8 +1,11 @@
 # Attribute_SetIntValue
-> `void Attribute_SetIntValue(pName, nValue)`
+```js	
+void Attribute_SetIntValue(pName, nValue)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Set int value for an entity attribute.
 # Parameters

@@ -1,8 +1,11 @@
 # SetFriction
-> `void SetFriction(flFriction)`
+```js	
+void SetFriction(flFriction)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Set PLAYER friction, ignored for objects.
 # Parameters

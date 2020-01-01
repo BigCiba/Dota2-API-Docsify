@@ -1,8 +1,11 @@
 # DestroyTreesAroundPoint
-> `void DestroyTreesAroundPoint(Vector_1, float_2, bool_3)`
+```js	
+void DestroyTreesAroundPoint(Vector_1, float_2, bool_3)
+```
 # Class
-> __✔ Server: GridNav__  
-> __✖ Client: undefined__  
+✔ `Server: GridNav`  
+✖ `Client: undefined`  
+
 # Function Description
 Destroy all trees in the area(vPosition, flRadius, bFullCollision
 # Parameters

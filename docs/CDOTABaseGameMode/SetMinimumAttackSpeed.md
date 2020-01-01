@@ -1,8 +1,11 @@
 # SetMinimumAttackSpeed
-> `void SetMinimumAttackSpeed(nMinSpeed)`
+```js	
+void SetMinimumAttackSpeed(nMinSpeed)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the minimum attack speed for units.
 # Parameters

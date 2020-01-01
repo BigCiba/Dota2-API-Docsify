@@ -1,7 +1,10 @@
 # GetCastCount
-> `int GetCastCount()`
+```js	
+int GetCastCount()
+```
 # Class
-> __✔ Server: CDOTA_Ability_Nian_Roar__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Ability_Nian_Roar`  
+✖ `Client: undefined`  
+
 # Function Description
 Number of times Nian has used the roar

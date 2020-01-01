@@ -1,7 +1,10 @@
 # GetBoundingMins
-> `Vector GetBoundingMins()`
+```js	
+Vector GetBoundingMins()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Get a vector containing min bounds, centered on object.

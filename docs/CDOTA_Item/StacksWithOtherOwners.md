@@ -1,7 +1,10 @@
 # StacksWithOtherOwners
-> `bool StacksWithOtherOwners()`
+```js	
+bool StacksWithOtherOwners()
+```
 # Class
-> __✔ Server: CDOTA_Item__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Item`  
+✖ `Client: undefined`  
+
 # Function Description
 

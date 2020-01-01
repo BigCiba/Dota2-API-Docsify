@@ -1,8 +1,11 @@
 # ProjectileDodge
-> `void ProjectileDodge(handle_1)`
+```js	
+void ProjectileDodge(handle_1)
+```
 # Class
-> __✔ Server: ProjectileManager__  
-> __✖ Client: undefined__  
+✔ `Server: ProjectileManager`  
+✖ `Client: undefined`  
+
 # Function Description
 Makes the specified unit dodge projectiles
 # Parameters

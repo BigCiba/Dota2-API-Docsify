@@ -1,7 +1,10 @@
 # GetTeamNumber
-> `int GetTeamNumber()`
+```js	
+int GetTeamNumber()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✔ Client: C_BaseEntity__  
+✔ `Server: CBaseEntity`  
+✔ `Client: C_BaseEntity`  
+
 # Function Description
 Get the team number of this entity.

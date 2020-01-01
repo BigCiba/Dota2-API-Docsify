@@ -1,8 +1,11 @@
 # SetAggroTarget
-> `void SetAggroTarget(hAggroTarget)`
+```js	
+void SetAggroTarget(hAggroTarget)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Set this unit's aggro target to a specified unit.
 # Parameters

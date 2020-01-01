@@ -1,7 +1,10 @@
 # SpawnAndReleaseCreeps
-> `void SpawnAndReleaseCreeps()`
+```js	
+void SpawnAndReleaseCreeps()
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Spawn and release the next creep wave from Dota lane style spawners.

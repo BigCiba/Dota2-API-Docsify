@@ -1,8 +1,11 @@
 # RandomInt
-> `int RandomInt(int_1, int_2)`
+```js	
+int RandomInt(int_1, int_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Get a random int within a range
 # Parameters

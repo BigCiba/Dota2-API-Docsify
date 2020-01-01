@@ -1,7 +1,10 @@
 # ActiveSequenceDuration
-> `float ActiveSequenceDuration()`
+```js	
+float ActiveSequenceDuration()
+```
 # Class
-> __✔ Server: CBaseAnimating__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseAnimating`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns the duration in seconds of the active sequence.

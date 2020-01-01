@@ -1,8 +1,11 @@
 # GetSubquest
-> `handle GetSubquest(nIndex)`
+```js	
+handle GetSubquest(nIndex)
+```
 # Class
-> __✔ Server: CDotaQuest__  
-> __✖ Client: undefined__  
+✔ `Server: CDotaQuest`  
+✖ `Client: undefined`  
+
 # Function Description
 Finds a subquest from this quest by index
 # Parameters

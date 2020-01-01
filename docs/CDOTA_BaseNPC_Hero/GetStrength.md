@@ -1,7 +1,10 @@
 # GetStrength
-> `float GetStrength()`
+```js	
+float GetStrength()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Hero__  
-> __✔ Client: C_DOTA_BaseNPC_Hero__  
+✔ `Server: CDOTA_BaseNPC_Hero`  
+✔ `Client: C_DOTA_BaseNPC_Hero`  
+
 # Function Description
 

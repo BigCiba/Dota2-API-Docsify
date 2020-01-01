@@ -1,8 +1,11 @@
 # SetWeatherEffectsDisabled
-> `void SetWeatherEffectsDisabled(bDisable)`
+```js	
+void SetWeatherEffectsDisabled(bDisable)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set if weather effects are disabled.
 # Parameters

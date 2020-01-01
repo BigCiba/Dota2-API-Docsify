@@ -1,8 +1,11 @@
 # OnHeroDiedNearby
-> `void OnHeroDiedNearby(unit, attacker, table)`
+```js	
+void OnHeroDiedNearby(unit, attacker, table)
+```
 # Class
-> __✔ Server: CDOTA_Ability_Lua__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Ability_Lua`  
+✖ `Client: undefined`  
+
 # Function Description
 A hero has died in the vicinity (ie Urn), takes table of params.
 # Parameters

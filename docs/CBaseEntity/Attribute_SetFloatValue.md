@@ -1,8 +1,11 @@
 # Attribute_SetFloatValue
-> `void Attribute_SetFloatValue(pName, flValue)`
+```js	
+void Attribute_SetFloatValue(pName, flValue)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Set float value for an entity attribute.
 # Parameters

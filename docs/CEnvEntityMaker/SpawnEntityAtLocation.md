@@ -1,8 +1,11 @@
 # SpawnEntityAtLocation
-> `void SpawnEntityAtLocation(vecAlternateOrigin, vecAlternateAngles)`
+```js	
+void SpawnEntityAtLocation(vecAlternateOrigin, vecAlternateAngles)
+```
 # Class
-> __✔ Server: CEnvEntityMaker__  
-> __✖ Client: undefined__  
+✔ `Server: CEnvEntityMaker`  
+✖ `Client: undefined`  
+
 # Function Description
 Create an entity at a specified location and orientaton, orientation is Euler angle in degrees (pitch, yaw, roll)
 # Parameters

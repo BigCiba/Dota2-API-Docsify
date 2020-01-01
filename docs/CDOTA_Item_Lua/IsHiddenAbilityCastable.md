@@ -1,7 +1,10 @@
 # IsHiddenAbilityCastable
-> `bool IsHiddenAbilityCastable()`
+```js	
+bool IsHiddenAbilityCastable()
+```
 # Class
-> __✔ Server: CDOTA_Item_Lua__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Item_Lua`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns true if this ability can be used when not on the action panel.

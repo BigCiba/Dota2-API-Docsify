@@ -1,8 +1,11 @@
 # SetSkin
-> `void SetSkin(iSkin)`
+```js	
+void SetSkin(iSkin)
+```
 # Class
-> __✔ Server: CBaseModelEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseModelEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Set skin (int).
 # Parameters

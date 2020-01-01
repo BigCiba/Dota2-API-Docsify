@@ -1,8 +1,11 @@
 # RegisterConvar
-> `void RegisterConvar(string_1, string_2, string_3, int_4)`
+```js	
+void RegisterConvar(string_1, string_2, string_3, int_4)
+```
 # Class
-> __✔ Server: Convars__  
-> __✔ Client: Convars__  
+✔ `Server: Convars`  
+✔ `Client: Convars`  
+
 # Function Description
 RegisterConvar(name, defaultValue, helpString, flags): register a new console variable.
 # Parameters

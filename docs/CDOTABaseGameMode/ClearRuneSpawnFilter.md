@@ -1,7 +1,10 @@
 # ClearRuneSpawnFilter
-> `void ClearRuneSpawnFilter()`
+```js	
+void ClearRuneSpawnFilter()
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Clear the script filter that controls what rune spawns.

@@ -1,8 +1,11 @@
 # FindAllInSphere
-> `table FindAllInSphere(Vector_1, float_2)`
+```js	
+table FindAllInSphere(Vector_1, float_2)
+```
 # Class
-> __✔ Server: CEntities__  
-> __✖ Client: undefined__  
+✔ `Server: CEntities`  
+✖ `Client: undefined`  
+
 # Function Description
 Find entities within a radius.
 # Parameters

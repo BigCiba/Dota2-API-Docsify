@@ -1,4 +1,4 @@
-* [◼️Globals](/)
+* [**Globals**](/)
 	* [AddFOWViewer](Globals/AddFOWViewer)
 	* [AngleDiff](Globals/AngleDiff)
 	* [AppendToLogFile](Globals/AppendToLogFile)

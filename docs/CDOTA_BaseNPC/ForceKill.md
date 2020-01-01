@@ -1,8 +1,11 @@
 # ForceKill
-> `void ForceKill(bReincarnate)`
+```js	
+void ForceKill(bReincarnate)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Kill this unit immediately.
 # Parameters

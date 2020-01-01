@@ -1,4 +1,4 @@
-* [◼️CPointClientUIWorldPanel](/)
+* [**CPointClientUIWorldPanel**](/)
 	* [AcceptUserInput](CPointClientUIWorldPanel/AcceptUserInput)
 	* [AddCSSClasses](CPointClientUIWorldPanel/AddCSSClasses)
 	* [IgnoreUserInput](CPointClientUIWorldPanel/IgnoreUserInput)

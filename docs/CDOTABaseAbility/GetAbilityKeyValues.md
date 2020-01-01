@@ -1,7 +1,10 @@
 # GetAbilityKeyValues
-> `table GetAbilityKeyValues()`
+```js	
+table GetAbilityKeyValues()
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 Gets the key values definition for this ability.

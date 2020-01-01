@@ -1,8 +1,11 @@
 # SetContextThink
-> `void SetContextThink(pszContextName, hThinkFunc, flInterval)`
+```js	
+void SetContextThink(pszContextName, hThinkFunc, flInterval)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✔ Client: C_BaseEntity__  
+✔ `Server: CBaseEntity`  
+✔ `Client: C_BaseEntity`  
+
 # Function Description
 Set a think function on this entity.
 # Parameters

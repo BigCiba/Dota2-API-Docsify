@@ -1,8 +1,11 @@
 # SetCustomAttributeDerivedStatValue
-> `void SetCustomAttributeDerivedStatValue(nStatType, flNewValue)`
+```js	
+void SetCustomAttributeDerivedStatValue(nStatType, flNewValue)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Modify derived stat value constants. ( AttributeDerivedStat eStatType, float flNewValue.
 # Parameters

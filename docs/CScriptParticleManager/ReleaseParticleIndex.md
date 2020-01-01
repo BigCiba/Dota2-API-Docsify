@@ -1,8 +1,11 @@
 # ReleaseParticleIndex
-> `void ReleaseParticleIndex(int_1)`
+```js	
+void ReleaseParticleIndex(int_1)
+```
 # Class
-> __✔ Server: CScriptParticleManager__  
-> __✔ Client: CScriptParticleManager__  
+✔ `Server: CScriptParticleManager`  
+✔ `Client: CScriptParticleManager`  
+
 # Function Description
 Frees the specified particle index
 # Parameters

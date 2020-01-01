@@ -1,8 +1,11 @@
 # UpdateLinearProjectileDirection
-> `void UpdateLinearProjectileDirection(int_1, Vector_2, float_3)`
+```js	
+void UpdateLinearProjectileDirection(int_1, Vector_2, float_3)
+```
 # Class
-> __✔ Server: ProjectileManager__  
-> __✖ Client: undefined__  
+✔ `Server: ProjectileManager`  
+✖ `Client: undefined`  
+
 # Function Description
 Update velocity
 # Parameters

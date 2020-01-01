@@ -1,8 +1,11 @@
 # ModifyGold
-> `int ModifyGold(iPlayerID, iGoldChange, bReliable, nReason)`
+```js	
+int ModifyGold(iPlayerID, iGoldChange, bReliable, nReason)
+```
 # Class
-> __✔ Server: CDOTA_PlayerResource__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_PlayerResource`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

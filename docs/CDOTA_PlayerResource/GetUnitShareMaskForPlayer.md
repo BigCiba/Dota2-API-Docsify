@@ -1,8 +1,11 @@
 # GetUnitShareMaskForPlayer
-> `int GetUnitShareMaskForPlayer(nPlayerID, nOtherPlayerID)`
+```js	
+int GetUnitShareMaskForPlayer(nPlayerID, nOtherPlayerID)
+```
 # Class
-> __✔ Server: CDOTA_PlayerResource__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_PlayerResource`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

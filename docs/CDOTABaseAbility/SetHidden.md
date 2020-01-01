@@ -1,8 +1,11 @@
 # SetHidden
-> `void SetHidden(bHidden)`
+```js	
+void SetHidden(bHidden)
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

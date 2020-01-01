@@ -1,8 +1,11 @@
 # MoveToNPCToGiveItem
-> `void MoveToNPCToGiveItem(hNPC, hItem)`
+```js	
+void MoveToNPCToGiveItem(hNPC, hItem)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Give an item to another unit.
 # Parameters

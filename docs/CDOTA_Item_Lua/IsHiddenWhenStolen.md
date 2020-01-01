@@ -1,7 +1,10 @@
 # IsHiddenWhenStolen
-> `bool IsHiddenWhenStolen()`
+```js	
+bool IsHiddenWhenStolen()
+```
 # Class
-> __✔ Server: CDOTA_Item_Lua__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Item_Lua`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns true if this ability is hidden when stolen by Spell Steal.

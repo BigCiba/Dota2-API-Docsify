@@ -1,8 +1,11 @@
 # GetPlayArea
-> `Vector GetPlayArea(nPoint)`
+```js	
+Vector GetPlayArea(nPoint)
+```
 # Class
-> __✔ Server: CBasePlayer__  
-> __✖ Client: undefined__  
+✔ `Server: CBasePlayer`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns the Vector position of the point you ask for. Pass 0-3 to get the four points.
 # Parameters

@@ -1,8 +1,11 @@
 # SetWhiteListEnabled
-> `void SetWhiteListEnabled(bool_1)`
+```js	
+void SetWhiteListEnabled(bool_1)
+```
 # Class
-> __✔ Server: CDOTATutorial__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTATutorial`  
+✖ `Client: undefined`  
+
 # Function Description
 Set if we should whitelist shop items.
 # Parameters

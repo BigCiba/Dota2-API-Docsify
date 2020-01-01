@@ -1,7 +1,10 @@
 # GetMaterialGroupMask
-> `uint64 GetMaterialGroupMask()`
+```js	
+uint64 GetMaterialGroupMask()
+```
 # Class
-> __✔ Server: CBaseModelEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseModelEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 GetMaterialGroupMask(): Get the mesh group mask of this entity.

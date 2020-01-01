@@ -1,8 +1,11 @@
 # SetOverlayHealthBarUnit
-> `void SetOverlayHealthBarUnit(handle_1, int_2)`
+```js	
+void SetOverlayHealthBarUnit(handle_1, int_2)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Show this unit's health on the overlay health bar
 # Parameters

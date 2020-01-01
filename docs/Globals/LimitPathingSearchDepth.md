@@ -1,8 +1,11 @@
 # LimitPathingSearchDepth
-> `void LimitPathingSearchDepth(float_1)`
+```js	
+void LimitPathingSearchDepth(float_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the limit on the pathfinding search space.
 # Parameters

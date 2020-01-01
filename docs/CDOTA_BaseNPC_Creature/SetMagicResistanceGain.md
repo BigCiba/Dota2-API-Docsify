@@ -1,8 +1,11 @@
 # SetMagicResistanceGain
-> `void SetMagicResistanceGain(flMagicResistanceGain)`
+```js	
+void SetMagicResistanceGain(flMagicResistanceGain)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Creature__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Creature`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the magic resistance gained per level on this creature.
 # Parameters

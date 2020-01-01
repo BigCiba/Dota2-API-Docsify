@@ -1,8 +1,11 @@
 # SetDaynightCycleDisabled
-> `void SetDaynightCycleDisabled(bDisable)`
+```js	
+void SetDaynightCycleDisabled(bDisable)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Enable or disable the day/night cycle.
 # Parameters

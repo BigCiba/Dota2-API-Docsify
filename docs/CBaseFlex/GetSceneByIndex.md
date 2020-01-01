@@ -1,8 +1,11 @@
 # GetSceneByIndex
-> `handle GetSceneByIndex(index)`
+```js	
+handle GetSceneByIndex(index)
+```
 # Class
-> __✔ Server: CBaseFlex__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseFlex`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns the instance of the scene entity at the specified index.
 # Parameters

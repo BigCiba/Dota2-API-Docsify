@@ -1,8 +1,11 @@
 # CreateModifierThinker
-> `handle CreateModifierThinker(handle_1, handle_2, string_3, handle_4, Vector_5, int_6, bool_7)`
+```js	
+handle CreateModifierThinker(handle_1, handle_2, string_3, handle_4, Vector_5, int_6, bool_7)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Create a modifier not associated with an NPC. ( hCaster, hAbility, modifierName, paramTable, vOrigin, nTeamNumber, bPhantomBlocker )
 # Parameters

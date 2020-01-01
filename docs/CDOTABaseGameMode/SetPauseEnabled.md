@@ -1,8 +1,11 @@
 # SetPauseEnabled
-> `void SetPauseEnabled(bEnabled)`
+```js	
+void SetPauseEnabled(bEnabled)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set pausing enabled/disabled
 # Parameters

@@ -1,8 +1,11 @@
 # GetTeamHeroKills
-> `int GetTeamHeroKills(int_1)`
+```js	
+int GetTeamHeroKills(int_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 ( int teamID )
 # Parameters

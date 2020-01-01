@@ -1,8 +1,11 @@
 # FindAllByName
-> `table FindAllByName(string_1)`
+```js	
+table FindAllByName(string_1)
+```
 # Class
-> __✔ Server: CEntities__  
-> __✖ Client: undefined__  
+✔ `Server: CEntities`  
+✖ `Client: undefined`  
+
 # Function Description
 Find all entities by name. Returns an array containing all the found entities in it.
 # Parameters

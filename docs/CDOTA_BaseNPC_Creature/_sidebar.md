@@ -1,4 +1,4 @@
-* [◼️CDOTA_BaseNPC_Creature](/)
+* [**CDOTA_BaseNPC_Creature**](/)
 	* [AddItemDrop](CDOTA_BaseNPC_Creature/AddItemDrop)
 	* [CreatureLevelUp](CDOTA_BaseNPC_Creature/CreatureLevelUp)
 	* [IsChampion](CDOTA_BaseNPC_Creature/IsChampion)

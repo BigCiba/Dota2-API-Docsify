@@ -1,7 +1,10 @@
 # BotPopulate
-> `void BotPopulate()`
+```js	
+void BotPopulate()
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Fills all the teams with bots if cheat mode is enabled.

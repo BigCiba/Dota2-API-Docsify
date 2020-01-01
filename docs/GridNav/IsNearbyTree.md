@@ -1,8 +1,11 @@
 # IsNearbyTree
-> `bool IsNearbyTree(Vector_1, float_2, bool_3)`
+```js	
+bool IsNearbyTree(Vector_1, float_2, bool_3)
+```
 # Class
-> __✔ Server: GridNav__  
-> __✖ Client: undefined__  
+✔ `Server: GridNav`  
+✖ `Client: undefined`  
+
 # Function Description
 (position, radius, checkFullTreeRadius?) Checks whether there are any trees overlapping the given point
 # Parameters

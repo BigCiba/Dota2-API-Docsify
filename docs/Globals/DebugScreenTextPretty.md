@@ -1,8 +1,11 @@
 # DebugScreenTextPretty
-> `void DebugScreenTextPretty(float_1, float_2, int_3, string_4, int_5, int_6, int_7, int_8, float_9, string_10, int_11, bool_12)`
+```js	
+void DebugScreenTextPretty(float_1, float_2, int_3, string_4, int_5, int_6, int_7, int_8, float_9, string_10, int_11, bool_12)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Draw pretty debug text (x, y, lineOffset, text, r, g, b, a, duration, font, size, bBold)
 # Parameters

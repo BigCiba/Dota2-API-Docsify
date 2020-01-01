@@ -1,8 +1,11 @@
 # PrecacheScriptSound
-> `void PrecacheScriptSound(soundname)`
+```js	
+void PrecacheScriptSound(soundname)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Precache a sound for later playing.
 # Parameters

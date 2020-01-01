@@ -1,7 +1,10 @@
 # ClearItemAddedToInventoryFilter
-> `void ClearItemAddedToInventoryFilter()`
+```js	
+void ClearItemAddedToInventoryFilter()
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Clear the script filter that controls the item added to inventory filter.

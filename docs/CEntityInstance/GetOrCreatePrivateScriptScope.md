@@ -1,7 +1,10 @@
 # GetOrCreatePrivateScriptScope
-> `handle GetOrCreatePrivateScriptScope()`
+```js	
+handle GetOrCreatePrivateScriptScope()
+```
 # Class
-> __✔ Server: CEntityInstance__  
-> __✔ Client: CEntityInstance__  
+✔ `Server: CEntityInstance`  
+✔ `Client: CEntityInstance`  
+
 # Function Description
 Retrieve, creating if necessary, the private per-instance script-side data associated with an entity

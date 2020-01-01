@@ -1,8 +1,11 @@
 # TakeItem
-> `handle TakeItem(hItem)`
+```js	
+handle TakeItem(hItem)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Removed the passed item from this unit's inventory.
 # Parameters

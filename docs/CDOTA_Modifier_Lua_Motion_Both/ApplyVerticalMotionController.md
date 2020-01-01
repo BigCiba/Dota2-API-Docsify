@@ -1,7 +1,10 @@
 # ApplyVerticalMotionController
-> `bool ApplyVerticalMotionController()`
+```js	
+bool ApplyVerticalMotionController()
+```
 # Class
-> __✔ Server: CDOTA_Modifier_Lua_Motion_Both__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Modifier_Lua_Motion_Both`  
+✖ `Client: undefined`  
+
 # Function Description
 Starts the vertical motion controller effects for this buff.  Returns true if successful.

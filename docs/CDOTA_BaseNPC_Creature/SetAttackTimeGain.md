@@ -1,8 +1,11 @@
 # SetAttackTimeGain
-> `void SetAttackTimeGain(flAttackTimeGain)`
+```js	
+void SetAttackTimeGain(flAttackTimeGain)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Creature__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Creature`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the attack time gained per level on this creature.
 # Parameters

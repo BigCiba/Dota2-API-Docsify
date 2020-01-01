@@ -1,7 +1,10 @@
 # GetHorn
-> `handle GetHorn()`
+```js	
+handle GetHorn()
+```
 # Class
-> __✔ Server: CDOTA_Unit_Nian__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Unit_Nian`  
+✖ `Client: undefined`  
+
 # Function Description
 Is the Nian horn?

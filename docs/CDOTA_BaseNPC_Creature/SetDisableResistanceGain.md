@@ -1,8 +1,11 @@
 # SetDisableResistanceGain
-> `void SetDisableResistanceGain(flDisableResistanceGain)`
+```js	
+void SetDisableResistanceGain(flDisableResistanceGain)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Creature__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Creature`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the disable resistance gained per level on this creature.
 # Parameters

@@ -1,8 +1,11 @@
 # SetCanRepick
-> `void SetCanRepick(iPlayerID, bCanRepick)`
+```js	
+void SetCanRepick(iPlayerID, bCanRepick)
+```
 # Class
-> __✔ Server: CDOTA_PlayerResource__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_PlayerResource`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

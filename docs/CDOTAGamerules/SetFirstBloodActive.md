@@ -1,8 +1,11 @@
 # SetFirstBloodActive
-> `void SetFirstBloodActive(bool_1)`
+```js	
+void SetFirstBloodActive(bool_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Sets whether First Blood has been triggered.
 # Parameters

@@ -1,8 +1,11 @@
 # StopSoundEvent
-> `void StopSoundEvent(string_1, handle_2)`
+```js	
+void StopSoundEvent(string_1, handle_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Stops a sound event with optional delivery
 # Parameters

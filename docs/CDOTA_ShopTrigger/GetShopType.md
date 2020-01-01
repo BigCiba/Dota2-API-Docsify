@@ -1,7 +1,10 @@
 # GetShopType
-> `int GetShopType()`
+```js	
+int GetShopType()
+```
 # Class
-> __✔ Server: CDOTA_ShopTrigger__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_ShopTrigger`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the DOTA_SHOP_TYPE

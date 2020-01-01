@@ -1,4 +1,4 @@
-* [◼️CEntities](/)
+* [**CEntities**](/)
 	* [CreateByClassname](CEntities/CreateByClassname)
 	* [FindAllByClassname](CEntities/FindAllByClassname)
 	* [FindAllByClassnameWithin](CEntities/FindAllByClassnameWithin)

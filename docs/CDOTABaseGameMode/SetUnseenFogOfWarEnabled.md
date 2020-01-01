@@ -1,8 +1,11 @@
 # SetUnseenFogOfWarEnabled
-> `void SetUnseenFogOfWarEnabled(bEnabled)`
+```js	
+void SetUnseenFogOfWarEnabled(bEnabled)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Enable or disable unseen fog of war. When enabled parts of the map the player has never seen will be completely hidden by fog of war.
 # Parameters

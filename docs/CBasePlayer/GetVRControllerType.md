@@ -1,7 +1,10 @@
 # GetVRControllerType
-> `<unknown> GetVRControllerType()`
+```js	
+<unknown> GetVRControllerType()
+```
 # Class
-> __✔ Server: CBasePlayer__  
-> __✖ Client: undefined__  
+✔ `Server: CBasePlayer`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns the type of controller being used while in VR.

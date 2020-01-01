@@ -1,7 +1,10 @@
 # EnableMotion
-> `void EnableMotion()`
+```js	
+void EnableMotion()
+```
 # Class
-> __✔ Server: CPhysicsProp__  
-> __✖ Client: undefined__  
+✔ `Server: CPhysicsProp`  
+✖ `Client: undefined`  
+
 # Function Description
 Enable motion for the prop

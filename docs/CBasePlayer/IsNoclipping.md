@@ -1,7 +1,10 @@
 # IsNoclipping
-> `bool IsNoclipping()`
+```js	
+bool IsNoclipping()
+```
 # Class
-> __✔ Server: CBasePlayer__  
-> __✖ Client: undefined__  
+✔ `Server: CBasePlayer`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns true if the player is in noclip mode.

@@ -1,8 +1,11 @@
 # PlayerInstanceFromIndex
-> `handle PlayerInstanceFromIndex(int_1)`
+```js	
+handle PlayerInstanceFromIndex(int_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Get a script instance of a player by index.
 # Parameters

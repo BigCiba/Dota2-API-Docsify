@@ -1,8 +1,11 @@
 # SetChanneling
-> `void SetChanneling(bChanneling)`
+```js	
+void SetChanneling(bChanneling)
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

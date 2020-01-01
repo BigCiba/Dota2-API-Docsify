@@ -1,8 +1,11 @@
 # HasCustomGameTicketForPlayerID
-> `bool HasCustomGameTicketForPlayerID(iPlayerID)`
+```js	
+bool HasCustomGameTicketForPlayerID(iPlayerID)
+```
 # Class
-> __✔ Server: CDOTA_PlayerResource__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_PlayerResource`  
+✖ `Client: undefined`  
+
 # Function Description
 Does this player have a custom game ticket for this game?
 # Parameters

@@ -1,8 +1,11 @@
 # GetBool
-> `table GetBool(string_1)`
+```js	
+table GetBool(string_1)
+```
 # Class
-> __✔ Server: Convars__  
-> __✔ Client: Convars__  
+✔ `Server: Convars`  
+✔ `Client: Convars`  
+
 # Function Description
 GetBool(name) : returns the convar as a boolean flag.
 # Parameters

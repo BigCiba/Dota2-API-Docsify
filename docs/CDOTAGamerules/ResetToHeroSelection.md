@@ -1,7 +1,10 @@
 # ResetToHeroSelection
-> `void ResetToHeroSelection()`
+```js	
+void ResetToHeroSelection()
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Restart the game at hero selection

@@ -1,8 +1,11 @@
 # StartCooldown
-> `void StartCooldown(flCooldown)`
+```js	
+void StartCooldown(flCooldown)
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

@@ -1,8 +1,11 @@
 # DoIncludeScript
-> `bool DoIncludeScript(string_1, handle_2)`
+```js	
+bool DoIncludeScript(string_1, handle_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Execute a script (internal)
 # Parameters

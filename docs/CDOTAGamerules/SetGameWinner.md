@@ -1,8 +1,11 @@
 # SetGameWinner
-> `void SetGameWinner(int_1)`
+```js	
+void SetGameWinner(int_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Makes the specified team win
 # Parameters

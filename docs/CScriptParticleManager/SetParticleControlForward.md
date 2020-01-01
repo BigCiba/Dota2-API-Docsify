@@ -1,8 +1,11 @@
 # SetParticleControlForward
-> `void SetParticleControlForward(int_1, int_2, Vector_3)`
+```js	
+void SetParticleControlForward(int_1, int_2, Vector_3)
+```
 # Class
-> __✔ Server: CScriptParticleManager__  
-> __✔ Client: CScriptParticleManager__  
+✔ `Server: CScriptParticleManager`  
+✔ `Client: CScriptParticleManager`  
+
 # Function Description
 (int nFXIndex, int nPoint, vForward)
 # Parameters

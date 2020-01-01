@@ -1,7 +1,10 @@
 # Disable
-> `void Disable()`
+```js	
+void Disable()
+```
 # Class
-> __✔ Server: CBaseTrigger__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseTrigger`  
+✖ `Client: undefined`  
+
 # Function Description
 Disable's the trigger

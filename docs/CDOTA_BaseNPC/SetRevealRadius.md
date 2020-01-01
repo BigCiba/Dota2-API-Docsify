@@ -1,8 +1,11 @@
 # SetRevealRadius
-> `void SetRevealRadius(revealRadius)`
+```js	
+void SetRevealRadius(revealRadius)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 sets the client side map reveal radius for this unit
 # Parameters

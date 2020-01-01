@@ -1,8 +1,11 @@
 # FollowEntity
-> `void FollowEntity(hEnt, bBoneMerge)`
+```js	
+void FollowEntity(hEnt, bBoneMerge)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 hEntity to follow, bool bBoneMerge
 # Parameters

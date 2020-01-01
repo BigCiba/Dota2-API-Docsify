@@ -1,8 +1,11 @@
 # SetCameraDistanceOverride
-> `void SetCameraDistanceOverride(flCameraDistanceOverride)`
+```js	
+void SetCameraDistanceOverride(flCameraDistanceOverride)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set a different camera distance; dota default is 1134.
 # Parameters

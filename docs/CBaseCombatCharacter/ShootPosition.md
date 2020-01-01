@@ -1,8 +1,11 @@
 # ShootPosition
-> `Vector ShootPosition(nHand, nMuzzle)`
+```js	
+Vector ShootPosition(nHand, nMuzzle)
+```
 # Class
-> __✔ Server: CBaseCombatCharacter__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseCombatCharacter`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns the shoot position eyes (or hand in VR).
 # Parameters

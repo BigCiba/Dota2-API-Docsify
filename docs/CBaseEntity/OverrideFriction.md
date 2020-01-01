@@ -1,8 +1,11 @@
 # OverrideFriction
-> `void OverrideFriction(duration, friction)`
+```js	
+void OverrideFriction(duration, friction)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Takes duration, value for a temporary override.
 # Parameters

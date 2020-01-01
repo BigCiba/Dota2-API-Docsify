@@ -1,8 +1,11 @@
 # WorldToGridPosX
-> `int WorldToGridPosX(float_1)`
+```js	
+int WorldToGridPosX(float_1)
+```
 # Class
-> __✔ Server: GridNav__  
-> __✖ Client: undefined__  
+✔ `Server: GridNav`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the X index of a given world X position
 # Parameters

@@ -1,8 +1,11 @@
 # SetCustomGlyphCooldown
-> `void SetCustomGlyphCooldown(flCooldown)`
+```js	
+void SetCustomGlyphCooldown(flCooldown)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set a custom cooldown for team Glyph ability.
 # Parameters

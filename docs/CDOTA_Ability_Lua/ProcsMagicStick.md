@@ -1,7 +1,10 @@
 # ProcsMagicStick
-> `bool ProcsMagicStick()`
+```js	
+bool ProcsMagicStick()
+```
 # Class
-> __✔ Server: CDOTA_Ability_Lua__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Ability_Lua`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns true if this ability will generate magic stick charges for nearby enemies.

@@ -1,8 +1,11 @@
 # RemoveBroadcastTeamTarget
-> `void RemoveBroadcastTeamTarget(int_1)`
+```js	
+void RemoveBroadcastTeamTarget(int_1)
+```
 # Class
-> __✔ Server: CSceneEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CSceneEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Removes a team (by index) from the broadcast list
 # Parameters

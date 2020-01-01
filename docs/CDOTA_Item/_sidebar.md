@@ -1,4 +1,4 @@
-* [◼️CDOTA_Item](/)
+* [**CDOTA_Item**](/)
 	* [CanBeUsedOutOfInventory](CDOTA_Item/CanBeUsedOutOfInventory)
 	* [GetContainer](CDOTA_Item/GetContainer)
 	* [GetCost](CDOTA_Item/GetCost)

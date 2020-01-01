@@ -1,8 +1,11 @@
 # HasItemInInventory
-> `bool HasItemInInventory(pItemName)`
+```js	
+bool HasItemInInventory(pItemName)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✔ Client: C_DOTA_BaseNPC__  
+✔ `Server: CDOTA_BaseNPC`  
+✔ `Client: C_DOTA_BaseNPC`  
+
 # Function Description
 See whether this unit has an item by name.
 # Parameters

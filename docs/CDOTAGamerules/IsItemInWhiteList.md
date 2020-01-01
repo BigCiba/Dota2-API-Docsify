@@ -1,8 +1,11 @@
 # IsItemInWhiteList
-> `bool IsItemInWhiteList(string_1)`
+```js	
+bool IsItemInWhiteList(string_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Query an item in the whitelist
 # Parameters

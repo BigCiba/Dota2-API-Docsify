@@ -1,7 +1,10 @@
 # GetBehavior
-> `int GetBehavior()`
+```js	
+int GetBehavior()
+```
 # Class
-> __✔ Server: CDOTA_Ability_Lua__  
-> __✔ Client: C_DOTA_Ability_Lua__  
+✔ `Server: CDOTA_Ability_Lua`  
+✔ `Client: C_DOTA_Ability_Lua`  
+
 # Function Description
 Return cast behavior type of this ability.

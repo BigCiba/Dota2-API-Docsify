@@ -1,7 +1,10 @@
 # IsSequenceFinished
-> `bool IsSequenceFinished()`
+```js	
+bool IsSequenceFinished()
+```
 # Class
-> __✔ Server: CBaseAnimating__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseAnimating`  
+✖ `Client: undefined`  
+
 # Function Description
 Ask whether the main sequence is done playing.

@@ -1,7 +1,10 @@
 # GetPriority
-> `int GetPriority()`
+```js	
+int GetPriority()
+```
 # Class
-> __✔ Server: CDOTA_Modifier_Lua__  
-> __✔ Client: C_DOTA_Modifier_Lua__  
+✔ `Server: CDOTA_Modifier_Lua`  
+✔ `Client: C_DOTA_Modifier_Lua`  
+
 # Function Description
 Return the priority order this modifier will be applied over others.

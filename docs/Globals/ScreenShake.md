@@ -1,8 +1,11 @@
 # ScreenShake
-> `void ScreenShake(Vector_1, float_2, float_3, float_4, float_5, int_6, bool_7)`
+```js	
+void ScreenShake(Vector_1, float_2, float_3, float_4, float_5, int_6, bool_7)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Start a screenshake with the following parameters. vecCenter, flAmplitude, flFrequency, flDuration, flRadius, eCommand( SHAKE_START = 0, SHAKE_STOP = 1 ), bAirShake
 # Parameters

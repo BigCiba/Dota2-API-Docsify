@@ -1,8 +1,11 @@
 # UnitFilter
-> `int UnitFilter(handle_1, int_2, int_3, int_4, int_5)`
+```js	
+int UnitFilter(handle_1, int_2, int_3, int_4, int_5)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Check if a unit passes a set of filters. (hNPC, nTargetTeam, nTargetType, nTargetFlags, nTeam
 # Parameters

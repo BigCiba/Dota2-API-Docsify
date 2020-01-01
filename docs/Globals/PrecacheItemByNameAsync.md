@@ -1,8 +1,11 @@
 # PrecacheItemByNameAsync
-> `void PrecacheItemByNameAsync(string_1, handle_2)`
+```js	
+void PrecacheItemByNameAsync(string_1, handle_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Asynchronously precaches a DOTA item by its dota_npc_items.txt name, provides a callback when it's finished.
 # Parameters

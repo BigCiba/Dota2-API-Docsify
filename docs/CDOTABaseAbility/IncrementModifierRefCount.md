@@ -1,7 +1,10 @@
 # IncrementModifierRefCount
-> `void IncrementModifierRefCount()`
+```js	
+void IncrementModifierRefCount()
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 

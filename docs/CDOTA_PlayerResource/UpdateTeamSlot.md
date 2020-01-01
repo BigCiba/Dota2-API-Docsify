@@ -1,8 +1,11 @@
 # UpdateTeamSlot
-> `void UpdateTeamSlot(iPlayerID, iTeamNumber, desiredSlot)`
+```js	
+void UpdateTeamSlot(iPlayerID, iTeamNumber, desiredSlot)
+```
 # Class
-> __✔ Server: CDOTA_PlayerResource__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_PlayerResource`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

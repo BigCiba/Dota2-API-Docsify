@@ -1,7 +1,10 @@
 # GetMatchID
-> `uint64 GetMatchID()`
+```js	
+uint64 GetMatchID()
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the MatchID for this game.

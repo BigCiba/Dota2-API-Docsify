@@ -1,7 +1,10 @@
 # GetPriority
-> `int GetPriority()`
+```js	
+int GetPriority()
+```
 # Class
-> __✔ Server: CDOTA_Modifier_Lua_Horizontal_Motion__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Modifier_Lua_Horizontal_Motion`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the priority

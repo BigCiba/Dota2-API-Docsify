@@ -1,8 +1,11 @@
 # SetKillCamUnit
-> `void SetKillCamUnit(hEntity)`
+```js	
+void SetKillCamUnit(hEntity)
+```
 # Class
-> __✔ Server: CDOTAPlayer__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAPlayer`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the kill cam unit for this hero.
 # Parameters

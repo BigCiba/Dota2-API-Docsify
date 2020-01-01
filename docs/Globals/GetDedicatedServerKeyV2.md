@@ -1,8 +1,11 @@
 # GetDedicatedServerKeyV2
-> `string GetDedicatedServerKeyV2(string_1)`
+```js	
+string GetDedicatedServerKeyV2(string_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 ( version )
 # Parameters

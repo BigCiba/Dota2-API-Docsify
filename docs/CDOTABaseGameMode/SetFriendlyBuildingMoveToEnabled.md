@@ -1,8 +1,11 @@
 # SetFriendlyBuildingMoveToEnabled
-> `void SetFriendlyBuildingMoveToEnabled(bEnabled)`
+```js	
+void SetFriendlyBuildingMoveToEnabled(bEnabled)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Allows clicks on friendly buildings to be handled normally.
 # Parameters

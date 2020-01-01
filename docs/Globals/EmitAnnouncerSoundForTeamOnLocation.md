@@ -1,8 +1,11 @@
 # EmitAnnouncerSoundForTeamOnLocation
-> `void EmitAnnouncerSoundForTeamOnLocation(string_1, int_2, Vector_3)`
+```js	
+void EmitAnnouncerSoundForTeamOnLocation(string_1, int_2, Vector_3)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Emit an announcer sound for a team at a specific location.
 # Parameters

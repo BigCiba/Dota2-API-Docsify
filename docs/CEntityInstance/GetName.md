@@ -1,7 +1,10 @@
 # GetName
-> `string GetName()`
+```js	
+string GetName()
+```
 # Class
-> __✔ Server: CEntityInstance__  
-> __✔ Client: CEntityInstance__  
+✔ `Server: CEntityInstance`  
+✔ `Client: CEntityInstance`  
+
 # Function Description
 

@@ -1,8 +1,11 @@
 # DoEntFire
-> `void DoEntFire(string_1, string_2, string_3, float_4, handle_5, handle_6)`
+```js	
+void DoEntFire(string_1, string_2, string_3, float_4, handle_5, handle_6)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 #EntFire:Generate and entity i/o event
 # Parameters

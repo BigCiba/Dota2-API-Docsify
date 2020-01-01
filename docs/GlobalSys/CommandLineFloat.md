@@ -1,8 +1,11 @@
 # CommandLineFloat
-> `table CommandLineFloat(string_1, float_2)`
+```js	
+table CommandLineFloat(string_1, float_2)
+```
 # Class
-> __✔ Server: GlobalSys__  
-> __✔ Client: GlobalSys__  
+✔ `Server: GlobalSys`  
+✔ `Client: GlobalSys`  
+
 # Function Description
 CommandLineFloat(name) : returns the command line param as a float.
 # Parameters

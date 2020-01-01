@@ -1,7 +1,10 @@
 # GetContainer
-> `handle GetContainer()`
+```js	
+handle GetContainer()
+```
 # Class
-> __✔ Server: CDOTA_Item__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Item`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the container for this item.

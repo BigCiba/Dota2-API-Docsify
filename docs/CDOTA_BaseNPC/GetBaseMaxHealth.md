@@ -1,7 +1,10 @@
 # GetBaseMaxHealth
-> `float GetBaseMaxHealth()`
+```js	
+float GetBaseMaxHealth()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Gets the base max health value.

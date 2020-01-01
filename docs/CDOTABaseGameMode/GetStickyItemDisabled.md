@@ -1,7 +1,10 @@
 # GetStickyItemDisabled
-> `bool GetStickyItemDisabled()`
+```js	
+bool GetStickyItemDisabled()
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Hide the sticky item in the quickbuy.

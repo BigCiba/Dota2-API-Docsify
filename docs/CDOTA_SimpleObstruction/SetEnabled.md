@@ -1,8 +1,11 @@
 # SetEnabled
-> `void SetEnabled(bEnabled, bForce)`
+```js	
+void SetEnabled(bEnabled, bForce)
+```
 # Class
-> __✔ Server: CDOTA_SimpleObstruction__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_SimpleObstruction`  
+✖ `Client: undefined`  
+
 # Function Description
 Enable or disable the obstruction
 # Parameters

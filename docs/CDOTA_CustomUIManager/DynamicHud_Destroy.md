@@ -1,8 +1,11 @@
 # DynamicHud_Destroy
-> `void DynamicHud_Destroy(int_1, string_2)`
+```js	
+void DynamicHud_Destroy(int_1, string_2)
+```
 # Class
-> __✔ Server: CDOTA_CustomUIManager__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_CustomUIManager`  
+✖ `Client: undefined`  
+
 # Function Description
 Destroy a custom hud element ( int PlayerID /*-1 means everyone*/, string ElementID )
 # Parameters

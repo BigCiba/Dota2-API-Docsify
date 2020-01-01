@@ -1,8 +1,11 @@
 # GetLinearProjectileVelocity
-> `Vector GetLinearProjectileVelocity(int_1)`
+```js	
+Vector GetLinearProjectileVelocity(int_1)
+```
 # Class
-> __✔ Server: ProjectileManager__  
-> __✖ Client: undefined__  
+✔ `Server: ProjectileManager`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns a vector representing the current velocity of the projectile.
 # Parameters

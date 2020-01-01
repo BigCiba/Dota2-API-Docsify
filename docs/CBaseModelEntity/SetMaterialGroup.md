@@ -1,8 +1,11 @@
 # SetMaterialGroup
-> `void SetMaterialGroup(pMaterialGroup)`
+```js	
+void SetMaterialGroup(pMaterialGroup)
+```
 # Class
-> __✔ Server: CBaseModelEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseModelEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 SetMaterialGroup( string ): Set the material group of this entity.
 # Parameters

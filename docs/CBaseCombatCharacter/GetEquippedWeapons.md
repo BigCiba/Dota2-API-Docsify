@@ -1,7 +1,10 @@
 # GetEquippedWeapons
-> `table GetEquippedWeapons()`
+```js	
+table GetEquippedWeapons()
+```
 # Class
-> __✔ Server: CBaseCombatCharacter__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseCombatCharacter`  
+✖ `Client: undefined`  
+
 # Function Description
 GetEquippedWeapons() : Returns an array of all the equipped weapons

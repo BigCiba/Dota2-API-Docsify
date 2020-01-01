@@ -1,8 +1,11 @@
 # SetAngularVelocity
-> `void SetAngularVelocity(pitchVel, yawVel, rollVel)`
+```js	
+void SetAngularVelocity(pitchVel, yawVel, rollVel)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the local angular velocity - takes float pitch,yaw,roll velocities
 # Parameters

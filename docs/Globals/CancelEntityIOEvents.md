@@ -1,8 +1,11 @@
 # CancelEntityIOEvents
-> `void CancelEntityIOEvents(ehandle_1)`
+```js	
+void CancelEntityIOEvents(ehandle_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Create all I/O events for a particular entity
 # Parameters

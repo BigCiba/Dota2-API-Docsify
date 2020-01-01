@@ -1,8 +1,11 @@
 # SetMaterialGroupHash
-> `void SetMaterialGroupHash(nHash)`
+```js	
+void SetMaterialGroupHash(nHash)
+```
 # Class
-> __✔ Server: CBaseModelEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseModelEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 SetMaterialGroupHash( uint32 ): Set the material group hash of this entity.
 # Parameters

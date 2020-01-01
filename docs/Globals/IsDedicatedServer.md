@@ -1,7 +1,10 @@
 # IsDedicatedServer
-> `bool IsDedicatedServer()`
+```js	
+bool IsDedicatedServer()
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Returns true if this server is a dedicated server.

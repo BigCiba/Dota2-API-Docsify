@@ -1,7 +1,10 @@
 # GetInvulnCount
-> `int GetInvulnCount()`
+```js	
+int GetInvulnCount()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Building__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Building`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the invulnerability count for a building.

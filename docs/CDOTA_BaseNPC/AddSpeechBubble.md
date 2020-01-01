@@ -1,8 +1,11 @@
 # AddSpeechBubble
-> `void AddSpeechBubble(iBubble, pszSpeech, flDuration, unOffsetX, unOffsetY)`
+```js	
+void AddSpeechBubble(iBubble, pszSpeech, flDuration, unOffsetX, unOffsetY)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Add a speech bubble(1-4 live at a time) to this NPC.
 # Parameters

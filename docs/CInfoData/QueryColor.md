@@ -1,8 +1,11 @@
 # QueryColor
-> `Vector QueryColor(tok, vDefault)`
+```js	
+Vector QueryColor(tok, vDefault)
+```
 # Class
-> __✔ Server: CInfoData__  
-> __✖ Client: undefined__  
+✔ `Server: CInfoData`  
+✖ `Client: undefined`  
+
 # Function Description
 Query color data for this key
 # Parameters

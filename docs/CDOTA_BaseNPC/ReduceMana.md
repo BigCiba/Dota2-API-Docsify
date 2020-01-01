@@ -1,8 +1,11 @@
 # ReduceMana
-> `void ReduceMana(flAmount)`
+```js	
+void ReduceMana(flAmount)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Remove mana from this unit, this can be used for involuntary mana loss, not for mana that is spent.
 # Parameters

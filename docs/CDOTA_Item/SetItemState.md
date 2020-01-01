@@ -1,8 +1,11 @@
 # SetItemState
-> `void SetItemState(iState)`
+```js	
+void SetItemState(iState)
+```
 # Class
-> __✔ Server: CDOTA_Item__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Item`  
+✖ `Client: undefined`  
+
 # Function Description
 Sets whether item is unequipped or ready.
 # Parameters

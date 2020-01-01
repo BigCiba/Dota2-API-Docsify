@@ -1,7 +1,10 @@
 # Trigger
-> `void Trigger()`
+```js	
+void Trigger()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Fires off this entity's OnTrigger responses.

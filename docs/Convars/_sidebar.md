@@ -1,4 +1,4 @@
-* [◼️Convars](/)
+* [**Convars**](/)
 	* [GetBool](Convars/GetBool)
 	* [GetCommandClient](Convars/GetCommandClient)
 	* [GetDOTACommandClient](Convars/GetDOTACommandClient)

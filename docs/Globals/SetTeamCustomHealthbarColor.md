@@ -1,8 +1,11 @@
 # SetTeamCustomHealthbarColor
-> `void SetTeamCustomHealthbarColor(int_1, int_2, int_3, int_4)`
+```js	
+void SetTeamCustomHealthbarColor(int_1, int_2, int_3, int_4)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 ( teamNumber, r, g, b )
 # Parameters

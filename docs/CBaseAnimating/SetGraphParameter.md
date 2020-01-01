@@ -1,8 +1,11 @@
 # SetGraphParameter
-> `void SetGraphParameter(pszParam, svArg)`
+```js	
+void SetGraphParameter(pszParam, svArg)
+```
 # Class
-> __✔ Server: CBaseAnimating__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseAnimating`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the specific param value, type is inferred from the type in script
 # Parameters

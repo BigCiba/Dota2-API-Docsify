@@ -1,8 +1,11 @@
 # IsVRControllerButtonPressed
-> `bool IsVRControllerButtonPressed(nButton)`
+```js	
+bool IsVRControllerButtonPressed(nButton)
+```
 # Class
-> __✔ Server: CBasePlayer__  
-> __✖ Client: undefined__  
+✔ `Server: CBasePlayer`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns true if the controller button is pressed.
 # Parameters

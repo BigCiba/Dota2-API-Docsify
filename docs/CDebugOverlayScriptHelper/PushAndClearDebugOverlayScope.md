@@ -1,8 +1,11 @@
 # PushAndClearDebugOverlayScope
-> `void PushAndClearDebugOverlayScope(utlstringtoken_1)`
+```js	
+void PushAndClearDebugOverlayScope(utlstringtoken_1)
+```
 # Class
-> __✔ Server: CDebugOverlayScriptHelper__  
-> __✔ Client: CDebugOverlayScriptHelper__  
+✔ `Server: CDebugOverlayScriptHelper`  
+✔ `Client: CDebugOverlayScriptHelper`  
+
 # Function Description
 Pushes an identifier used to group overlays. Deletes all existing overlays using this overlay id.
 # Parameters

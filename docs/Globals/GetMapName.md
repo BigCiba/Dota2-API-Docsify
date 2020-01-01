@@ -1,7 +1,10 @@
 # GetMapName
-> `string GetMapName()`
+```js	
+string GetMapName()
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Get the name of the map.

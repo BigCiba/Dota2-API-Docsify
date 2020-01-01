@@ -1,8 +1,11 @@
 # GetAttachmentOrigin
-> `Vector GetAttachmentOrigin(iAttachment)`
+```js	
+Vector GetAttachmentOrigin(iAttachment)
+```
 # Class
-> __✔ Server: CBaseAnimating__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseAnimating`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the attachment id's origin vector.
 # Parameters

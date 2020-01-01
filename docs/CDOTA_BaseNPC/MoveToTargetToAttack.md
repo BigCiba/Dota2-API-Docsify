@@ -1,8 +1,11 @@
 # MoveToTargetToAttack
-> `void MoveToTargetToAttack(hTarget)`
+```js	
+void MoveToTargetToAttack(hTarget)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Move to a target to attack.
 # Parameters

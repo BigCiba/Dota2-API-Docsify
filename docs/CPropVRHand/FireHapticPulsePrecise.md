@@ -1,8 +1,11 @@
 # FireHapticPulsePrecise
-> `void FireHapticPulsePrecise(nPulseDuration)`
+```js	
+void FireHapticPulsePrecise(nPulseDuration)
+```
 # Class
-> __✔ Server: CPropVRHand__  
-> __✖ Client: undefined__  
+✔ `Server: CPropVRHand`  
+✖ `Client: undefined`  
+
 # Function Description
 Fire a haptic pulse on this hand. Specify the duration in micro seconds.
 # Parameters

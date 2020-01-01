@@ -1,8 +1,11 @@
 # SetMessage
-> `void SetMessage(pMessage)`
+```js	
+void SetMessage(pMessage)
+```
 # Class
-> __✔ Server: CPointWorldText__  
-> __✔ Client: C_PointWorldText__  
+✔ `Server: CPointWorldText`  
+✔ `Client: C_PointWorldText`  
+
 # Function Description
 Set the message on this entity.
 # Parameters

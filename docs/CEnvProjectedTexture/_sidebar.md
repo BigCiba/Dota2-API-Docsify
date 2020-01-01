@@ -1,4 +1,4 @@
-* [◼️CEnvProjectedTexture](/)
+* [**CEnvProjectedTexture**](/)
 	* [SetFarRange](CEnvProjectedTexture/SetFarRange)
 	* [SetLinearAttenuation](CEnvProjectedTexture/SetLinearAttenuation)
 	* [SetNearRange](CEnvProjectedTexture/SetNearRange)

@@ -1,8 +1,11 @@
 # AddOutput
-> `void AddOutput(string_1, string_2)`
+```js	
+void AddOutput(string_1, string_2)
+```
 # Class
-> __✔ Server: CNativeOutputs__  
-> __✔ Client: CNativeOutputs__  
+✔ `Server: CNativeOutputs`  
+✔ `Client: CNativeOutputs`  
+
 # Function Description
 Add an output
 # Parameters

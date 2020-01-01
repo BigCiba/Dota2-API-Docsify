@@ -1,8 +1,11 @@
 # SetEventSignoutCustomTable
-> `bool SetEventSignoutCustomTable(handle_1)`
+```js	
+bool SetEventSignoutCustomTable(handle_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Event-only ( table hMetadataTable )
 # Parameters

@@ -1,8 +1,11 @@
 # SetPlaybackRate
-> `void SetPlaybackRate(flRate)`
+```js	
+void SetPlaybackRate(flRate)
+```
 # Class
-> __✔ Server: CDOTA_Ability_Animation_Attack__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Ability_Animation_Attack`  
+✖ `Client: undefined`  
+
 # Function Description
 Override playbackrate
 # Parameters

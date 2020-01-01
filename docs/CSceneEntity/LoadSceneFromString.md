@@ -1,8 +1,11 @@
 # LoadSceneFromString
-> `bool LoadSceneFromString(string_1, string_2)`
+```js	
+bool LoadSceneFromString(string_1, string_2)
+```
 # Class
-> __✔ Server: CSceneEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CSceneEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 given a dummy scene name and a vcd string, load the scene
 # Parameters

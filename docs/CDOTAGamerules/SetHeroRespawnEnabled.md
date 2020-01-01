@@ -1,8 +1,11 @@
 # SetHeroRespawnEnabled
-> `void SetHeroRespawnEnabled(bool_1)`
+```js	
+void SetHeroRespawnEnabled(bool_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Control if the normal DOTA hero respawn rules apply.
 # Parameters

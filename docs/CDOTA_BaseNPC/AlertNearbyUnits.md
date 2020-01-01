@@ -1,8 +1,11 @@
 # AlertNearbyUnits
-> `void AlertNearbyUnits(hAttacker, hAbility)`
+```js	
+void AlertNearbyUnits(hAttacker, hAbility)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

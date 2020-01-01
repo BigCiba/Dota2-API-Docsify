@@ -1,8 +1,11 @@
 # GetStr
-> `table GetStr(string_1)`
+```js	
+table GetStr(string_1)
+```
 # Class
-> __✔ Server: Convars__  
-> __✔ Client: Convars__  
+✔ `Server: Convars`  
+✔ `Client: Convars`  
+
 # Function Description
 GetStr(name) : returns the convar as a string. May return null if no such convar.
 # Parameters

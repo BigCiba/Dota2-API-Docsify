@@ -1,8 +1,11 @@
 # GetPlayerCustomGameAccountRecord
-> `table GetPlayerCustomGameAccountRecord(int_1)`
+```js	
+table GetPlayerCustomGameAccountRecord(int_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 (Preview/Unreleased) Gets the player's custom game account record, as it looked at the start of this session
 # Parameters

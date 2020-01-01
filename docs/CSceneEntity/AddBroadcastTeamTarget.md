@@ -1,8 +1,11 @@
 # AddBroadcastTeamTarget
-> `void AddBroadcastTeamTarget(int_1)`
+```js	
+void AddBroadcastTeamTarget(int_1)
+```
 # Class
-> __✔ Server: CSceneEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CSceneEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Adds a team (by index) to the broadcast list
 # Parameters

@@ -1,7 +1,10 @@
 # CompleteSubquest
-> `void CompleteSubquest()`
+```js	
+void CompleteSubquest()
+```
 # Class
-> __✔ Server: CDotaSubquestBase__  
-> __✖ Client: undefined__  
+✔ `Server: CDotaSubquestBase`  
+✖ `Client: undefined`  
+
 # Function Description
 Mark this subquest complete

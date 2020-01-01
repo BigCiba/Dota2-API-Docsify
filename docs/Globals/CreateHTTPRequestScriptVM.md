@@ -1,8 +1,11 @@
 # CreateHTTPRequestScriptVM
-> `handle CreateHTTPRequestScriptVM(string_1, string_2)`
+```js	
+handle CreateHTTPRequestScriptVM(string_1, string_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Create an HTTP request.
 # Parameters

@@ -1,7 +1,10 @@
 # GetTowerBackdoorProtectionEnabled
-> `bool GetTowerBackdoorProtectionEnabled()`
+```js	
+bool GetTowerBackdoorProtectionEnabled()
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Gets whether tower backdoor protection is enabled or not.

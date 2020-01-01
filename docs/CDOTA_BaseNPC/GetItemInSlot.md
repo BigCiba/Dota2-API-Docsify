@@ -1,8 +1,11 @@
 # GetItemInSlot
-> `handle GetItemInSlot(i)`
+```js	
+handle GetItemInSlot(i)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns nth item in inventory slot (index is zero based).
 # Parameters

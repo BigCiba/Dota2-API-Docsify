@@ -1,8 +1,11 @@
 # FindClearRandomPositionAroundUnit
-> `bool FindClearRandomPositionAroundUnit(handle_1, handle_2, int_3)`
+```js	
+bool FindClearRandomPositionAroundUnit(handle_1, handle_2, int_3)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Finds a clear random position around a given target unit, using the target unit's padded collision radius.
 # Parameters

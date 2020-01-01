@@ -1,8 +1,11 @@
 # cvar_setf
-> `bool cvar_setf(string_1, float_2)`
+```js	
+bool cvar_setf(string_1, float_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Sets the value of the given cvar, as a float.
 # Parameters

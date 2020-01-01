@@ -1,8 +1,11 @@
 # SetModel
-> `void SetModel(pModelName)`
+```js	
+void SetModel(pModelName)
+```
 # Class
-> __✔ Server: CBaseModelEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseModelEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

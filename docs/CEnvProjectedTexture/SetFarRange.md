@@ -1,8 +1,11 @@
 # SetFarRange
-> `void SetFarRange(flRange)`
+```js	
+void SetFarRange(flRange)
+```
 # Class
-> __✔ Server: CEnvProjectedTexture__  
-> __✖ Client: undefined__  
+✔ `Server: CEnvProjectedTexture`  
+✖ `Client: undefined`  
+
 # Function Description
 Set light maximum range
 # Parameters

@@ -1,7 +1,10 @@
 # AcceptUserInput
-> `void AcceptUserInput()`
+```js	
+void AcceptUserInput()
+```
 # Class
-> __✔ Server: CPointClientUIWorldPanel__  
-> __✖ Client: undefined__  
+✔ `Server: CPointClientUIWorldPanel`  
+✖ `Client: undefined`  
+
 # Function Description
 Tells the panel to accept user input.

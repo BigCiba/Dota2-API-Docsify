@@ -1,8 +1,11 @@
 # SetDeathOverlayDisabled
-> `void SetDeathOverlayDisabled(bDisabled)`
+```js	
+void SetDeathOverlayDisabled(bDisabled)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Specify whether the full screen death overlay effect plays when the selected hero dies.
 # Parameters

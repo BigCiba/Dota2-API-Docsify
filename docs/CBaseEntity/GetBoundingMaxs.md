@@ -1,7 +1,10 @@
 # GetBoundingMaxs
-> `Vector GetBoundingMaxs()`
+```js	
+Vector GetBoundingMaxs()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Get a vector containing max bounds, centered on object.

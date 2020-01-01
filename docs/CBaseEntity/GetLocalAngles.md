@@ -1,7 +1,10 @@
 # GetLocalAngles
-> `QAngle GetLocalAngles()`
+```js	
+QAngle GetLocalAngles()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Get entity local pitch, yaw, roll as a QAngle

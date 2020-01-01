@@ -1,8 +1,11 @@
 # AddEffects
-> `void AddEffects(nFlags)`
+```js	
+void AddEffects(nFlags)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 AddEffects( int ): Adds the render effect flag.
 # Parameters

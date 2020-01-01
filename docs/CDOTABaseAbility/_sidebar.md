@@ -1,4 +1,4 @@
-* [◼️CDOTABaseAbility](/)
+* [**CDOTABaseAbility**](/)
 	* [CanAbilityBeUpgraded](CDOTABaseAbility/CanAbilityBeUpgraded)
 	* [CastAbility](CDOTABaseAbility/CastAbility)
 	* [ContinueCasting](CDOTABaseAbility/ContinueCasting)

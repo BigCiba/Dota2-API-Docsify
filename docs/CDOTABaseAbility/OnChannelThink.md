@@ -1,8 +1,11 @@
 # OnChannelThink
-> `void OnChannelThink(flInterval)`
+```js	
+void OnChannelThink(flInterval)
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

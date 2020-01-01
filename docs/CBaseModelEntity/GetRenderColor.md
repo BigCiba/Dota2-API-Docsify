@@ -1,7 +1,10 @@
 # GetRenderColor
-> `Vector GetRenderColor()`
+```js	
+Vector GetRenderColor()
+```
 # Class
-> __✔ Server: CBaseModelEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseModelEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 GetRenderColor(): Get the render color of the entity.

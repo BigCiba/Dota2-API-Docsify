@@ -1,4 +1,4 @@
-* [◼️CDOTAGamerules](/)
+* [**CDOTAGamerules**](/)
 	* [AddBotPlayerWithEntityScript](CDOTAGamerules/AddBotPlayerWithEntityScript)
 	* [AddEventMetadataLeaderboardEntry](CDOTAGamerules/AddEventMetadataLeaderboardEntry)
 	* [AddItemToWhiteList](CDOTAGamerules/AddItemToWhiteList)

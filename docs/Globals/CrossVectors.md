@@ -1,8 +1,11 @@
 # CrossVectors
-> `Vector CrossVectors(Vector_1, Vector_2)`
+```js	
+Vector CrossVectors(Vector_1, Vector_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 (vector,vector) cross product between two vectors
 # Parameters

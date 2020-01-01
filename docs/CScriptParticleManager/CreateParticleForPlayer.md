@@ -1,8 +1,11 @@
 # CreateParticleForPlayer
-> `int CreateParticleForPlayer(string_1, int_2, handle_3, handle_4)`
+```js	
+int CreateParticleForPlayer(string_1, int_2, handle_3, handle_4)
+```
 # Class
-> __✔ Server: CScriptParticleManager__  
-> __✔ Client: CScriptParticleManager__  
+✔ `Server: CScriptParticleManager`  
+✔ `Client: CScriptParticleManager`  
+
 # Function Description
 Creates a new particle effect that only plays for the specified player
 # Parameters

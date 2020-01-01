@@ -1,8 +1,11 @@
 # SpawnEntityAtNamedEntityOrigin
-> `void SpawnEntityAtNamedEntityOrigin(pszName)`
+```js	
+void SpawnEntityAtNamedEntityOrigin(pszName)
+```
 # Class
-> __✔ Server: CEnvEntityMaker__  
-> __✖ Client: undefined__  
+✔ `Server: CEnvEntityMaker`  
+✖ `Client: undefined`  
+
 # Function Description
 Create an entity at the location of a named entity
 # Parameters

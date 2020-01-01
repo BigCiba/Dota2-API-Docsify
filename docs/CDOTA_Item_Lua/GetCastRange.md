@@ -1,8 +1,11 @@
 # GetCastRange
-> `int GetCastRange(vLocation, hTarget)`
+```js	
+int GetCastRange(vLocation, hTarget)
+```
 # Class
-> __✔ Server: CDOTA_Item_Lua__  
-> __✔ Client: C_DOTA_Item_Lua__  
+✔ `Server: CDOTA_Item_Lua`  
+✔ `Client: C_DOTA_Item_Lua`  
+
 # Function Description
 Return cast range of this ability.
 # Parameters

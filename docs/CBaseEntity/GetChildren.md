@@ -1,7 +1,10 @@
 # GetChildren
-> `handle GetChildren()`
+```js	
+handle GetChildren()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the entities parented to this entity.

@@ -1,8 +1,11 @@
 # EmitSoundParams
-> `void EmitSoundParams(soundname, nPitch, flVolume, flDelay)`
+```js	
+void EmitSoundParams(soundname, nPitch, flVolume, flDelay)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Plays/modifies a sound from this entity. changes sound if nPitch and/or flVol or flSoundTime is > 0.
 # Parameters

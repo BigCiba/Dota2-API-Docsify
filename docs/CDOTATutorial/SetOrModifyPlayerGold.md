@@ -1,8 +1,11 @@
 # SetOrModifyPlayerGold
-> `void SetOrModifyPlayerGold(int_1, bool_2)`
+```js	
+void SetOrModifyPlayerGold(int_1, bool_2)
+```
 # Class
-> __✔ Server: CDOTATutorial__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTATutorial`  
+✖ `Client: undefined`  
+
 # Function Description
 Set gold amount for the tutorial player. (int) GoldAmount, (bool) true=Set, false=Modify
 # Parameters

@@ -1,8 +1,11 @@
 # RemoveAllInScope
-> `void RemoveAllInScope(utlstringtoken_1)`
+```js	
+void RemoveAllInScope(utlstringtoken_1)
+```
 # Class
-> __✔ Server: CDebugOverlayScriptHelper__  
-> __✔ Client: CDebugOverlayScriptHelper__  
+✔ `Server: CDebugOverlayScriptHelper`  
+✔ `Client: CDebugOverlayScriptHelper`  
+
 # Function Description
 Removes all overlays marked with a specific identifier, regardless of their lifetime.
 # Parameters

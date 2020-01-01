@@ -1,8 +1,11 @@
 # CreateTriggerRadiusApproximate
-> `handle CreateTriggerRadiusApproximate(Vector_1, float_2)`
+```js	
+handle CreateTriggerRadiusApproximate(Vector_1, float_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 CreateTriggerRadiusApproximate( vecOrigin, flRadius ) : Creates and returns an AABB trigger thats bigger than the radius provided
 # Parameters

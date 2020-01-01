@@ -1,8 +1,11 @@
 # SetCustomHeroMaxLevel
-> `void SetCustomHeroMaxLevel(int_1)`
+```js	
+void SetCustomHeroMaxLevel(int_1)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Allows definition of the max level heroes can achieve (default is 25).
 # Parameters

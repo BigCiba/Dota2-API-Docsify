@@ -1,8 +1,11 @@
 # SetRenderAlpha
-> `void SetRenderAlpha(nAlpha)`
+```js	
+void SetRenderAlpha(nAlpha)
+```
 # Class
-> __✔ Server: CBaseModelEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseModelEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 SetRenderAlpha( int ): Set the alpha modulation of this entity.
 # Parameters

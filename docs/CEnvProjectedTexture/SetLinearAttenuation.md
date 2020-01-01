@@ -1,8 +1,11 @@
 # SetLinearAttenuation
-> `void SetLinearAttenuation(flAtten)`
+```js	
+void SetLinearAttenuation(flAtten)
+```
 # Class
-> __✔ Server: CEnvProjectedTexture__  
-> __✖ Client: undefined__  
+✔ `Server: CEnvProjectedTexture`  
+✖ `Client: undefined`  
+
 # Function Description
 Set light linear attenuation value
 # Parameters

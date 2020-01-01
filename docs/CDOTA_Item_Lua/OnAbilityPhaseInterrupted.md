@@ -1,7 +1,10 @@
 # OnAbilityPhaseInterrupted
-> `void OnAbilityPhaseInterrupted()`
+```js	
+void OnAbilityPhaseInterrupted()
+```
 # Class
-> __✔ Server: CDOTA_Item_Lua__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Item_Lua`  
+✖ `Client: undefined`  
+
 # Function Description
 Cast time did not complete successfully.

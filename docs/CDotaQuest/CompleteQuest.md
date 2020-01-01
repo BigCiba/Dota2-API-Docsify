@@ -1,7 +1,10 @@
 # CompleteQuest
-> `void CompleteQuest()`
+```js	
+void CompleteQuest()
+```
 # Class
-> __✔ Server: CDotaQuest__  
-> __✖ Client: undefined__  
+✔ `Server: CDotaQuest`  
+✖ `Client: undefined`  
+
 # Function Description
 Mark this quest complete

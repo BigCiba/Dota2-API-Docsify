@@ -1,8 +1,11 @@
 # SetOpvarFloatPlayer
-> `void SetOpvarFloatPlayer(string_1, string_2, string_3, float_4, handle_5)`
+```js	
+void SetOpvarFloatPlayer(string_1, string_2, string_3, float_4, handle_5)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Sets an opvar value for a single player
 # Parameters

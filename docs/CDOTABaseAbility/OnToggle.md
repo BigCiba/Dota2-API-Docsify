@@ -1,7 +1,10 @@
 # OnToggle
-> `void OnToggle()`
+```js	
+void OnToggle()
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 

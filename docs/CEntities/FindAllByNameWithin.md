@@ -1,8 +1,11 @@
 # FindAllByNameWithin
-> `table FindAllByNameWithin(string_1, Vector_2, float_3)`
+```js	
+table FindAllByNameWithin(string_1, Vector_2, float_3)
+```
 # Class
-> __✔ Server: CEntities__  
-> __✖ Client: undefined__  
+✔ `Server: CEntities`  
+✖ `Client: undefined`  
+
 # Function Description
 Find entities by name within a radius.
 # Parameters

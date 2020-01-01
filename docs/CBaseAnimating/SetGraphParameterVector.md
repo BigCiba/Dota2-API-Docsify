@@ -1,8 +1,11 @@
 # SetGraphParameterVector
-> `void SetGraphParameterVector(szName, vValue)`
+```js	
+void SetGraphParameterVector(szName, vValue)
+```
 # Class
-> __✔ Server: CBaseAnimating__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseAnimating`  
+✖ `Client: undefined`  
+
 # Function Description
 Pass the vector value to the specified param in the graph
 # Parameters

@@ -1,8 +1,11 @@
 # rr_QueryBestResponse
-> `bool rr_QueryBestResponse(handle_1, handle_2, handle_3)`
+```js	
+bool rr_QueryBestResponse(handle_1, handle_2, handle_3)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Params: (entity, query) : tests 'query' against entity's response system and returns the best response found (or null if none found).
 # Parameters

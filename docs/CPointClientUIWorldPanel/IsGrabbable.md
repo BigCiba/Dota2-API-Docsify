@@ -1,7 +1,10 @@
 # IsGrabbable
-> `bool IsGrabbable()`
+```js	
+bool IsGrabbable()
+```
 # Class
-> __✔ Server: CPointClientUIWorldPanel__  
-> __✖ Client: undefined__  
+✔ `Server: CPointClientUIWorldPanel`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns whether this entity is grabbable.

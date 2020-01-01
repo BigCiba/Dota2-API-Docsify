@@ -1,8 +1,11 @@
 # SendToConsole
-> `void SendToConsole(string_1)`
+```js	
+void SendToConsole(string_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Send a string to the console as a client command
 # Parameters

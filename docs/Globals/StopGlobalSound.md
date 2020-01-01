@@ -1,8 +1,11 @@
 # StopGlobalSound
-> `void StopGlobalSound(string_1)`
+```js	
+void StopGlobalSound(string_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Stop named sound for all players
 # Parameters

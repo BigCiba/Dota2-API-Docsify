@@ -1,7 +1,10 @@
 # GetAssociatedSecondaryAbilities
-> `string GetAssociatedSecondaryAbilities()`
+```js	
+string GetAssociatedSecondaryAbilities()
+```
 # Class
-> __✔ Server: CDOTA_Item_Lua__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Item_Lua`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns other abilities that are stolen simultaneously, or otherwise related in functionality.  Generally hidden abilities.

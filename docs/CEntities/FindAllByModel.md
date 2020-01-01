@@ -1,8 +1,11 @@
 # FindAllByModel
-> `table FindAllByModel(string_1)`
+```js	
+table FindAllByModel(string_1)
+```
 # Class
-> __✔ Server: CEntities__  
-> __✖ Client: undefined__  
+✔ `Server: CEntities`  
+✖ `Client: undefined`  
+
 # Function Description
 Find entities by model name.
 # Parameters

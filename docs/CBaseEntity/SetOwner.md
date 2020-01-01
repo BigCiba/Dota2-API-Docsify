@@ -1,8 +1,11 @@
 # SetOwner
-> `void SetOwner(pOwner)`
+```js	
+void SetOwner(pOwner)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Sets this entity's owner
 # Parameters

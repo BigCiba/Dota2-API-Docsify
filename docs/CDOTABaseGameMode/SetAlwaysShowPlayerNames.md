@@ -1,8 +1,11 @@
 # SetAlwaysShowPlayerNames
-> `void SetAlwaysShowPlayerNames(bEnabled)`
+```js	
+void SetAlwaysShowPlayerNames(bEnabled)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set whether player names are always shown, regardless of client setting.
 # Parameters

@@ -1,8 +1,11 @@
 # SetTextReplaceValue
-> `void SetTextReplaceValue(valueSlot, value)`
+```js	
+void SetTextReplaceValue(valueSlot, value)
+```
 # Class
-> __✔ Server: CDotaQuest__  
-> __✖ Client: undefined__  
+✔ `Server: CDotaQuest`  
+✖ `Client: undefined`  
+
 # Function Description
 Set a quest value
 # Parameters

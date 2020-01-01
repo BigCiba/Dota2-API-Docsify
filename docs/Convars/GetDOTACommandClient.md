@@ -1,7 +1,10 @@
 # GetDOTACommandClient
-> `handle GetDOTACommandClient()`
+```js	
+handle GetDOTACommandClient()
+```
 # Class
-> __✔ Server: Convars__  
-> __✔ Client: Convars__  
+✔ `Server: Convars`  
+✔ `Client: Convars`  
+
 # Function Description
 GetDOTACommandClient() : returns the DOTA player who issued this console command.

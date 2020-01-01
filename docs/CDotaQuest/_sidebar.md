@@ -1,4 +1,4 @@
-* [◼️CDotaQuest](/)
+* [**CDotaQuest**](/)
 	* [AddSubquest](CDotaQuest/AddSubquest)
 	* [CompleteQuest](CDotaQuest/CompleteQuest)
 	* [GetSubquest](CDotaQuest/GetSubquest)

@@ -1,8 +1,11 @@
 # ListenForQuerySucceeded
-> `void ListenForQuerySucceeded(hFunction, hContext)`
+```js	
+void ListenForQuerySucceeded(hFunction, hContext)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set function and context for real time combat analyzer query succeeded.
 # Parameters

@@ -1,7 +1,10 @@
 # ForceGameStart
-> `void ForceGameStart()`
+```js	
+void ForceGameStart()
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Transition game state to DOTA_GAMERULES_STATE_GAME_IN_PROGRESS

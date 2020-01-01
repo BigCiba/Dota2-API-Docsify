@@ -1,7 +1,10 @@
 # AreChaperoneBoundsVisible
-> `bool AreChaperoneBoundsVisible()`
+```js	
+bool AreChaperoneBoundsVisible()
+```
 # Class
-> __✔ Server: CBasePlayer__  
-> __✖ Client: undefined__  
+✔ `Server: CBasePlayer`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns whether this player's chaperone bounds are visible.

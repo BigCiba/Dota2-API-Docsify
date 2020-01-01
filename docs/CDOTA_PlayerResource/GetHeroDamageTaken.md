@@ -1,8 +1,11 @@
 # GetHeroDamageTaken
-> `int GetHeroDamageTaken(iPlayerID, bTotal)`
+```js	
+int GetHeroDamageTaken(iPlayerID, bTotal)
+```
 # Class
-> __✔ Server: CDOTA_PlayerResource__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_PlayerResource`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

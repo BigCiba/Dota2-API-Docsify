@@ -1,8 +1,11 @@
 # AddSubquest
-> `void AddSubquest(hSubquest)`
+```js	
+void AddSubquest(hSubquest)
+```
 # Class
-> __✔ Server: CDotaQuest__  
-> __✖ Client: undefined__  
+✔ `Server: CDotaQuest`  
+✖ `Client: undefined`  
+
 # Function Description
 Add a subquest to this quest
 # Parameters

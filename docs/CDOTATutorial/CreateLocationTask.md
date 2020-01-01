@@ -1,8 +1,11 @@
 # CreateLocationTask
-> `void CreateLocationTask(Vector_1)`
+```js	
+void CreateLocationTask(Vector_1)
+```
 # Class
-> __✔ Server: CDOTATutorial__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTATutorial`  
+✖ `Client: undefined`  
+
 # Function Description
 Add a task to move to a specific location
 # Parameters

@@ -1,8 +1,11 @@
 # StopEffect
-> `void StopEffect(handle_1, string_2)`
+```js	
+void StopEffect(handle_1, string_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Pass entity and effect name
 # Parameters

@@ -1,7 +1,10 @@
 # GetPlayer
-> `handle GetPlayer()`
+```js	
+handle GetPlayer()
+```
 # Class
-> __✔ Server: CPropVRHand__  
-> __✖ Client: undefined__  
+✔ `Server: CPropVRHand`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the player for this hand

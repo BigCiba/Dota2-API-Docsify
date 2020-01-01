@@ -1,8 +1,11 @@
 # EntityBounds
-> `void EntityBounds(ehandle_1, int_2, int_3, int_4, int_5, bool_6, float_7)`
+```js	
+void EntityBounds(ehandle_1, int_2, int_3, int_4, int_5, bool_6, float_7)
+```
 # Class
-> __✔ Server: CDebugOverlayScriptHelper__  
-> __✔ Client: CDebugOverlayScriptHelper__  
+✔ `Server: CDebugOverlayScriptHelper`  
+✔ `Client: CDebugOverlayScriptHelper`  
+
 # Function Description
 Draws bounds of an entity
 # Parameters

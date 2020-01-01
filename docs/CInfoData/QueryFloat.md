@@ -1,8 +1,11 @@
 # QueryFloat
-> `float QueryFloat(tok, flDefault)`
+```js	
+float QueryFloat(tok, flDefault)
+```
 # Class
-> __✔ Server: CInfoData__  
-> __✖ Client: undefined__  
+✔ `Server: CInfoData`  
+✖ `Client: undefined`  
+
 # Function Description
 Query float data for this key
 # Parameters

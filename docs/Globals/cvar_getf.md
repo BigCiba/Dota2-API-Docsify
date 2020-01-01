@@ -1,8 +1,11 @@
 # cvar_getf
-> `float cvar_getf(string_1)`
+```js	
+float cvar_getf(string_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Gets the value of the given cvar, as a float.
 # Parameters

@@ -1,7 +1,10 @@
 # GetFaction
-> `int GetFaction()`
+```js	
+int GetFaction()
+```
 # Class
-> __✔ Server: CBaseCombatCharacter__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseCombatCharacter`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the combat character faction.

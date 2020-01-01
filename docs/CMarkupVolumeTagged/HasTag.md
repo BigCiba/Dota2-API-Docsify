@@ -1,8 +1,11 @@
 # HasTag
-> `bool HasTag(pszTagName)`
+```js	
+bool HasTag(pszTagName)
+```
 # Class
-> __✔ Server: CMarkupVolumeTagged__  
-> __✖ Client: undefined__  
+✔ `Server: CMarkupVolumeTagged`  
+✖ `Client: undefined`  
+
 # Function Description
 Does this volume have the given tag.
 # Parameters

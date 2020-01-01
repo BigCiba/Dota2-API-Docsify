@@ -1,8 +1,11 @@
 # PlayerHasCustomGameHostPrivileges
-> `bool PlayerHasCustomGameHostPrivileges(handle_1)`
+```js	
+bool PlayerHasCustomGameHostPrivileges(handle_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Whether a player has custom game host privileges (shuffle teams, etc.)
 # Parameters

@@ -1,7 +1,10 @@
 # GetNeverMoveToClearSpace
-> `bool GetNeverMoveToClearSpace()`
+```js	
+bool GetNeverMoveToClearSpace()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 If set to true, we will never attempt to move this unit to clear space, even when it unphases.

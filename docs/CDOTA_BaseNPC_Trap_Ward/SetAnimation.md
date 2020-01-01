@@ -1,8 +1,11 @@
 # SetAnimation
-> `void SetAnimation(pAnimation)`
+```js	
+void SetAnimation(pAnimation)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Trap_Ward__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Trap_Ward`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the animation sequence for this entity.
 # Parameters

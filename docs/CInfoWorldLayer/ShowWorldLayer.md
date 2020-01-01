@@ -1,7 +1,10 @@
 # ShowWorldLayer
-> `void ShowWorldLayer()`
+```js	
+void ShowWorldLayer()
+```
 # Class
-> __✔ Server: CInfoWorldLayer__  
-> __✔ Client: CInfoWorldLayer__  
+✔ `Server: CInfoWorldLayer`  
+✔ `Client: CInfoWorldLayer`  
+
 # Function Description
 Shows this layer

@@ -1,7 +1,10 @@
 # GetMaxHealth
-> `int GetMaxHealth()`
+```js	
+int GetMaxHealth()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the maximum health of this entity.

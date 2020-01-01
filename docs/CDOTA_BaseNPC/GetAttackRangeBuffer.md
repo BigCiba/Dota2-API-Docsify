@@ -1,7 +1,10 @@
 # GetAttackRangeBuffer
-> `float GetAttackRangeBuffer()`
+```js	
+float GetAttackRangeBuffer()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Gets the attack range buffer.

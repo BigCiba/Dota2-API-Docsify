@@ -1,8 +1,11 @@
 # SetRenderColor
-> `void SetRenderColor(r, g, b)`
+```js	
+void SetRenderColor(r, g, b)
+```
 # Class
-> __✔ Server: CBaseModelEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseModelEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 SetRenderColor( r, g, b ): Sets the render color of the entity.
 # Parameters

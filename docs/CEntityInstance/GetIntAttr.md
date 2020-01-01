@@ -1,8 +1,11 @@
 # GetIntAttr
-> `int GetIntAttr(string_1)`
+```js	
+int GetIntAttr(string_1)
+```
 # Class
-> __✔ Server: CEntityInstance__  
-> __✔ Client: CEntityInstance__  
+✔ `Server: CEntityInstance`  
+✔ `Client: CEntityInstance`  
+
 # Function Description
 Get Integer Attribute
 # Parameters

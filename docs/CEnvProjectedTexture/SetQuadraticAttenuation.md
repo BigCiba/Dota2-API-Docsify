@@ -1,8 +1,11 @@
 # SetQuadraticAttenuation
-> `void SetQuadraticAttenuation(flAtten)`
+```js	
+void SetQuadraticAttenuation(flAtten)
+```
 # Class
-> __✔ Server: CEnvProjectedTexture__  
-> __✖ Client: undefined__  
+✔ `Server: CEnvProjectedTexture`  
+✖ `Client: undefined`  
+
 # Function Description
 Set light quadratic attenuation value
 # Parameters

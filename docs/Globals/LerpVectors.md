@@ -1,8 +1,11 @@
 # LerpVectors
-> `Vector LerpVectors(Vector_1, Vector_2, float_3)`
+```js	
+Vector LerpVectors(Vector_1, Vector_2, float_3)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 (vector,vector,float) lerp between two vectors by a float factor returning new vector
 # Parameters

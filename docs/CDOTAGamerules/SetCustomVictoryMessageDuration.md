@@ -1,8 +1,11 @@
 # SetCustomVictoryMessageDuration
-> `void SetCustomVictoryMessageDuration(float_1)`
+```js	
+void SetCustomVictoryMessageDuration(float_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Sets the victory message duration.
 # Parameters

@@ -1,8 +1,11 @@
 # UpgradePlayerAbility
-> `void UpgradePlayerAbility(string_1)`
+```js	
+void UpgradePlayerAbility(string_1)
+```
 # Class
-> __✔ Server: CDOTATutorial__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTATutorial`  
+✖ `Client: undefined`  
+
 # Function Description
 Upgrade a specific ability for the local hero
 # Parameters

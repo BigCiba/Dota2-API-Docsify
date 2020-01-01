@@ -1,8 +1,11 @@
 # SetBountyRuneSpawnInterval
-> `void SetBountyRuneSpawnInterval(flInterval)`
+```js	
+void SetBountyRuneSpawnInterval(flInterval)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set bounty rune spawn rate
 # Parameters

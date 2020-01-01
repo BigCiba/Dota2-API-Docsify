@@ -1,8 +1,11 @@
 # SetCreepSpawningEnabled
-> `void SetCreepSpawningEnabled(bool_1)`
+```js	
+void SetCreepSpawningEnabled(bool_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Sets whether the regular Dota creeps spawn.
 # Parameters

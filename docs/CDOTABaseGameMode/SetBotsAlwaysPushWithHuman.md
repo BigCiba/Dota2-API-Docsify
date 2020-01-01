@@ -1,8 +1,11 @@
 # SetBotsAlwaysPushWithHuman
-> `void SetBotsAlwaysPushWithHuman(bAlwaysPush)`
+```js	
+void SetBotsAlwaysPushWithHuman(bAlwaysPush)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set if the bots should try their best to push with a human player.
 # Parameters

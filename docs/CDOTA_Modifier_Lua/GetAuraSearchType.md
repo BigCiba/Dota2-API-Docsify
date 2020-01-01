@@ -1,7 +1,10 @@
 # GetAuraSearchType
-> `int GetAuraSearchType()`
+```js	
+int GetAuraSearchType()
+```
 # Class
-> __✔ Server: CDOTA_Modifier_Lua__  
-> __✔ Client: C_DOTA_Modifier_Lua__  
+✔ `Server: CDOTA_Modifier_Lua`  
+✔ `Client: C_DOTA_Modifier_Lua`  
+
 # Function Description
 Return the unit classifications this aura applies its buff to.

@@ -1,8 +1,11 @@
 # FireEntityIOInputVec
-> `void FireEntityIOInputVec(ehandle_1, string_2, Vector_3)`
+```js	
+void FireEntityIOInputVec(ehandle_1, string_2, Vector_3)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Fire Entity's Action Input with passed Vector - you own the memory
 # Parameters

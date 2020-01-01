@@ -1,8 +1,11 @@
 # GetLevelSpecialValueFor
-> `table GetLevelSpecialValueFor(szName, nLevel)`
+```js	
+table GetLevelSpecialValueFor(szName, nLevel)
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

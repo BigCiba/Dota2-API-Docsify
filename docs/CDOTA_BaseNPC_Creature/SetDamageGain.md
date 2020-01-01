@@ -1,8 +1,11 @@
 # SetDamageGain
-> `void SetDamageGain(nDamageGain)`
+```js	
+void SetDamageGain(nDamageGain)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC_Creature__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC_Creature`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the damage gained per level on this creature.
 # Parameters

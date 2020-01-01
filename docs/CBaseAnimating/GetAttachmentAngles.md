@@ -1,8 +1,11 @@
 # GetAttachmentAngles
-> `Vector GetAttachmentAngles(iAttachment)`
+```js	
+Vector GetAttachmentAngles(iAttachment)
+```
 # Class
-> __✔ Server: CBaseAnimating__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseAnimating`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the attachment id's angles as a p,y,r vector.
 # Parameters

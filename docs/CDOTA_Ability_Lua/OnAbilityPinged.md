@@ -1,8 +1,11 @@
 # OnAbilityPinged
-> `void OnAbilityPinged(nPlayerID, bCtrlHeld)`
+```js	
+void OnAbilityPinged(nPlayerID, bCtrlHeld)
+```
 # Class
-> __✔ Server: CDOTA_Ability_Lua__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Ability_Lua`  
+✖ `Client: undefined`  
+
 # Function Description
 The ability was pinged (nPlayerID, bCtrlHeld).
 # Parameters

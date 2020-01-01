@@ -1,8 +1,11 @@
 # FireOutput
-> `void FireOutput(string_1, handle_2, handle_3, table_4, float_5)`
+```js	
+void FireOutput(string_1, handle_2, handle_3, table_4, float_5)
+```
 # Class
-> __✔ Server: CEntityInstance__  
-> __✔ Client: CEntityInstance__  
+✔ `Server: CEntityInstance`  
+✔ `Client: CEntityInstance`  
+
 # Function Description
 Fire an entity output
 # Parameters

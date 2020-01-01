@@ -1,7 +1,10 @@
 # GetConceptRecipientType
-> `int GetConceptRecipientType()`
+```js	
+int GetConceptRecipientType()
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 

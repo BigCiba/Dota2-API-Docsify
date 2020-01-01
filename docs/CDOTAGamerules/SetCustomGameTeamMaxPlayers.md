@@ -1,8 +1,11 @@
 # SetCustomGameTeamMaxPlayers
-> `void SetCustomGameTeamMaxPlayers(int_1, int_2)`
+```js	
+void SetCustomGameTeamMaxPlayers(int_1, int_2)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Set whether a team is selectable during game setup
 # Parameters

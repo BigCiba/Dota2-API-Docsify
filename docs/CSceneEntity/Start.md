@@ -1,8 +1,11 @@
 # Start
-> `void Start(handle_1)`
+```js	
+void Start(handle_1)
+```
 # Class
-> __✔ Server: CSceneEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CSceneEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Start scene playback, takes activatorEntity as param
 # Parameters

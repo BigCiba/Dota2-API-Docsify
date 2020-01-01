@@ -1,7 +1,10 @@
 # DebugDrawClear
-> `void DebugDrawClear()`
+```js	
+void DebugDrawClear()
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Try to clear all the debug overlay info

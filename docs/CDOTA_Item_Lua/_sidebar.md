@@ -1,4 +1,4 @@
-* [◼️CDOTA_Item_Lua](/)
+* [**CDOTA_Item_Lua**](/)
 	* [CanUnitPickUp](CDOTA_Item_Lua/CanUnitPickUp)
 	* [CastFilterResult](CDOTA_Item_Lua/CastFilterResult)
 	* [CastFilterResultLocation](CDOTA_Item_Lua/CastFilterResultLocation)

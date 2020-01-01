@@ -1,8 +1,11 @@
 # SetHTTPRequestRawPostBody
-> `bool SetHTTPRequestRawPostBody(string_1, string_2)`
+```js	
+bool SetHTTPRequestRawPostBody(string_1, string_2)
+```
 # Class
-> __✔ Server: CScriptHTTPRequest__  
-> __✖ Client: undefined__  
+✔ `Server: CScriptHTTPRequest`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the literal body of a post - invalid after setting a post parameter.
 # Parameters

@@ -1,8 +1,11 @@
 # IncrementKills
-> `void IncrementKills(iPlayerID, iVictimID)`
+```js	
+void IncrementKills(iPlayerID, iVictimID)
+```
 # Class
-> __✔ Server: CDOTA_PlayerResource__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_PlayerResource`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

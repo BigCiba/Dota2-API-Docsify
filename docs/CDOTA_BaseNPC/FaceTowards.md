@@ -1,8 +1,11 @@
 # FaceTowards
-> `void FaceTowards(vTarget)`
+```js	
+void FaceTowards(vTarget)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 This unit will be set to face the target point.
 # Parameters

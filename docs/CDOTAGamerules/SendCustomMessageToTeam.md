@@ -1,8 +1,11 @@
 # SendCustomMessageToTeam
-> `void SendCustomMessageToTeam(string_1, int_2, int_3, int_4)`
+```js	
+void SendCustomMessageToTeam(string_1, int_2, int_3, int_4)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Sends a message on behalf of a player to the specified team.
 # Parameters

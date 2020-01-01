@@ -1,7 +1,10 @@
 # IsPassive
-> `bool IsPassive()`
+```js	
+bool IsPassive()
+```
 # Class
-> __✔ Server: CDOTABaseAbility__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseAbility`  
+✖ `Client: undefined`  
+
 # Function Description
 

@@ -1,7 +1,10 @@
 # HideWorldLayer
-> `void HideWorldLayer()`
+```js	
+void HideWorldLayer()
+```
 # Class
-> __✔ Server: CInfoWorldLayer__  
-> __✔ Client: CInfoWorldLayer__  
+✔ `Server: CInfoWorldLayer`  
+✔ `Client: CInfoWorldLayer`  
+
 # Function Description
 Hides this layer

@@ -1,8 +1,11 @@
 # SetSecondaryCharges
-> `void SetSecondaryCharges(iCharges)`
+```js	
+void SetSecondaryCharges(iCharges)
+```
 # Class
-> __✔ Server: CDOTA_Item__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Item`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the number of secondary charges on this item
 # Parameters

@@ -1,8 +1,11 @@
 # RemoveItemFromWhiteList
-> `void RemoveItemFromWhiteList(string_1)`
+```js	
+void RemoveItemFromWhiteList(string_1)
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTAGamerules`  
+✖ `Client: undefined`  
+
 # Function Description
 Remove an item from the whitelist
 # Parameters

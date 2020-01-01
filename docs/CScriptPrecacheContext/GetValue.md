@@ -1,8 +1,11 @@
 # GetValue
-> `table GetValue(string_1)`
+```js	
+table GetValue(string_1)
+```
 # Class
-> __✔ Server: CScriptPrecacheContext__  
-> __✔ Client: CScriptPrecacheContext__  
+✔ `Server: CScriptPrecacheContext`  
+✔ `Client: CScriptPrecacheContext`  
+
 # Function Description
 Reads a spawn key
 # Parameters

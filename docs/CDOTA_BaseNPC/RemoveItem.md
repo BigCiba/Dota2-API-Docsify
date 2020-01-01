@@ -1,8 +1,11 @@
 # RemoveItem
-> `void RemoveItem(hItem)`
+```js	
+void RemoveItem(hItem)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Removes the passed item from this unit's inventory and deletes it.
 # Parameters

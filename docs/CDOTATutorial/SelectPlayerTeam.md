@@ -1,8 +1,11 @@
 # SelectPlayerTeam
-> `void SelectPlayerTeam(string_1)`
+```js	
+void SelectPlayerTeam(string_1)
+```
 # Class
-> __✔ Server: CDOTATutorial__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTATutorial`  
+✖ `Client: undefined`  
+
 # Function Description
 Select the team for the local player
 # Parameters

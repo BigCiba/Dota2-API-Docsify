@@ -1,7 +1,10 @@
 # HasInventory
-> `bool HasInventory()`
+```js	
+bool HasInventory()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Does this unit have an inventory.

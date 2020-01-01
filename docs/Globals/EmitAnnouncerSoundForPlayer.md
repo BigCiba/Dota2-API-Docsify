@@ -1,8 +1,11 @@
 # EmitAnnouncerSoundForPlayer
-> `void EmitAnnouncerSoundForPlayer(string_1, int_2)`
+```js	
+void EmitAnnouncerSoundForPlayer(string_1, int_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Emit an announcer sound for a player.
 # Parameters

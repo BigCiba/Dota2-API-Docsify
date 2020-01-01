@@ -1,8 +1,11 @@
 # GiveMana
-> `void GiveMana(flMana)`
+```js	
+void GiveMana(flMana)
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Give mana to this unit, this can be used for mana gained by abilities or item usage.
 # Parameters

@@ -1,8 +1,11 @@
 # SetHUDVisible
-> `void SetHUDVisible(iHUDElement, bVisible)`
+```js	
+void SetHUDVisible(iHUDElement, bVisible)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the HUD element visibility.
 # Parameters

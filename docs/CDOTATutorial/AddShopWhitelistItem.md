@@ -1,8 +1,11 @@
 # AddShopWhitelistItem
-> `void AddShopWhitelistItem(string_1)`
+```js	
+void AddShopWhitelistItem(string_1)
+```
 # Class
-> __✔ Server: CDOTATutorial__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTATutorial`  
+✖ `Client: undefined`  
+
 # Function Description
 Add an item to the shop whitelist.
 # Parameters

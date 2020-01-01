@@ -1,8 +1,11 @@
 # GetAllTreesAroundPoint
-> `table GetAllTreesAroundPoint(Vector_1, float_2, bool_3)`
+```js	
+table GetAllTreesAroundPoint(Vector_1, float_2, bool_3)
+```
 # Class
-> __✔ Server: GridNav__  
-> __✖ Client: undefined__  
+✔ `Server: GridNav`  
+✖ `Client: undefined`  
+
 # Function Description
 Returns a table full of tree HSCRIPTS (vPosition, flRadius, bFullCollision).
 # Parameters

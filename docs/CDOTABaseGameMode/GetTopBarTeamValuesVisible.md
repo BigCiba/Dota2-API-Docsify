@@ -1,7 +1,10 @@
 # GetTopBarTeamValuesVisible
-> `bool GetTopBarTeamValuesVisible()`
+```js	
+bool GetTopBarTeamValuesVisible()
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Turning on/off the team values on the top game bar.

@@ -1,8 +1,11 @@
 # SetTableValue
-> `bool SetTableValue(string_1, string_2, handle_3)`
+```js	
+bool SetTableValue(string_1, string_2, handle_3)
+```
 # Class
-> __✔ Server: CCustomNetTableManager__  
-> __✖ Client: undefined__  
+✔ `Server: CCustomNetTableManager`  
+✖ `Client: undefined`  
+
 # Function Description
 ( string TableName, string KeyName, script_table Value )
 # Parameters

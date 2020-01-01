@@ -1,7 +1,10 @@
 # RegrowAllTrees
-> `void RegrowAllTrees()`
+```js	
+void RegrowAllTrees()
+```
 # Class
-> __✔ Server: GridNav__  
-> __✖ Client: undefined__  
+✔ `Server: GridNav`  
+✖ `Client: undefined`  
+
 # Function Description
 Causes all trees in the map to regrow

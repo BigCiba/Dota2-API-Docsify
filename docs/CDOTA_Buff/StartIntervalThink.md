@@ -1,8 +1,11 @@
 # StartIntervalThink
-> `void StartIntervalThink(flInterval)`
+```js	
+void StartIntervalThink(flInterval)
+```
 # Class
-> __✔ Server: CDOTA_Buff__  
-> __✔ Client: CDOTA_Buff__  
+✔ `Server: CDOTA_Buff`  
+✔ `Client: CDOTA_Buff`  
+
 # Function Description
 Start this modifier's think function (OnIntervalThink) with the given interval (float).  To stop, call with -1.
 # Parameters

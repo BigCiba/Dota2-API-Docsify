@@ -1,7 +1,10 @@
 # IsCheatMode
-> `bool IsCheatMode()`
+```js	
+bool IsCheatMode()
+```
 # Class
-> __✔ Server: CDOTAGamerules__  
-> __✔ Client: CDOTAGamerules__  
+✔ `Server: CDOTAGamerules`  
+✔ `Client: CDOTAGamerules`  
+
 # Function Description
 Are cheats enabled on the server

@@ -1,7 +1,10 @@
 # GetParent
-> `handle GetParent()`
+```js	
+handle GetParent()
+```
 # Class
-> __✔ Server: CDOTA_Item__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_Item`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the parent for this item.

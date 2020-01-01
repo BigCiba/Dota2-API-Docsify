@@ -1,7 +1,10 @@
 # EyeAngles
-> `QAngle EyeAngles()`
+```js	
+QAngle EyeAngles()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the qangles that this entity is looking at.

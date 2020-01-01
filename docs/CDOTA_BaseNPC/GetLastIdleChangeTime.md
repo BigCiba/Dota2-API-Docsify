@@ -1,7 +1,10 @@
 # GetLastIdleChangeTime
-> `float GetLastIdleChangeTime()`
+```js	
+float GetLastIdleChangeTime()
+```
 # Class
-> __✔ Server: CDOTA_BaseNPC__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_BaseNPC`  
+✖ `Client: undefined`  
+
 # Function Description
 Get the last game time that this unit switched to/from idle state.

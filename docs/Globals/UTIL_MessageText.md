@@ -1,8 +1,11 @@
 # UTIL_MessageText
-> `void UTIL_MessageText(int_1, string_2, int_3, int_4, int_5, int_6)`
+```js	
+void UTIL_MessageText(int_1, string_2, int_3, int_4, int_5, int_6)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Sends colored text to one client.
 # Parameters

@@ -1,8 +1,11 @@
 # SetBotsMaxPushTier
-> `void SetBotsMaxPushTier(nMaxTier)`
+```js	
+void SetBotsMaxPushTier(nMaxTier)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the max tier of tower that bots want to push. (-1 to disable)
 # Parameters

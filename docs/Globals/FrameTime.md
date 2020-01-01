@@ -1,7 +1,10 @@
 # FrameTime
-> `float FrameTime()`
+```js	
+float FrameTime()
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Get the time spent on the server in the last frame

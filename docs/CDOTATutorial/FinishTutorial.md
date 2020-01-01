@@ -1,7 +1,10 @@
 # FinishTutorial
-> `void FinishTutorial()`
+```js	
+void FinishTutorial()
+```
 # Class
-> __✔ Server: CDOTATutorial__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTATutorial`  
+✖ `Client: undefined`  
+
 # Function Description
 End the tutorial.

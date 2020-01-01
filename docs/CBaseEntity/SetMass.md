@@ -1,8 +1,11 @@
 # SetMass
-> `void SetMass(flMass)`
+```js	
+void SetMass(flMass)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the mass of an entity. (does nothing if it doesn't have a physics object)
 # Parameters

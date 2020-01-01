@@ -1,8 +1,11 @@
 # SetParticleControl
-> `void SetParticleControl(int_1, int_2, Vector_3)`
+```js	
+void SetParticleControl(int_1, int_2, Vector_3)
+```
 # Class
-> __✔ Server: CScriptParticleManager__  
-> __✔ Client: CScriptParticleManager__  
+✔ `Server: CScriptParticleManager`  
+✔ `Client: CScriptParticleManager`  
+
 # Function Description
 Set the control point data for a control on a particle effect
 # Parameters

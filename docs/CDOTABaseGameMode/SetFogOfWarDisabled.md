@@ -1,8 +1,11 @@
 # SetFogOfWarDisabled
-> `void SetFogOfWarDisabled(bDisabled)`
+```js	
+void SetFogOfWarDisabled(bDisabled)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Turn the fog of war on or off.
 # Parameters

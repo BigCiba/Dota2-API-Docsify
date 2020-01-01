@@ -1,8 +1,11 @@
 # PrecacheUnitFromTableAsync
-> `void PrecacheUnitFromTableAsync(handle_1, handle_2)`
+```js	
+void PrecacheUnitFromTableAsync(handle_1, handle_2)
+```
 # Class
-> __✔ Server: Globals__  
-> __✖ Client: undefined__  
+✔ `Server: Globals`  
+✖ `Client: undefined`  
+
 # Function Description
 Precaches a DOTA unit from a table of entity key values.
 # Parameters

@@ -1,8 +1,11 @@
 # GetPhysAngularVelocity
-> `Vector GetPhysAngularVelocity(handle_1)`
+```js	
+Vector GetPhysAngularVelocity(handle_1)
+```
 # Class
-> __✔ Server: Globals__  
-> __✔ Client: Globals__  
+✔ `Server: Globals`  
+✔ `Client: Globals`  
+
 # Function Description
 Get Angular Velocity for VPHYS or normal object. Returns a vector of the axis of rotation, multiplied by the degrees of rotation per second.
 # Parameters

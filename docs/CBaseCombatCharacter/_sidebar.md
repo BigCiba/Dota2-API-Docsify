@@ -1,4 +1,4 @@
-* [◼️CBaseCombatCharacter](/)
+* [**CBaseCombatCharacter**](/)
 	* [GetEquippedWeapons](CBaseCombatCharacter/GetEquippedWeapons)
 	* [GetFaction](CBaseCombatCharacter/GetFaction)
 	* [GetWeaponCount](CBaseCombatCharacter/GetWeaponCount)

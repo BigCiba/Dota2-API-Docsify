@@ -1,8 +1,11 @@
 # SetAbsScale
-> `void SetAbsScale(flScale)`
+```js	
+void SetAbsScale(flScale)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 
 # Parameters

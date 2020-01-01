@@ -1,8 +1,11 @@
 # RemoveEffects
-> `void RemoveEffects(nFlags)`
+```js	
+void RemoveEffects(nFlags)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 RemoveEffects( int ): Removes the render effect flag.
 # Parameters

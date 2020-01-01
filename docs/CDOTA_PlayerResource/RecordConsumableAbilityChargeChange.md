@@ -1,8 +1,11 @@
 # RecordConsumableAbilityChargeChange
-> `void RecordConsumableAbilityChargeChange(iPlayerID, item_definition_index, nChargeIncrementOrDecrement)`
+```js	
+void RecordConsumableAbilityChargeChange(iPlayerID, item_definition_index, nChargeIncrementOrDecrement)
+```
 # Class
-> __✔ Server: CDOTA_PlayerResource__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTA_PlayerResource`  
+✖ `Client: undefined`  
+
 # Function Description
 Increment or decrement consumable charges (nPlayerID, item_definition_index, nChargeIncrementOrDecrement)
 # Parameters

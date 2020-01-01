@@ -1,4 +1,4 @@
-* [◼️CDOTABaseGameMode](/)
+* [**CDOTABaseGameMode**](/)
 	* [AddRealTimeCombatAnalyzerQuery](CDOTABaseGameMode/AddRealTimeCombatAnalyzerQuery)
 	* [AreWeatherEffectsDisabled](CDOTABaseGameMode/AreWeatherEffectsDisabled)
 	* [ClearBountyRunePickupFilter](CDOTABaseGameMode/ClearBountyRunePickupFilter)

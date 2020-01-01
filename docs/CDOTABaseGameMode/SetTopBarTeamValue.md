@@ -1,8 +1,11 @@
 # SetTopBarTeamValue
-> `void SetTopBarTeamValue(iTeam, nValue)`
+```js	
+void SetTopBarTeamValue(iTeam, nValue)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Set the team values on the top game bar.
 # Parameters

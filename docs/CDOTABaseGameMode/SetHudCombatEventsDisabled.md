@@ -1,8 +1,11 @@
 # SetHudCombatEventsDisabled
-> `void SetHudCombatEventsDisabled(bDisabled)`
+```js	
+void SetHudCombatEventsDisabled(bDisabled)
+```
 # Class
-> __✔ Server: CDOTABaseGameMode__  
-> __✖ Client: undefined__  
+✔ `Server: CDOTABaseGameMode`  
+✖ `Client: undefined`  
+
 # Function Description
 Specify whether the default combat events will show in the HUD.
 # Parameters

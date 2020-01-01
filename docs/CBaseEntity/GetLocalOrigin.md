@@ -1,7 +1,10 @@
 # GetLocalOrigin
-> `Vector GetLocalOrigin()`
+```js	
+Vector GetLocalOrigin()
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Get entity local origin as a Vector

@@ -1,8 +1,11 @@
 # SetGravity
-> `void SetGravity(flGravity)`
+```js	
+void SetGravity(flGravity)
+```
 # Class
-> __✔ Server: CBaseEntity__  
-> __✖ Client: undefined__  
+✔ `Server: CBaseEntity`  
+✖ `Client: undefined`  
+
 # Function Description
 Set PLAYER gravity, ignored for objects.
 # Parameters
