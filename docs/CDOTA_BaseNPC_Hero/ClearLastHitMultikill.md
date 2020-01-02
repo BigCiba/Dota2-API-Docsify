@@ -1,5 +1,5 @@
 # ClearLastHitMultikill
-```js	
+```js
 void ClearLastHitMultikill()
 ```
 # Class

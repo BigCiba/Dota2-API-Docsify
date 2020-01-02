@@ -1,5 +1,5 @@
 # GetBackswingTime
-```js	
+```js
 float GetBackswingTime()
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetAngularVelocity
-```js	
+```js
 void SetAngularVelocity(Vector_1)
 ```
 # Class

@@ -1,5 +1,5 @@
 # IsBarracks
-```js	
+```js
 bool IsBarracks()
 ```
 # Class

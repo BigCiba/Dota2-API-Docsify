@@ -1,5 +1,5 @@
 # CreateHTTPRequestScriptVM
-```js	
+```js
 handle CreateHTTPRequestScriptVM(string_1, string_2)
 ```
 # Class

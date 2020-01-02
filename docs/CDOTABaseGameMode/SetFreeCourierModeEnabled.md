@@ -1,5 +1,5 @@
 # SetFreeCourierModeEnabled
-```js	
+```js
 void SetFreeCourierModeEnabled(bEnabled)
 ```
 # Class

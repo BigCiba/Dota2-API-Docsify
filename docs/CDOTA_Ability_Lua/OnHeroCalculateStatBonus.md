@@ -1,5 +1,5 @@
 # OnHeroCalculateStatBonus
-```js	
+```js
 void OnHeroCalculateStatBonus()
 ```
 # Class

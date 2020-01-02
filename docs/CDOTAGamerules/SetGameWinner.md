@@ -1,5 +1,5 @@
 # SetGameWinner
-```js	
+```js
 void SetGameWinner(int_1)
 ```
 # Class

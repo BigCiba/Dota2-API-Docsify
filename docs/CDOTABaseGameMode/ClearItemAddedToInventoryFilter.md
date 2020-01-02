@@ -1,5 +1,5 @@
 # ClearItemAddedToInventoryFilter
-```js	
+```js
 void ClearItemAddedToInventoryFilter()
 ```
 # Class

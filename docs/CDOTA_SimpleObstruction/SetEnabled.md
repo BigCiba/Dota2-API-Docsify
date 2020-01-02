@@ -1,5 +1,5 @@
 # SetEnabled
-```js	
+```js
 void SetEnabled(bEnabled, bForce)
 ```
 # Class

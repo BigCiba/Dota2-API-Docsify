@@ -1,5 +1,5 @@
 # IsIdle
-```js	
+```js
 bool IsIdle()
 ```
 # Class

@@ -1,5 +1,5 @@
 # IsPhased
-```js	
+```js
 bool IsPhased()
 ```
 # Class

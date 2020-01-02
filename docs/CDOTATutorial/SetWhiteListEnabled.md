@@ -1,5 +1,5 @@
 # SetWhiteListEnabled
-```js	
+```js
 void SetWhiteListEnabled(bool_1)
 ```
 # Class

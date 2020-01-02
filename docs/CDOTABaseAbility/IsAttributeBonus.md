@@ -1,5 +1,5 @@
 # IsAttributeBonus
-```js	
+```js
 bool IsAttributeBonus()
 ```
 # Class

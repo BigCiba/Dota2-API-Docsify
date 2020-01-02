@@ -1,5 +1,5 @@
 # LockCustomGameSetupTeamAssignment
-```js	
+```js
 void LockCustomGameSetupTeamAssignment(bool_1)
 ```
 # Class

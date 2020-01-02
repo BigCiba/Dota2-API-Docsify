@@ -1,5 +1,5 @@
 # GetRenderColor
-```js	
+```js
 Vector GetRenderColor()
 ```
 # Class

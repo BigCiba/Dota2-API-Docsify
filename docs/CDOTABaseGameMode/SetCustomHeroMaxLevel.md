@@ -1,5 +1,5 @@
 # SetCustomHeroMaxLevel
-```js	
+```js
 void SetCustomHeroMaxLevel(int_1)
 ```
 # Class

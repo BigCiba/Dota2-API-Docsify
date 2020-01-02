@@ -1,5 +1,5 @@
 # GetAllHeroes
-```js	
+```js
 table GetAllHeroes()
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetMass
-```js	
+```js
 void SetMass(flMass)
 ```
 # Class

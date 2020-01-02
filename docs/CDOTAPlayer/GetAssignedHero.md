@@ -1,5 +1,5 @@
 # GetAssignedHero
-```js	
+```js
 handle GetAssignedHero()
 ```
 # Class

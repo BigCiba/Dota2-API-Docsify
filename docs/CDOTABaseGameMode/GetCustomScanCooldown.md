@@ -1,5 +1,5 @@
 # GetCustomScanCooldown
-```js	
+```js
 float GetCustomScanCooldown()
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetCustomGameAllowBattleMusic
-```js	
+```js
 void SetCustomGameAllowBattleMusic(bool_1)
 ```
 # Class

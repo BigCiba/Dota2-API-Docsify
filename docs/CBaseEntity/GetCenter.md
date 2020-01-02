@@ -1,5 +1,5 @@
 # GetCenter
-```js	
+```js
 Vector GetCenter()
 ```
 # Class

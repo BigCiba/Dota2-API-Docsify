@@ -1,5 +1,5 @@
 # IncrementAssists
-```js	
+```js
 void IncrementAssists(iPlayerID, iVictimID)
 ```
 # Class

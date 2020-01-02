@@ -1,5 +1,5 @@
 # GetBool
-```js	
+```js
 table GetBool(string_1)
 ```
 # Class

@@ -1,5 +1,5 @@
 # ModifyIntellect
-```js	
+```js
 void ModifyIntellect(flNewIntellect)
 ```
 # Class

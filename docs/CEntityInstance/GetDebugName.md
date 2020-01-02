@@ -1,5 +1,5 @@
 # GetDebugName
-```js	
+```js
 string GetDebugName()
 ```
 # Class

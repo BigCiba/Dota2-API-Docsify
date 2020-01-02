@@ -1,5 +1,5 @@
 # GetHeroDataByName_Script
-```js	
+```js
 table GetHeroDataByName_Script(string_1)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetBuybackCooldownTime
-```js	
+```js
 float GetBuybackCooldownTime()
 ```
 # Class

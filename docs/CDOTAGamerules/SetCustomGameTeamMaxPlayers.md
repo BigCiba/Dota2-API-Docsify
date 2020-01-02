@@ -1,5 +1,5 @@
 # SetCustomGameTeamMaxPlayers
-```js	
+```js
 void SetCustomGameTeamMaxPlayers(int_1, int_2)
 ```
 # Class

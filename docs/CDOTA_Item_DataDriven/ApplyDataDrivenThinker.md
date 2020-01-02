@@ -1,5 +1,5 @@
 # ApplyDataDrivenThinker
-```js	
+```js
 handle ApplyDataDrivenThinker(hCaster, vLocation, pszModifierName, hModifierTable)
 ```
 # Class

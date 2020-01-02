@@ -1,5 +1,5 @@
 # GetSharedCooldownName
-```js	
+```js
 string GetSharedCooldownName()
 ```
 # Class

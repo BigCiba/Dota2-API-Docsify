@@ -1,5 +1,5 @@
 # GetToggleState
-```js	
+```js
 bool GetToggleState()
 ```
 # Class

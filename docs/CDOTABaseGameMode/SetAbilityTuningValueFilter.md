@@ -1,5 +1,5 @@
 # SetAbilityTuningValueFilter
-```js	
+```js
 void SetAbilityTuningValueFilter(hFunction, hContext)
 ```
 # Class

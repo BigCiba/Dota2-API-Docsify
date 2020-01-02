@@ -1,5 +1,5 @@
 # DynamicHud_Create
-```js	
+```js
 void DynamicHud_Create(int_1, string_2, string_3, handle_4)
 ```
 # Class

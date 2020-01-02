@@ -1,5 +1,5 @@
 # IncrementMisses
-```js	
+```js
 void IncrementMisses(iPlayerID)
 ```
 # Class

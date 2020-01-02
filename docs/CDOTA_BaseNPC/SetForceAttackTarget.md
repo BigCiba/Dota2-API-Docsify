@@ -1,5 +1,5 @@
 # SetForceAttackTarget
-```js	
+```js
 void SetForceAttackTarget(hNPC)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetStacksWithOtherOwners
-```js	
+```js
 void SetStacksWithOtherOwners(bStacksWithOtherOwners)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetBaseStrength
-```js	
+```js
 void SetBaseStrength(flStrength)
 ```
 # Class

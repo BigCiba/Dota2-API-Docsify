@@ -1,5 +1,5 @@
 # GetLastHits
-```js	
+```js
 int GetLastHits()
 ```
 # Class

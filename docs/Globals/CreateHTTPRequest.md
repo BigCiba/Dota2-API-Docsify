@@ -1,5 +1,5 @@
 # CreateHTTPRequest
-```js	
+```js
 handle CreateHTTPRequest(string_1, string_2)
 ```
 # Class

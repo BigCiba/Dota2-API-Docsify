@@ -1,5 +1,5 @@
 # PayManaCost
-```js	
+```js
 void PayManaCost()
 ```
 # Class

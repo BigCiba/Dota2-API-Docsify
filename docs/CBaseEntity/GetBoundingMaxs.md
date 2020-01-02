@@ -1,5 +1,5 @@
 # GetBoundingMaxs
-```js	
+```js
 Vector GetBoundingMaxs()
 ```
 # Class

@@ -1,5 +1,5 @@
 # QueryNumber
-```js	
+```js
 float QueryNumber(tok, flDefault)
 ```
 # Class

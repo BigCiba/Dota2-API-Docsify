@@ -1,5 +1,5 @@
 # GetModelScale
-```js	
+```js
 float GetModelScale()
 ```
 # Class

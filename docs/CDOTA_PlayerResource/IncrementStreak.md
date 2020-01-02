@@ -1,5 +1,5 @@
 # IncrementStreak
-```js	
+```js
 void IncrementStreak(iPlayerID)
 ```
 # Class

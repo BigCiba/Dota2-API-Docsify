@@ -1,5 +1,5 @@
 # EmitAnnouncerSound
-```js	
+```js
 void EmitAnnouncerSound(string_1)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetLocalScale
-```js	
+```js
 void SetLocalScale(flScale)
 ```
 # Class

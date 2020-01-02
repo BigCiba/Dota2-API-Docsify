@@ -1,5 +1,5 @@
 # QueryString
-```js	
+```js
 string QueryString(tok, pDefault)
 ```
 # Class

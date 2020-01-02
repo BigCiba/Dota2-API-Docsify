@@ -1,5 +1,5 @@
 # SetBuyBackDisabledByReapersScythe
-```js	
+```js
 void SetBuyBackDisabledByReapersScythe(bBuybackDisabled)
 ```
 # Class

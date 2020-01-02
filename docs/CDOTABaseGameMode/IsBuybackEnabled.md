@@ -1,5 +1,5 @@
 # IsBuybackEnabled
-```js	
+```js
 bool IsBuybackEnabled()
 ```
 # Class

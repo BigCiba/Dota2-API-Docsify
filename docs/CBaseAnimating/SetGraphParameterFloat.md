@@ -1,5 +1,5 @@
 # SetGraphParameterFloat
-```js	
+```js
 void SetGraphParameterFloat(szName, flValue)
 ```
 # Class

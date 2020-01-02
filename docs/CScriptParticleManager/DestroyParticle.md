@@ -1,5 +1,5 @@
 # DestroyParticle
-```js	
+```js
 void DestroyParticle(int_1, bool_2)
 ```
 # Class

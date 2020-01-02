@@ -1,5 +1,5 @@
 # OnHeroLevelUp
-```js	
+```js
 void OnHeroLevelUp()
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetItemAddedToInventoryFilter
-```js	
+```js
 void SetItemAddedToInventoryFilter(hFunction, hContext)
 ```
 # Class

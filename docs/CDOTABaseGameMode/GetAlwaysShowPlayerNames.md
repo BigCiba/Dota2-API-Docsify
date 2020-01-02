@@ -1,5 +1,5 @@
 # GetAlwaysShowPlayerNames
-```js	
+```js
 bool GetAlwaysShowPlayerNames()
 ```
 # Class

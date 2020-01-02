@@ -1,5 +1,5 @@
 # IsKillable
-```js	
+```js
 bool IsKillable()
 ```
 # Class

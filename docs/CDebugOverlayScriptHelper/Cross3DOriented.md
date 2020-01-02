@@ -1,5 +1,5 @@
 # Cross3DOriented
-```js	
+```js
 void Cross3DOriented(Vector_1, Quaternion_2, float_3, int_4, int_5, int_6, int_7, bool_8, float_9)
 ```
 # Class

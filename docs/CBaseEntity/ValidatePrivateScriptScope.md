@@ -1,5 +1,5 @@
 # ValidatePrivateScriptScope
-```js	
+```js
 void ValidatePrivateScriptScope()
 ```
 # Class

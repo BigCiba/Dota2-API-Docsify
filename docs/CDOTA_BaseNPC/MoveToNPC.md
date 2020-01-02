@@ -1,5 +1,5 @@
 # MoveToNPC
-```js	
+```js
 void MoveToNPC(hNPC)
 ```
 # Class

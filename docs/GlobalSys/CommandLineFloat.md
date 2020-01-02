@@ -1,5 +1,5 @@
 # CommandLineFloat
-```js	
+```js
 table CommandLineFloat(string_1, float_2)
 ```
 # Class

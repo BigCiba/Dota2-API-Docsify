@@ -1,5 +1,5 @@
 # GetMultipleKillCount
-```js	
+```js
 int GetMultipleKillCount()
 ```
 # Class

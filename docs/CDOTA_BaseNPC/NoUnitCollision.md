@@ -1,5 +1,5 @@
 # NoUnitCollision
-```js	
+```js
 bool NoUnitCollision()
 ```
 # Class

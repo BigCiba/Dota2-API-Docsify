@@ -1,5 +1,5 @@
 # GetCustomBuybackCostEnabled
-```js	
+```js
 bool GetCustomBuybackCostEnabled()
 ```
 # Class

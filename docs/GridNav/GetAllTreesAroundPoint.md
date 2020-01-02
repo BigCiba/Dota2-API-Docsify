@@ -1,5 +1,5 @@
 # GetAllTreesAroundPoint
-```js	
+```js
 table GetAllTreesAroundPoint(Vector_1, float_2, bool_3)
 ```
 # Class

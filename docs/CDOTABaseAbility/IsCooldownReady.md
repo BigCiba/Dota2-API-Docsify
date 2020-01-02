@@ -1,5 +1,5 @@
 # IsCooldownReady
-```js	
+```js
 bool IsCooldownReady()
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetSpecialValueFor
-```js	
+```js
 table GetSpecialValueFor(szName)
 ```
 # Class

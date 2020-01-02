@@ -1,5 +1,5 @@
 # SetSelectionGoldPenaltyEnabled
-```js	
+```js
 void SetSelectionGoldPenaltyEnabled(bEnabled)
 ```
 # Class

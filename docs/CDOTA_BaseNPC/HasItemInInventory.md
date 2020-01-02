@@ -1,5 +1,5 @@
 # HasItemInInventory
-```js	
+```js
 bool HasItemInInventory(pItemName)
 ```
 # Class

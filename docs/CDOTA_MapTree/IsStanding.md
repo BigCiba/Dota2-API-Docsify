@@ -1,5 +1,5 @@
 # IsStanding
-```js	
+```js
 bool IsStanding()
 ```
 # Class

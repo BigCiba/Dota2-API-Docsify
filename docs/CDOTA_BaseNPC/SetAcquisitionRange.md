@@ -1,5 +1,5 @@
 # SetAcquisitionRange
-```js	
+```js
 void SetAcquisitionRange(nRange)
 ```
 # Class

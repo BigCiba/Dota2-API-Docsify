@@ -1,5 +1,5 @@
 # GetBaseStrength
-```js	
+```js
 float GetBaseStrength()
 ```
 # Class

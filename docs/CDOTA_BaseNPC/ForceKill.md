@@ -1,5 +1,5 @@
 # ForceKill
-```js	
+```js
 void ForceKill(bReincarnate)
 ```
 # Class

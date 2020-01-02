@@ -1,5 +1,5 @@
 # AreWeatherEffectsDisabled
-```js	
+```js
 bool AreWeatherEffectsDisabled()
 ```
 # Class

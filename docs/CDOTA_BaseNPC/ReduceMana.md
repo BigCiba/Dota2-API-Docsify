@@ -1,5 +1,5 @@
 # ReduceMana
-```js	
+```js
 void ReduceMana(flAmount)
 ```
 # Class

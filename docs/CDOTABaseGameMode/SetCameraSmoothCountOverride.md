@@ -1,5 +1,5 @@
 # SetCameraSmoothCountOverride
-```js	
+```js
 void SetCameraSmoothCountOverride(nSmoothCount)
 ```
 # Class

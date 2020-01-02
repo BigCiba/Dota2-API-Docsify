@@ -1,5 +1,5 @@
 # ClearDamageFilter
-```js	
+```js
 void ClearDamageFilter()
 ```
 # Class

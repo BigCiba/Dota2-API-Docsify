@@ -1,5 +1,5 @@
 # SetRuneSpawnTime
-```js	
+```js
 void SetRuneSpawnTime(float_1)
 ```
 # Class

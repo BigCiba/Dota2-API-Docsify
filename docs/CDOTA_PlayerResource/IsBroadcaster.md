@@ -1,5 +1,5 @@
 # IsBroadcaster
-```js	
+```js
 bool IsBroadcaster(iPlayerID)
 ```
 # Class

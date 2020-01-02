@@ -1,5 +1,5 @@
 # GetStuns
-```js	
+```js
 float GetStuns(iPlayerID)
 ```
 # Class

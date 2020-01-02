@@ -1,5 +1,5 @@
 # SetStartingGold
-```js	
+```js
 void SetStartingGold(int_1)
 ```
 # Class

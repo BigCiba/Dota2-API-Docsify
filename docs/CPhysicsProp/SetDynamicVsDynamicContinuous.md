@@ -1,5 +1,5 @@
 # SetDynamicVsDynamicContinuous
-```js	
+```js
 void SetDynamicVsDynamicContinuous(bIsDynamicVsDynamicContinuousEnabled)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetCanBeUsedOutOfInventory
-```js	
+```js
 void SetCanBeUsedOutOfInventory(bValue)
 ```
 # Class

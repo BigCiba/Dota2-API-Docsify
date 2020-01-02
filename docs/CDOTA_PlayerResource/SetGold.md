@@ -1,5 +1,5 @@
 # SetGold
-```js	
+```js
 void SetGold(iPlayerID, iGold, bReliable)
 ```
 # Class

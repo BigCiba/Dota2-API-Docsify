@@ -1,5 +1,5 @@
 # OnInventoryContentsChanged
-```js	
+```js
 void OnInventoryContentsChanged()
 ```
 # Class

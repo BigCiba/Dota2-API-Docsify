@@ -1,5 +1,5 @@
 # GetBaseAgility
-```js	
+```js
 float GetBaseAgility()
 ```
 # Class

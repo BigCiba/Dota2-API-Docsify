@@ -1,5 +1,5 @@
 # SetEntityName
-```js	
+```js
 void SetEntityName(pName)
 ```
 # Class

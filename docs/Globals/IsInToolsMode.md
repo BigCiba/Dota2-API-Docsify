@@ -1,5 +1,5 @@
 # IsInToolsMode
-```js	
+```js
 bool IsInToolsMode()
 ```
 # Class

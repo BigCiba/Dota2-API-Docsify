@@ -1,5 +1,5 @@
 # GetSystemDate
-```js	
+```js
 string GetSystemDate()
 ```
 # Class

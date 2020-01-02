@@ -1,5 +1,5 @@
 # RemoveItem
-```js	
+```js
 void RemoveItem(hItem)
 ```
 # Class

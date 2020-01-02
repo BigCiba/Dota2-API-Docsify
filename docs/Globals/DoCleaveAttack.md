@@ -1,5 +1,5 @@
 # DoCleaveAttack
-```js	
+```js
 int DoCleaveAttack(handle_1, handle_2, handle_3, float_4, float_5, float_6, float_7, string_8)
 ```
 # Class

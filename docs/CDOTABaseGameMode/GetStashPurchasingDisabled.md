@@ -1,5 +1,5 @@
 # GetStashPurchasingDisabled
-```js	
+```js
 bool GetStashPurchasingDisabled()
 ```
 # Class

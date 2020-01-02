@@ -1,5 +1,5 @@
 # GetItemSlot
-```js	
+```js
 int GetItemSlot()
 ```
 # Class

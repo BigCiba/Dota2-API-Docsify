@@ -1,5 +1,5 @@
 # ReplaceHeroWith
-```js	
+```js
 handle ReplaceHeroWith(iPlayerID, pszHeroClass, nGold, nXP)
 ```
 # Class

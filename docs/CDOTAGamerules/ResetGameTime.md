@@ -1,5 +1,5 @@
 # ResetGameTime
-```js	
+```js
 void ResetGameTime()
 ```
 # Class

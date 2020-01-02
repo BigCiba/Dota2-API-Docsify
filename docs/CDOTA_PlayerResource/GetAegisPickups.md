@@ -1,5 +1,5 @@
 # GetAegisPickups
-```js	
+```js
 int GetAegisPickups(iPlayerID)
 ```
 # Class

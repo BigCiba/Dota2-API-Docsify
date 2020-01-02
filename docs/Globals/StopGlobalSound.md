@@ -1,5 +1,5 @@
 # StopGlobalSound
-```js	
+```js
 void StopGlobalSound(string_1)
 ```
 # Class

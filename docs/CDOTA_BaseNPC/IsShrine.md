@@ -1,5 +1,5 @@
 # IsShrine
-```js	
+```js
 bool IsShrine()
 ```
 # Class

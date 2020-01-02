@@ -1,5 +1,5 @@
 # SetManaGain
-```js	
+```js
 void SetManaGain(nManaGain)
 ```
 # Class

@@ -1,5 +1,5 @@
 # IsMoving
-```js	
+```js
 bool IsMoving()
 ```
 # Class

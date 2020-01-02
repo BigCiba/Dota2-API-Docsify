@@ -1,5 +1,5 @@
 # AddAegisPickup
-```js	
+```js
 void AddAegisPickup(iPlayerID)
 ```
 # Class

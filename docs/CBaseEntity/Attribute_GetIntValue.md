@@ -1,5 +1,5 @@
 # Attribute_GetIntValue
-```js	
+```js
 int Attribute_GetIntValue(pName, nDefault)
 ```
 # Class

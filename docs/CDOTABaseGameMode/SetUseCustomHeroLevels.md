@@ -1,5 +1,5 @@
 # SetUseCustomHeroLevels
-```js	
+```js
 void SetUseCustomHeroLevels(bEnabled)
 ```
 # Class

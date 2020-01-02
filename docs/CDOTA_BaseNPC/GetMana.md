@@ -1,5 +1,5 @@
 # GetMana
-```js	
+```js
 float GetMana()
 ```
 # Class

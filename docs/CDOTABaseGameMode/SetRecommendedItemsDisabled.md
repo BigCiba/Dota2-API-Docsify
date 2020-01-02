@@ -1,5 +1,5 @@
 # SetRecommendedItemsDisabled
-```js	
+```js
 void SetRecommendedItemsDisabled(bDisabled)
 ```
 # Class

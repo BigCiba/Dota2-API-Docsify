@@ -1,5 +1,5 @@
 # CastFilterResultLocation
-```js	
+```js
 int CastFilterResultLocation(vLocation)
 ```
 # Class

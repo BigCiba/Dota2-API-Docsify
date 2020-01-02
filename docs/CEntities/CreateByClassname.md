@@ -1,5 +1,5 @@
 # CreateByClassname
-```js	
+```js
 handle CreateByClassname(string_1)
 ```
 # Class

@@ -1,5 +1,5 @@
 # EyeAngles
-```js	
+```js
 QAngle EyeAngles()
 ```
 # Class

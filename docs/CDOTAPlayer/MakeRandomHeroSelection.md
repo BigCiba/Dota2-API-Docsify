@@ -1,5 +1,5 @@
 # MakeRandomHeroSelection
-```js	
+```js
 void MakeRandomHeroSelection()
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetShopType
-```js	
+```js
 int GetShopType()
 ```
 # Class

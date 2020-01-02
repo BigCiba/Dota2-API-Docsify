@@ -1,5 +1,5 @@
 # OnHorizontalMotionInterrupted
-```js	
+```js
 void OnHorizontalMotionInterrupted()
 ```
 # Class

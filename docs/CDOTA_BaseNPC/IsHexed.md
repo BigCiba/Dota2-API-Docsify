@@ -1,5 +1,5 @@
 # IsHexed
-```js	
+```js
 bool IsHexed()
 ```
 # Class

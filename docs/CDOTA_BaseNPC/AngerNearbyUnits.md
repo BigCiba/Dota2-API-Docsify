@@ -1,5 +1,5 @@
 # AngerNearbyUnits
-```js	
+```js
 void AngerNearbyUnits()
 ```
 # Class

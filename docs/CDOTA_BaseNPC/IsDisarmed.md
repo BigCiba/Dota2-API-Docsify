@@ -1,5 +1,5 @@
 # IsDisarmed
-```js	
+```js
 bool IsDisarmed()
 ```
 # Class

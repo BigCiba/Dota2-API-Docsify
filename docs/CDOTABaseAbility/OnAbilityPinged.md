@@ -1,5 +1,5 @@
 # OnAbilityPinged
-```js	
+```js
 void OnAbilityPinged(nPlayerID, bCtrlHeld)
 ```
 # Class

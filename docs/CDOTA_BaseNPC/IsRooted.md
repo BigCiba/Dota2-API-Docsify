@@ -1,5 +1,5 @@
 # IsRooted
-```js	
+```js
 bool IsRooted()
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetUpgradeRecommended
-```js	
+```js
 void SetUpgradeRecommended(bUpgradeRecommended)
 ```
 # Class

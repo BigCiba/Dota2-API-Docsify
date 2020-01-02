@@ -1,5 +1,5 @@
 # SetBool
-```js	
+```js
 void SetBool(string_1, bool_2)
 ```
 # Class

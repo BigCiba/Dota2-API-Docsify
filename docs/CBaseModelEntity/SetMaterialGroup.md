@@ -1,5 +1,5 @@
 # SetMaterialGroup
-```js	
+```js
 void SetMaterialGroup(pMaterialGroup)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetCursorTargetingNothing
-```js	
+```js
 bool GetCursorTargetingNothing()
 ```
 # Class

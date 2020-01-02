@@ -1,5 +1,5 @@
 # GetLinearProjectileVelocity
-```js	
+```js
 Vector GetLinearProjectileVelocity(int_1)
 ```
 # Class

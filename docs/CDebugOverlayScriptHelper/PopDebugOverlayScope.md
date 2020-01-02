@@ -1,5 +1,5 @@
 # PopDebugOverlayScope
-```js	
+```js
 void PopDebugOverlayScope()
 ```
 # Class

@@ -1,5 +1,5 @@
 # BeginNightstalkerNight
-```js	
+```js
 void BeginNightstalkerNight(float_1)
 ```
 # Class

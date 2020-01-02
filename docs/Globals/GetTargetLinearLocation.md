@@ -1,5 +1,5 @@
 # GetTargetLinearLocation
-```js	
+```js
 Vector GetTargetLinearLocation(int_1, int_2, int_3, Vector_4, int_5, int_6, int_7)
 ```
 # Class

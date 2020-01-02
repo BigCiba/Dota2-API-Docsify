@@ -1,5 +1,5 @@
 # SetSecondaryCharges
-```js	
+```js
 void SetSecondaryCharges(iCharges)
 ```
 # Class

@@ -1,5 +1,5 @@
 # IsHornAlive
-```js	
+```js
 bool IsHornAlive()
 ```
 # Class

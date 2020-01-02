@@ -1,5 +1,5 @@
 # GetCurrentVisionRange
-```js	
+```js
 int GetCurrentVisionRange()
 ```
 # Class

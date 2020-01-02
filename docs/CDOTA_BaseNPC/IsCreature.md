@@ -1,5 +1,5 @@
 # IsCreature
-```js	
+```js
 bool IsCreature()
 ```
 # Class

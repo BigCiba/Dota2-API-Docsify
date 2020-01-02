@@ -1,5 +1,5 @@
 # GetEvasion
-```js	
+```js
 float GetEvasion()
 ```
 # Class

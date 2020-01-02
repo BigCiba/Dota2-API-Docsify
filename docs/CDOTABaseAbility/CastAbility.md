@@ -1,5 +1,5 @@
 # CastAbility
-```js	
+```js
 bool CastAbility()
 ```
 # Class

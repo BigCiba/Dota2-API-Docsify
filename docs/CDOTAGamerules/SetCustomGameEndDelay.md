@@ -1,5 +1,5 @@
 # SetCustomGameEndDelay
-```js	
+```js
 void SetCustomGameEndDelay(float_1)
 ```
 # Class

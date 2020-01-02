@@ -1,5 +1,5 @@
 # NumTeamPlayers
-```js	
+```js
 int NumTeamPlayers()
 ```
 # Class

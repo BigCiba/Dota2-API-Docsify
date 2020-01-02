@@ -1,5 +1,5 @@
 # OverrideFriction
-```js	
+```js
 void OverrideFriction(duration, friction)
 ```
 # Class

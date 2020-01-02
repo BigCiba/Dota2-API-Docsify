@@ -1,5 +1,5 @@
 # SpawnEntityAtNamedEntityOrigin
-```js	
+```js
 void SpawnEntityAtNamedEntityOrigin(pszName)
 ```
 # Class

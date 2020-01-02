@@ -1,5 +1,5 @@
 # SetBuybackCooldownTime
-```js	
+```js
 void SetBuybackCooldownTime(nPlayerID, flBuybackCooldown)
 ```
 # Class

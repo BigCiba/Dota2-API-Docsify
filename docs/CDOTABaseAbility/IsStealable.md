@@ -1,5 +1,5 @@
 # IsStealable
-```js	
+```js
 bool IsStealable()
 ```
 # Class

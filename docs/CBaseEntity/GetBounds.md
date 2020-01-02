@@ -1,5 +1,5 @@
 # GetBounds
-```js	
+```js
 table GetBounds()
 ```
 # Class

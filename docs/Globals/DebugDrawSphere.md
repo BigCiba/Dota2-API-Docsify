@@ -1,5 +1,5 @@
 # DebugDrawSphere
-```js	
+```js
 void DebugDrawSphere(Vector_1, Vector_2, float_3, float_4, bool_5, float_6)
 ```
 # Class

@@ -1,5 +1,5 @@
 # AddNoDraw
-```js	
+```js
 void AddNoDraw()
 ```
 # Class

@@ -1,5 +1,5 @@
 # FindAllByModel
-```js	
+```js
 table FindAllByModel(string_1)
 ```
 # Class

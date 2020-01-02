@@ -1,5 +1,5 @@
 # GetMaxHealth
-```js	
+```js
 int GetMaxHealth()
 ```
 # Class

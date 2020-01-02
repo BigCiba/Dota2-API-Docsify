@@ -1,5 +1,5 @@
 # SetTopBarTeamValue
-```js	
+```js
 void SetTopBarTeamValue(iTeam, nValue)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetBaseAttackTime
-```js	
+```js
 float GetBaseAttackTime()
 ```
 # Class

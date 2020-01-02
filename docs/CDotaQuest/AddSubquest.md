@@ -1,5 +1,5 @@
 # AddSubquest
-```js	
+```js
 void AddSubquest(hSubquest)
 ```
 # Class

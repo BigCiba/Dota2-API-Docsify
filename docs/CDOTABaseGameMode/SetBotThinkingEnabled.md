@@ -1,5 +1,5 @@
 # SetBotThinkingEnabled
-```js	
+```js
 void SetBotThinkingEnabled(bEnabled)
 ```
 # Class

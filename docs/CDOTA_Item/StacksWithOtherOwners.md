@@ -1,5 +1,5 @@
 # StacksWithOtherOwners
-```js	
+```js
 bool StacksWithOtherOwners()
 ```
 # Class

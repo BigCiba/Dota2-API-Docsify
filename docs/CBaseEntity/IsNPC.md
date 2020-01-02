@@ -1,5 +1,5 @@
 # IsNPC
-```js	
+```js
 bool IsNPC()
 ```
 # Class

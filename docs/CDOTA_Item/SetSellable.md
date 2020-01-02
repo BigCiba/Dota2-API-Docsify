@@ -1,5 +1,5 @@
 # SetSellable
-```js	
+```js
 void SetSellable(bSellable)
 ```
 # Class

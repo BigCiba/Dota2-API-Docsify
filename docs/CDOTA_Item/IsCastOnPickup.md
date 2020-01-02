@@ -1,5 +1,5 @@
 # IsCastOnPickup
-```js	
+```js
 bool IsCastOnPickup()
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetCurrentXP
-```js	
+```js
 int GetCurrentXP()
 ```
 # Class

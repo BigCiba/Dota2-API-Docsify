@@ -1,5 +1,5 @@
 # SelectHero
-```js	
+```js
 void SelectHero(string_1)
 ```
 # Class

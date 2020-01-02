@@ -1,5 +1,5 @@
 # GetStolenActivityModifier
-```js	
+```js
 string GetStolenActivityModifier()
 ```
 # Class

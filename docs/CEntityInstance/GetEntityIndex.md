@@ -1,5 +1,5 @@
 # GetEntityIndex
-```js	
+```js
 int GetEntityIndex()
 ```
 # Class

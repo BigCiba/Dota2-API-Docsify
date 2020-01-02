@@ -1,5 +1,5 @@
 # GetCustomBuybackCost
-```js	
+```js
 int GetCustomBuybackCost(iPlayerID)
 ```
 # Class

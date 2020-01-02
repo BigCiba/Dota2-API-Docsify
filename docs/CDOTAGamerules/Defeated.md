@@ -1,5 +1,5 @@
 # Defeated
-```js	
+```js
 void Defeated()
 ```
 # Class

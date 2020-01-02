@@ -1,5 +1,5 @@
 # GetFixedRespawnTime
-```js	
+```js
 float GetFixedRespawnTime()
 ```
 # Class

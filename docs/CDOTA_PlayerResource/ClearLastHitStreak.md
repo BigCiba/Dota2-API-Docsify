@@ -1,5 +1,5 @@
 # ClearLastHitStreak
-```js	
+```js
 void ClearLastHitStreak(iPlayerID)
 ```
 # Class

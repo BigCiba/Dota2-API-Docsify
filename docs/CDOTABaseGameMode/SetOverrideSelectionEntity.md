@@ -1,5 +1,5 @@
 # SetOverrideSelectionEntity
-```js	
+```js
 void SetOverrideSelectionEntity(hOverrideEntity)
 ```
 # Class

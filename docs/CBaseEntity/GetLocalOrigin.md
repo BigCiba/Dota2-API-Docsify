@@ -1,5 +1,5 @@
 # GetLocalOrigin
-```js	
+```js
 Vector GetLocalOrigin()
 ```
 # Class

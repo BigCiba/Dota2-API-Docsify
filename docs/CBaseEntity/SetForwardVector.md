@@ -1,5 +1,5 @@
 # SetForwardVector
-```js	
+```js
 void SetForwardVector(v)
 ```
 # Class

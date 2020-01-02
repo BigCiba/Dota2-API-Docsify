@@ -1,5 +1,5 @@
 # SetCustomBuybackCooldownEnabled
-```js	
+```js
 void SetCustomBuybackCooldownEnabled(bEnabled)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetAOERadius
-```js	
+```js
 int GetAOERadius()
 ```
 # Class

@@ -1,5 +1,5 @@
 # IsServer
-```js	
+```js
 bool IsServer()
 ```
 # Class

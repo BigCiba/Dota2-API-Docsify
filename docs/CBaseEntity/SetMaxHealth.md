@@ -1,5 +1,5 @@
 # SetMaxHealth
-```js	
+```js
 void SetMaxHealth(amt)
 ```
 # Class

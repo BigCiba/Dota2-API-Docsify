@@ -1,5 +1,5 @@
 # GetCastRange
-```js	
+```js
 int GetCastRange(vLocation, hTarget)
 ```
 # Class

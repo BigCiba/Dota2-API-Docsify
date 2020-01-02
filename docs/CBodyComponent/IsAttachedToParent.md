@@ -1,5 +1,5 @@
 # IsAttachedToParent
-```js	
+```js
 bool IsAttachedToParent()
 ```
 # Class

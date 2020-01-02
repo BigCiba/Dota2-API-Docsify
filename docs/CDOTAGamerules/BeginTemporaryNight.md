@@ -1,5 +1,5 @@
 # BeginTemporaryNight
-```js	
+```js
 void BeginTemporaryNight(float_1)
 ```
 # Class

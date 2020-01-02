@@ -1,5 +1,5 @@
 # MarkAbilityButtonDirty
-```js	
+```js
 void MarkAbilityButtonDirty()
 ```
 # Class

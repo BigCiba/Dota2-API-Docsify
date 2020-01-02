@@ -1,5 +1,5 @@
 # SetGraphParameter
-```js	
+```js
 void SetGraphParameter(pszParam, svArg)
 ```
 # Class

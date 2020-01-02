@@ -1,5 +1,5 @@
 # IsHiddenWhenStolen
-```js	
+```js
 bool IsHiddenWhenStolen()
 ```
 # Class

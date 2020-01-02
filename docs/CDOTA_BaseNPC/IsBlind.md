@@ -1,5 +1,5 @@
 # IsBlind
-```js	
+```js
 bool IsBlind()
 ```
 # Class

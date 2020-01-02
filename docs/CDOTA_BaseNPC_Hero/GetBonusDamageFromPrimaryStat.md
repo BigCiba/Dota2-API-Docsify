@@ -1,5 +1,5 @@
 # GetBonusDamageFromPrimaryStat
-```js	
+```js
 int GetBonusDamageFromPrimaryStat()
 ```
 # Class

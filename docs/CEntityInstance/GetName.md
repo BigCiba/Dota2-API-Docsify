@@ -1,5 +1,5 @@
 # GetName
-```js	
+```js
 string GetName()
 ```
 # Class

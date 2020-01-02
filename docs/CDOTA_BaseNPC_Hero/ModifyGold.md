@@ -1,5 +1,5 @@
 # ModifyGold
-```js	
+```js
 int ModifyGold(iGoldChange, bReliable, iReason)
 ```
 # Class

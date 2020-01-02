@@ -1,5 +1,5 @@
 # IsDebuff
-```js	
+```js
 bool IsDebuff()
 ```
 # Class

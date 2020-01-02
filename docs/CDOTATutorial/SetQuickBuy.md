@@ -1,5 +1,5 @@
 # SetQuickBuy
-```js	
+```js
 void SetQuickBuy(string_1)
 ```
 # Class

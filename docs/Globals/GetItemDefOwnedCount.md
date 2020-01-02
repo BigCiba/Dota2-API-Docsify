@@ -1,5 +1,5 @@
 # GetItemDefOwnedCount
-```js	
+```js
 int GetItemDefOwnedCount(int_1, int_2)
 ```
 # Class

@@ -1,5 +1,5 @@
 # IsCourier
-```js	
+```js
 bool IsCourier()
 ```
 # Class

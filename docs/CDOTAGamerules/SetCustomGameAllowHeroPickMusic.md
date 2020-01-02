@@ -1,5 +1,5 @@
 # SetCustomGameAllowHeroPickMusic
-```js	
+```js
 void SetCustomGameAllowHeroPickMusic(bool_1)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetDaynightCycleDisabled
-```js	
+```js
 void SetDaynightCycleDisabled(bDisable)
 ```
 # Class

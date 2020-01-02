@@ -1,5 +1,5 @@
 # GetFrameCount
-```js	
+```js
 int GetFrameCount()
 ```
 # Class

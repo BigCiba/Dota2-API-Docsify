@@ -1,5 +1,5 @@
 # GetAttackRangeBuffer
-```js	
+```js
 float GetAttackRangeBuffer()
 ```
 # Class

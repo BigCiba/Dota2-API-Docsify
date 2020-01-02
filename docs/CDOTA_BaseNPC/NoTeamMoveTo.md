@@ -1,5 +1,5 @@
 # NoTeamMoveTo
-```js	
+```js
 bool NoTeamMoveTo()
 ```
 # Class

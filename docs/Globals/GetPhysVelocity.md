@@ -1,5 +1,5 @@
 # GetPhysVelocity
-```js	
+```js
 Vector GetPhysVelocity(handle_1)
 ```
 # Class

@@ -1,5 +1,5 @@
 # HasAnyAvailableInventorySpace
-```js	
+```js
 bool HasAnyAvailableInventorySpace()
 ```
 # Class

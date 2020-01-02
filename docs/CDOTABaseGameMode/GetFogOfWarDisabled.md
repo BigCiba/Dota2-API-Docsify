@@ -1,5 +1,5 @@
 # GetFogOfWarDisabled
-```js	
+```js
 bool GetFogOfWarDisabled()
 ```
 # Class

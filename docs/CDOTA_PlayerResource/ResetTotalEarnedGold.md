@@ -1,5 +1,5 @@
 # ResetTotalEarnedGold
-```js	
+```js
 void ResetTotalEarnedGold(iPlayerID)
 ```
 # Class

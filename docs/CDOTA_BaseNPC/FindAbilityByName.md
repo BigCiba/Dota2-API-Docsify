@@ -1,5 +1,5 @@
 # FindAbilityByName
-```js	
+```js
 handle FindAbilityByName(pAbilityName)
 ```
 # Class

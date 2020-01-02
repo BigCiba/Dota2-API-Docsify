@@ -1,5 +1,5 @@
 # GetRootMoveParent
-```js	
+```js
 handle GetRootMoveParent()
 ```
 # Class

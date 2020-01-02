@@ -1,5 +1,5 @@
 # OnHeroDiedNearby
-```js	
+```js
 void OnHeroDiedNearby(unit, attacker, table)
 ```
 # Class

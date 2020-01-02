@@ -1,5 +1,5 @@
 # FindUnitsInLine
-```js	
+```js
 table FindUnitsInLine(int_1, Vector_2, Vector_3, handle_4, float_5, int_6, int_7, int_8)
 ```
 # Class

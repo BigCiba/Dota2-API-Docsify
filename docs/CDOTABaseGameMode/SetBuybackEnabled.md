@@ -1,5 +1,5 @@
 # SetBuybackEnabled
-```js	
+```js
 void SetBuybackEnabled(bEnabled)
 ```
 # Class

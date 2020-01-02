@@ -1,5 +1,5 @@
 # OnProjectileHit
-```js	
+```js
 bool OnProjectileHit(hTarget, vLocation)
 ```
 # Class

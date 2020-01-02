@@ -1,5 +1,5 @@
 # ApplyHorizontalMotionController
-```js	
+```js
 bool ApplyHorizontalMotionController()
 ```
 # Class

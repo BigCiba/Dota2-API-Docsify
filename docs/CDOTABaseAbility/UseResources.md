@@ -1,5 +1,5 @@
 # UseResources
-```js	
+```js
 void UseResources(bMana, bGold, bCooldown)
 ```
 # Class

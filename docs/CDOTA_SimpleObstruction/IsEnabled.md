@@ -1,5 +1,5 @@
 # IsEnabled
-```js	
+```js
 bool IsEnabled()
 ```
 # Class

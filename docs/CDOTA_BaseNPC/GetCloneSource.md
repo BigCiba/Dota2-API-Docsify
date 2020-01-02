@@ -1,5 +1,5 @@
 # GetCloneSource
-```js	
+```js
 handle GetCloneSource()
 ```
 # Class

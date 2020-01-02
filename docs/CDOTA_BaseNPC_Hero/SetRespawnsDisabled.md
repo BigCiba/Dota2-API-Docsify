@@ -1,5 +1,5 @@
 # SetRespawnsDisabled
-```js	
+```js
 void SetRespawnsDisabled(bDisableRespawns)
 ```
 # Class

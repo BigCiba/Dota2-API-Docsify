@@ -1,5 +1,5 @@
 # HasSelectedHero
-```js	
+```js
 bool HasSelectedHero(iPlayerID)
 ```
 # Class

@@ -1,5 +1,5 @@
 # WillReincarnate
-```js	
+```js
 bool WillReincarnate()
 ```
 # Class

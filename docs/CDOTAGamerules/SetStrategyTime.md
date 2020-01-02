@@ -1,5 +1,5 @@
 # SetStrategyTime
-```js	
+```js
 void SetStrategyTime(float_1)
 ```
 # Class

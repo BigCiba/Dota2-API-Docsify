@@ -1,5 +1,5 @@
 # SetShopType
-```js	
+```js
 void SetShopType(eShopType)
 ```
 # Class

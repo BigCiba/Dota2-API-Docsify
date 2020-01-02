@@ -1,5 +1,5 @@
 # TakeDamage
-```js	
+```js
 int TakeDamage(hInfo)
 ```
 # Class

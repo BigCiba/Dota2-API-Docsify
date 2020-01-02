@@ -1,5 +1,5 @@
 # CompleteQuest
-```js	
+```js
 void CompleteQuest()
 ```
 # Class

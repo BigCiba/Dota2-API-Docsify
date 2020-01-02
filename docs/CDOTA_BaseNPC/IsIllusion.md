@@ -1,5 +1,5 @@
 # IsIllusion
-```js	
+```js
 bool IsIllusion()
 ```
 # Class

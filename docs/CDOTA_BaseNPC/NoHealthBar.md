@@ -1,5 +1,5 @@
 # NoHealthBar
-```js	
+```js
 bool NoHealthBar()
 ```
 # Class

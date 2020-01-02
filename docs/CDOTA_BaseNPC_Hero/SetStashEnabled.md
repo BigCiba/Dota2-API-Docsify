@@ -1,5 +1,5 @@
 # SetStashEnabled
-```js	
+```js
 void SetStashEnabled(bEnabled)
 ```
 # Class

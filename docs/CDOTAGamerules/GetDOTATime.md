@@ -1,5 +1,5 @@
 # GetDOTATime
-```js	
+```js
 float GetDOTATime(bool_1, bool_2)
 ```
 # Class

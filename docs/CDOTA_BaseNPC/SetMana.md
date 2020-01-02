@@ -1,5 +1,5 @@
 # SetMana
-```js	
+```js
 void SetMana(flMana)
 ```
 # Class

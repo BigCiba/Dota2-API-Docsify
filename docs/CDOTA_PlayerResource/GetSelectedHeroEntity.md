@@ -1,5 +1,5 @@
 # GetSelectedHeroEntity
-```js	
+```js
 handle GetSelectedHeroEntity(iPlayerID)
 ```
 # Class

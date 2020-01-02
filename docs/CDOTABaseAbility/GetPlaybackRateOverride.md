@@ -1,5 +1,5 @@
 # GetPlaybackRateOverride
-```js	
+```js
 float GetPlaybackRateOverride()
 ```
 # Class

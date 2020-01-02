@@ -1,5 +1,5 @@
 # GetCustomBackpackSwapCooldown
-```js	
+```js
 float GetCustomBackpackSwapCooldown()
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetDieTime
-```js	
+```js
 float GetDieTime()
 ```
 # Class

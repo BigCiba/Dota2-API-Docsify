@@ -1,5 +1,5 @@
 # StartSoundEventFromPositionReliable
-```js	
+```js
 void StartSoundEventFromPositionReliable(string_1, Vector_2)
 ```
 # Class

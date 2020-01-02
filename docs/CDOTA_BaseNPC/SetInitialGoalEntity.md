@@ -1,5 +1,5 @@
 # SetInitialGoalEntity
-```js	
+```js
 void SetInitialGoalEntity(hGoal)
 ```
 # Class

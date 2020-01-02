@@ -1,5 +1,5 @@
 # Destroy
-```js	
+```js
 void Destroy()
 ```
 # Class

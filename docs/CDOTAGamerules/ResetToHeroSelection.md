@@ -1,5 +1,5 @@
 # ResetToHeroSelection
-```js	
+```js
 void ResetToHeroSelection()
 ```
 # Class

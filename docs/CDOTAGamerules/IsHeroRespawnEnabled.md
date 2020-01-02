@@ -1,5 +1,5 @@
 # IsHeroRespawnEnabled
-```js	
+```js
 bool IsHeroRespawnEnabled()
 ```
 # Class

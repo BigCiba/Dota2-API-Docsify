@@ -1,5 +1,5 @@
 # GetCreepDamageTaken
-```js	
+```js
 int GetCreepDamageTaken(iPlayerID, bTotal)
 ```
 # Class

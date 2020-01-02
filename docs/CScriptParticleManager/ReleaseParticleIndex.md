@@ -1,5 +1,5 @@
 # ReleaseParticleIndex
-```js	
+```js
 void ReleaseParticleIndex(int_1)
 ```
 # Class

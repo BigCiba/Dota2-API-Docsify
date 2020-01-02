@@ -1,5 +1,5 @@
 # IsDisableHelpSetForPlayerID
-```js	
+```js
 bool IsDisableHelpSetForPlayerID(nPlayerID, nOtherPlayerID)
 ```
 # Class

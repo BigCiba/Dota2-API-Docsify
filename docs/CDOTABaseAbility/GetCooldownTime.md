@@ -1,5 +1,5 @@
 # GetCooldownTime
-```js	
+```js
 float GetCooldownTime()
 ```
 # Class

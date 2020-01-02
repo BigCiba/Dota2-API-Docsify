@@ -1,5 +1,5 @@
 # GetCastPoint
-```js	
+```js
 float GetCastPoint()
 ```
 # Class

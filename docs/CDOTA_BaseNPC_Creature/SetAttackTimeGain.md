@@ -1,5 +1,5 @@
 # SetAttackTimeGain
-```js	
+```js
 void SetAttackTimeGain(flAttackTimeGain)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetDedicatedServerKeyV2
-```js	
+```js
 string GetDedicatedServerKeyV2(string_1)
 ```
 # Class

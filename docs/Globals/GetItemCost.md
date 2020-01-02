@@ -1,5 +1,5 @@
 # GetItemCost
-```js	
+```js
 int GetItemCost(string_1)
 ```
 # Class

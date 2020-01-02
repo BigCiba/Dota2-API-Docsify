@@ -1,5 +1,5 @@
 # GetCurrentCharges
-```js	
+```js
 int GetCurrentCharges()
 ```
 # Class

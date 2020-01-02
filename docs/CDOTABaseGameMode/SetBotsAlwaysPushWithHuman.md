@@ -1,5 +1,5 @@
 # SetBotsAlwaysPushWithHuman
-```js	
+```js
 void SetBotsAlwaysPushWithHuman(bAlwaysPush)
 ```
 # Class

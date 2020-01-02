@@ -1,5 +1,5 @@
 # UTIL_RemoveImmediate
-```js	
+```js
 void UTIL_RemoveImmediate(handle_1)
 ```
 # Class

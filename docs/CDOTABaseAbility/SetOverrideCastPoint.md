@@ -1,5 +1,5 @@
 # SetOverrideCastPoint
-```js	
+```js
 void SetOverrideCastPoint(flCastPoint)
 ```
 # Class

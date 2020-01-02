@@ -1,5 +1,5 @@
 # RemoveModifierByNameAndCaster
-```js	
+```js
 void RemoveModifierByNameAndCaster(pszScriptName, hCaster)
 ```
 # Class

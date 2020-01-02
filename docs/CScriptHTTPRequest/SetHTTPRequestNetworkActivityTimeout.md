@@ -1,5 +1,5 @@
 # SetHTTPRequestNetworkActivityTimeout
-```js	
+```js
 bool SetHTTPRequestNetworkActivityTimeout(unsigned_1)
 ```
 # Class

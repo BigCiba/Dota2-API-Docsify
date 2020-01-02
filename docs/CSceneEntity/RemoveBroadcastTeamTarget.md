@@ -1,5 +1,5 @@
 # RemoveBroadcastTeamTarget
-```js	
+```js
 void RemoveBroadcastTeamTarget(int_1)
 ```
 # Class

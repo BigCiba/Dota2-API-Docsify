@@ -1,5 +1,5 @@
 # SetUseBaseGoldBountyOnHeroes
-```js	
+```js
 void SetUseBaseGoldBountyOnHeroes(bool_1)
 ```
 # Class

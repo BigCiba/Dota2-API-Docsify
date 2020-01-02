@@ -1,5 +1,5 @@
 # IsEvadeDisabled
-```js	
+```js
 bool IsEvadeDisabled()
 ```
 # Class

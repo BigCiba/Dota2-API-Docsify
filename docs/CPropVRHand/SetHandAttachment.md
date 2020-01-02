@@ -1,5 +1,5 @@
 # SetHandAttachment
-```js	
+```js
 void SetHandAttachment(hAttachment)
 ```
 # Class

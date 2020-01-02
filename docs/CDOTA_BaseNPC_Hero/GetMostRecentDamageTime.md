@@ -1,5 +1,5 @@
 # GetMostRecentDamageTime
-```js	
+```js
 float GetMostRecentDamageTime()
 ```
 # Class

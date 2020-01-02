@@ -1,5 +1,5 @@
 # IsFakeClient
-```js	
+```js
 bool IsFakeClient(iPlayerID)
 ```
 # Class

@@ -1,5 +1,5 @@
 # AcceptUserInput
-```js	
+```js
 void AcceptUserInput()
 ```
 # Class

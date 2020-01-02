@@ -1,5 +1,5 @@
 # SetCursorCastTarget
-```js	
+```js
 void SetCursorCastTarget(hEntity)
 ```
 # Class

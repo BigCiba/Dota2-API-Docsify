@@ -1,5 +1,5 @@
 # SpendGold
-```js	
+```js
 void SpendGold(iCost, iReason)
 ```
 # Class

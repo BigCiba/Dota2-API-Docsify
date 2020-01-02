@@ -1,5 +1,5 @@
 # PassivesDisabled
-```js	
+```js
 bool PassivesDisabled()
 ```
 # Class

@@ -1,5 +1,5 @@
 # OnProjectileThink
-```js	
+```js
 void OnProjectileThink(vLocation)
 ```
 # Class

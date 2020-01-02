@@ -1,5 +1,5 @@
 # rr_QueryBestResponse
-```js	
+```js
 bool rr_QueryBestResponse(handle_1, handle_2, handle_3)
 ```
 # Class

@@ -1,5 +1,5 @@
 # AppendToLogFile
-```js	
+```js
 void AppendToLogFile(string_1, string_2)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetMaximumAttackSpeed
-```js	
+```js
 int GetMaximumAttackSpeed()
 ```
 # Class

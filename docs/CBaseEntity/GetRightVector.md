@@ -1,5 +1,5 @@
 # GetRightVector
-```js	
+```js
 Vector GetRightVector()
 ```
 # Class

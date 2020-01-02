@@ -1,5 +1,5 @@
 # DynamicHud_SetDialogVariables
-```js	
+```js
 void DynamicHud_SetDialogVariables(int_1, string_2, handle_3)
 ```
 # Class

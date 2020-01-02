@@ -1,5 +1,5 @@
 # GetTotalEarnedXP
-```js	
+```js
 int GetTotalEarnedXP(iPlayerID)
 ```
 # Class

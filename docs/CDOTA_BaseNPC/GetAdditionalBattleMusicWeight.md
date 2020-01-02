@@ -1,5 +1,5 @@
 # GetAdditionalBattleMusicWeight
-```js	
+```js
 float GetAdditionalBattleMusicWeight()
 ```
 # Class

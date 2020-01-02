@@ -1,5 +1,5 @@
 # IsDisassemblable
-```js	
+```js
 bool IsDisassemblable()
 ```
 # Class

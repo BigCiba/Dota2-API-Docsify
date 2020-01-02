@@ -1,5 +1,5 @@
 # GetTogglableWearable
-```js	
+```js
 handle GetTogglableWearable(nSlotType)
 ```
 # Class

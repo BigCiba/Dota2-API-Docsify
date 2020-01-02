@@ -1,5 +1,5 @@
 # GetOwner
-```js	
+```js
 handle GetOwner()
 ```
 # Class

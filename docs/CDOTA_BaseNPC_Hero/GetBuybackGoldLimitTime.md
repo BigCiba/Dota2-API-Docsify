@@ -1,5 +1,5 @@
 # GetBuybackGoldLimitTime
-```js	
+```js
 float GetBuybackGoldLimitTime()
 ```
 # Class

@@ -1,5 +1,5 @@
 # CanParentBeAutoAttacked
-```js	
+```js
 bool CanParentBeAutoAttacked()
 ```
 # Class

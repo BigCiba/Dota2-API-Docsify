@@ -1,5 +1,5 @@
 # DestroyAllSpeechBubbles
-```js	
+```js
 void DestroyAllSpeechBubbles()
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetFountainPercentageHealthRegen
-```js	
+```js
 void SetFountainPercentageHealthRegen(flPercentageHealthRegen)
 ```
 # Class

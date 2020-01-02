@@ -1,5 +1,5 @@
 # UnHideAbilityToSlot
-```js	
+```js
 void UnHideAbilityToSlot(pszAbilityName, pszReplacedAbilityName)
 ```
 # Class

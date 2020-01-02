@@ -1,5 +1,5 @@
 # IsBuilding
-```js	
+```js
 bool IsBuilding()
 ```
 # Class

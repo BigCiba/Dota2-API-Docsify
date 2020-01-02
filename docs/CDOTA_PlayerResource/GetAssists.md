@@ -1,5 +1,5 @@
 # GetAssists
-```js	
+```js
 int GetAssists(iPlayerID)
 ```
 # Class

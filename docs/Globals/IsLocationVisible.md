@@ -1,5 +1,5 @@
 # IsLocationVisible
-```js	
+```js
 bool IsLocationVisible(int_1, Vector_2)
 ```
 # Class

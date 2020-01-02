@@ -1,5 +1,5 @@
 # IsSummoned
-```js	
+```js
 bool IsSummoned()
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetWorldMinX
-```js	
+```js
 float GetWorldMinX()
 ```
 # Class

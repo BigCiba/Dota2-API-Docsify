@@ -1,5 +1,5 @@
 # GetLinearProjectileRadius
-```js	
+```js
 float GetLinearProjectileRadius(int_1)
 ```
 # Class

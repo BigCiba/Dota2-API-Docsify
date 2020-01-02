@@ -1,5 +1,5 @@
 # HasScepter
-```js	
+```js
 bool HasScepter()
 ```
 # Class

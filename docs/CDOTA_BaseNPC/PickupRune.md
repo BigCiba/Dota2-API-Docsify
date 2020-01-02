@@ -1,5 +1,5 @@
 # PickupRune
-```js	
+```js
 void PickupRune(hItem)
 ```
 # Class

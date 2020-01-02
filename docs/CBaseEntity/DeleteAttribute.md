@@ -1,5 +1,5 @@
 # DeleteAttribute
-```js	
+```js
 void DeleteAttribute(pName)
 ```
 # Class

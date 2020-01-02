@@ -1,5 +1,5 @@
 # SequenceDuration
-```js	
+```js
 float SequenceDuration(string_1)
 ```
 # Class

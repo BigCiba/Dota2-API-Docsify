@@ -1,5 +1,5 @@
 # SetBaseMaxHealth
-```js	
+```js
 void SetBaseMaxHealth(flBaseMaxHealth)
 ```
 # Class

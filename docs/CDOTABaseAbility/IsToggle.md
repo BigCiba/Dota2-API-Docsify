@@ -1,5 +1,5 @@
 # IsToggle
-```js	
+```js
 bool IsToggle()
 ```
 # Class

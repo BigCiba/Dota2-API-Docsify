@@ -1,5 +1,5 @@
 # IsTailAlive
-```js	
+```js
 bool IsTailAlive()
 ```
 # Class

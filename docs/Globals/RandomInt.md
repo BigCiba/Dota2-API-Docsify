@@ -1,5 +1,5 @@
 # RandomInt
-```js	
+```js
 int RandomInt(int_1, int_2)
 ```
 # Class

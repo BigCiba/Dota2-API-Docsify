@@ -1,5 +1,5 @@
 # GetUnitLabel
-```js	
+```js
 string GetUnitLabel()
 ```
 # Class

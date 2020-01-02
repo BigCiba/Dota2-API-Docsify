@@ -1,5 +1,5 @@
 # GetCastAnimation
-```js	
+```js
 int GetCastAnimation()
 ```
 # Class

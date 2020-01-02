@@ -1,5 +1,5 @@
 # Think
-```js	
+```js
 void Think()
 ```
 # Class

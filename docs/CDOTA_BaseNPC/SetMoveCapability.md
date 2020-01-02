@@ -1,5 +1,5 @@
 # SetMoveCapability
-```js	
+```js
 void SetMoveCapability(iMoveCapabilities)
 ```
 # Class

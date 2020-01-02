@@ -1,5 +1,5 @@
 # DebugDrawText
-```js	
+```js
 void DebugDrawText(Vector_1, string_2, bool_3, float_4)
 ```
 # Class

@@ -1,5 +1,5 @@
 # HasModifier
-```js	
+```js
 bool HasModifier(pszScriptName)
 ```
 # Class

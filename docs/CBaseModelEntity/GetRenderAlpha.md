@@ -1,5 +1,5 @@
 # GetRenderAlpha
-```js	
+```js
 int GetRenderAlpha()
 ```
 # Class

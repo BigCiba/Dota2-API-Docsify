@@ -1,5 +1,5 @@
 # SetRespawnTimeScale
-```js	
+```js
 void SetRespawnTimeScale(flValue)
 ```
 # Class

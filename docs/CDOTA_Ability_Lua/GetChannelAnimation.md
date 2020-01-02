@@ -1,5 +1,5 @@
 # GetChannelAnimation
-```js	
+```js
 int GetChannelAnimation()
 ```
 # Class

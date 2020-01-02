@@ -1,5 +1,5 @@
 # CastAbilityOnTarget
-```js	
+```js
 void CastAbilityOnTarget(hTarget, hAbility, iPlayerIndex)
 ```
 # Class

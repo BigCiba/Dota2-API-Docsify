@@ -1,5 +1,5 @@
 # SetCastOnPickup
-```js	
+```js
 void SetCastOnPickup(bCastOnPickUp)
 ```
 # Class

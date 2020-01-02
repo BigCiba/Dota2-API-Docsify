@@ -1,5 +1,5 @@
 # SetGoldPerTick
-```js	
+```js
 void SetGoldPerTick(int_1)
 ```
 # Class

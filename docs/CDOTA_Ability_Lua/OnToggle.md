@@ -1,5 +1,5 @@
 # OnToggle
-```js	
+```js
 void OnToggle()
 ```
 # Class

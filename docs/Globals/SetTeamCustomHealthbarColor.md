@@ -1,5 +1,5 @@
 # SetTeamCustomHealthbarColor
-```js	
+```js
 void SetTeamCustomHealthbarColor(int_1, int_2, int_3, int_4)
 ```
 # Class

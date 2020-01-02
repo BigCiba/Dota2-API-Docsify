@@ -1,5 +1,5 @@
 # FinishCustomGameSetup
-```js	
+```js
 void FinishCustomGameSetup()
 ```
 # Class

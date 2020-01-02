@@ -1,5 +1,5 @@
 # IsPlayer
-```js	
+```js
 bool IsPlayer()
 ```
 # Class

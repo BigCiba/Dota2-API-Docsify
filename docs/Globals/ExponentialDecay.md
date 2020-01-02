@@ -1,5 +1,5 @@
 # ExponentialDecay
-```js	
+```js
 float ExponentialDecay(float_1, float_2, float_3)
 ```
 # Class

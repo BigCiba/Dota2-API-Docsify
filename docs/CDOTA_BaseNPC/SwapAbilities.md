@@ -1,5 +1,5 @@
 # SwapAbilities
-```js	
+```js
 void SwapAbilities(pAbilityName1, pAbilityName2, bEnable1, bEnable2)
 ```
 # Class

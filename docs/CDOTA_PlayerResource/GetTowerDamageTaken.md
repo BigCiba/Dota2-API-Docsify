@@ -1,5 +1,5 @@
 # GetTowerDamageTaken
-```js	
+```js
 int GetTowerDamageTaken(iPlayerID, bTotal)
 ```
 # Class

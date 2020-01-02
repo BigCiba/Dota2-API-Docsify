@@ -1,5 +1,5 @@
 # GetStackCount
-```js	
+```js
 int GetStackCount()
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetCustomGameTeamMaxPlayers
-```js	
+```js
 int GetCustomGameTeamMaxPlayers(int_1)
 ```
 # Class

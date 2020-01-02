@@ -1,5 +1,5 @@
 # CalculateStatBonus
-```js	
+```js
 void CalculateStatBonus()
 ```
 # Class

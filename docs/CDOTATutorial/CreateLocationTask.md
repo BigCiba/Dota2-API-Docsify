@@ -1,5 +1,5 @@
 # CreateLocationTask
-```js	
+```js
 void CreateLocationTask(Vector_1)
 ```
 # Class

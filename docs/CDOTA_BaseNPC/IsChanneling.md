@@ -1,5 +1,5 @@
 # IsChanneling
-```js	
+```js
 bool IsChanneling()
 ```
 # Class

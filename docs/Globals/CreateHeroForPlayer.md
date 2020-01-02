@@ -1,5 +1,5 @@
 # CreateHeroForPlayer
-```js	
+```js
 handle CreateHeroForPlayer(string_1, handle_2)
 ```
 # Class

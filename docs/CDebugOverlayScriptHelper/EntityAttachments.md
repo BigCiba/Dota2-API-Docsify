@@ -1,5 +1,5 @@
 # EntityAttachments
-```js	
+```js
 void EntityAttachments(ehandle_1, float_2, float_3)
 ```
 # Class

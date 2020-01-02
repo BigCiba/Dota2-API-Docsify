@@ -1,5 +1,5 @@
 # SetMaxMana
-```js	
+```js
 void SetMaxMana(flMaxMana)
 ```
 # Class

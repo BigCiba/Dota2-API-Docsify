@@ -1,5 +1,5 @@
 # GetAbilityTargetType
-```js	
+```js
 int GetAbilityTargetType()
 ```
 # Class

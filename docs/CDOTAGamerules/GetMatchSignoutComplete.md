@@ -1,5 +1,5 @@
 # GetMatchSignoutComplete
-```js	
+```js
 bool GetMatchSignoutComplete()
 ```
 # Class

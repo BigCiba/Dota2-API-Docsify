@@ -1,5 +1,5 @@
 # SetCustomGameAccountRecordSaveFunction
-```js	
+```js
 void SetCustomGameAccountRecordSaveFunction(handle_1, handle_2)
 ```
 # Class

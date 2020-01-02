@@ -1,5 +1,5 @@
 # cvar_setf
-```js	
+```js
 bool cvar_setf(string_1, float_2)
 ```
 # Class

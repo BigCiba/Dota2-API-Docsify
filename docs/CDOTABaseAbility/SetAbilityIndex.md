@@ -1,5 +1,5 @@
 # SetAbilityIndex
-```js	
+```js
 void SetAbilityIndex(iIndex)
 ```
 # Class

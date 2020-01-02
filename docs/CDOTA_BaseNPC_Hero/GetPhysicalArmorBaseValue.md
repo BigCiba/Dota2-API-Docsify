@@ -1,5 +1,5 @@
 # GetPhysicalArmorBaseValue
-```js	
+```js
 float GetPhysicalArmorBaseValue()
 ```
 # Class

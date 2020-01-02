@@ -1,5 +1,5 @@
 # SetStashPurchasingDisabled
-```js	
+```js
 void SetStashPurchasingDisabled(bDisabled)
 ```
 # Class

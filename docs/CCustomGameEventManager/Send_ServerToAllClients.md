@@ -1,5 +1,5 @@
 # Send_ServerToAllClients
-```js	
+```js
 void Send_ServerToAllClients(string_1, handle_2)
 ```
 # Class

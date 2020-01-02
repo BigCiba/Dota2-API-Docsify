@@ -1,5 +1,5 @@
 # SetHideKillMessageHeaders
-```js	
+```js
 void SetHideKillMessageHeaders(bool_1)
 ```
 # Class

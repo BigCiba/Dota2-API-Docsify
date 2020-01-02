@@ -1,5 +1,5 @@
 # MakeTeamLose
-```js	
+```js
 void MakeTeamLose(int_1)
 ```
 # Class

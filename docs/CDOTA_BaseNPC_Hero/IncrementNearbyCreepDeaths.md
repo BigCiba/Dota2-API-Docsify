@@ -1,5 +1,5 @@
 # IncrementNearbyCreepDeaths
-```js	
+```js
 void IncrementNearbyCreepDeaths()
 ```
 # Class

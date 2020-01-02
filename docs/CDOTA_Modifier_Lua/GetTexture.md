@@ -1,5 +1,5 @@
 # GetTexture
-```js	
+```js
 string GetTexture()
 ```
 # Class

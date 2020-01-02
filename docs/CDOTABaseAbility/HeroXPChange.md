@@ -1,5 +1,5 @@
 # HeroXPChange
-```js	
+```js
 bool HeroXPChange(flXP)
 ```
 # Class

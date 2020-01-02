@@ -1,5 +1,5 @@
 # IsTempestDouble
-```js	
+```js
 bool IsTempestDouble()
 ```
 # Class

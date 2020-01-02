@@ -1,5 +1,5 @@
 # IncrementClaimedDenies
-```js	
+```js
 void IncrementClaimedDenies(iPlayerID)
 ```
 # Class

@@ -1,5 +1,5 @@
 # LimitPathingSearchDepth
-```js	
+```js
 void LimitPathingSearchDepth(float_1)
 ```
 # Class

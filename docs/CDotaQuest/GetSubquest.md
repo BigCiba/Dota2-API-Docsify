@@ -1,5 +1,5 @@
 # GetSubquest
-```js	
+```js
 handle GetSubquest(nIndex)
 ```
 # Class

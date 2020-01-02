@@ -1,5 +1,5 @@
 # GetTeamKills
-```js	
+```js
 int GetTeamKills(iTeam)
 ```
 # Class

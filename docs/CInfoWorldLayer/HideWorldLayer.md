@@ -1,5 +1,5 @@
 # HideWorldLayer
-```js	
+```js
 void HideWorldLayer()
 ```
 # Class

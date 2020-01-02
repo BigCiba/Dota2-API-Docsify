@@ -1,5 +1,5 @@
 # IsPassive
-```js	
+```js
 bool IsPassive()
 ```
 # Class

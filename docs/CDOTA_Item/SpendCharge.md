@@ -1,5 +1,5 @@
 # SpendCharge
-```js	
+```js
 void SpendCharge()
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetBoundingMins
-```js	
+```js
 Vector GetBoundingMins()
 ```
 # Class

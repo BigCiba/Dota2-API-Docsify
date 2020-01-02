@@ -1,5 +1,5 @@
 # IsStackable
-```js	
+```js
 bool IsStackable()
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetGameModeEntity
-```js	
+```js
 handle GetGameModeEntity()
 ```
 # Class

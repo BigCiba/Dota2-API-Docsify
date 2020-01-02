@@ -1,5 +1,5 @@
 # rr_AddDecisionRule
-```js	
+```js
 bool rr_AddDecisionRule(handle_1)
 ```
 # Class

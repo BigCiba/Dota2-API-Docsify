@@ -1,5 +1,5 @@
 # FindAllModifiersByName
-```js	
+```js
 table FindAllModifiersByName(pszScriptName)
 ```
 # Class

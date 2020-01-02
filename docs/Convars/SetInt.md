@@ -1,5 +1,5 @@
 # SetInt
-```js	
+```js
 void SetInt(string_1, int_2)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetPlayerLoadedCompletely
-```js	
+```js
 bool GetPlayerLoadedCompletely(iPlayerID)
 ```
 # Class

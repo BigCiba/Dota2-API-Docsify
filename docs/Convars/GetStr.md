@@ -1,5 +1,5 @@
 # GetStr
-```js	
+```js
 table GetStr(string_1)
 ```
 # Class

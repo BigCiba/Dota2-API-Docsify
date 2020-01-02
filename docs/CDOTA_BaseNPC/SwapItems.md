@@ -1,5 +1,5 @@
 # SwapItems
-```js	
+```js
 void SwapItems(nSlot1, nSlot2)
 ```
 # Class

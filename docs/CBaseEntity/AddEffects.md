@@ -1,5 +1,5 @@
 # AddEffects
-```js	
+```js
 void AddEffects(nFlags)
 ```
 # Class

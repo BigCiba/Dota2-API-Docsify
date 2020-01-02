@@ -1,5 +1,5 @@
 # SetCustomGameSetupRemainingTime
-```js	
+```js
 void SetCustomGameSetupRemainingTime(float_1)
 ```
 # Class

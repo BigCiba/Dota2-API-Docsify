@@ -1,5 +1,5 @@
 # GetItemName
-```js	
+```js
 string GetItemName()
 ```
 # Class

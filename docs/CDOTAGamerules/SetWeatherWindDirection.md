@@ -1,5 +1,5 @@
 # SetWeatherWindDirection
-```js	
+```js
 void SetWeatherWindDirection(Vector_1)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetPlayerName
-```js	
+```js
 string GetPlayerName(iPlayerID)
 ```
 # Class

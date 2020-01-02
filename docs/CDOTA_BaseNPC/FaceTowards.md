@@ -1,5 +1,5 @@
 # FaceTowards
-```js	
+```js
 void FaceTowards(vTarget)
 ```
 # Class

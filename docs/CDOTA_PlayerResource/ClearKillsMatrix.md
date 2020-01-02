@@ -1,5 +1,5 @@
 # ClearKillsMatrix
-```js	
+```js
 void ClearKillsMatrix(iPlayerID)
 ```
 # Class

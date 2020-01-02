@@ -1,5 +1,5 @@
 # GetDeaths
-```js	
+```js
 int GetDeaths(iPlayerID)
 ```
 # Class

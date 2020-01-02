@@ -1,5 +1,5 @@
 # GetTrapTarget
-```js	
+```js
 Vector GetTrapTarget()
 ```
 # Class

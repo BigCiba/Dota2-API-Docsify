@@ -1,5 +1,5 @@
 # EnableCustomGameSetupAutoLaunch
-```js	
+```js
 void EnableCustomGameSetupAutoLaunch(bool_1)
 ```
 # Class

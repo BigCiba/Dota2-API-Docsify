@@ -1,5 +1,5 @@
 # IsAura
-```js	
+```js
 bool IsAura()
 ```
 # Class

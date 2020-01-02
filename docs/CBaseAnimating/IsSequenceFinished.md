@@ -1,5 +1,5 @@
 # IsSequenceFinished
-```js	
+```js
 bool IsSequenceFinished()
 ```
 # Class

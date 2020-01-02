@@ -1,5 +1,5 @@
 # GetTimeOfLastDeath
-```js	
+```js
 float GetTimeOfLastDeath(iPlayerID)
 ```
 # Class

@@ -1,5 +1,5 @@
 # ResetToCustomGameSetup
-```js	
+```js
 void ResetToCustomGameSetup()
 ```
 # Class

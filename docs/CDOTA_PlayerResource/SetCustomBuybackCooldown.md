@@ -1,5 +1,5 @@
 # SetCustomBuybackCooldown
-```js	
+```js
 void SetCustomBuybackCooldown(iPlayerID, flCooldownTime)
 ```
 # Class

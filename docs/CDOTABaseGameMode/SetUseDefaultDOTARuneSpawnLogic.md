@@ -1,5 +1,5 @@
 # SetUseDefaultDOTARuneSpawnLogic
-```js	
+```js
 void SetUseDefaultDOTARuneSpawnLogic(bEnabled)
 ```
 # Class

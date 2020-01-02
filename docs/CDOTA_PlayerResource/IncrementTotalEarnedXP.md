@@ -1,5 +1,5 @@
 # IncrementTotalEarnedXP
-```js	
+```js
 void IncrementTotalEarnedXP(iPlayerID, iXP, nReason)
 ```
 # Class

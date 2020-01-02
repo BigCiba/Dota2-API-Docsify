@@ -1,5 +1,5 @@
 # IsVRControllerButtonPressed
-```js	
+```js
 bool IsVRControllerButtonPressed(nButton)
 ```
 # Class

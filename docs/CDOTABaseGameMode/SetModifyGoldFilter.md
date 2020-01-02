@@ -1,5 +1,5 @@
 # SetModifyGoldFilter
-```js	
+```js
 void SetModifyGoldFilter(hFunction, hContext)
 ```
 # Class

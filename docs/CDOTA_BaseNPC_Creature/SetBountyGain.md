@@ -1,5 +1,5 @@
 # SetBountyGain
-```js	
+```js
 void SetBountyGain(nBountyGain)
 ```
 # Class

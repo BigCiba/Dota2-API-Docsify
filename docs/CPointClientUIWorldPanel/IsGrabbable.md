@@ -1,5 +1,5 @@
 # IsGrabbable
-```js	
+```js
 bool IsGrabbable()
 ```
 # Class

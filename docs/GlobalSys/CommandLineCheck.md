@@ -1,5 +1,5 @@
 # CommandLineCheck
-```js	
+```js
 table CommandLineCheck(string_1)
 ```
 # Class

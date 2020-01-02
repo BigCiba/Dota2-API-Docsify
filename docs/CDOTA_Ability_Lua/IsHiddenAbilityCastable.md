@@ -1,5 +1,5 @@
 # IsHiddenAbilityCastable
-```js	
+```js
 bool IsHiddenAbilityCastable()
 ```
 # Class

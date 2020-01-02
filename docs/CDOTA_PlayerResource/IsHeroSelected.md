@@ -1,5 +1,5 @@
 # IsHeroSelected
-```js	
+```js
 bool IsHeroSelected(pHeroname)
 ```
 # Class

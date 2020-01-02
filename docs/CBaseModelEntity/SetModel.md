@@ -1,5 +1,5 @@
 # SetModel
-```js	
+```js
 void SetModel(pModelName)
 ```
 # Class

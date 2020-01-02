@@ -1,5 +1,5 @@
 # HasRoomForItem
-```js	
+```js
 int HasRoomForItem(pItemName, bIncludeStashCombines, bAllowSelling)
 ```
 # Class

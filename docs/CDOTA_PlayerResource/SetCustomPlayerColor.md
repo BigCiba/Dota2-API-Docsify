@@ -1,5 +1,5 @@
 # SetCustomPlayerColor
-```js	
+```js
 void SetCustomPlayerColor(iPlayerID, r, g, b)
 ```
 # Class

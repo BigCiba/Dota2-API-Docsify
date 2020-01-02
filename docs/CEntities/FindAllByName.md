@@ -1,5 +1,5 @@
 # FindAllByName
-```js	
+```js
 table FindAllByName(string_1)
 ```
 # Class

@@ -1,5 +1,5 @@
 # RemoveGesture
-```js	
+```js
 void RemoveGesture(nActivity)
 ```
 # Class

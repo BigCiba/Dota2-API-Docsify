@@ -1,5 +1,5 @@
 # ClearRuneSpawnFilter
-```js	
+```js
 void ClearRuneSpawnFilter()
 ```
 # Class

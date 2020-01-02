@@ -1,5 +1,5 @@
 # GetModifierValue
-```js	
+```js
 float GetModifierValue()
 ```
 # Class

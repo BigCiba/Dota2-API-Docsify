@@ -1,5 +1,5 @@
 # GetCustomGameDifficulty
-```js	
+```js
 int GetCustomGameDifficulty()
 ```
 # Class

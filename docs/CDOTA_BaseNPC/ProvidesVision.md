@@ -1,5 +1,5 @@
 # ProvidesVision
-```js	
+```js
 bool ProvidesVision()
 ```
 # Class

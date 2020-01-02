@@ -1,5 +1,5 @@
 # IsBlocked
-```js	
+```js
 bool IsBlocked(Vector_1)
 ```
 # Class

@@ -1,5 +1,5 @@
 # AddHandModelOverride
-```js	
+```js
 handle AddHandModelOverride(pModelName)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetHidden
-```js	
+```js
 void SetHidden(bHidden)
 ```
 # Class

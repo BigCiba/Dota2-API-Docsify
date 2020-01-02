@@ -1,5 +1,5 @@
 # IsUnselectable
-```js	
+```js
 bool IsUnselectable()
 ```
 # Class

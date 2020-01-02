@@ -1,5 +1,5 @@
 # DoIncludeScript
-```js	
+```js
 bool DoIncludeScript(string_1, handle_2)
 ```
 # Class

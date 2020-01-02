@@ -1,5 +1,5 @@
 # SetQuestPhase
-```js	
+```js
 void SetQuestPhase(int_1)
 ```
 # Class

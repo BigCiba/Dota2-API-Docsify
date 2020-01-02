@@ -1,5 +1,5 @@
 # EmitGlobalSound
-```js	
+```js
 void EmitGlobalSound(string_1)
 ```
 # Class

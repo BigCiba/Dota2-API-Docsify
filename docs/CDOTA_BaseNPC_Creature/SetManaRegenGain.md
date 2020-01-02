@@ -1,5 +1,5 @@
 # SetManaRegenGain
-```js	
+```js
 void SetManaRegenGain(flManaRegenGain)
 ```
 # Class

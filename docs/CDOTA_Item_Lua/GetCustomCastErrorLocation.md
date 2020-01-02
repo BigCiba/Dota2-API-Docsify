@@ -1,5 +1,5 @@
 # GetCustomCastErrorLocation
-```js	
+```js
 string GetCustomCastErrorLocation(vLocation)
 ```
 # Class

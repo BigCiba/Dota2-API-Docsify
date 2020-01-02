@@ -1,5 +1,5 @@
 # GetRunePickups
-```js	
+```js
 int GetRunePickups(iPlayerID)
 ```
 # Class

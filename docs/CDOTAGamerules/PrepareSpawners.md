@@ -1,5 +1,5 @@
 # PrepareSpawners
-```js	
+```js
 void PrepareSpawners(float_1)
 ```
 # Class

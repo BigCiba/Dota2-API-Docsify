@@ -1,5 +1,5 @@
 # AddImpulseAtPosition
-```js	
+```js
 void AddImpulseAtPosition(Vector_1, Vector_2)
 ```
 # Class

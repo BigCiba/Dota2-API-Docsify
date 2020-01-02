@@ -1,5 +1,5 @@
 # SetRemoveIllusionsOnDeath
-```js	
+```js
 void SetRemoveIllusionsOnDeath(bRemove)
 ```
 # Class

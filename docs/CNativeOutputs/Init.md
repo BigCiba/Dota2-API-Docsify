@@ -1,5 +1,5 @@
 # Init
-```js	
+```js
 void Init(int_1)
 ```
 # Class

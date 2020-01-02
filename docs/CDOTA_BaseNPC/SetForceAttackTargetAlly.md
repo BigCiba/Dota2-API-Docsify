@@ -1,5 +1,5 @@
 # SetForceAttackTargetAlly
-```js	
+```js
 void SetForceAttackTargetAlly(hNPC)
 ```
 # Class

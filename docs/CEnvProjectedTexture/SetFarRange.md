@@ -1,5 +1,5 @@
 # SetFarRange
-```js	
+```js
 void SetFarRange(flRange)
 ```
 # Class

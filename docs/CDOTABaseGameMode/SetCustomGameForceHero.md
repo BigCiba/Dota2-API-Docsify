@@ -1,5 +1,5 @@
 # SetCustomGameForceHero
-```js	
+```js
 void SetCustomGameForceHero(pHeroName)
 ```
 # Class

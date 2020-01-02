@@ -1,5 +1,5 @@
 # GetMainControllingPlayer
-```js	
+```js
 int GetMainControllingPlayer()
 ```
 # Class

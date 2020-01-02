@@ -1,5 +1,5 @@
 # GetHUDVisible
-```js	
+```js
 bool GetHUDVisible(iElement)
 ```
 # Class

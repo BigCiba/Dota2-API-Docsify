@@ -1,5 +1,5 @@
 # GetRespawnsDisabled
-```js	
+```js
 bool GetRespawnsDisabled()
 ```
 # Class

@@ -1,5 +1,5 @@
 # IsAttackingEntity
-```js	
+```js
 bool IsAttackingEntity(hEntity)
 ```
 # Class

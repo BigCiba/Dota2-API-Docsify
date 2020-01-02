@@ -1,5 +1,5 @@
 # Purge
-```js	
+```js
 void Purge(bRemovePositiveBuffs, bRemoveDebuffs, bFrameOnly, bRemoveStuns, bRemoveExceptions)
 ```
 # Class

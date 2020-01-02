@@ -1,5 +1,5 @@
 # GetLinearProjectileLocation
-```js	
+```js
 Vector GetLinearProjectileLocation(int_1)
 ```
 # Class

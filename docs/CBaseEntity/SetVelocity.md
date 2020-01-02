@@ -1,5 +1,5 @@
 # SetVelocity
-```js	
+```js
 void SetVelocity(vecVelocity)
 ```
 # Class

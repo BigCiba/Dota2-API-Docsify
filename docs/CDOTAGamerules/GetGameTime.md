@@ -1,5 +1,5 @@
 # GetGameTime
-```js	
+```js
 float GetGameTime()
 ```
 # Class

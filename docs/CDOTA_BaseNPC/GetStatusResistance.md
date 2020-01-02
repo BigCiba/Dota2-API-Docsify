@@ -1,5 +1,5 @@
 # GetStatusResistance
-```js	
+```js
 float GetStatusResistance()
 ```
 # Class

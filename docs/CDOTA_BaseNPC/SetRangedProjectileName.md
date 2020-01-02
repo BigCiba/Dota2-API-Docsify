@@ -1,5 +1,5 @@
 # SetRangedProjectileName
-```js	
+```js
 void SetRangedProjectileName(pProjectileName)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetNearRange
-```js	
+```js
 void SetNearRange(flRange)
 ```
 # Class

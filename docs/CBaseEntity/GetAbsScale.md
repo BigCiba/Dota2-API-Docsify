@@ -1,5 +1,5 @@
 # GetAbsScale
-```js	
+```js
 float GetAbsScale()
 ```
 # Class

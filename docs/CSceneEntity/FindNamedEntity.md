@@ -1,5 +1,5 @@
 # FindNamedEntity
-```js	
+```js
 handle FindNamedEntity(string_1)
 ```
 # Class

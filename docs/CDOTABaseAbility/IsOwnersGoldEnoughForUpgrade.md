@@ -1,5 +1,5 @@
 # IsOwnersGoldEnoughForUpgrade
-```js	
+```js
 bool IsOwnersGoldEnoughForUpgrade()
 ```
 # Class

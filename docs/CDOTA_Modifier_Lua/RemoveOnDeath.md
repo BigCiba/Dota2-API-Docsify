@@ -1,5 +1,5 @@
 # RemoveOnDeath
-```js	
+```js
 bool RemoveOnDeath()
 ```
 # Class

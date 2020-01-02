@@ -1,5 +1,5 @@
 # DecrementModifierRefCount
-```js	
+```js
 void DecrementModifierRefCount()
 ```
 # Class

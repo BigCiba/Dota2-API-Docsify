@@ -1,5 +1,5 @@
 # LaunchLootInitialHeight
-```js	
+```js
 void LaunchLootInitialHeight(bAutoUse, flInitialHeight, flLaunchHeight, flDuration, vEndPoint)
 ```
 # Class

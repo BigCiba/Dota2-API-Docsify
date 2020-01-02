@@ -1,5 +1,5 @@
 # GetCaster
-```js	
+```js
 handle GetCaster()
 ```
 # Class

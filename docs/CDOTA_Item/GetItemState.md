@@ -1,5 +1,5 @@
 # GetItemState
-```js	
+```js
 int GetItemState()
 ```
 # Class

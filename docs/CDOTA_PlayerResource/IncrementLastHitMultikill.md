@@ -1,5 +1,5 @@
 # IncrementLastHitMultikill
-```js	
+```js
 void IncrementLastHitMultikill(iPlayerID)
 ```
 # Class

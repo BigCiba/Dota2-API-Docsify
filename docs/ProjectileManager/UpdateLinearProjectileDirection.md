@@ -1,5 +1,5 @@
 # UpdateLinearProjectileDirection
-```js	
+```js
 void UpdateLinearProjectileDirection(int_1, Vector_2, float_3)
 ```
 # Class

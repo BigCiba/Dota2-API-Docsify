@@ -1,5 +1,5 @@
 # ModifyStrength
-```js	
+```js
 void ModifyStrength(flNewStrength)
 ```
 # Class

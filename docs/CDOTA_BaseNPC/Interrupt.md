@@ -1,5 +1,5 @@
 # Interrupt
-```js	
+```js
 void Interrupt()
 ```
 # Class

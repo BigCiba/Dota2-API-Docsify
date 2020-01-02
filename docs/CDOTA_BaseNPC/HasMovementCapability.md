@@ -1,5 +1,5 @@
 # HasMovementCapability
-```js	
+```js
 bool HasMovementCapability()
 ```
 # Class

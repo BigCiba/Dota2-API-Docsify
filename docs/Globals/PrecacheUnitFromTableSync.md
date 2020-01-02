@@ -1,5 +1,5 @@
 # PrecacheUnitFromTableSync
-```js	
+```js
 void PrecacheUnitFromTableSync(handle_1, handle_2)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetItemInSlot
-```js	
+```js
 handle GetItemInSlot(i)
 ```
 # Class

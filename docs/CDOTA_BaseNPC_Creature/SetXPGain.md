@@ -1,5 +1,5 @@
 # SetXPGain
-```js	
+```js
 void SetXPGain(nXPGain)
 ```
 # Class

@@ -1,5 +1,5 @@
 # RemoveVerticalMotionController
-```js	
+```js
 void RemoveVerticalMotionController(hBuff)
 ```
 # Class

@@ -1,5 +1,5 @@
 # rr_CommitAIResponse
-```js	
+```js
 bool rr_CommitAIResponse(handle_1, handle_2)
 ```
 # Class

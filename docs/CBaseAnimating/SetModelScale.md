@@ -1,5 +1,5 @@
 # SetModelScale
-```js	
+```js
 void SetModelScale(flScale)
 ```
 # Class

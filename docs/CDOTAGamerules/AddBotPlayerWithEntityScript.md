@@ -1,5 +1,5 @@
 # AddBotPlayerWithEntityScript
-```js	
+```js
 handle AddBotPlayerWithEntityScript(string_1, string_2, int_3, string_4)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetAggroTarget
-```js	
+```js
 void SetAggroTarget(hAggroTarget)
 ```
 # Class

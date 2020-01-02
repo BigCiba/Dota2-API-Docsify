@@ -1,5 +1,5 @@
 # SetCustomBackpackSwapCooldown
-```js	
+```js
 void SetCustomBackpackSwapCooldown(flCooldown)
 ```
 # Class

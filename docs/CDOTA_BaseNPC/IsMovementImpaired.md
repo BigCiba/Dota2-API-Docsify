@@ -1,5 +1,5 @@
 # IsMovementImpaired
-```js	
+```js
 bool IsMovementImpaired()
 ```
 # Class

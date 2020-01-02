@@ -1,5 +1,5 @@
 # IsMarkedForDeletion
-```js	
+```js
 bool IsMarkedForDeletion(handle_1)
 ```
 # Class

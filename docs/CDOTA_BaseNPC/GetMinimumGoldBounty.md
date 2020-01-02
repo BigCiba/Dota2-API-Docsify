@@ -1,5 +1,5 @@
 # GetMinimumGoldBounty
-```js	
+```js
 int GetMinimumGoldBounty()
 ```
 # Class

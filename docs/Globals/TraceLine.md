@@ -1,5 +1,5 @@
 # TraceLine
-```js	
+```js
 bool TraceLine(handle_1)
 ```
 # Class

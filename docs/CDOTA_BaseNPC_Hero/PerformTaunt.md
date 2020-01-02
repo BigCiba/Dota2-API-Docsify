@@ -1,5 +1,5 @@
 # PerformTaunt
-```js	
+```js
 void PerformTaunt()
 ```
 # Class

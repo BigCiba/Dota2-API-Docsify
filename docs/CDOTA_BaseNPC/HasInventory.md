@@ -1,5 +1,5 @@
 # HasInventory
-```js	
+```js
 bool HasInventory()
 ```
 # Class

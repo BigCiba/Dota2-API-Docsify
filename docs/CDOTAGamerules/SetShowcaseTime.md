@@ -1,5 +1,5 @@
 # SetShowcaseTime
-```js	
+```js
 void SetShowcaseTime(float_1)
 ```
 # Class

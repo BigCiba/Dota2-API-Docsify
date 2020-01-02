@@ -1,5 +1,5 @@
 # SpawnEntityListFromTableAsynchronous
-```js	
+```js
 int SpawnEntityListFromTableAsynchronous(handle_1, handle_2)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetPowerRuneSpawnInterval
-```js	
+```js
 void SetPowerRuneSpawnInterval(flInterval)
 ```
 # Class

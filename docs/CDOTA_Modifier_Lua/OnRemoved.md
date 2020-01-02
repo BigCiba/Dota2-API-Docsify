@@ -1,5 +1,5 @@
 # OnRemoved
-```js	
+```js
 void OnRemoved()
 ```
 # Class

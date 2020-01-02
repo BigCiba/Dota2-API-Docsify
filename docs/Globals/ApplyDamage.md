@@ -1,5 +1,5 @@
 # ApplyDamage
-```js	
+```js
 float ApplyDamage(handle_1)
 ```
 # Class

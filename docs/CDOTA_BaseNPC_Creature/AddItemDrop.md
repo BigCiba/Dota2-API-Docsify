@@ -1,5 +1,5 @@
 # AddItemDrop
-```js	
+```js
 void AddItemDrop(hDropData)
 ```
 # Class

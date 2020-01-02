@@ -1,5 +1,5 @@
 # OnOwnerSpawned
-```js	
+```js
 void OnOwnerSpawned()
 ```
 # Class

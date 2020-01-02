@@ -1,5 +1,5 @@
 # IsRealHero
-```js	
+```js
 bool IsRealHero()
 ```
 # Class

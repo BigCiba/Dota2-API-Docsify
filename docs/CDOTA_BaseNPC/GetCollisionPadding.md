@@ -1,5 +1,5 @@
 # GetCollisionPadding
-```js	
+```js
 float GetCollisionPadding()
 ```
 # Class

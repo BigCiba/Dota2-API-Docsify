@@ -1,5 +1,5 @@
 # SpawnAndReleaseCreeps
-```js	
+```js
 void SpawnAndReleaseCreeps()
 ```
 # Class

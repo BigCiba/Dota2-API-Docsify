@@ -1,5 +1,5 @@
 # SetGraphParameterEnum
-```js	
+```js
 void SetGraphParameterEnum(szName, nValue)
 ```
 # Class

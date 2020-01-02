@@ -1,5 +1,5 @@
 # IsOther
-```js	
+```js
 bool IsOther()
 ```
 # Class

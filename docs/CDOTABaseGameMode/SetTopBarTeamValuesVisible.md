@@ -1,5 +1,5 @@
 # SetTopBarTeamValuesVisible
-```js	
+```js
 void SetTopBarTeamValuesVisible(bVisible)
 ```
 # Class

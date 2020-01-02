@@ -1,5 +1,5 @@
 # GetAgilityGain
-```js	
+```js
 float GetAgilityGain()
 ```
 # Class

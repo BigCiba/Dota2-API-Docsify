@@ -1,5 +1,5 @@
 # SetPurchaseTime
-```js	
+```js
 void SetPurchaseTime(flTime)
 ```
 # Class

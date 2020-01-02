@@ -1,5 +1,5 @@
 # GetAbilityDamage
-```js	
+```js
 int GetAbilityDamage()
 ```
 # Class

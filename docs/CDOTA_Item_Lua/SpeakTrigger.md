@@ -1,5 +1,5 @@
 # SpeakTrigger
-```js	
+```js
 int SpeakTrigger()
 ```
 # Class

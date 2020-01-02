@@ -1,5 +1,5 @@
 # IncrementLastHits
-```js	
+```js
 void IncrementLastHits(iPlayerID)
 ```
 # Class

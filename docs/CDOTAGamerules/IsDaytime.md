@@ -1,5 +1,5 @@
 # IsDaytime
-```js	
+```js
 bool IsDaytime()
 ```
 # Class

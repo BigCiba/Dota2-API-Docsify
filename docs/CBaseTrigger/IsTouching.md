@@ -1,5 +1,5 @@
 # IsTouching
-```js	
+```js
 bool IsTouching(hEnt)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetMaterialGroupMask
-```js	
+```js
 void SetMaterialGroupMask(nMeshGroupMask)
 ```
 # Class

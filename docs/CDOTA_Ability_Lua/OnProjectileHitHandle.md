@@ -1,5 +1,5 @@
 # OnProjectileHitHandle
-```js	
+```js
 bool OnProjectileHitHandle(hTarget, vLocation, iProjectileHandle)
 ```
 # Class

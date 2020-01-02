@@ -1,5 +1,5 @@
 # MakePhantomBlocker
-```js	
+```js
 void MakePhantomBlocker()
 ```
 # Class

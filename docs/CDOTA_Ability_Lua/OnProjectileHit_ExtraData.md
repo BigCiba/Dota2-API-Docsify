@@ -1,5 +1,5 @@
 # OnProjectileHit_ExtraData
-```js	
+```js
 bool OnProjectileHit_ExtraData(hTarget, vLocation, table)
 ```
 # Class

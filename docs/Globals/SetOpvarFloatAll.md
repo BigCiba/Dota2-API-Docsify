@@ -1,5 +1,5 @@
 # SetOpvarFloatAll
-```js	
+```js
 void SetOpvarFloatAll(string_1, string_2, string_3, float_4)
 ```
 # Class

@@ -1,5 +1,5 @@
 # FindAllByTarget
-```js	
+```js
 table FindAllByTarget(string_1)
 ```
 # Class

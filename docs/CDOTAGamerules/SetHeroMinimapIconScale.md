@@ -1,5 +1,5 @@
 # SetHeroMinimapIconScale
-```js	
+```js
 void SetHeroMinimapIconScale(float_1)
 ```
 # Class

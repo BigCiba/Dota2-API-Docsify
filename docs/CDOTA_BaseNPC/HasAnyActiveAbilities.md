@@ -1,5 +1,5 @@
 # HasAnyActiveAbilities
-```js	
+```js
 bool HasAnyActiveAbilities()
 ```
 # Class

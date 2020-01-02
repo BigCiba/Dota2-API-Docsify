@@ -1,5 +1,5 @@
 # FireGameEvent
-```js	
+```js
 void FireGameEvent(string_1, handle_2)
 ```
 # Class

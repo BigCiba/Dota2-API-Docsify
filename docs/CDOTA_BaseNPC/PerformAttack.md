@@ -1,5 +1,5 @@
 # PerformAttack
-```js	
+```js
 void PerformAttack(hTarget, bUseCastAttackOrb, bProcessProcs, bSkipCooldown, bIgnoreInvis, bUseProjectile, bFakeAttack, bNeverMiss)
 ```
 # Class

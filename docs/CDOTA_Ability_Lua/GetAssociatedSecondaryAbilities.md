@@ -1,5 +1,5 @@
 # GetAssociatedSecondaryAbilities
-```js	
+```js
 string GetAssociatedSecondaryAbilities()
 ```
 # Class

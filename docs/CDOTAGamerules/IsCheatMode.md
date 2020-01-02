@@ -1,5 +1,5 @@
 # IsCheatMode
-```js	
+```js
 bool IsCheatMode()
 ```
 # Class

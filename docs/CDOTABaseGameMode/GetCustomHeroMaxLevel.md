@@ -1,5 +1,5 @@
 # GetCustomHeroMaxLevel
-```js	
+```js
 int GetCustomHeroMaxLevel()
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetLiteralHandType
-```js	
+```js
 int GetLiteralHandType()
 ```
 # Class

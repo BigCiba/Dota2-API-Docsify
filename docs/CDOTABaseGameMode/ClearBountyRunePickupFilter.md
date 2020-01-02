@@ -1,5 +1,5 @@
 # ClearBountyRunePickupFilter
-```js	
+```js
 void ClearBountyRunePickupFilter()
 ```
 # Class

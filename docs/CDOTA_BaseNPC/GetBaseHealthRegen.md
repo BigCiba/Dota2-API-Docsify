@@ -1,5 +1,5 @@
 # GetBaseHealthRegen
-```js	
+```js
 float GetBaseHealthRegen()
 ```
 # Class

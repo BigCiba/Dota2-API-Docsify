@@ -1,5 +1,5 @@
 # StopSoundEvent
-```js	
+```js
 void StopSoundEvent(string_1, handle_2)
 ```
 # Class

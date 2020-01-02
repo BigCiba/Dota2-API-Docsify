@@ -1,5 +1,5 @@
 # GetAttachmentAngles
-```js	
+```js
 Vector GetAttachmentAngles(iAttachment)
 ```
 # Class

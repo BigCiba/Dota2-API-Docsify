@@ -1,5 +1,5 @@
 # SetParticleControlForward
-```js	
+```js
 void SetParticleControlForward(int_1, int_2, Vector_3)
 ```
 # Class

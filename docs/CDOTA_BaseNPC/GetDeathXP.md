@@ -1,5 +1,5 @@
 # GetDeathXP
-```js	
+```js
 int GetDeathXP()
 ```
 # Class

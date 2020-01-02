@@ -1,5 +1,5 @@
 # SetCustomDeathXP
-```js	
+```js
 void SetCustomDeathXP(iValue)
 ```
 # Class

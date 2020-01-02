@@ -1,5 +1,5 @@
 # SetDeathOverlayDisabled
-```js	
+```js
 void SetDeathOverlayDisabled(bDisabled)
 ```
 # Class

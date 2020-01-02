@@ -1,5 +1,5 @@
 # SetTopBarTeamValuesOverride
-```js	
+```js
 void SetTopBarTeamValuesOverride(bOverride)
 ```
 # Class

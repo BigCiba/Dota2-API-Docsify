@@ -1,5 +1,5 @@
 # IsControllableByAnyPlayer
-```js	
+```js
 bool IsControllableByAnyPlayer()
 ```
 # Class

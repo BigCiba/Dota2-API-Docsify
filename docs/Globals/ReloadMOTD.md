@@ -1,5 +1,5 @@
 # ReloadMOTD
-```js	
+```js
 void ReloadMOTD()
 ```
 # Class

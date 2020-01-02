@@ -1,5 +1,5 @@
 # FindInSphere
-```js	
+```js
 handle FindInSphere(handle_1, Vector_2, float_3)
 ```
 # Class

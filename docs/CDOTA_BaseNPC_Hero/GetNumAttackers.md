@@ -1,5 +1,5 @@
 # GetNumAttackers
-```js	
+```js
 int GetNumAttackers()
 ```
 # Class

@@ -1,5 +1,5 @@
 # Axis
-```js	
+```js
 void Axis(Vector_1, Quaternion_2, float_3, bool_4, float_5)
 ```
 # Class

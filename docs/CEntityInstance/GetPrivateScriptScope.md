@@ -1,5 +1,5 @@
 # GetPrivateScriptScope
-```js	
+```js
 handle GetPrivateScriptScope()
 ```
 # Class

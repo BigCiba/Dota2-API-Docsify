@@ -1,5 +1,5 @@
 # GetProjectileSpeed
-```js	
+```js
 int GetProjectileSpeed()
 ```
 # Class

@@ -1,5 +1,5 @@
 # IsDaynightCycleDisabled
-```js	
+```js
 bool IsDaynightCycleDisabled()
 ```
 # Class

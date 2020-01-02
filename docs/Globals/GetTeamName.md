@@ -1,5 +1,5 @@
 # GetTeamName
-```js	
+```js
 string GetTeamName(int_1)
 ```
 # Class

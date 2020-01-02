@@ -1,5 +1,5 @@
 # CastAbilityImmediately
-```js	
+```js
 void CastAbilityImmediately(hAbility, iPlayerIndex)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetBehavior
-```js	
+```js
 int GetBehavior()
 ```
 # Class

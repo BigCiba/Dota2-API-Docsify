@@ -1,5 +1,5 @@
 # AddParticle
-```js	
+```js
 void AddParticle(i, bDestroyImmediately, bStatusEffect, iPriority, bHeroEffect, bOverheadEffect)
 ```
 # Class

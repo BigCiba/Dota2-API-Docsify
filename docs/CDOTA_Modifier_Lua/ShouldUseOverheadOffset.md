@@ -1,5 +1,5 @@
 # ShouldUseOverheadOffset
-```js	
+```js
 bool ShouldUseOverheadOffset()
 ```
 # Class

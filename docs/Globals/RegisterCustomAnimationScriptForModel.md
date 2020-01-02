@@ -1,5 +1,5 @@
 # RegisterCustomAnimationScriptForModel
-```js	
+```js
 void RegisterCustomAnimationScriptForModel(string_1, string_2)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetRespawnSeconds
-```js	
+```js
 int GetRespawnSeconds(iPlayerID)
 ```
 # Class

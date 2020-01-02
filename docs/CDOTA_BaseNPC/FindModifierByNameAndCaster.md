@@ -1,5 +1,5 @@
 # FindModifierByNameAndCaster
-```js	
+```js
 handle FindModifierByNameAndCaster(pszScriptName, hCaster)
 ```
 # Class

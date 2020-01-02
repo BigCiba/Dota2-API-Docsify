@@ -1,5 +1,5 @@
 # SetBaseManaRegen
-```js	
+```js
 void SetBaseManaRegen(flManaRegen)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetDeathGoldCost
-```js	
+```js
 int GetDeathGoldCost()
 ```
 # Class

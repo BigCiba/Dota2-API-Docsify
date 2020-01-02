@@ -1,5 +1,5 @@
 # IsTower
-```js	
+```js
 bool IsTower()
 ```
 # Class

@@ -1,5 +1,5 @@
 # CutDown
-```js	
+```js
 void CutDown(nTeamNumberKnownTo)
 ```
 # Class

@@ -1,5 +1,5 @@
 # IsAlertableItem
-```js	
+```js
 bool IsAlertableItem()
 ```
 # Class

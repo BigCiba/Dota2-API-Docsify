@@ -1,5 +1,5 @@
 # BotPopulate
-```js	
+```js
 void BotPopulate()
 ```
 # Class

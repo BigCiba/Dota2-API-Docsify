@@ -1,5 +1,5 @@
 # GetUserID
-```js	
+```js
 int GetUserID()
 ```
 # Class

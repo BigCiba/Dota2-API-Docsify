@@ -1,5 +1,5 @@
 # GetIncreasedAttackSpeed
-```js	
+```js
 float GetIncreasedAttackSpeed()
 ```
 # Class

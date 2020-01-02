@@ -1,5 +1,5 @@
 # IsUsePressed
-```js	
+```js
 bool IsUsePressed()
 ```
 # Class

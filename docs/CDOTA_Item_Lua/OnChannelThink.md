@@ -1,5 +1,5 @@
 # OnChannelThink
-```js	
+```js
 void OnChannelThink(flInterval)
 ```
 # Class

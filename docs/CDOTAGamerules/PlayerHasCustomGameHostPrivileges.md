@@ -1,5 +1,5 @@
 # PlayerHasCustomGameHostPrivileges
-```js	
+```js
 bool PlayerHasCustomGameHostPrivileges(handle_1)
 ```
 # Class

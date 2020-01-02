@@ -1,5 +1,5 @@
 # SetStolen
-```js	
+```js
 void SetStolen(bStolen)
 ```
 # Class

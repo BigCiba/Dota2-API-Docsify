@@ -1,5 +1,5 @@
 # GetUseCustomHeroLevels
-```js	
+```js
 bool GetUseCustomHeroLevels()
 ```
 # Class

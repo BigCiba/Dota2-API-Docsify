@@ -1,5 +1,5 @@
 # GetPurchaseTime
-```js	
+```js
 float GetPurchaseTime()
 ```
 # Class

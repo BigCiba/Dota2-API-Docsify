@@ -1,5 +1,5 @@
 # GetShareability
-```js	
+```js
 int GetShareability()
 ```
 # Class

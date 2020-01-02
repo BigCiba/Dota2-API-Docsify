@@ -1,5 +1,5 @@
 # OnOwnerDied
-```js	
+```js
 void OnOwnerDied()
 ```
 # Class

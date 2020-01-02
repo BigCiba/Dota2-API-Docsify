@@ -1,5 +1,5 @@
 # GetTimeOfDay
-```js	
+```js
 float GetTimeOfDay()
 ```
 # Class

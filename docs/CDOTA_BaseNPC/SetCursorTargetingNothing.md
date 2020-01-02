@@ -1,5 +1,5 @@
 # SetCursorTargetingNothing
-```js	
+```js
 void SetCursorTargetingNothing(bTargetingNothing)
 ```
 # Class

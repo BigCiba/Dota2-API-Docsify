@@ -1,5 +1,5 @@
 # ResetSequence
-```js	
+```js
 void ResetSequence(pSequenceName)
 ```
 # Class

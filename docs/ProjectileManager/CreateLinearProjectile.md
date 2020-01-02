@@ -1,5 +1,5 @@
 # CreateLinearProjectile
-```js	
+```js
 int CreateLinearProjectile(handle_1)
 ```
 # Class

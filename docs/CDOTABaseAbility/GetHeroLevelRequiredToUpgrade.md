@@ -1,5 +1,5 @@
 # GetHeroLevelRequiredToUpgrade
-```js	
+```js
 int GetHeroLevelRequiredToUpgrade()
 ```
 # Class

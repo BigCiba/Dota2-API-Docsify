@@ -1,5 +1,5 @@
 # GetContainedItem
-```js	
+```js
 handle GetContainedItem()
 ```
 # Class

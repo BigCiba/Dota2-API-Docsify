@@ -1,5 +1,5 @@
 # GetTotalPurchasedUpgradeGoldCost
-```js	
+```js
 int GetTotalPurchasedUpgradeGoldCost()
 ```
 # Class

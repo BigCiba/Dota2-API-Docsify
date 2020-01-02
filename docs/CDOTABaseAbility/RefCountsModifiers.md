@@ -1,5 +1,5 @@
 # RefCountsModifiers
-```js	
+```js
 bool RefCountsModifiers()
 ```
 # Class

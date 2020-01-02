@@ -1,5 +1,5 @@
 # DynamicHud_SetVisible
-```js	
+```js
 void DynamicHud_SetVisible(int_1, string_2, bool_3)
 ```
 # Class

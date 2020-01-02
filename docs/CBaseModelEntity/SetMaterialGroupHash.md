@@ -1,5 +1,5 @@
 # SetMaterialGroupHash
-```js	
+```js
 void SetMaterialGroupHash(nHash)
 ```
 # Class

@@ -1,5 +1,5 @@
 # LaunchLoot
-```js	
+```js
 void LaunchLoot(bAutoUse, flHeight, flDuration, vEndPoint)
 ```
 # Class

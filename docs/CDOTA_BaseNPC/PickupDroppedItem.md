@@ -1,5 +1,5 @@
 # PickupDroppedItem
-```js	
+```js
 void PickupDroppedItem(hItem)
 ```
 # Class

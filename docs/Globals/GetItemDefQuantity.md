@@ -1,5 +1,5 @@
 # GetItemDefQuantity
-```js	
+```js
 int GetItemDefQuantity(int_1, int_2)
 ```
 # Class

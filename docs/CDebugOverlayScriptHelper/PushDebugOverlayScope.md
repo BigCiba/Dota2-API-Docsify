@@ -1,5 +1,5 @@
 # PushDebugOverlayScope
-```js	
+```js
 void PushDebugOverlayScope(utlstringtoken_1)
 ```
 # Class

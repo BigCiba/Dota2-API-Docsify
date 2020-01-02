@@ -1,5 +1,5 @@
 # SetCustomBackpackCooldownPercent
-```js	
+```js
 void SetCustomBackpackCooldownPercent(flPercent)
 ```
 # Class

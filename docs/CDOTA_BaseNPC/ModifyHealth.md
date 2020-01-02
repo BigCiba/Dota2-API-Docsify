@@ -1,5 +1,5 @@
 # ModifyHealth
-```js	
+```js
 void ModifyHealth(iDesiredHealthValue, hAbility, bLethal, iAdditionalFlags)
 ```
 # Class

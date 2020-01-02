@@ -1,5 +1,5 @@
 # GetAbilityByIndex
-```js	
+```js
 handle GetAbilityByIndex(iIndex)
 ```
 # Class

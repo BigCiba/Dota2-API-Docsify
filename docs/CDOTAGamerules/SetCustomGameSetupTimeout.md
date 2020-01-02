@@ -1,5 +1,5 @@
 # SetCustomGameSetupTimeout
-```js	
+```js
 void SetCustomGameSetupTimeout(float_1)
 ```
 # Class

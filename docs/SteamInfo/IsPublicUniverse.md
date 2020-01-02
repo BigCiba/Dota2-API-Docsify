@@ -1,5 +1,5 @@
 # IsPublicUniverse
-```js	
+```js
 bool IsPublicUniverse()
 ```
 # Class

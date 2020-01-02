@@ -1,5 +1,5 @@
 # GetAbility
-```js	
+```js
 handle GetAbility()
 ```
 # Class

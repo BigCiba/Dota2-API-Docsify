@@ -1,5 +1,5 @@
 # IsItemInWhiteList
-```js	
+```js
 bool IsItemInWhiteList(string_1)
 ```
 # Class

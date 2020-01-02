@@ -1,5 +1,5 @@
 # RegisterListener
-```js	
+```js
 int RegisterListener(string_1, handle_2)
 ```
 # Class

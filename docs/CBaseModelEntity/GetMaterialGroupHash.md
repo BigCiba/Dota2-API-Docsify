@@ -1,5 +1,5 @@
 # GetMaterialGroupHash
-```js	
+```js
 unsigned GetMaterialGroupHash()
 ```
 # Class

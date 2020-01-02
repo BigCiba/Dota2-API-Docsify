@@ -1,5 +1,5 @@
 # RotatePosition
-```js	
+```js
 Vector RotatePosition(Vector_1, QAngle_2, Vector_3)
 ```
 # Class

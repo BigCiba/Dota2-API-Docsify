@@ -1,5 +1,5 @@
 # SetUseUniversalShopMode
-```js	
+```js
 void SetUseUniversalShopMode(bool_1)
 ```
 # Class

@@ -1,5 +1,5 @@
 # FinishTutorial
-```js	
+```js
 void FinishTutorial()
 ```
 # Class

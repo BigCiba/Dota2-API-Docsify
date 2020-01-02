@@ -1,5 +1,5 @@
 # GetBaseMaxHealth
-```js	
+```js
 float GetBaseMaxHealth()
 ```
 # Class

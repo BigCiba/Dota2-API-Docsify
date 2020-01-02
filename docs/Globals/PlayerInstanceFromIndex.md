@@ -1,5 +1,5 @@
 # PlayerInstanceFromIndex
-```js	
+```js
 handle PlayerInstanceFromIndex(int_1)
 ```
 # Class

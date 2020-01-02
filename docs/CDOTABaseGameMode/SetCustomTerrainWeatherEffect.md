@@ -1,5 +1,5 @@
 # SetCustomTerrainWeatherEffect
-```js	
+```js
 void SetCustomTerrainWeatherEffect(pszEffectName)
 ```
 # Class

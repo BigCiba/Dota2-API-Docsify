@@ -1,5 +1,5 @@
 # ShouldDoFlyHeightVisual
-```js	
+```js
 bool ShouldDoFlyHeightVisual()
 ```
 # Class

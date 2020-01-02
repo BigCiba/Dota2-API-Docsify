@@ -1,5 +1,5 @@
 # GetMustReachEachGoalEntity
-```js	
+```js
 bool GetMustReachEachGoalEntity()
 ```
 # Class

@@ -1,5 +1,5 @@
 # HeroLevelUp
-```js	
+```js
 void HeroLevelUp(bPlayEffects)
 ```
 # Class

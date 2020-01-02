@@ -1,5 +1,5 @@
 # ModifyGold
-```js	
+```js
 int ModifyGold(iPlayerID, iGoldChange, bReliable, nReason)
 ```
 # Class

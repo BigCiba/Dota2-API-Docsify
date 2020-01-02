@@ -1,5 +1,5 @@
 # GetLocalVelocity
-```js	
+```js
 Vector GetLocalVelocity()
 ```
 # Class

@@ -1,5 +1,5 @@
 # EmitAnnouncerSoundForTeamOnLocation
-```js	
+```js
 void EmitAnnouncerSoundForTeamOnLocation(string_1, int_2, Vector_3)
 ```
 # Class

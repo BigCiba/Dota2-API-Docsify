@@ -1,5 +1,5 @@
 # OnProjectileThinkHandle
-```js	
+```js
 void OnProjectileThinkHandle(iProjectileHandle)
 ```
 # Class

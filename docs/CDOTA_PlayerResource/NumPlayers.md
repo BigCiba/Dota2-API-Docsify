@@ -1,5 +1,5 @@
 # NumPlayers
-```js	
+```js
 int NumPlayers()
 ```
 # Class

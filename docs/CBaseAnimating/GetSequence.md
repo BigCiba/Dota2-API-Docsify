@@ -1,5 +1,5 @@
 # GetSequence
-```js	
+```js
 string GetSequence()
 ```
 # Class

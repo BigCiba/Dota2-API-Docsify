@@ -1,5 +1,5 @@
 # FindByTarget
-```js	
+```js
 handle FindByTarget(handle_1, string_2)
 ```
 # Class

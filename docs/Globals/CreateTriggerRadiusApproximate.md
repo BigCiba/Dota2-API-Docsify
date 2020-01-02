@@ -1,5 +1,5 @@
 # CreateTriggerRadiusApproximate
-```js	
+```js
 handle CreateTriggerRadiusApproximate(Vector_1, float_2)
 ```
 # Class

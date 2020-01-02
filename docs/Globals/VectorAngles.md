@@ -1,5 +1,5 @@
 # VectorAngles
-```js	
+```js
 QAngle VectorAngles(Vector_1)
 ```
 # Class

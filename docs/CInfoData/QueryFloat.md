@@ -1,5 +1,5 @@
 # QueryFloat
-```js	
+```js
 float QueryFloat(tok, flDefault)
 ```
 # Class

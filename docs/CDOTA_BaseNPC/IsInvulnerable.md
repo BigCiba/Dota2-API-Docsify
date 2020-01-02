@@ -1,5 +1,5 @@
 # IsInvulnerable
-```js	
+```js
 bool IsInvulnerable()
 ```
 # Class

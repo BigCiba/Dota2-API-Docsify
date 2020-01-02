@@ -1,5 +1,5 @@
 # IsStunDebuff
-```js	
+```js
 bool IsStunDebuff()
 ```
 # Class

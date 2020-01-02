@@ -1,5 +1,5 @@
 # AddClaimedFarm
-```js	
+```js
 void AddClaimedFarm(iPlayerID, flFarmValue, bEarnedValue)
 ```
 # Class

@@ -1,5 +1,5 @@
 # AddQuest
-```js	
+```js
 void AddQuest(string_1, int_2, string_3, string_4)
 ```
 # Class

@@ -1,5 +1,5 @@
 # CreateModifierThinker
-```js	
+```js
 handle CreateModifierThinker(handle_1, handle_2, string_3, handle_4, Vector_5, int_6, bool_7)
 ```
 # Class

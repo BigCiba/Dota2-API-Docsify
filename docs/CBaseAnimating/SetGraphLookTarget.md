@@ -1,5 +1,5 @@
 # SetGraphLookTarget
-```js	
+```js
 void SetGraphLookTarget(vValue)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetClaimedFarm
-```js	
+```js
 float GetClaimedFarm(iPlayerID, bOnlyEarned)
 ```
 # Class

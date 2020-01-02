@@ -1,5 +1,5 @@
 # EnableTowerAggroViz
-```js	
+```js
 void EnableTowerAggroViz(bool_1)
 ```
 # Class

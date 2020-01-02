@@ -1,5 +1,5 @@
 # GetIntAttr
-```js	
+```js
 int GetIntAttr(string_1)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetLinearAttenuation
-```js	
+```js
 void SetLinearAttenuation(flAtten)
 ```
 # Class

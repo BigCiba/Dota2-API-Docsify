@@ -1,5 +1,5 @@
 # OnUnequip
-```js	
+```js
 void OnUnequip()
 ```
 # Class

@@ -1,5 +1,5 @@
 # Start
-```js	
+```js
 void Start(handle_1)
 ```
 # Class

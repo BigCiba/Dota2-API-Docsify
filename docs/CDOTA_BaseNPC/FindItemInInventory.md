@@ -1,5 +1,5 @@
 # FindItemInInventory
-```js	
+```js
 handle FindItemInInventory(pszItemName)
 ```
 # Class

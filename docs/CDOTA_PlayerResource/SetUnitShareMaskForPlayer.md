@@ -1,5 +1,5 @@
 # SetUnitShareMaskForPlayer
-```js	
+```js
 void SetUnitShareMaskForPlayer(nPlayerID, nOtherPlayerID, nFlag, bState)
 ```
 # Class

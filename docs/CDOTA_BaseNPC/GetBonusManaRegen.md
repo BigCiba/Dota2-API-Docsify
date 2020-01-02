@@ -1,5 +1,5 @@
 # GetBonusManaRegen
-```js	
+```js
 float GetBonusManaRegen()
 ```
 # Class

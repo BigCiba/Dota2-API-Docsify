@@ -1,5 +1,5 @@
 # GetNumItemsInStash
-```js	
+```js
 int GetNumItemsInStash()
 ```
 # Class

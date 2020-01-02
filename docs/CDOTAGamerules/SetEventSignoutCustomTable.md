@@ -1,5 +1,5 @@
 # SetEventSignoutCustomTable
-```js	
+```js
 bool SetEventSignoutCustomTable(handle_1)
 ```
 # Class

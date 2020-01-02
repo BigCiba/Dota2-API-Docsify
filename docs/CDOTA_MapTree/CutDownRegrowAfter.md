@@ -1,5 +1,5 @@
 # CutDownRegrowAfter
-```js	
+```js
 void CutDownRegrowAfter(flRegrowAfter, nTeamNumberKnownTo)
 ```
 # Class

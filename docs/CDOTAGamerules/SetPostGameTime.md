@@ -1,5 +1,5 @@
 # SetPostGameTime
-```js	
+```js
 void SetPostGameTime(float_1)
 ```
 # Class

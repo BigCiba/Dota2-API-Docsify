@@ -1,5 +1,5 @@
 # GetStatusEffectName
-```js	
+```js
 string GetStatusEffectName()
 ```
 # Class

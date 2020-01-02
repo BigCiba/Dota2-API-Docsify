@@ -1,5 +1,5 @@
 # GetMagicalArmorValue
-```js	
+```js
 float GetMagicalArmorValue()
 ```
 # Class

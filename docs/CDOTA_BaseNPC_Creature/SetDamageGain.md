@@ -1,5 +1,5 @@
 # SetDamageGain
-```js	
+```js
 void SetDamageGain(nDamageGain)
 ```
 # Class

@@ -1,5 +1,5 @@
 # IsPhantom
-```js	
+```js
 bool IsPhantom()
 ```
 # Class

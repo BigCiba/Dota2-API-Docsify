@@ -1,5 +1,5 @@
 # GetEventRanks
-```js	
+```js
 <unknown> GetEventRanks(nPlayerID)
 ```
 # Class

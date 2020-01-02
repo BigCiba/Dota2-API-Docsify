@@ -1,5 +1,5 @@
 # ForcePlayActivityOnce
-```js	
+```js
 void ForcePlayActivityOnce(nActivity)
 ```
 # Class

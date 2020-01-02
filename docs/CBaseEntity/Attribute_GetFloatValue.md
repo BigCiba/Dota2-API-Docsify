@@ -1,5 +1,5 @@
 # Attribute_GetFloatValue
-```js	
+```js
 float Attribute_GetFloatValue(pName, flDefault)
 ```
 # Class

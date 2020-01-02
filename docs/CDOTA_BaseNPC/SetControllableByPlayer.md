@@ -1,5 +1,5 @@
 # SetControllableByPlayer
-```js	
+```js
 void SetControllableByPlayer(iIndex, bSkipAdjustingPosition)
 ```
 # Class

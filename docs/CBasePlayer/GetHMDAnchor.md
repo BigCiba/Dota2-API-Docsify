@@ -1,5 +1,5 @@
 # GetHMDAnchor
-```js	
+```js
 handle GetHMDAnchor()
 ```
 # Class

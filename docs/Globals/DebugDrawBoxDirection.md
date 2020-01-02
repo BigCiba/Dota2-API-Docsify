@@ -1,5 +1,5 @@
 # DebugDrawBoxDirection
-```js	
+```js
 void DebugDrawBoxDirection(Vector_1, Vector_2, Vector_3, Vector_4, Vector_5, float_6, float_7)
 ```
 # Class

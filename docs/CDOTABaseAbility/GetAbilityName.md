@@ -1,5 +1,5 @@
 # GetAbilityName
-```js	
+```js
 string GetAbilityName()
 ```
 # Class

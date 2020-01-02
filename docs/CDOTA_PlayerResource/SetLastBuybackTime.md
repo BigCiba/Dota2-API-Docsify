@@ -1,5 +1,5 @@
 # SetLastBuybackTime
-```js	
+```js
 void SetLastBuybackTime(iPlayerID, iLastBuybackTime)
 ```
 # Class

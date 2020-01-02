@@ -1,5 +1,5 @@
 # DoUniqueString
-```js	
+```js
 string DoUniqueString(string_1)
 ```
 # Class

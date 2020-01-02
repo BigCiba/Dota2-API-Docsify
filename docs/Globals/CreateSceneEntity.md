@@ -1,5 +1,5 @@
 # CreateSceneEntity
-```js	
+```js
 handle CreateSceneEntity(string_1)
 ```
 # Class

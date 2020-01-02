@@ -1,5 +1,5 @@
 # CalcDistanceBetweenEntityOBB
-```js	
+```js
 float CalcDistanceBetweenEntityOBB(handle_1, handle_2)
 ```
 # Class

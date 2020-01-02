@@ -1,5 +1,5 @@
 # GetAbilityKeyValues
-```js	
+```js
 table GetAbilityKeyValues()
 ```
 # Class

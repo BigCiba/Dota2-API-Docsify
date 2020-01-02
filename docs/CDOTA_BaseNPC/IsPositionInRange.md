@@ -1,5 +1,5 @@
 # IsPositionInRange
-```js	
+```js
 bool IsPositionInRange(vPosition, flRange)
 ```
 # Class

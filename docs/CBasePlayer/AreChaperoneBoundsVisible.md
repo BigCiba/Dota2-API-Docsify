@@ -1,5 +1,5 @@
 # AreChaperoneBoundsVisible
-```js	
+```js
 bool AreChaperoneBoundsVisible()
 ```
 # Class

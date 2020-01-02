@@ -1,5 +1,5 @@
 # SetHullRadius
-```js	
+```js
 void SetHullRadius(flHullRadius)
 ```
 # Class

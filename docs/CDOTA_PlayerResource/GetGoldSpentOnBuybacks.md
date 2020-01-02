@@ -1,5 +1,5 @@
 # GetGoldSpentOnBuybacks
-```js	
+```js
 int GetGoldSpentOnBuybacks(iPlayerID)
 ```
 # Class

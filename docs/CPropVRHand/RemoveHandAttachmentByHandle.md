@@ -1,5 +1,5 @@
 # RemoveHandAttachmentByHandle
-```js	
+```js
 void RemoveHandAttachmentByHandle(hAttachment)
 ```
 # Class

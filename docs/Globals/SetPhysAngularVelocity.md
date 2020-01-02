@@ -1,5 +1,5 @@
 # SetPhysAngularVelocity
-```js	
+```js
 void SetPhysAngularVelocity(handle_1, Vector_2)
 ```
 # Class

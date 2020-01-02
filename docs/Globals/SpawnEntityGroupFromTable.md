@@ -1,5 +1,5 @@
 # SpawnEntityGroupFromTable
-```js	
+```js
 bool SpawnEntityGroupFromTable(handle_1, bool_2, handle_3)
 ```
 # Class

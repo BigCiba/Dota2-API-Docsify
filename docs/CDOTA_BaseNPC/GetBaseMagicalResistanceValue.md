@@ -1,5 +1,5 @@
 # GetBaseMagicalResistanceValue
-```js	
+```js
 float GetBaseMagicalResistanceValue()
 ```
 # Class

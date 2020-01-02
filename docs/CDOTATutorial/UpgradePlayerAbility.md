@@ -1,5 +1,5 @@
 # UpgradePlayerAbility
-```js	
+```js
 void UpgradePlayerAbility(string_1)
 ```
 # Class

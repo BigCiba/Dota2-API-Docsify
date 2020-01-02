@@ -1,5 +1,5 @@
 # RegisterConvar
-```js	
+```js
 void RegisterConvar(string_1, string_2, string_3, int_4)
 ```
 # Class

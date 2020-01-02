@@ -1,5 +1,5 @@
 # EmitAnnouncerSoundForTeam
-```js	
+```js
 void EmitAnnouncerSoundForTeam(string_1, int_2)
 ```
 # Class

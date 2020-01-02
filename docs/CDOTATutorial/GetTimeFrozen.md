@@ -1,5 +1,5 @@
 # GetTimeFrozen
-```js	
+```js
 bool GetTimeFrozen()
 ```
 # Class

@@ -1,5 +1,5 @@
 # VectorToAngles
-```js	
+```js
 QAngle VectorToAngles(Vector_1)
 ```
 # Class

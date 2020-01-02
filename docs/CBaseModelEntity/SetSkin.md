@@ -1,5 +1,5 @@
 # SetSkin
-```js	
+```js
 void SetSkin(iSkin)
 ```
 # Class

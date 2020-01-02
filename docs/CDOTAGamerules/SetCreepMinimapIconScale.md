@@ -1,5 +1,5 @@
 # SetCreepMinimapIconScale
-```js	
+```js
 void SetCreepMinimapIconScale(float_1)
 ```
 # Class

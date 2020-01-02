@@ -1,5 +1,5 @@
 # GetHeroEffectName
-```js	
+```js
 string GetHeroEffectName()
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetTreeIdForEntityIndex
-```js	
+```js
 int GetTreeIdForEntityIndex(int_1)
 ```
 # Class

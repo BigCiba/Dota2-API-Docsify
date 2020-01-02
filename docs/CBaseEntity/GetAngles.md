@@ -1,5 +1,5 @@
 # GetAngles
-```js	
+```js
 QAngle GetAngles()
 ```
 # Class

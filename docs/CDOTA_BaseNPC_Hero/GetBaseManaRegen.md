@@ -1,5 +1,5 @@
 # GetBaseManaRegen
-```js	
+```js
 float GetBaseManaRegen()
 ```
 # Class

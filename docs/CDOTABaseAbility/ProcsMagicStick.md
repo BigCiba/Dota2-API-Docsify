@@ -1,5 +1,5 @@
 # ProcsMagicStick
-```js	
+```js
 bool ProcsMagicStick()
 ```
 # Class

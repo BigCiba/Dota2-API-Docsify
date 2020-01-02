@@ -1,5 +1,5 @@
 # KilledHero
-```js	
+```js
 void KilledHero(hHero, hInflictor)
 ```
 # Class

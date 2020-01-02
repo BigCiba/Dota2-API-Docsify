@@ -1,5 +1,5 @@
 # IsSilenced
-```js	
+```js
 bool IsSilenced()
 ```
 # Class

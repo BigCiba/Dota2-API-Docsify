@@ -1,5 +1,5 @@
 # Next
-```js	
+```js
 handle Next(handle_1)
 ```
 # Class

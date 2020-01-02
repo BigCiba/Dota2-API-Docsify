@@ -1,5 +1,5 @@
 # CastFilterResult
-```js	
+```js
 int CastFilterResult()
 ```
 # Class

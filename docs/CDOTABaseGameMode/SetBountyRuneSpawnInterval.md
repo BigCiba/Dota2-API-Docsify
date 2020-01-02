@@ -1,5 +1,5 @@
 # SetBountyRuneSpawnInterval
-```js	
+```js
 void SetBountyRuneSpawnInterval(flInterval)
 ```
 # Class

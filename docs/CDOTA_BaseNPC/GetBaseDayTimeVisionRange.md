@@ -1,5 +1,5 @@
 # GetBaseDayTimeVisionRange
-```js	
+```js
 int GetBaseDayTimeVisionRange()
 ```
 # Class

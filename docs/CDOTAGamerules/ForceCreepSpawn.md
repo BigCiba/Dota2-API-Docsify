@@ -1,5 +1,5 @@
 # ForceCreepSpawn
-```js	
+```js
 void ForceCreepSpawn()
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetLastIdleChangeTime
-```js	
+```js
 float GetLastIdleChangeTime()
 ```
 # Class

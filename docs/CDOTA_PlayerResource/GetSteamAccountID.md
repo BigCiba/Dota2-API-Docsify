@@ -1,5 +1,5 @@
 # GetSteamAccountID
-```js	
+```js
 unsigned GetSteamAccountID(iPlayerID)
 ```
 # Class

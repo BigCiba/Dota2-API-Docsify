@@ -1,5 +1,5 @@
 # AddRealTimeCombatAnalyzerQuery
-```js	
+```js
 int AddRealTimeCombatAnalyzerQuery(hQueryTable, hPlayer, pszQueryName)
 ```
 # Class

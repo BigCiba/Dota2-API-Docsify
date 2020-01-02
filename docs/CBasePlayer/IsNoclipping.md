@@ -1,5 +1,5 @@
 # IsNoclipping
-```js	
+```js
 bool IsNoclipping()
 ```
 # Class

@@ -1,5 +1,5 @@
 # IncrementDeaths
-```js	
+```js
 void IncrementDeaths(iPlayerID, iKillerID)
 ```
 # Class

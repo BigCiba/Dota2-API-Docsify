@@ -1,5 +1,5 @@
 # GetTowerKills
-```js	
+```js
 int GetTowerKills(iPlayerID)
 ```
 # Class

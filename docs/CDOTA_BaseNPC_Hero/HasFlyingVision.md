@@ -1,5 +1,5 @@
 # HasFlyingVision
-```js	
+```js
 bool HasFlyingVision()
 ```
 # Class

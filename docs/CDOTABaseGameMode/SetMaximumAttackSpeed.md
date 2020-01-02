@@ -1,5 +1,5 @@
 # SetMaximumAttackSpeed
-```js	
+```js
 void SetMaximumAttackSpeed(nMaxSpeed)
 ```
 # Class

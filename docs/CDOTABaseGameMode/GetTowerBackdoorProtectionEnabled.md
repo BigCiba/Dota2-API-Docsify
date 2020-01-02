@@ -1,5 +1,5 @@
 # GetTowerBackdoorProtectionEnabled
-```js	
+```js
 bool GetTowerBackdoorProtectionEnabled()
 ```
 # Class

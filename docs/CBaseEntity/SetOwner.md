@@ -1,5 +1,5 @@
 # SetOwner
-```js	
+```js
 void SetOwner(pOwner)
 ```
 # Class

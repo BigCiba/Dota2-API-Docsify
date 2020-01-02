@@ -1,5 +1,5 @@
 # SetHealingFilter
-```js	
+```js
 void SetHealingFilter(hFunction, hContext)
 ```
 # Class

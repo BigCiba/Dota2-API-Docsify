@@ -1,5 +1,5 @@
 # IsAttackImmune
-```js	
+```js
 bool IsAttackImmune()
 ```
 # Class

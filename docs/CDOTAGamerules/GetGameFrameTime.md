@@ -1,5 +1,5 @@
 # GetGameFrameTime
-```js	
+```js
 float GetGameFrameTime()
 ```
 # Class

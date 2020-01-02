@@ -1,5 +1,5 @@
 # SetTableValue
-```js	
+```js
 bool SetTableValue(string_1, string_2, handle_3)
 ```
 # Class

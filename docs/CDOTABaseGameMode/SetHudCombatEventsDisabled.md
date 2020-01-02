@@ -1,5 +1,5 @@
 # SetHudCombatEventsDisabled
-```js	
+```js
 void SetHudCombatEventsDisabled(bDisabled)
 ```
 # Class

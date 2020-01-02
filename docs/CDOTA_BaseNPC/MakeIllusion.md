@@ -1,5 +1,5 @@
 # MakeIllusion
-```js	
+```js
 void MakeIllusion()
 ```
 # Class

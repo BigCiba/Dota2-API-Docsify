@@ -1,5 +1,5 @@
 # GetCost
-```js	
+```js
 int GetCost()
 ```
 # Class

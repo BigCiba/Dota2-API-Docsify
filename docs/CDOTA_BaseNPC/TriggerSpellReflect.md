@@ -1,5 +1,5 @@
 # TriggerSpellReflect
-```js	
+```js
 void TriggerSpellReflect(hAbility)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetOriginalModel
-```js	
+```js
 void SetOriginalModel(pszModelName)
 ```
 # Class

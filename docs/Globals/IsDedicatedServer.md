@@ -1,5 +1,5 @@
 # IsDedicatedServer
-```js	
+```js
 bool IsDedicatedServer()
 ```
 # Class

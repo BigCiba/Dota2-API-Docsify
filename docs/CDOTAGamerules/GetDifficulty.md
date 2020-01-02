@@ -1,5 +1,5 @@
 # GetDifficulty
-```js	
+```js
 int GetDifficulty()
 ```
 # Class

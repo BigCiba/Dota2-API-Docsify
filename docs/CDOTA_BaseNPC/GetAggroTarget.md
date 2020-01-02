@@ -1,5 +1,5 @@
 # GetAggroTarget
-```js	
+```js
 handle GetAggroTarget()
 ```
 # Class

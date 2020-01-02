@@ -1,5 +1,5 @@
 # GetModelRadius
-```js	
+```js
 float GetModelRadius()
 ```
 # Class

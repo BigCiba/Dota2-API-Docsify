@@ -1,5 +1,5 @@
 # SetMustReachEachGoalEntity
-```js	
+```js
 void SetMustReachEachGoalEntity(must)
 ```
 # Class

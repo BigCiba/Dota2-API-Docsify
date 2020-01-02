@@ -1,5 +1,5 @@
 # CanSellItems
-```js	
+```js
 bool CanSellItems()
 ```
 # Class

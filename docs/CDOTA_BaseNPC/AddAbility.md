@@ -1,5 +1,5 @@
 # AddAbility
-```js	
+```js
 handle AddAbility(pszAbilityName)
 ```
 # Class

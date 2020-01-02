@@ -1,5 +1,5 @@
 # GetBaseIntellect
-```js	
+```js
 float GetBaseIntellect()
 ```
 # Class

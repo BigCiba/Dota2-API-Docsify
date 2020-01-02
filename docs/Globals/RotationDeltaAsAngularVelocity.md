@@ -1,5 +1,5 @@
 # RotationDeltaAsAngularVelocity
-```js	
+```js
 Vector RotationDeltaAsAngularVelocity(QAngle_1, QAngle_2)
 ```
 # Class

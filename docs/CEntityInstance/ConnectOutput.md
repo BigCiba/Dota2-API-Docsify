@@ -1,5 +1,5 @@
 # ConnectOutput
-```js	
+```js
 void ConnectOutput(string_1, string_2)
 ```
 # Class

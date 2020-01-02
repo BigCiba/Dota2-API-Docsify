@@ -1,5 +1,5 @@
 # DestroyTreesAroundPoint
-```js	
+```js
 void DestroyTreesAroundPoint(Vector_1, float_2, bool_3)
 ```
 # Class

@@ -1,5 +1,5 @@
 # AddItemByName
-```js	
+```js
 handle AddItemByName(pszItemName)
 ```
 # Class

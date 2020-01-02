@@ -1,5 +1,5 @@
 # ResetToggleOnRespawn
-```js	
+```js
 bool ResetToggleOnRespawn()
 ```
 # Class

@@ -1,5 +1,5 @@
 # PrecacheResource
-```js	
+```js
 void PrecacheResource(string_1, string_2, handle_3)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetHeroSelectionTime
-```js	
+```js
 void SetHeroSelectionTime(float_1)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetCooldownReduction
-```js	
+```js
 float GetCooldownReduction()
 ```
 # Class

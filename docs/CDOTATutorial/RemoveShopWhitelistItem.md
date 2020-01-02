@@ -1,5 +1,5 @@
 # RemoveShopWhitelistItem
-```js	
+```js
 void RemoveShopWhitelistItem(string_1)
 ```
 # Class

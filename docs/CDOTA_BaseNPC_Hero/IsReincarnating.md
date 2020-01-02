@@ -1,5 +1,5 @@
 # IsReincarnating
-```js	
+```js
 bool IsReincarnating()
 ```
 # Class

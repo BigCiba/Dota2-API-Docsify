@@ -1,5 +1,5 @@
 # AlertNearbyUnits
-```js	
+```js
 void AlertNearbyUnits(hAttacker, hAbility)
 ```
 # Class

@@ -1,5 +1,5 @@
 # UpdateHorizontalMotion
-```js	
+```js
 void UpdateHorizontalMotion(me, dt)
 ```
 # Class

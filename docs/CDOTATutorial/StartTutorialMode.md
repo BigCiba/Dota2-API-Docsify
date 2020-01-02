@@ -1,5 +1,5 @@
 # StartTutorialMode
-```js	
+```js
 void StartTutorialMode()
 ```
 # Class

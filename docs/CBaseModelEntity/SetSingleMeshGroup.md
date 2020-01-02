@@ -1,5 +1,5 @@
 # SetSingleMeshGroup
-```js	
+```js
 void SetSingleMeshGroup(pMeshGroupName)
 ```
 # Class

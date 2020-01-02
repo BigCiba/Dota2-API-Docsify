@@ -1,5 +1,5 @@
 # AddSpeechBubble
-```js	
+```js
 void AddSpeechBubble(iBubble, pszSpeech, flDuration, unOffsetX, unOffsetY)
 ```
 # Class

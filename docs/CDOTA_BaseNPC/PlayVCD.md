@@ -1,5 +1,5 @@
 # PlayVCD
-```js	
+```js
 void PlayVCD(pVCD)
 ```
 # Class

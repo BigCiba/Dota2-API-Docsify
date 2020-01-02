@@ -1,5 +1,5 @@
 # GetCameraDistanceOverride
-```js	
+```js
 float GetCameraDistanceOverride()
 ```
 # Class

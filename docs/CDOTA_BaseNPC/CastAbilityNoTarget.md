@@ -1,5 +1,5 @@
 # CastAbilityNoTarget
-```js	
+```js
 void CastAbilityNoTarget(hAbility, iPlayerIndex)
 ```
 # Class

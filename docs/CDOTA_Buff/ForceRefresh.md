@@ -1,5 +1,5 @@
 # ForceRefresh
-```js	
+```js
 void ForceRefresh()
 ```
 # Class

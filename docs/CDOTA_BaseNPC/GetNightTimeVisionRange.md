@@ -1,5 +1,5 @@
 # GetNightTimeVisionRange
-```js	
+```js
 int GetNightTimeVisionRange()
 ```
 # Class

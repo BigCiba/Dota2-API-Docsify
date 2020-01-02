@@ -1,5 +1,5 @@
 # SetCustomHealthLabel
-```js	
+```js
 void SetCustomHealthLabel(pLabel, r, g, b)
 ```
 # Class

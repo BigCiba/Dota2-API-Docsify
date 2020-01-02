@@ -1,5 +1,5 @@
 # CommandLineStr
-```js	
+```js
 table CommandLineStr(string_1, string_2)
 ```
 # Class

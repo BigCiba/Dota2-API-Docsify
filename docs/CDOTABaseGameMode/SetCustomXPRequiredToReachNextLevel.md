@@ -1,5 +1,5 @@
 # SetCustomXPRequiredToReachNextLevel
-```js	
+```js
 void SetCustomXPRequiredToReachNextLevel(hTable)
 ```
 # Class

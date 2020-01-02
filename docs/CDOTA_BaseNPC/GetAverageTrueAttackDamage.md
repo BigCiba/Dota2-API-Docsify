@@ -1,5 +1,5 @@
 # GetAverageTrueAttackDamage
-```js	
+```js
 int GetAverageTrueAttackDamage(hTarget)
 ```
 # Class

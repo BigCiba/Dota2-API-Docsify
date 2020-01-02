@@ -1,5 +1,5 @@
 # SetHUDVisible
-```js	
+```js
 void SetHUDVisible(iHUDElement, bVisible)
 ```
 # Class

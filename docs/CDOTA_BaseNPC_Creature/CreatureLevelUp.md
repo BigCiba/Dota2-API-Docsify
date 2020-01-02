@@ -1,5 +1,5 @@
 # CreatureLevelUp
-```js	
+```js
 void CreatureLevelUp(iLevels)
 ```
 # Class

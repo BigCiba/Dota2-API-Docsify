@@ -1,5 +1,5 @@
 # StatusEffectPriority
-```js	
+```js
 int StatusEffectPriority()
 ```
 # Class

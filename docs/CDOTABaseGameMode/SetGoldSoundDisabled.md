@@ -1,5 +1,5 @@
 # SetGoldSoundDisabled
-```js	
+```js
 void SetGoldSoundDisabled(bDisabled)
 ```
 # Class

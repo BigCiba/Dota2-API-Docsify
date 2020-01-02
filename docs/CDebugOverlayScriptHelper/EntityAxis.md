@@ -1,5 +1,5 @@
 # EntityAxis
-```js	
+```js
 void EntityAxis(ehandle_1, float_2, bool_3, float_4)
 ```
 # Class

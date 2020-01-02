@@ -1,5 +1,5 @@
 # Kill
-```js	
+```js
 void Kill()
 ```
 # Class

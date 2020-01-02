@@ -1,5 +1,5 @@
 # SetPhysicalArmorBaseValue
-```js	
+```js
 void SetPhysicalArmorBaseValue(flPhysicalArmorValue)
 ```
 # Class

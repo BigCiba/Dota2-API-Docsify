@@ -1,5 +1,5 @@
 # SweptBox
-```js	
+```js
 void SweptBox(Vector_1, Vector_2, Vector_3, Vector_4, Quaternion_5, int_6, int_7, int_8, int_9, float_10)
 ```
 # Class

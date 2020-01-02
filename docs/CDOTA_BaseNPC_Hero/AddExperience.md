@@ -1,5 +1,5 @@
 # AddExperience
-```js	
+```js
 bool AddExperience(flXP, nReason, bApplyBotDifficultyScaling, bIncrementTotal)
 ```
 # Class

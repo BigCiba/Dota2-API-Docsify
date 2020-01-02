@@ -1,5 +1,5 @@
 # GetWeatherWindDirection
-```js	
+```js
 Vector GetWeatherWindDirection()
 ```
 # Class

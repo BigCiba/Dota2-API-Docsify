@@ -1,5 +1,5 @@
 # SetIntAttr
-```js	
+```js
 void SetIntAttr(string_1, int_2)
 ```
 # Class

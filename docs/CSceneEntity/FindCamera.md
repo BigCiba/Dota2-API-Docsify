@@ -1,5 +1,5 @@
 # FindCamera
-```js	
+```js
 handle FindCamera()
 ```
 # Class

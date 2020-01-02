@@ -1,5 +1,5 @@
 # GetNthCourierForTeam
-```js	
+```js
 handle GetNthCourierForTeam(nCourierIndex, nTeamNumber)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetAngles
-```js	
+```js
 void SetAngles(fPitch, fYaw, fRoll)
 ```
 # Class

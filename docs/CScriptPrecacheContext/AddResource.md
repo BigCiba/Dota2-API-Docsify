@@ -1,5 +1,5 @@
 # AddResource
-```js	
+```js
 void AddResource(string_1)
 ```
 # Class

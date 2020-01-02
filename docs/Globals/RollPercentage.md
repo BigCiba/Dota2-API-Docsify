@@ -1,5 +1,5 @@
 # RollPercentage
-```js	
+```js
 bool RollPercentage(int_1)
 ```
 # Class

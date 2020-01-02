@@ -1,5 +1,5 @@
 # FireHapticPulsePrecise
-```js	
+```js
 void FireHapticPulsePrecise(nPulseDuration)
 ```
 # Class

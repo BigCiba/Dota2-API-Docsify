@@ -1,5 +1,5 @@
 # ShootPosition
-```js	
+```js
 Vector ShootPosition(nHand, nMuzzle)
 ```
 # Class

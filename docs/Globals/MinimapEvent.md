@@ -1,5 +1,5 @@
 # MinimapEvent
-```js	
+```js
 void MinimapEvent(int_1, handle_2, int_3, int_4, int_5, int_6)
 ```
 # Class

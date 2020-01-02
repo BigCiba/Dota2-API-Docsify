@@ -1,5 +1,5 @@
 # GetAttackDamage
-```js	
+```js
 int GetAttackDamage()
 ```
 # Class

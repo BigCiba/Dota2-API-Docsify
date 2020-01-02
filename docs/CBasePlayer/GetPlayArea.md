@@ -1,5 +1,5 @@
 # GetPlayArea
-```js	
+```js
 Vector GetPlayArea(nPoint)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetHasRandomed
-```js	
+```js
 void SetHasRandomed(iPlayerID)
 ```
 # Class

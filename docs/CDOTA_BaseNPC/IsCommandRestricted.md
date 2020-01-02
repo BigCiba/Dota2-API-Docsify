@@ -1,5 +1,5 @@
 # IsCommandRestricted
-```js	
+```js
 bool IsCommandRestricted()
 ```
 # Class

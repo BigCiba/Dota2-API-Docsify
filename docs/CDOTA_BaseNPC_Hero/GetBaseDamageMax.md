@@ -1,5 +1,5 @@
 # GetBaseDamageMax
-```js	
+```js
 int GetBaseDamageMax()
 ```
 # Class

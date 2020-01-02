@@ -1,5 +1,5 @@
 # FollowEntity
-```js	
+```js
 void FollowEntity(hEnt, bBoneMerge)
 ```
 # Class

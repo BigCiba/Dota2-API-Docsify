@@ -1,5 +1,5 @@
 # GetLastDamageTime
-```js	
+```js
 float GetLastDamageTime()
 ```
 # Class

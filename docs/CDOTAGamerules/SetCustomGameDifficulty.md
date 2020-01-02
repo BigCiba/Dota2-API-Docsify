@@ -1,5 +1,5 @@
 # SetCustomGameDifficulty
-```js	
+```js
 void SetCustomGameDifficulty(int_1)
 ```
 # Class

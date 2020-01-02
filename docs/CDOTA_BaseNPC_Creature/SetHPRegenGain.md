@@ -1,5 +1,5 @@
 # SetHPRegenGain
-```js	
+```js
 void SetHPRegenGain(flHPRegenGain)
 ```
 # Class

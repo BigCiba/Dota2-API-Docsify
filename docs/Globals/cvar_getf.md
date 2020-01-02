@@ -1,5 +1,5 @@
 # cvar_getf
-```js	
+```js
 float cvar_getf(string_1)
 ```
 # Class

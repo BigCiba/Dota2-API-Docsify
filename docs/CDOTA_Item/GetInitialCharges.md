@@ -1,5 +1,5 @@
 # GetInitialCharges
-```js	
+```js
 int GetInitialCharges()
 ```
 # Class

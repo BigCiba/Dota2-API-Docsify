@@ -1,5 +1,5 @@
 # RecordLastHit
-```js	
+```js
 void RecordLastHit()
 ```
 # Class

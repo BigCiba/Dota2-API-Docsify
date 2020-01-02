@@ -1,5 +1,5 @@
 # GetModelName
-```js	
+```js
 string GetModelName()
 ```
 # Class

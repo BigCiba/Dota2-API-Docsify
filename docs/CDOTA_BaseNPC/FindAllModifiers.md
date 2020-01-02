@@ -1,5 +1,5 @@
 # FindAllModifiers
-```js	
+```js
 table FindAllModifiers()
 ```
 # Class

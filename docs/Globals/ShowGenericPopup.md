@@ -1,5 +1,5 @@
 # ShowGenericPopup
-```js	
+```js
 void ShowGenericPopup(string_1, string_2, string_3, string_4, int_5)
 ```
 # Class

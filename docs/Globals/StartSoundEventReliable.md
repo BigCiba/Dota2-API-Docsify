@@ -1,5 +1,5 @@
 # StartSoundEventReliable
-```js	
+```js
 void StartSoundEventReliable(string_1, handle_2)
 ```
 # Class

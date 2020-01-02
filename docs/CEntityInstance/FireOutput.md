@@ -1,5 +1,5 @@
 # FireOutput
-```js	
+```js
 void FireOutput(string_1, handle_2, handle_3, table_4, float_5)
 ```
 # Class

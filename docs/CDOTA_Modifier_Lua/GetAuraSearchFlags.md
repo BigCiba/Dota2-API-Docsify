@@ -1,5 +1,5 @@
 # GetAuraSearchFlags
-```js	
+```js
 int GetAuraSearchFlags()
 ```
 # Class

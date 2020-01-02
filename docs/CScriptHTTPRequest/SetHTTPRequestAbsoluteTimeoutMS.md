@@ -1,5 +1,5 @@
 # SetHTTPRequestAbsoluteTimeoutMS
-```js	
+```js
 bool SetHTTPRequestAbsoluteTimeoutMS(unsigned_1)
 ```
 # Class

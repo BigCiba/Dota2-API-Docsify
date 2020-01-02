@@ -1,5 +1,5 @@
 # SetFountainPercentageManaRegen
-```js	
+```js
 void SetFountainPercentageManaRegen(flPercentageManaRegen)
 ```
 # Class

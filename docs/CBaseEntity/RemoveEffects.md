@@ -1,5 +1,5 @@
 # RemoveEffects
-```js	
+```js
 void RemoveEffects(nFlags)
 ```
 # Class

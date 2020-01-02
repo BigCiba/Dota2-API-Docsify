@@ -1,5 +1,5 @@
 # SetFogOfWarDisabled
-```js	
+```js
 void SetFogOfWarDisabled(bDisabled)
 ```
 # Class

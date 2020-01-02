@@ -1,5 +1,5 @@
 # IsRangedAttacker
-```js	
+```js
 bool IsRangedAttacker()
 ```
 # Class

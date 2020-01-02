@@ -1,5 +1,5 @@
 # CommandLineInt
-```js	
+```js
 table CommandLineInt(string_1, int_2)
 ```
 # Class

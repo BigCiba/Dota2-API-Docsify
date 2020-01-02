@@ -1,5 +1,5 @@
 # GetEventPremiumPoints
-```js	
+```js
 unsigned GetEventPremiumPoints(nPlayerID)
 ```
 # Class

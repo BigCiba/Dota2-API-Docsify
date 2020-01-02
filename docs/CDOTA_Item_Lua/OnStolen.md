@@ -1,5 +1,5 @@
 # OnStolen
-```js	
+```js
 void OnStolen(hSourceAbility)
 ```
 # Class

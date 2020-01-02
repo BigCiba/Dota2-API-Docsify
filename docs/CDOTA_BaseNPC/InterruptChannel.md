@@ -1,5 +1,5 @@
 # InterruptChannel
-```js	
+```js
 void InterruptChannel()
 ```
 # Class

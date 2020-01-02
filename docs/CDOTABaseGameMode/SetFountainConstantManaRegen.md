@@ -1,5 +1,5 @@
 # SetFountainConstantManaRegen
-```js	
+```js
 void SetFountainConstantManaRegen(flConstantManaRegen)
 ```
 # Class

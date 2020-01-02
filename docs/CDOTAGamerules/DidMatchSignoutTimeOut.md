@@ -1,5 +1,5 @@
 # DidMatchSignoutTimeOut
-```js	
+```js
 bool DidMatchSignoutTimeOut()
 ```
 # Class

@@ -1,5 +1,5 @@
 # TakeItem
-```js	
+```js
 handle TakeItem(hItem)
 ```
 # Class

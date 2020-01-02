@@ -1,5 +1,5 @@
 # AddGoldSpentOnSupport
-```js	
+```js
 void AddGoldSpentOnSupport(iPlayerID, iCost)
 ```
 # Class

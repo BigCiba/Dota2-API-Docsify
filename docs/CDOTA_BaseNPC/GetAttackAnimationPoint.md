@@ -1,5 +1,5 @@
 # GetAttackAnimationPoint
-```js	
+```js
 float GetAttackAnimationPoint()
 ```
 # Class

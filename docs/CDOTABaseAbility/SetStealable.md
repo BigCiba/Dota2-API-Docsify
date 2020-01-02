@@ -1,5 +1,5 @@
 # SetStealable
-```js	
+```js
 void SetStealable(bStealable)
 ```
 # Class

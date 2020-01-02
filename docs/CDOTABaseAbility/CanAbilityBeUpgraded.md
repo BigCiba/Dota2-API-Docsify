@@ -1,5 +1,5 @@
 # CanAbilityBeUpgraded
-```js	
+```js
 <unknown> CanAbilityBeUpgraded()
 ```
 # Class

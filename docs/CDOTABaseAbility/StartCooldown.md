@@ -1,5 +1,5 @@
 # StartCooldown
-```js	
+```js
 void StartCooldown(flCooldown)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetContext
-```js	
+```js
 table GetContext(name)
 ```
 # Class

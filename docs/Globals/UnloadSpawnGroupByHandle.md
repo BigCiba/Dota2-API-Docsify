@@ -1,5 +1,5 @@
 # UnloadSpawnGroupByHandle
-```js	
+```js
 void UnloadSpawnGroupByHandle(int_1)
 ```
 # Class

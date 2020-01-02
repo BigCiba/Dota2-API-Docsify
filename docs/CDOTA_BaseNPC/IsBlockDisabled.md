@@ -1,5 +1,5 @@
 # IsBlockDisabled
-```js	
+```js
 bool IsBlockDisabled()
 ```
 # Class

@@ -1,5 +1,5 @@
 # ClearTeamCustomHealthbarColor
-```js	
+```js
 void ClearTeamCustomHealthbarColor(int_1)
 ```
 # Class

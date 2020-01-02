@@ -1,5 +1,5 @@
 # GetDuration
-```js	
+```js
 float GetDuration()
 ```
 # Class

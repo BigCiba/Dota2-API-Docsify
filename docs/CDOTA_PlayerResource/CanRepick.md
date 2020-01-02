@@ -1,5 +1,5 @@
 # CanRepick
-```js	
+```js
 bool CanRepick(iPlayerID)
 ```
 # Class

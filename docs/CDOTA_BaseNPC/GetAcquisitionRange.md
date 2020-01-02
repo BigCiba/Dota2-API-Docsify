@@ -1,5 +1,5 @@
 # GetAcquisitionRange
-```js	
+```js
 float GetAcquisitionRange()
 ```
 # Class

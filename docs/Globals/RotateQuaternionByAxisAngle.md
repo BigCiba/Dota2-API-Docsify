@@ -1,5 +1,5 @@
 # RotateQuaternionByAxisAngle
-```js	
+```js
 Quaternion RotateQuaternionByAxisAngle(Quaternion_1, Vector_2, float_3)
 ```
 # Class

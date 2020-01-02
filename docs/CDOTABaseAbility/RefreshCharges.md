@@ -1,5 +1,5 @@
 # RefreshCharges
-```js	
+```js
 void RefreshCharges()
 ```
 # Class

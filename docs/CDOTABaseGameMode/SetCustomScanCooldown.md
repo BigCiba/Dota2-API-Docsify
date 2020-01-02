@@ -1,5 +1,5 @@
 # SetCustomScanCooldown
-```js	
+```js
 void SetCustomScanCooldown(flCooldown)
 ```
 # Class

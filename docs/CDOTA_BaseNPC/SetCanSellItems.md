@@ -1,5 +1,5 @@
 # SetCanSellItems
-```js	
+```js
 void SetCanSellItems(bCanSell)
 ```
 # Class

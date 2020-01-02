@@ -1,5 +1,5 @@
 # PushAndClearDebugOverlayScope
-```js	
+```js
 void PushAndClearDebugOverlayScope(utlstringtoken_1)
 ```
 # Class

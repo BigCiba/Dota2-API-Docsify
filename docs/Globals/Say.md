@@ -1,5 +1,5 @@
 # Say
-```js	
+```js
 void Say(handle_1, string_2, bool_3)
 ```
 # Class

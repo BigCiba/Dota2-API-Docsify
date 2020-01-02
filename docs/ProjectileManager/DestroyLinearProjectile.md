@@ -1,5 +1,5 @@
 # DestroyLinearProjectile
-```js	
+```js
 void DestroyLinearProjectile(int_1)
 ```
 # Class

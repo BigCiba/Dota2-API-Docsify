@@ -1,5 +1,5 @@
 # entindex
-```js	
+```js
 int entindex()
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetModifierStackCount
-```js	
+```js
 int GetModifierStackCount(pszScriptName, hCaster)
 ```
 # Class

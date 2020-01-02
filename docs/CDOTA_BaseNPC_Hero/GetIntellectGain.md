@@ -1,5 +1,5 @@
 # GetIntellectGain
-```js	
+```js
 float GetIntellectGain()
 ```
 # Class

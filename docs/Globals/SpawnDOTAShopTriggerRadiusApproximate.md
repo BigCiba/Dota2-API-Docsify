@@ -1,5 +1,5 @@
 # SpawnDOTAShopTriggerRadiusApproximate
-```js	
+```js
 handle SpawnDOTAShopTriggerRadiusApproximate(Vector_1, float_2)
 ```
 # Class

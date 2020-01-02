@@ -1,5 +1,5 @@
 # GetOrCreatePrivateScriptScope
-```js	
+```js
 handle GetOrCreatePrivateScriptScope()
 ```
 # Class

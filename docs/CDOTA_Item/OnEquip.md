@@ -1,5 +1,5 @@
 # OnEquip
-```js	
+```js
 void OnEquip()
 ```
 # Class

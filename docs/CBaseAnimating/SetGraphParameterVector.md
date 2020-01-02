@@ -1,5 +1,5 @@
 # SetGraphParameterVector
-```js	
+```js
 void SetGraphParameterVector(szName, vValue)
 ```
 # Class

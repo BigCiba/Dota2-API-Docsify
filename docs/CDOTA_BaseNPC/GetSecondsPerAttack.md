@@ -1,5 +1,5 @@
 # GetSecondsPerAttack
-```js	
+```js
 float GetSecondsPerAttack()
 ```
 # Class

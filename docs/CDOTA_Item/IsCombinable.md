@@ -1,5 +1,5 @@
 # IsCombinable
-```js	
+```js
 bool IsCombinable()
 ```
 # Class

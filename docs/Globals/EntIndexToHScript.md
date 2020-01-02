@@ -1,5 +1,5 @@
 # EntIndexToHScript
-```js	
+```js
 handle EntIndexToHScript(int_1)
 ```
 # Class

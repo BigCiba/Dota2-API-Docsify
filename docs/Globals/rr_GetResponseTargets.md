@@ -1,5 +1,5 @@
 # rr_GetResponseTargets
-```js	
+```js
 handle rr_GetResponseTargets()
 ```
 # Class

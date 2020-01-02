@@ -1,5 +1,5 @@
 # IsUntargetable
-```js	
+```js
 bool IsUntargetable()
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetPurchaser
-```js	
+```js
 handle GetPurchaser()
 ```
 # Class

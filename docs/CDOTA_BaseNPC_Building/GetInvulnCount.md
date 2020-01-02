@@ -1,5 +1,5 @@
 # GetInvulnCount
-```js	
+```js
 int GetInvulnCount()
 ```
 # Class

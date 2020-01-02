@@ -1,5 +1,5 @@
 # MakeStringToken
-```js	
+```js
 int MakeStringToken(string_1)
 ```
 # Class

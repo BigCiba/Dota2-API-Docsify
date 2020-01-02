@@ -1,5 +1,5 @@
 # SendCustomMessage
-```js	
+```js
 void SendCustomMessage(string_1, int_2, int_3)
 ```
 # Class

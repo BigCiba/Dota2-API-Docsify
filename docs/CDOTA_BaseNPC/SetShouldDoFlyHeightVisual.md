@@ -1,5 +1,5 @@
 # SetShouldDoFlyHeightVisual
-```js	
+```js
 void SetShouldDoFlyHeightVisual(bShouldVisuallyFly)
 ```
 # Class

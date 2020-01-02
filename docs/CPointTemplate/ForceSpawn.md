@@ -1,5 +1,5 @@
 # ForceSpawn
-```js	
+```js
 void ForceSpawn()
 ```
 # Class

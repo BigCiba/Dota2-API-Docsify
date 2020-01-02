@@ -1,5 +1,5 @@
 # SetAttackCapability
-```js	
+```js
 void SetAttackCapability(iAttackCapabilities)
 ```
 # Class

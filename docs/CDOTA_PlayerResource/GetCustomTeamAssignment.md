@@ -1,5 +1,5 @@
 # GetCustomTeamAssignment
-```js	
+```js
 int GetCustomTeamAssignment(iPlayerID)
 ```
 # Class

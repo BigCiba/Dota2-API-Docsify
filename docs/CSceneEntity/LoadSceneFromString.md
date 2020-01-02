@@ -1,5 +1,5 @@
 # LoadSceneFromString
-```js	
+```js
 bool LoadSceneFromString(string_1, string_2)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GiveMana
-```js	
+```js
 void GiveMana(flMana)
 ```
 # Class

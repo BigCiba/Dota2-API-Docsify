@@ -1,5 +1,5 @@
 # GetUnitShareMaskForPlayer
-```js	
+```js
 int GetUnitShareMaskForPlayer(nPlayerID, nOtherPlayerID)
 ```
 # Class

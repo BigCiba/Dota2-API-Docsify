@@ -1,5 +1,5 @@
 # GatherCriteria
-```js	
+```js
 void GatherCriteria(hResult)
 ```
 # Class

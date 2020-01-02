@@ -1,5 +1,5 @@
 # GetValue
-```js	
+```js
 table GetValue(string_1)
 ```
 # Class

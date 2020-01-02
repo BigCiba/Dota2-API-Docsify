@@ -1,5 +1,5 @@
 # GetCommandClient
-```js	
+```js
 handle GetCommandClient()
 ```
 # Class

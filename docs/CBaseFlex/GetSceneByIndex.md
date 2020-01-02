@@ -1,5 +1,5 @@
 # GetSceneByIndex
-```js	
+```js
 handle GetSceneByIndex(index)
 ```
 # Class

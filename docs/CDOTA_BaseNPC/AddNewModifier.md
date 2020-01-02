@@ -1,5 +1,5 @@
 # AddNewModifier
-```js	
+```js
 handle AddNewModifier(hCaster, hAbility, pszScriptName, hModifierTable)
 ```
 # Class

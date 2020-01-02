@@ -1,5 +1,5 @@
 # GetPlayerOwnerID
-```js	
+```js
 int GetPlayerOwnerID()
 ```
 # Class

@@ -1,5 +1,5 @@
 # EnableCreepAggroViz
-```js	
+```js
 void EnableCreepAggroViz(bool_1)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetHeroRespawnEnabled
-```js	
+```js
 void SetHeroRespawnEnabled(bool_1)
 ```
 # Class

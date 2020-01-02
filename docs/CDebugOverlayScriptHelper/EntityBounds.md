@@ -1,5 +1,5 @@
 # EntityBounds
-```js	
+```js
 void EntityBounds(ehandle_1, int_2, int_3, int_4, int_5, bool_6, float_7)
 ```
 # Class

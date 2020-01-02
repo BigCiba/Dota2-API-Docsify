@@ -1,5 +1,5 @@
 # IgnoreUserInput
-```js	
+```js
 void IgnoreUserInput()
 ```
 # Class

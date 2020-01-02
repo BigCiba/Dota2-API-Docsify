@@ -1,5 +1,5 @@
 # RemoveAllInScope
-```js	
+```js
 void RemoveAllInScope(utlstringtoken_1)
 ```
 # Class

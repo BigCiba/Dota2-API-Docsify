@@ -1,5 +1,5 @@
 # SetAdditionalBattleMusicWeight
-```js	
+```js
 void SetAdditionalBattleMusicWeight(flWeight)
 ```
 # Class

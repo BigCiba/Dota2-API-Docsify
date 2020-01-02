@@ -1,5 +1,5 @@
 # HasOwnerAbandoned
-```js	
+```js
 bool HasOwnerAbandoned()
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetAssignedHeroEntity
-```js	
+```js
 void SetAssignedHeroEntity(hHero)
 ```
 # Class

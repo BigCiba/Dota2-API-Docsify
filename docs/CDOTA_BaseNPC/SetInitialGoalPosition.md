@@ -1,5 +1,5 @@
 # SetInitialGoalPosition
-```js	
+```js
 void SetInitialGoalPosition(vPosition)
 ```
 # Class

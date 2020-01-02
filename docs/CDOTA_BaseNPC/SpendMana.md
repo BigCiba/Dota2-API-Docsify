@@ -1,5 +1,5 @@
 # SpendMana
-```js	
+```js
 void SpendMana(flManaSpent, hAbility)
 ```
 # Class

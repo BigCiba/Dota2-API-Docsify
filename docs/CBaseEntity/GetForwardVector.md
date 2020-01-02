@@ -1,5 +1,5 @@
 # GetForwardVector
-```js	
+```js
 Vector GetForwardVector()
 ```
 # Class

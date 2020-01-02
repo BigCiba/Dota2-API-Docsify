@@ -1,5 +1,5 @@
 # DisconnectRedirectedOutput
-```js	
+```js
 void DisconnectRedirectedOutput(string_1, string_2, handle_3)
 ```
 # Class

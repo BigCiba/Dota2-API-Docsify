@@ -1,5 +1,5 @@
 # RandomVector
-```js	
+```js
 Vector RandomVector(float_1)
 ```
 # Class

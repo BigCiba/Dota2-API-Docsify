@@ -1,5 +1,5 @@
 # SetDeathXP
-```js	
+```js
 void SetDeathXP(iXPBounty)
 ```
 # Class

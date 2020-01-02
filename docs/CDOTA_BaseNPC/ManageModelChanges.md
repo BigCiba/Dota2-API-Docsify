@@ -1,5 +1,5 @@
 # ManageModelChanges
-```js	
+```js
 void ManageModelChanges()
 ```
 # Class

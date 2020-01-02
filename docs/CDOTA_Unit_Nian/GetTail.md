@@ -1,5 +1,5 @@
 # GetTail
-```js	
+```js
 handle GetTail()
 ```
 # Class

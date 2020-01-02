@@ -1,5 +1,5 @@
 # GetEntityHandle
-```js	
+```js
 ehandle GetEntityHandle()
 ```
 # Class

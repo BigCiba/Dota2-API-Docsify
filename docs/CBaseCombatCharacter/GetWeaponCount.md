@@ -1,5 +1,5 @@
 # GetWeaponCount
-```js	
+```js
 int GetWeaponCount()
 ```
 # Class

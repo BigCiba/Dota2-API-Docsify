@@ -1,5 +1,5 @@
 # SetTutorialUI
-```js	
+```js
 void SetTutorialUI(int_1)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetEffectAttachType
-```js	
+```js
 int GetEffectAttachType()
 ```
 # Class

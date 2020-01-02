@@ -1,5 +1,5 @@
 # GetModifierCount
-```js	
+```js
 int GetModifierCount()
 ```
 # Class

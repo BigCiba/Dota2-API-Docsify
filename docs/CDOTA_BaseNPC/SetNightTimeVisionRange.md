@@ -1,5 +1,5 @@
 # SetNightTimeVisionRange
-```js	
+```js
 void SetNightTimeVisionRange(iRange)
 ```
 # Class

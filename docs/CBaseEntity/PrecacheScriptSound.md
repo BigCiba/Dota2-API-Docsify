@@ -1,5 +1,5 @@
 # PrecacheScriptSound
-```js	
+```js
 void PrecacheScriptSound(soundname)
 ```
 # Class

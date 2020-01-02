@@ -1,5 +1,5 @@
 # SpawnEntity
-```js	
+```js
 void SpawnEntity()
 ```
 # Class

@@ -1,5 +1,5 @@
 # AllowIllusionDuplicate
-```js	
+```js
 bool AllowIllusionDuplicate()
 ```
 # Class

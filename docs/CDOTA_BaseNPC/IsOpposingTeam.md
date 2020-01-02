@@ -1,5 +1,5 @@
 # IsOpposingTeam
-```js	
+```js
 bool IsOpposingTeam(nTeam)
 ```
 # Class

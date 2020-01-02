@@ -1,5 +1,5 @@
 # StartVote
-```js	
+```js
 void StartVote(handle_1)
 ```
 # Class

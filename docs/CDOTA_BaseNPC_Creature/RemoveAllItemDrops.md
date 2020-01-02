@@ -1,5 +1,5 @@
 # RemoveAllItemDrops
-```js	
+```js
 void RemoveAllItemDrops()
 ```
 # Class

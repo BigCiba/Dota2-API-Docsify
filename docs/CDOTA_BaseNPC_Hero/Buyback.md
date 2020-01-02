@@ -1,5 +1,5 @@
 # Buyback
-```js	
+```js
 void Buyback()
 ```
 # Class

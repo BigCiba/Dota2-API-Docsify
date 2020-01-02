@@ -1,5 +1,5 @@
 # RemoveNoDraw
-```js	
+```js
 void RemoveNoDraw()
 ```
 # Class

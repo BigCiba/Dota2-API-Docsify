@@ -1,5 +1,5 @@
 # SetCameraDistanceOverride
-```js	
+```js
 void SetCameraDistanceOverride(flCameraDistanceOverride)
 ```
 # Class

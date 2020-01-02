@@ -1,5 +1,5 @@
 # SetDraftingBanningTimeOverride
-```js	
+```js
 void SetDraftingBanningTimeOverride(flValue)
 ```
 # Class

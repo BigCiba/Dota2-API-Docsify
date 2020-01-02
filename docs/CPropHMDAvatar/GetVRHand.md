@@ -1,5 +1,5 @@
 # GetVRHand
-```js	
+```js
 handle GetVRHand(nHandID)
 ```
 # Class

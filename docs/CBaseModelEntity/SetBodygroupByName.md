@@ -1,5 +1,5 @@
 # SetBodygroupByName
-```js	
+```js
 void SetBodygroupByName(pName, iValue)
 ```
 # Class

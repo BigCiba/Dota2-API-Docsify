@@ -1,5 +1,5 @@
 # ResetDefeated
-```js	
+```js
 void ResetDefeated()
 ```
 # Class

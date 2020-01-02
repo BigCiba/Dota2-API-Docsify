@@ -1,5 +1,5 @@
 # GetTeam
-```js	
+```js
 int GetTeam()
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetAbilityCount
-```js	
+```js
 int GetAbilityCount()
 ```
 # Class

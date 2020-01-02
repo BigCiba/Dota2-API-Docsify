@@ -1,5 +1,5 @@
 # SetPriority
-```js	
+```js
 void SetPriority(nMotionPriority)
 ```
 # Class

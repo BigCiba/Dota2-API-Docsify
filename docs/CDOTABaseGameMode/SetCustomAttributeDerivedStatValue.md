@@ -1,5 +1,5 @@
 # SetCustomAttributeDerivedStatValue
-```js	
+```js
 void SetCustomAttributeDerivedStatValue(nStatType, flNewValue)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetRenderingEnabled
-```js	
+```js
 void SetRenderingEnabled(ehandle_1, bool_2)
 ```
 # Class

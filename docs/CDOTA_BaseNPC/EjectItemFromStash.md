@@ -1,5 +1,5 @@
 # EjectItemFromStash
-```js	
+```js
 void EjectItemFromStash(hItem)
 ```
 # Class

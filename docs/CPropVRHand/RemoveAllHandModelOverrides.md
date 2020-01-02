@@ -1,5 +1,5 @@
 # RemoveAllHandModelOverrides
-```js	
+```js
 void RemoveAllHandModelOverrides()
 ```
 # Class

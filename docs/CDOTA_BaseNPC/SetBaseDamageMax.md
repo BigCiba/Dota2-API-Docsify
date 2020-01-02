@@ -1,5 +1,5 @@
 # SetBaseDamageMax
-```js	
+```js
 void SetBaseDamageMax(nMax)
 ```
 # Class

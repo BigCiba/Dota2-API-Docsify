@@ -1,5 +1,5 @@
 # SetTextReplaceValue
-```js	
+```js
 void SetTextReplaceValue(valueSlot, value)
 ```
 # Class

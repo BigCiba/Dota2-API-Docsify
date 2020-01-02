@@ -1,5 +1,5 @@
 # ListenForQueryFailed
-```js	
+```js
 void ListenForQueryFailed(hFunction, hContext)
 ```
 # Class

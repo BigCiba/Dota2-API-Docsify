@@ -1,5 +1,5 @@
 # FirstMoveChild
-```js	
+```js
 handle FirstMoveChild()
 ```
 # Class

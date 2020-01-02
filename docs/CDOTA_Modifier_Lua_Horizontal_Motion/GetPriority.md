@@ -1,5 +1,5 @@
 # GetPriority
-```js	
+```js
 int GetPriority()
 ```
 # Class

@@ -1,5 +1,5 @@
 # State_Get
-```js	
+```js
 int State_Get()
 ```
 # Class

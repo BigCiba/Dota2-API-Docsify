@@ -1,5 +1,5 @@
 # GetBroadcasterChannel
-```js	
+```js
 unsigned GetBroadcasterChannel(iPlayerID)
 ```
 # Class

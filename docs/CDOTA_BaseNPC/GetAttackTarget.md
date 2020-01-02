@@ -1,5 +1,5 @@
 # GetAttackTarget
-```js	
+```js
 handle GetAttackTarget()
 ```
 # Class

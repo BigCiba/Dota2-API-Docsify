@@ -1,5 +1,5 @@
 # Heal
-```js	
+```js
 void Heal(flAmount, hInflictor)
 ```
 # Class

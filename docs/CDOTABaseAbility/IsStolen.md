@@ -1,5 +1,5 @@
 # IsStolen
-```js	
+```js
 bool IsStolen()
 ```
 # Class

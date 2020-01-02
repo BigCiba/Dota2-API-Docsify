@@ -1,5 +1,5 @@
 # EndCooldown
-```js	
+```js
 void EndCooldown()
 ```
 # Class

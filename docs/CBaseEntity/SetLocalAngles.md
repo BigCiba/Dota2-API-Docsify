@@ -1,5 +1,5 @@
 # SetLocalAngles
-```js	
+```js
 void SetLocalAngles(fPitch, fYaw, fRoll)
 ```
 # Class

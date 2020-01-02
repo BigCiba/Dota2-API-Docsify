@@ -1,5 +1,5 @@
 # SetAlwaysShowPlayerNames
-```js	
+```js
 void SetAlwaysShowPlayerNames(bEnabled)
 ```
 # Class

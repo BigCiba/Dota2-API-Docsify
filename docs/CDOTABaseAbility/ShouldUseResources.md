@@ -1,5 +1,5 @@
 # ShouldUseResources
-```js	
+```js
 bool ShouldUseResources()
 ```
 # Class

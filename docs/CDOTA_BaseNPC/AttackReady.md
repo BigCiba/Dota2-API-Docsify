@@ -1,5 +1,5 @@
 # AttackReady
-```js	
+```js
 bool AttackReady()
 ```
 # Class

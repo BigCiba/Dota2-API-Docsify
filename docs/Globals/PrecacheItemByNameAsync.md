@@ -1,5 +1,5 @@
 # PrecacheItemByNameAsync
-```js	
+```js
 void PrecacheItemByNameAsync(string_1, handle_2)
 ```
 # Class

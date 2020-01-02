@@ -1,5 +1,5 @@
 # GetModifierNameByIndex
-```js	
+```js
 string GetModifierNameByIndex(nIndex)
 ```
 # Class

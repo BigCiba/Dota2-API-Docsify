@@ -1,5 +1,5 @@
 # ListenForQueryProgressChanged
-```js	
+```js
 void ListenForQueryProgressChanged(hFunction, hContext)
 ```
 # Class

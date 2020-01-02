@@ -1,5 +1,5 @@
 # HaveAllPlayersJoined
-```js	
+```js
 bool HaveAllPlayersJoined()
 ```
 # Class

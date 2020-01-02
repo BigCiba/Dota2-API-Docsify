@@ -1,5 +1,5 @@
 # SetQuadraticAttenuation
-```js	
+```js
 void SetQuadraticAttenuation(flAtten)
 ```
 # Class

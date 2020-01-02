@@ -1,5 +1,5 @@
 # HeroEffectPriority
-```js	
+```js
 int HeroEffectPriority()
 ```
 # Class

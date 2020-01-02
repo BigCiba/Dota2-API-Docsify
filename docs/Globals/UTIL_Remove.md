@@ -1,5 +1,5 @@
 # UTIL_Remove
-```js	
+```js
 void UTIL_Remove(handle_1)
 ```
 # Class

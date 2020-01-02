@@ -1,5 +1,5 @@
 # GetClaimedDenies
-```js	
+```js
 int GetClaimedDenies(iPlayerID)
 ```
 # Class

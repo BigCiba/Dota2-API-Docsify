@@ -1,5 +1,5 @@
 # GetLocalAngles
-```js	
+```js
 QAngle GetLocalAngles()
 ```
 # Class

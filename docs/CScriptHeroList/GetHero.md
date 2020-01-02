@@ -1,5 +1,5 @@
 # GetHero
-```js	
+```js
 handle GetHero(int_1)
 ```
 # Class

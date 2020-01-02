@@ -1,5 +1,5 @@
 # GetNumItemsPurchased
-```js	
+```js
 int GetNumItemsPurchased(iPlayerID)
 ```
 # Class

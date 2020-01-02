@@ -1,5 +1,5 @@
 # AddBroadcastTeamTarget
-```js	
+```js
 void AddBroadcastTeamTarget(int_1)
 ```
 # Class

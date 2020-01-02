@@ -1,5 +1,5 @@
 # GetNetWorth
-```js	
+```js
 int GetNetWorth(iPlayerID)
 ```
 # Class

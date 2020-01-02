@@ -1,5 +1,5 @@
 # GetPublicScriptScope
-```js	
+```js
 handle GetPublicScriptScope()
 ```
 # Class

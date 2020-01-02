@@ -1,5 +1,5 @@
 # ShowMessage
-```js	
+```js
 void ShowMessage(string_1)
 ```
 # Class

@@ -1,5 +1,5 @@
 # ShowGenericPopupToPlayer
-```js	
+```js
 void ShowGenericPopupToPlayer(handle_1, string_2, string_3, string_4, string_5, int_6)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetKillingSpreeAnnouncerDisabled
-```js	
+```js
 void SetKillingSpreeAnnouncerDisabled(bDisabled)
 ```
 # Class

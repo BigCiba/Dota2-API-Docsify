@@ -1,5 +1,5 @@
 # NextMovePeer
-```js	
+```js
 handle NextMovePeer()
 ```
 # Class

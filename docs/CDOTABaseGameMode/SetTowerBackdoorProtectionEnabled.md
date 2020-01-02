@@ -1,5 +1,5 @@
 # SetTowerBackdoorProtectionEnabled
-```js	
+```js
 void SetTowerBackdoorProtectionEnabled(bEnabled)
 ```
 # Class

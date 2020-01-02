@@ -1,5 +1,5 @@
 # IsAlive
-```js	
+```js
 bool IsAlive()
 ```
 # Class

@@ -1,5 +1,5 @@
 # LocalTime
-```js	
+```js
 table LocalTime()
 ```
 # Class

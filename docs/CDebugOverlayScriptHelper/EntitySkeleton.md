@@ -1,5 +1,5 @@
 # EntitySkeleton
-```js	
+```js
 void EntitySkeleton(ehandle_1, float_2)
 ```
 # Class

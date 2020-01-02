@@ -1,5 +1,5 @@
 # RegisterCommand
-```js	
+```js
 void RegisterCommand(string_1, handle_2, string_3, int_4)
 ```
 # Class

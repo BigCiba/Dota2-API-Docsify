@@ -1,5 +1,5 @@
 # SetRuneEnabled
-```js	
+```js
 void SetRuneEnabled(nRune, bEnabled)
 ```
 # Class

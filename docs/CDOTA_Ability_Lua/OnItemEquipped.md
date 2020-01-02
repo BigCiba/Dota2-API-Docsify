@@ -1,5 +1,5 @@
 # OnItemEquipped
-```js	
+```js
 void OnItemEquipped(hItem)
 ```
 # Class

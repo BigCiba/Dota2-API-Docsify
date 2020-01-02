@@ -1,5 +1,5 @@
 # ContinueCasting
-```js	
+```js
 bool ContinueCasting()
 ```
 # Class

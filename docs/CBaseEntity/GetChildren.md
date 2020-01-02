@@ -1,5 +1,5 @@
 # GetChildren
-```js	
+```js
 handle GetChildren()
 ```
 # Class

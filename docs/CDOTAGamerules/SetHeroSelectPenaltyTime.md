@@ -1,5 +1,5 @@
 # SetHeroSelectPenaltyTime
-```js	
+```js
 void SetHeroSelectPenaltyTime(float_1)
 ```
 # Class

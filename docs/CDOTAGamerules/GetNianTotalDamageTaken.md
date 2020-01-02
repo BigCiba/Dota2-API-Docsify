@@ -1,5 +1,5 @@
 # GetNianTotalDamageTaken
-```js	
+```js
 int GetNianTotalDamageTaken()
 ```
 # Class

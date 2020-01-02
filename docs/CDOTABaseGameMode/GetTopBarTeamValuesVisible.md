@@ -1,5 +1,5 @@
 # GetTopBarTeamValuesVisible
-```js	
+```js
 bool GetTopBarTeamValuesVisible()
 ```
 # Class

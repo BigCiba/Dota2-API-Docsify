@@ -1,5 +1,5 @@
 # GetLevelSpecialValueFor
-```js	
+```js
 table GetLevelSpecialValueFor(szName, nLevel)
 ```
 # Class

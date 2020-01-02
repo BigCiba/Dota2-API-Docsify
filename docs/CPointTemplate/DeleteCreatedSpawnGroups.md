@@ -1,5 +1,5 @@
 # DeleteCreatedSpawnGroups
-```js	
+```js
 void DeleteCreatedSpawnGroups()
 ```
 # Class

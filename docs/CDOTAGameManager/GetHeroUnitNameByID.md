@@ -1,5 +1,5 @@
 # GetHeroUnitNameByID
-```js	
+```js
 string GetHeroUnitNameByID(int_1)
 ```
 # Class

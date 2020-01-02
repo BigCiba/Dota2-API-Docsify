@@ -1,5 +1,5 @@
 # ClearModifyGoldFilter
-```js	
+```js
 void ClearModifyGoldFilter()
 ```
 # Class

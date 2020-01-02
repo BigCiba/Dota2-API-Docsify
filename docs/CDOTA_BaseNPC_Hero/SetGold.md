@@ -1,5 +1,5 @@
 # SetGold
-```js	
+```js
 void SetGold(iGold, bReliable)
 ```
 # Class

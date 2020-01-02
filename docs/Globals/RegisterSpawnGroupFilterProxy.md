@@ -1,5 +1,5 @@
 # RegisterSpawnGroupFilterProxy
-```js	
+```js
 void RegisterSpawnGroupFilterProxy(string_1)
 ```
 # Class

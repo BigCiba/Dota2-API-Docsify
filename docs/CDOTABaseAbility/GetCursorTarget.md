@@ -1,5 +1,5 @@
 # GetCursorTarget
-```js	
+```js
 handle GetCursorTarget()
 ```
 # Class

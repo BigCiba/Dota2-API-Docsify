@@ -1,5 +1,5 @@
 # GetRespawnTimeScale
-```js	
+```js
 float GetRespawnTimeScale()
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetNumItemsInInventory
-```js	
+```js
 int GetNumItemsInInventory()
 ```
 # Class

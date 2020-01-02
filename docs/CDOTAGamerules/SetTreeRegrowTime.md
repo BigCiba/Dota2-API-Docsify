@@ -1,5 +1,5 @@
 # SetTreeRegrowTime
-```js	
+```js
 void SetTreeRegrowTime(float_1)
 ```
 # Class

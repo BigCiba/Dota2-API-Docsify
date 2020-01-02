@@ -1,5 +1,5 @@
 # SetWeatherEffectsDisabled
-```js	
+```js
 void SetWeatherEffectsDisabled(bDisable)
 ```
 # Class

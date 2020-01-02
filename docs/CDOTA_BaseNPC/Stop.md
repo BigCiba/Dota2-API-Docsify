@@ -1,5 +1,5 @@
 # Stop
-```js	
+```js
 void Stop()
 ```
 # Class

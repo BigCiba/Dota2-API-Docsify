@@ -1,5 +1,5 @@
 # SetAttacking
-```js	
+```js
 void SetAttacking(hAttackTarget)
 ```
 # Class

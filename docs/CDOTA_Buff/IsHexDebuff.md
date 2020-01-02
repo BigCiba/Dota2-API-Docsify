@@ -1,5 +1,5 @@
 # IsHexDebuff
-```js	
+```js
 bool IsHexDebuff()
 ```
 # Class

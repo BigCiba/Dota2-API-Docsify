@@ -1,5 +1,5 @@
 # SetRequiresReachingEndPath
-```js	
+```js
 void SetRequiresReachingEndPath(bRequiresReachingEndPath)
 ```
 # Class

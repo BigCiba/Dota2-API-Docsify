@@ -1,5 +1,5 @@
 # IsHiddenAsSecondaryAbility
-```js	
+```js
 bool IsHiddenAsSecondaryAbility()
 ```
 # Class

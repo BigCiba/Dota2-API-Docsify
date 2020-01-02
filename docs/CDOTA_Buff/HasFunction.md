@@ -1,5 +1,5 @@
 # HasFunction
-```js	
+```js
 bool HasFunction(iFunction)
 ```
 # Class

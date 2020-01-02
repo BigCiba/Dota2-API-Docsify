@@ -1,5 +1,5 @@
 # GetStreak
-```js	
+```js
 int GetStreak(iPlayerID)
 ```
 # Class

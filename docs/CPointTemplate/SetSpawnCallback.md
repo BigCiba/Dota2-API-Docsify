@@ -1,5 +1,5 @@
 # SetSpawnCallback
-```js	
+```js
 void SetSpawnCallback(hCallbackFunc, hCallbackScope)
 ```
 # Class

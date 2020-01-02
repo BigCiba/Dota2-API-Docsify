@@ -1,5 +1,5 @@
 # ApplyLocalAngularVelocityImpulse
-```js	
+```js
 void ApplyLocalAngularVelocityImpulse(angImpulse)
 ```
 # Class

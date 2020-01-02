@@ -1,5 +1,5 @@
 # SetGraphParameterBool
-```js	
+```js
 void SetGraphParameterBool(szName, bValue)
 ```
 # Class

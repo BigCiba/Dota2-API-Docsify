@@ -1,5 +1,5 @@
 # NumDroppedItems
-```js	
+```js
 int NumDroppedItems()
 ```
 # Class

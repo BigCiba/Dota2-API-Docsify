@@ -1,5 +1,5 @@
 # DebugDrawLine_vCol
-```js	
+```js
 void DebugDrawLine_vCol(Vector_1, Vector_2, Vector_3, bool_4, float_5)
 ```
 # Class

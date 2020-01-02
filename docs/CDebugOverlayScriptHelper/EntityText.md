@@ -1,5 +1,5 @@
 # EntityText
-```js	
+```js
 void EntityText(ehandle_1, int_2, string_3, int_4, int_5, int_6, int_7, float_8)
 ```
 # Class

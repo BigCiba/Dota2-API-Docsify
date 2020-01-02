@@ -1,5 +1,5 @@
 # ForceGameStart
-```js	
+```js
 void ForceGameStart()
 ```
 # Class

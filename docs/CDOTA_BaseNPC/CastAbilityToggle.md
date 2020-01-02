@@ -1,5 +1,5 @@
 # CastAbilityToggle
-```js	
+```js
 void CastAbilityToggle(hAbility, iPlayerIndex)
 ```
 # Class

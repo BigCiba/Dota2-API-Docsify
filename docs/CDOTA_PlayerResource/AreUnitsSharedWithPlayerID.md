@@ -1,5 +1,5 @@
 # AreUnitsSharedWithPlayerID
-```js	
+```js
 bool AreUnitsSharedWithPlayerID(nUnitOwnerPlayerID, nOtherPlayerID)
 ```
 # Class

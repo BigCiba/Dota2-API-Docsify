@@ -1,5 +1,5 @@
 # GetGoldCost
-```js	
+```js
 int GetGoldCost(iLevel)
 ```
 # Class

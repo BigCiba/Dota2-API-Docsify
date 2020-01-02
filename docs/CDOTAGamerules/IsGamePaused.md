@@ -1,5 +1,5 @@
 # IsGamePaused
-```js	
+```js
 bool IsGamePaused()
 ```
 # Class

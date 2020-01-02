@@ -1,5 +1,5 @@
 # GetAutoCastState
-```js	
+```js
 bool GetAutoCastState()
 ```
 # Class

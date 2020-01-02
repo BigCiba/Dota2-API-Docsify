@@ -1,5 +1,5 @@
 # SplineVectors
-```js	
+```js
 Vector SplineVectors(Vector_1, Vector_2, float_3)
 ```
 # Class

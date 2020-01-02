@@ -1,5 +1,5 @@
 # FindClearRandomPositionAroundUnit
-```js	
+```js
 bool FindClearRandomPositionAroundUnit(handle_1, handle_2, int_3)
 ```
 # Class

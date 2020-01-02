@@ -1,5 +1,5 @@
 # CreateEffect
-```js	
+```js
 bool CreateEffect(handle_1)
 ```
 # Class

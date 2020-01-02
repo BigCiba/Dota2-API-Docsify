@@ -1,5 +1,5 @@
 # SpeakAbilityConcept
-```js	
+```js
 void SpeakAbilityConcept(iConcept)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetParent
-```js	
+```js
 void SetParent(hParent, pAttachmentname)
 ```
 # Class

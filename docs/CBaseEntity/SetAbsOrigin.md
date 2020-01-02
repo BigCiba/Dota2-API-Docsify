@@ -1,5 +1,5 @@
 # SetAbsOrigin
-```js	
+```js
 void SetAbsOrigin(origin)
 ```
 # Class

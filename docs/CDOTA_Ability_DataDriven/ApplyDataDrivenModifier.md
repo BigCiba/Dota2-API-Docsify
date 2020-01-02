@@ -1,5 +1,5 @@
 # ApplyDataDrivenModifier
-```js	
+```js
 handle ApplyDataDrivenModifier(hCaster, hTarget, pszModifierName, hModifierTable)
 ```
 # Class

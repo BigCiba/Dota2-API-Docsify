@@ -1,5 +1,5 @@
 # SetSafeToLeave
-```js	
+```js
 void SetSafeToLeave(bool_1)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetStolenScepter
-```js	
+```js
 void SetStolenScepter(bStolenScepter)
 ```
 # Class

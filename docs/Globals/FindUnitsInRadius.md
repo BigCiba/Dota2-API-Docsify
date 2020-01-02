@@ -1,5 +1,5 @@
 # FindUnitsInRadius
-```js	
+```js
 table FindUnitsInRadius(int_1, Vector_2, handle_3, float_4, int_5, int_6, int_7, int_8, bool_9)
 ```
 # Class

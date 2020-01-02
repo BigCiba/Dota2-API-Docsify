@@ -1,5 +1,5 @@
 # EmitSoundOnClient
-```js	
+```js
 void EmitSoundOnClient(string_1, handle_2)
 ```
 # Class

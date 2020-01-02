@@ -1,5 +1,5 @@
 # DebugDrawScreenTextLine
-```js	
+```js
 void DebugDrawScreenTextLine(float_1, float_2, int_3, string_4, int_5, int_6, int_7, int_8, float_9)
 ```
 # Class

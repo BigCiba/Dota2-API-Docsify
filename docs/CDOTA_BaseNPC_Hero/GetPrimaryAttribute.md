@@ -1,5 +1,5 @@
 # GetPrimaryAttribute
-```js	
+```js
 int GetPrimaryAttribute()
 ```
 # Class

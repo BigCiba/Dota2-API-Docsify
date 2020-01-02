@@ -1,5 +1,5 @@
 # ToggleAutoCast
-```js	
+```js
 void ToggleAutoCast()
 ```
 # Class

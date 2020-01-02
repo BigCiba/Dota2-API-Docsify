@@ -1,5 +1,5 @@
 # GetFaction
-```js	
+```js
 int GetFaction()
 ```
 # Class

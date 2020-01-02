@@ -1,5 +1,5 @@
 # IsBoss
-```js	
+```js
 bool IsBoss()
 ```
 # Class

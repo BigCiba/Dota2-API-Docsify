@@ -1,5 +1,5 @@
 # UTIL_MessageTextAll
-```js	
+```js
 void UTIL_MessageTextAll(string_1, int_2, int_3, int_4, int_5)
 ```
 # Class

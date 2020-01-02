@@ -1,5 +1,5 @@
 # IsAncient
-```js	
+```js
 bool IsAncient()
 ```
 # Class

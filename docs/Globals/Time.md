@@ -1,5 +1,5 @@
 # Time
-```js	
+```js
 float Time()
 ```
 # Class

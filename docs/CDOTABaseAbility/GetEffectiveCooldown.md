@@ -1,5 +1,5 @@
 # GetEffectiveCooldown
-```js	
+```js
 float GetEffectiveCooldown(iLevel)
 ```
 # Class

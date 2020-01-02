@@ -1,5 +1,5 @@
 # SetModifierGainedFilter
-```js	
+```js
 void SetModifierGainedFilter(hFunction, hContext)
 ```
 # Class

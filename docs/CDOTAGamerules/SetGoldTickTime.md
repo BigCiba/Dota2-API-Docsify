@@ -1,5 +1,5 @@
 # SetGoldTickTime
-```js	
+```js
 void SetGoldTickTime(float_1)
 ```
 # Class

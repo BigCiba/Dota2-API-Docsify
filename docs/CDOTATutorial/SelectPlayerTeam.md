@@ -1,5 +1,5 @@
 # SelectPlayerTeam
-```js	
+```js
 void SelectPlayerTeam(string_1)
 ```
 # Class

@@ -1,5 +1,5 @@
 # PlaysDefaultAnimWhenStolen
-```js	
+```js
 bool PlaysDefaultAnimWhenStolen()
 ```
 # Class

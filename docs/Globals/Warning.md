@@ -1,5 +1,5 @@
 # Warning
-```js	
+```js
 void Warning(string_1)
 ```
 # Class

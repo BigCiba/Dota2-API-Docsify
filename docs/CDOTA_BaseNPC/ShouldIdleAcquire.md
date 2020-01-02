@@ -1,5 +1,5 @@
 # ShouldIdleAcquire
-```js	
+```js
 bool ShouldIdleAcquire()
 ```
 # Class

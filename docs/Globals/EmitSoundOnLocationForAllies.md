@@ -1,5 +1,5 @@
 # EmitSoundOnLocationForAllies
-```js	
+```js
 void EmitSoundOnLocationForAllies(Vector_1, string_2, handle_3)
 ```
 # Class

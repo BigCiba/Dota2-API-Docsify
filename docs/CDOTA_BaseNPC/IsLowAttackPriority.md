@@ -1,5 +1,5 @@
 # IsLowAttackPriority
-```js	
+```js
 bool IsLowAttackPriority()
 ```
 # Class

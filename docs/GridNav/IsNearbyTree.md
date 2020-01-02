@@ -1,5 +1,5 @@
 # IsNearbyTree
-```js	
+```js
 bool IsNearbyTree(Vector_1, float_2, bool_3)
 ```
 # Class

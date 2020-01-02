@@ -1,5 +1,5 @@
 # GetMaximumGoldBounty
-```js	
+```js
 int GetMaximumGoldBounty()
 ```
 # Class

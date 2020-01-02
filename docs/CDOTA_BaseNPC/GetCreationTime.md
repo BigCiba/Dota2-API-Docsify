@@ -1,5 +1,5 @@
 # GetCreationTime
-```js	
+```js
 float GetCreationTime()
 ```
 # Class

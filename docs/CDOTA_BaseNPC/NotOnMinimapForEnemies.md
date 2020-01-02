@@ -1,5 +1,5 @@
 # NotOnMinimapForEnemies
-```js	
+```js
 bool NotOnMinimapForEnemies()
 ```
 # Class

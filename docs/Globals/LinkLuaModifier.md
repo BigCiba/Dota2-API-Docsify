@@ -1,5 +1,5 @@
 # LinkLuaModifier
-```js	
+```js
 void LinkLuaModifier(string_1, string_2, int_3)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetQuestName
-```js	
+```js
 void SetQuestName(string_1)
 ```
 # Class

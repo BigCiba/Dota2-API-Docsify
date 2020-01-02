@@ -1,5 +1,5 @@
 # GetTeamHeroKills
-```js	
+```js
 int GetTeamHeroKills(int_1)
 ```
 # Class

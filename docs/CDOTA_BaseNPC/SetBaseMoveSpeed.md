@@ -1,5 +1,5 @@
 # SetBaseMoveSpeed
-```js	
+```js
 void SetBaseMoveSpeed(iMoveSpeed)
 ```
 # Class

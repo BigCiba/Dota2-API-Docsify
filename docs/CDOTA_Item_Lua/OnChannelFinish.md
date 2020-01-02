@@ -1,5 +1,5 @@
 # OnChannelFinish
-```js	
+```js
 void OnChannelFinish(bInterrupted)
 ```
 # Class

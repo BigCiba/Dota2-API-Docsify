@@ -1,5 +1,5 @@
 # ClearTrackingProjectileFilter
-```js	
+```js
 void ClearTrackingProjectileFilter()
 ```
 # Class

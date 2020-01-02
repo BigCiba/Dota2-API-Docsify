@@ -1,5 +1,5 @@
 # ScriptPlayScene
-```js	
+```js
 float ScriptPlayScene(pszScene, flDelay)
 ```
 # Class

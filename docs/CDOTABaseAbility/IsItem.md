@@ -1,5 +1,5 @@
 # IsItem
-```js	
+```js
 bool IsItem()
 ```
 # Class

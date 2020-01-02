@@ -1,5 +1,5 @@
 # GetFloat
-```js	
+```js
 table GetFloat(string_1)
 ```
 # Class

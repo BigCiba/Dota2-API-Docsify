@@ -1,5 +1,5 @@
 # IsNeutralUnitType
-```js	
+```js
 bool IsNeutralUnitType()
 ```
 # Class

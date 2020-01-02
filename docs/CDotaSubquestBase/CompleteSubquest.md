@@ -1,5 +1,5 @@
 # CompleteSubquest
-```js	
+```js
 void CompleteSubquest()
 ```
 # Class

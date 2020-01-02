@@ -1,5 +1,5 @@
 # GetCustomCastError
-```js	
+```js
 string GetCustomCastError()
 ```
 # Class

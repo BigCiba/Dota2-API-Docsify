@@ -1,5 +1,5 @@
 # FadeGesture
-```js	
+```js
 void FadeGesture(nActivity)
 ```
 # Class

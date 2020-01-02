@@ -1,5 +1,5 @@
 # IncrementClaimedMisses
-```js	
+```js
 void IncrementClaimedMisses(iPlayerID)
 ```
 # Class

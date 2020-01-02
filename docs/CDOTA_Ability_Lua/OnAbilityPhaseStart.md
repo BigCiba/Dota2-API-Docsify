@@ -1,5 +1,5 @@
 # OnAbilityPhaseStart
-```js	
+```js
 bool OnAbilityPhaseStart()
 ```
 # Class

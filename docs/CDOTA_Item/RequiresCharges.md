@@ -1,5 +1,5 @@
 # RequiresCharges
-```js	
+```js
 bool RequiresCharges()
 ```
 # Class

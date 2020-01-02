@@ -1,5 +1,5 @@
 # GetConceptRecipientType
-```js	
+```js
 int GetConceptRecipientType()
 ```
 # Class

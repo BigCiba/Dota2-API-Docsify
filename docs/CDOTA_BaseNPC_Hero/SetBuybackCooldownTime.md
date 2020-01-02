@@ -1,5 +1,5 @@
 # SetBuybackCooldownTime
-```js	
+```js
 void SetBuybackCooldownTime(flTime)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetManaCost
-```js	
+```js
 int GetManaCost(iLevel)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetCustomBuybackCooldownEnabled
-```js	
+```js
 bool GetCustomBuybackCooldownEnabled()
 ```
 # Class

@@ -1,5 +1,5 @@
 # Send_ServerToTeam
-```js	
+```js
 void Send_ServerToTeam(int_1, string_2, handle_3)
 ```
 # Class

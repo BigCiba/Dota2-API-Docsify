@@ -1,5 +1,5 @@
 # RemoveHorizontalMotionController
-```js	
+```js
 void RemoveHorizontalMotionController(hBuff)
 ```
 # Class

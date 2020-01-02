@@ -1,5 +1,5 @@
 # SetRuneMinimapIconScale
-```js	
+```js
 void SetRuneMinimapIconScale(float_1)
 ```
 # Class

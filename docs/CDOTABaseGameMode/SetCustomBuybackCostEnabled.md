@@ -1,5 +1,5 @@
 # SetCustomBuybackCostEnabled
-```js	
+```js
 void SetCustomBuybackCostEnabled(bEnabled)
 ```
 # Class

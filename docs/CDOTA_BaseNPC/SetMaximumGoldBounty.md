@@ -1,5 +1,5 @@
 # SetMaximumGoldBounty
-```js	
+```js
 void SetMaximumGoldBounty(iGoldBountyMax)
 ```
 # Class

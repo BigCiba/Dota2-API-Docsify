@@ -1,5 +1,5 @@
 # DetachFromParent
-```js	
+```js
 void DetachFromParent()
 ```
 # Class

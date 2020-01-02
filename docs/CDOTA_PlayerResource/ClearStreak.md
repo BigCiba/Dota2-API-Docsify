@@ -1,5 +1,5 @@
 # ClearStreak
-```js	
+```js
 void ClearStreak(iPlayerID)
 ```
 # Class

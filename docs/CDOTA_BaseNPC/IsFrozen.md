@@ -1,5 +1,5 @@
 # IsFrozen
-```js	
+```js
 bool IsFrozen()
 ```
 # Class

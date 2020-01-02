@@ -1,5 +1,5 @@
 # SetHPGain
-```js	
+```js
 void SetHPGain(nHPGain)
 ```
 # Class

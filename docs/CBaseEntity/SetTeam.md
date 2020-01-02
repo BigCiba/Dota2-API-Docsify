@@ -1,5 +1,5 @@
 # SetTeam
-```js	
+```js
 void SetTeam(iTeamNum)
 ```
 # Class

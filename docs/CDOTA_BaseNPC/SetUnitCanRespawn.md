@@ -1,5 +1,5 @@
 # SetUnitCanRespawn
-```js	
+```js
 void SetUnitCanRespawn(bCanRespawn)
 ```
 # Class

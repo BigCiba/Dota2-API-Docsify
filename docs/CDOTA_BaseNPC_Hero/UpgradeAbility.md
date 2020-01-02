@@ -1,5 +1,5 @@
 # UpgradeAbility
-```js	
+```js
 void UpgradeAbility(hAbility)
 ```
 # Class

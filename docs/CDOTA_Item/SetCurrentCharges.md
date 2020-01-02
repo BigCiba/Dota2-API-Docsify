@@ -1,5 +1,5 @@
 # SetCurrentCharges
-```js	
+```js
 void SetCurrentCharges(iCharges)
 ```
 # Class

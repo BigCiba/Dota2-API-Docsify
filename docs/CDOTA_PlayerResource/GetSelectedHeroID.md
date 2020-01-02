@@ -1,5 +1,5 @@
 # GetSelectedHeroID
-```js	
+```js
 int GetSelectedHeroID(iPlayerID)
 ```
 # Class

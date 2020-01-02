@@ -1,5 +1,5 @@
 # DecrementStackCount
-```js	
+```js
 void DecrementStackCount()
 ```
 # Class

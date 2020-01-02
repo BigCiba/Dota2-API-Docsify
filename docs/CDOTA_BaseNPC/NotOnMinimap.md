@@ -1,5 +1,5 @@
 # NotOnMinimap
-```js	
+```js
 bool NotOnMinimap()
 ```
 # Class

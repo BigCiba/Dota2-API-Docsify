@@ -1,5 +1,5 @@
 # SendCustomMessageToTeam
-```js	
+```js
 void SendCustomMessageToTeam(string_1, int_2, int_3, int_4)
 ```
 # Class

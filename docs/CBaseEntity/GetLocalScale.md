@@ -1,5 +1,5 @@
 # GetLocalScale
-```js	
+```js
 float GetLocalScale()
 ```
 # Class

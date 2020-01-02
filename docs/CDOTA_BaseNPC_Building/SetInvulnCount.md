@@ -1,5 +1,5 @@
 # SetInvulnCount
-```js	
+```js
 void SetInvulnCount(nInvulnCount)
 ```
 # Class

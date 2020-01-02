@@ -1,5 +1,5 @@
 # StopAnimation
-```js	
+```js
 void StopAnimation()
 ```
 # Class

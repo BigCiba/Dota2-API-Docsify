@@ -1,5 +1,5 @@
 # GetMass
-```js	
+```js
 float GetMass()
 ```
 # Class

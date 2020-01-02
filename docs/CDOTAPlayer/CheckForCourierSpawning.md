@@ -1,5 +1,5 @@
 # CheckForCourierSpawning
-```js	
+```js
 void CheckForCourierSpawning(hHero)
 ```
 # Class

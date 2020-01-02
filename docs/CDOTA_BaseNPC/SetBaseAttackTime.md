@@ -1,5 +1,5 @@
 # SetBaseAttackTime
-```js	
+```js
 void SetBaseAttackTime(flBaseAttackTime)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetRecommendedItemsDisabled
-```js	
+```js
 bool GetRecommendedItemsDisabled()
 ```
 # Class

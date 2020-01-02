@@ -1,5 +1,5 @@
 # UTIL_AngleDiff
-```js	
+```js
 float UTIL_AngleDiff(float_1, float_2)
 ```
 # Class

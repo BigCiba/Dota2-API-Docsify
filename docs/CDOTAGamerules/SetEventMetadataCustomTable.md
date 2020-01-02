@@ -1,5 +1,5 @@
 # SetEventMetadataCustomTable
-```js	
+```js
 bool SetEventMetadataCustomTable(handle_1)
 ```
 # Class

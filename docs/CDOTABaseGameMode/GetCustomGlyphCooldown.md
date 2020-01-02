@@ -1,5 +1,5 @@
 # GetCustomGlyphCooldown
-```js	
+```js
 float GetCustomGlyphCooldown()
 ```
 # Class

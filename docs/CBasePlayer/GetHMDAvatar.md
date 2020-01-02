@@ -1,5 +1,5 @@
 # GetHMDAvatar
-```js	
+```js
 handle GetHMDAvatar()
 ```
 # Class

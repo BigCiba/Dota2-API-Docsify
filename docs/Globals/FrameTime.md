@@ -1,5 +1,5 @@
 # FrameTime
-```js	
+```js
 float FrameTime()
 ```
 # Class

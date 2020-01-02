@@ -1,5 +1,5 @@
 # TriggerModifierDodge
-```js	
+```js
 bool TriggerModifierDodge()
 ```
 # Class

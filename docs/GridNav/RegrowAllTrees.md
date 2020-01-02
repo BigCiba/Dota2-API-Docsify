@@ -1,5 +1,5 @@
 # RegrowAllTrees
-```js	
+```js
 void RegrowAllTrees()
 ```
 # Class

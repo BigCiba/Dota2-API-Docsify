@@ -1,5 +1,5 @@
 # GetManaPercent
-```js	
+```js
 int GetManaPercent()
 ```
 # Class

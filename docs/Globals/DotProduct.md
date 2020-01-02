@@ -1,5 +1,5 @@
 # DotProduct
-```js	
+```js
 float DotProduct(Vector_1, Vector_2)
 ```
 # Class

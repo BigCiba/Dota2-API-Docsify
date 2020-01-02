@@ -1,5 +1,5 @@
 # CastFilterResultTarget
-```js	
+```js
 int CastFilterResultTarget(hTarget)
 ```
 # Class

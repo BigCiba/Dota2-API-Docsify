@@ -1,5 +1,5 @@
 # IsValidEntity
-```js	
+```js
 bool IsValidEntity(handle_1)
 ```
 # Class

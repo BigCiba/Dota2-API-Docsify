@@ -1,5 +1,5 @@
 # StopListeningToAllGameEvents
-```js	
+```js
 void StopListeningToAllGameEvents(handle_1)
 ```
 # Class

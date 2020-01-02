@@ -1,5 +1,5 @@
 # TimeUntilNextAttack
-```js	
+```js
 float TimeUntilNextAttack()
 ```
 # Class

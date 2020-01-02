@@ -1,5 +1,5 @@
 # GetRangedProjectileName
-```js	
+```js
 string GetRangedProjectileName()
 ```
 # Class

@@ -1,5 +1,5 @@
 # EnableMotion
-```js	
+```js
 void EnableMotion()
 ```
 # Class

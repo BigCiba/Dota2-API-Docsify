@@ -1,5 +1,5 @@
 # IsPurchasable
-```js	
+```js
 bool IsPurchasable()
 ```
 # Class

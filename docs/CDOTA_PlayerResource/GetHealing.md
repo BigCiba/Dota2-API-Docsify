@@ -1,5 +1,5 @@
 # GetHealing
-```js	
+```js
 float GetHealing(iPlayerID)
 ```
 # Class

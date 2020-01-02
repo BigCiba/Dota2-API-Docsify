@@ -1,5 +1,5 @@
 # GetAttacksPerSecond
-```js	
+```js
 float GetAttacksPerSecond()
 ```
 # Class

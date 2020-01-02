@@ -1,5 +1,5 @@
 # GetHandID
-```js	
+```js
 int GetHandID()
 ```
 # Class

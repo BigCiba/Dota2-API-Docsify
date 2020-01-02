@@ -1,5 +1,5 @@
 # ResetBuybackCostTime
-```js	
+```js
 void ResetBuybackCostTime(nPlayerID)
 ```
 # Class

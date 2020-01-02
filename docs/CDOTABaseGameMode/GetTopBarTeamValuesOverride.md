@@ -1,5 +1,5 @@
 # GetTopBarTeamValuesOverride
-```js	
+```js
 bool GetTopBarTeamValuesOverride()
 ```
 # Class

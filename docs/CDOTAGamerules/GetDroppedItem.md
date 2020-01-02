@@ -1,5 +1,5 @@
 # GetDroppedItem
-```js	
+```js
 handle GetDroppedItem(int_1)
 ```
 # Class

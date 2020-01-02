@@ -1,5 +1,5 @@
 # GetCycle
-```js	
+```js
 float GetCycle()
 ```
 # Class

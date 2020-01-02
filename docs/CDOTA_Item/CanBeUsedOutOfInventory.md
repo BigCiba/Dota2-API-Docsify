@@ -1,5 +1,5 @@
 # CanBeUsedOutOfInventory
-```js	
+```js
 bool CanBeUsedOutOfInventory()
 ```
 # Class

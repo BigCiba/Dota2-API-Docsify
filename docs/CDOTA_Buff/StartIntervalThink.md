@@ -1,5 +1,5 @@
 # StartIntervalThink
-```js	
+```js
 void StartIntervalThink(flInterval)
 ```
 # Class

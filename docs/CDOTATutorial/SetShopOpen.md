@@ -1,5 +1,5 @@
 # SetShopOpen
-```js	
+```js
 void SetShopOpen(bool_1)
 ```
 # Class

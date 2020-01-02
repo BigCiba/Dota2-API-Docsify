@@ -1,5 +1,5 @@
 # GetNumCouriersForTeam
-```js	
+```js
 int GetNumCouriersForTeam(nTeamNumber)
 ```
 # Class

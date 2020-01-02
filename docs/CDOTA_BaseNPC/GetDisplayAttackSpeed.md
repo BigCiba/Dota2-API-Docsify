@@ -1,5 +1,5 @@
 # GetDisplayAttackSpeed
-```js	
+```js
 float GetDisplayAttackSpeed()
 ```
 # Class

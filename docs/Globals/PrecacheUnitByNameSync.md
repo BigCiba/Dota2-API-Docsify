@@ -1,5 +1,5 @@
 # PrecacheUnitByNameSync
-```js	
+```js
 void PrecacheUnitByNameSync(string_1, handle_2, int_3)
 ```
 # Class

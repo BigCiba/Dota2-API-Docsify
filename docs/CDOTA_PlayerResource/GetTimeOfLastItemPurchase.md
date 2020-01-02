@@ -1,5 +1,5 @@
 # GetTimeOfLastItemPurchase
-```js	
+```js
 float GetTimeOfLastItemPurchase(iPlayerID)
 ```
 # Class

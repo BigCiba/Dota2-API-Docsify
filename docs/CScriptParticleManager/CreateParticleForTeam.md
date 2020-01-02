@@ -1,5 +1,5 @@
 # CreateParticleForTeam
-```js	
+```js
 int CreateParticleForTeam(string_1, int_2, handle_3, int_4)
 ```
 # Class

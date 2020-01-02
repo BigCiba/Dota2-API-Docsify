@@ -1,5 +1,5 @@
 # SetChampion
-```js	
+```js
 void SetChampion(bIsChampion)
 ```
 # Class

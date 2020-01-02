@@ -1,5 +1,5 @@
 # GetReliableGold
-```js	
+```js
 int GetReliableGold(iPlayerID)
 ```
 # Class

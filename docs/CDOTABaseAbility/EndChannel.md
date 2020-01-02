@@ -1,5 +1,5 @@
 # EndChannel
-```js	
+```js
 void EndChannel(bInterrupted)
 ```
 # Class

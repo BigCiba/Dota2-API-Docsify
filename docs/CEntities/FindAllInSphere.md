@@ -1,5 +1,5 @@
 # FindAllInSphere
-```js	
+```js
 table FindAllInSphere(Vector_1, float_2)
 ```
 # Class

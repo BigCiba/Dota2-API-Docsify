@@ -1,5 +1,5 @@
 # GetModifierAura
-```js	
+```js
 string GetModifierAura()
 ```
 # Class

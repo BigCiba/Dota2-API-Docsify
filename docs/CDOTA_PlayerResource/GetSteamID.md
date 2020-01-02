@@ -1,5 +1,5 @@
 # GetSteamID
-```js	
+```js
 uint64 GetSteamID(iPlayerID)
 ```
 # Class

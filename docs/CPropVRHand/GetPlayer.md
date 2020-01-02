@@ -1,5 +1,5 @@
 # GetPlayer
-```js	
+```js
 handle GetPlayer()
 ```
 # Class

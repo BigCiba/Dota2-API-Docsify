@@ -1,5 +1,5 @@
 # PrintLinkedConsoleMessage
-```js	
+```js
 void PrintLinkedConsoleMessage(string_1, string_2)
 ```
 # Class

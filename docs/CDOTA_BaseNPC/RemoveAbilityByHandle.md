@@ -1,5 +1,5 @@
 # RemoveAbilityByHandle
-```js	
+```js
 void RemoveAbilityByHandle(hAbility)
 ```
 # Class

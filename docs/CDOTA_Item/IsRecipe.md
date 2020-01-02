@@ -1,5 +1,5 @@
 # IsRecipe
-```js	
+```js
 bool IsRecipe()
 ```
 # Class

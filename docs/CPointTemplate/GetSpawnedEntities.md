@@ -1,5 +1,5 @@
 # GetSpawnedEntities
-```js	
+```js
 handle GetSpawnedEntities()
 ```
 # Class

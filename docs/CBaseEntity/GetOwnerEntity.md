@@ -1,5 +1,5 @@
 # GetOwnerEntity
-```js	
+```js
 handle GetOwnerEntity()
 ```
 # Class

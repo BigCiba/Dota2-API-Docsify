@@ -1,5 +1,5 @@
 # ToggleAbility
-```js	
+```js
 void ToggleAbility()
 ```
 # Class

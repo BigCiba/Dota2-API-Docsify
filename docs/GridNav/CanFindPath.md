@@ -1,5 +1,5 @@
 # CanFindPath
-```js	
+```js
 bool CanFindPath(Vector_1, Vector_2)
 ```
 # Class

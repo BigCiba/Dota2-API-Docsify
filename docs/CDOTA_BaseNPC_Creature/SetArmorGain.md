@@ -1,5 +1,5 @@
 # SetArmorGain
-```js	
+```js
 void SetArmorGain(flArmorGain)
 ```
 # Class

@@ -1,5 +1,5 @@
 # CreateTrackingProjectile
-```js	
+```js
 void CreateTrackingProjectile(handle_1)
 ```
 # Class

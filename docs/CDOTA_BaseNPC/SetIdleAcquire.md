@@ -1,5 +1,5 @@
 # SetIdleAcquire
-```js	
+```js
 void SetIdleAcquire(bIdleAcquire)
 ```
 # Class

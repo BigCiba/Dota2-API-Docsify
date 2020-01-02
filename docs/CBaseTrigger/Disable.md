@@ -1,5 +1,5 @@
 # Disable
-```js	
+```js
 void Disable()
 ```
 # Class

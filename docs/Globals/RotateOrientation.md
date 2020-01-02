@@ -1,5 +1,5 @@
 # RotateOrientation
-```js	
+```js
 QAngle RotateOrientation(QAngle_1, QAngle_2)
 ```
 # Class

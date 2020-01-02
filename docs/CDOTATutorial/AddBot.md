@@ -1,5 +1,5 @@
 # AddBot
-```js	
+```js
 bool AddBot(string_1, string_2, string_3, bool_4)
 ```
 # Class

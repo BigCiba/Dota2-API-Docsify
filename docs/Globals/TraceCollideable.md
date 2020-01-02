@@ -1,5 +1,5 @@
 # TraceCollideable
-```js	
+```js
 bool TraceCollideable(handle_1)
 ```
 # Class

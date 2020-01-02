@@ -1,5 +1,5 @@
 # SetDayTimeVisionRange
-```js	
+```js
 void SetDayTimeVisionRange(iRange)
 ```
 # Class

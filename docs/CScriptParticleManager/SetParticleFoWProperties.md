@@ -1,5 +1,5 @@
 # SetParticleFoWProperties
-```js	
+```js
 void SetParticleFoWProperties(int_1, int_2, int_3, float_4)
 ```
 # Class

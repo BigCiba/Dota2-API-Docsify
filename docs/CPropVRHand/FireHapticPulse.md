@@ -1,5 +1,5 @@
 # FireHapticPulse
-```js	
+```js
 void FireHapticPulse(nStrength)
 ```
 # Class

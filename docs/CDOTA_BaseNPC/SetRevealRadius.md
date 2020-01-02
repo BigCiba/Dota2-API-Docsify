@@ -1,5 +1,5 @@
 # SetRevealRadius
-```js	
+```js
 void SetRevealRadius(revealRadius)
 ```
 # Class

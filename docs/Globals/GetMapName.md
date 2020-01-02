@@ -1,5 +1,5 @@
 # GetMapName
-```js	
+```js
 string GetMapName()
 ```
 # Class

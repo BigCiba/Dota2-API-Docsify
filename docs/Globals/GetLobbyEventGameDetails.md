@@ -1,5 +1,5 @@
 # GetLobbyEventGameDetails
-```js	
+```js
 table GetLobbyEventGameDetails()
 ```
 # Class

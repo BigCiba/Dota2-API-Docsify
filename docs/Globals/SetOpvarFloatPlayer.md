@@ -1,5 +1,5 @@
 # SetOpvarFloatPlayer
-```js	
+```js
 void SetOpvarFloatPlayer(string_1, string_2, string_3, float_4, handle_5)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SpawnEntityAtLocation
-```js	
+```js
 void SpawnEntityAtLocation(vecAlternateOrigin, vecAlternateAngles)
 ```
 # Class

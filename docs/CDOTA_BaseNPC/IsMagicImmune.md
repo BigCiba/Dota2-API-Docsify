@@ -1,5 +1,5 @@
 # IsMagicImmune
-```js	
+```js
 bool IsMagicImmune()
 ```
 # Class

@@ -1,5 +1,5 @@
 # CreateItemOnPositionSync
-```js	
+```js
 handle CreateItemOnPositionSync(Vector_1, handle_2)
 ```
 # Class

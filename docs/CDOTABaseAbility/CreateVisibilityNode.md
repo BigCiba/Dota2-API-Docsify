@@ -1,5 +1,5 @@
 # CreateVisibilityNode
-```js	
+```js
 void CreateVisibilityNode(vLocation, fRadius, fDuration)
 ```
 # Class

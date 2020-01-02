@@ -1,5 +1,5 @@
 # SetDraftingHeroPickSelectTimeOverride
-```js	
+```js
 void SetDraftingHeroPickSelectTimeOverride(flValue)
 ```
 # Class

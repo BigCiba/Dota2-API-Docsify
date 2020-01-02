@@ -1,5 +1,5 @@
 # GetSerialNumber
-```js	
+```js
 int GetSerialNumber()
 ```
 # Class

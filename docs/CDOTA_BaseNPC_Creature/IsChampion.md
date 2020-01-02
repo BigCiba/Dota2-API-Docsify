@@ -1,5 +1,5 @@
 # IsChampion
-```js	
+```js
 bool IsChampion()
 ```
 # Class

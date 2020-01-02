@@ -1,5 +1,5 @@
 # GetHeroCount
-```js	
+```js
 int GetHeroCount()
 ```
 # Class

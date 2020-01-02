@@ -1,5 +1,5 @@
 # SetCustomBuybackCost
-```js	
+```js
 void SetCustomBuybackCost(iPlayerID, iGoldCost)
 ```
 # Class

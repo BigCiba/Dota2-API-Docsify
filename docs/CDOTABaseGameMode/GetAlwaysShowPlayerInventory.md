@@ -1,5 +1,5 @@
 # GetAlwaysShowPlayerInventory
-```js	
+```js
 bool GetAlwaysShowPlayerInventory()
 ```
 # Class

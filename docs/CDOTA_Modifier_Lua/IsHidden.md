@@ -1,5 +1,5 @@
 # IsHidden
-```js	
+```js
 bool IsHidden()
 ```
 # Class

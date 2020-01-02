@@ -1,5 +1,5 @@
 # GetEventPointsForPlayerID
-```js	
+```js
 unsigned GetEventPointsForPlayerID(nPlayerID)
 ```
 # Class

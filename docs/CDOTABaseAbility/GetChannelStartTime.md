@@ -1,5 +1,5 @@
 # GetChannelStartTime
-```js	
+```js
 float GetChannelStartTime()
 ```
 # Class

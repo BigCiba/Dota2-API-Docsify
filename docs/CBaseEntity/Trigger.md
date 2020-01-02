@@ -1,5 +1,5 @@
 # Trigger
-```js	
+```js
 void Trigger()
 ```
 # Class

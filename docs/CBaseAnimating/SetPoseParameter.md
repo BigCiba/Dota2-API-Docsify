@@ -1,5 +1,5 @@
 # SetPoseParameter
-```js	
+```js
 float SetPoseParameter(szName, fValue)
 ```
 # Class

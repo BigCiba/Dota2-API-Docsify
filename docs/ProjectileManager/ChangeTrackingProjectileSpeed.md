@@ -1,5 +1,5 @@
 # ChangeTrackingProjectileSpeed
-```js	
+```js
 void ChangeTrackingProjectileSpeed(handle_1, int_2)
 ```
 # Class

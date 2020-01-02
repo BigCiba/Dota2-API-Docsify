@@ -1,5 +1,5 @@
 # SetHasInventory
-```js	
+```js
 void SetHasInventory(bHasInventory)
 ```
 # Class

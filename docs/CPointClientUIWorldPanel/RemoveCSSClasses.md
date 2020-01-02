@@ -1,5 +1,5 @@
 # RemoveCSSClasses
-```js	
+```js
 void RemoveCSSClasses(pszClasses)
 ```
 # Class

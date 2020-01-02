@@ -1,5 +1,5 @@
 # ScreenShake
-```js	
+```js
 void ScreenShake(Vector_1, float_2, float_3, float_4, float_5, int_6, bool_7)
 ```
 # Class

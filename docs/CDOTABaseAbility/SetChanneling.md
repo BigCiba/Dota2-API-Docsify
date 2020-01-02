@@ -1,5 +1,5 @@
 # SetChanneling
-```js	
+```js
 void SetChanneling(bChanneling)
 ```
 # Class

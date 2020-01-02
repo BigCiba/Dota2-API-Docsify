@@ -1,5 +1,5 @@
 # SetLoseGoldOnDeath
-```js	
+```js
 void SetLoseGoldOnDeath(bEnabled)
 ```
 # Class

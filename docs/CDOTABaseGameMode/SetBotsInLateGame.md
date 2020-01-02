@@ -1,5 +1,5 @@
 # SetBotsInLateGame
-```js	
+```js
 void SetBotsInLateGame(bLateGame)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetCursorCastTarget
-```js	
+```js
 handle GetCursorCastTarget()
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetLastAppliedTime
-```js	
+```js
 float GetLastAppliedTime()
 ```
 # Class

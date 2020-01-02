@@ -1,5 +1,5 @@
 # SetParticleShouldCheckFoW
-```js	
+```js
 bool SetParticleShouldCheckFoW(int_1, bool_2)
 ```
 # Class

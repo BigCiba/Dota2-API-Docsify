@@ -1,5 +1,5 @@
 # CreateTrigger
-```js	
+```js
 handle CreateTrigger(Vector_1, Vector_2, Vector_3)
 ```
 # Class

@@ -1,5 +1,5 @@
 # IsClone
-```js	
+```js
 bool IsClone()
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetGroundHeight
-```js	
+```js
 float GetGroundHeight(Vector_1, handle_2)
 ```
 # Class

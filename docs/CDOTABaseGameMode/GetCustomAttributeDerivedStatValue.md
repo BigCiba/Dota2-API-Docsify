@@ -1,5 +1,5 @@
 # GetCustomAttributeDerivedStatValue
-```js	
+```js
 float GetCustomAttributeDerivedStatValue(nDerivedStatType, hHero)
 ```
 # Class

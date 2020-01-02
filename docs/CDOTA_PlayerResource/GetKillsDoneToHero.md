@@ -1,5 +1,5 @@
 # GetKillsDoneToHero
-```js	
+```js
 int GetKillsDoneToHero(iPlayerID, iVictimID)
 ```
 # Class

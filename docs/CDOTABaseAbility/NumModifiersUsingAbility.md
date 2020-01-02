@@ -1,5 +1,5 @@
 # NumModifiersUsingAbility
-```js	
+```js
 int NumModifiersUsingAbility()
 ```
 # Class

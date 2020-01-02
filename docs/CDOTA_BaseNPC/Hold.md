@@ -1,5 +1,5 @@
 # Hold
-```js	
+```js
 void Hold()
 ```
 # Class

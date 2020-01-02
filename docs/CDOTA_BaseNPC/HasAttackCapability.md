@@ -1,5 +1,5 @@
 # HasAttackCapability
-```js	
+```js
 bool HasAttackCapability()
 ```
 # Class

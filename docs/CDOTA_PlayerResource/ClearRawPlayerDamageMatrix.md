@@ -1,5 +1,5 @@
 # ClearRawPlayerDamageMatrix
-```js	
+```js
 void ClearRawPlayerDamageMatrix(iPlayerID)
 ```
 # Class

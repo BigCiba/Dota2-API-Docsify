@@ -1,5 +1,5 @@
 # IsInBanPhase
-```js	
+```js
 bool IsInBanPhase()
 ```
 # Class

@@ -1,5 +1,5 @@
 # PauseGame
-```js	
+```js
 void PauseGame(bool_1)
 ```
 # Class

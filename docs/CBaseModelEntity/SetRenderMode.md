@@ -1,5 +1,5 @@
 # SetRenderMode
-```js	
+```js
 void SetRenderMode(nMode)
 ```
 # Class

@@ -1,5 +1,5 @@
 # LerpVectors
-```js	
+```js
 Vector LerpVectors(Vector_1, Vector_2, float_3)
 ```
 # Class

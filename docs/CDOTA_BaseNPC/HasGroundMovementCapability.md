@@ -1,5 +1,5 @@
 # HasGroundMovementCapability
-```js	
+```js
 bool HasGroundMovementCapability()
 ```
 # Class

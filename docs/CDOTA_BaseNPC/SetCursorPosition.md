@@ -1,5 +1,5 @@
 # SetCursorPosition
-```js	
+```js
 void SetCursorPosition(vLocation)
 ```
 # Class

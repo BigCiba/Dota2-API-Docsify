@@ -1,5 +1,5 @@
 # GetOpposingTeamNumber
-```js	
+```js
 int GetOpposingTeamNumber()
 ```
 # Class

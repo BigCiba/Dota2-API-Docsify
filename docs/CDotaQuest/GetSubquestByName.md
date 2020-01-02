@@ -1,5 +1,5 @@
 # GetSubquestByName
-```js	
+```js
 handle GetSubquestByName(pszName)
 ```
 # Class

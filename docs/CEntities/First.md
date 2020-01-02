@@ -1,5 +1,5 @@
 # First
-```js	
+```js
 handle First()
 ```
 # Class

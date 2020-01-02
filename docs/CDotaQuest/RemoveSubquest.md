@@ -1,5 +1,5 @@
 # RemoveSubquest
-```js	
+```js
 void RemoveSubquest(hSubquest)
 ```
 # Class

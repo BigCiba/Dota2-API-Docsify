@@ -1,5 +1,5 @@
 # SetMagicResistanceGain
-```js	
+```js
 void SetMagicResistanceGain(flMagicResistanceGain)
 ```
 # Class

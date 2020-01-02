@@ -1,5 +1,5 @@
 # SetFriendlyBuildingMoveToEnabled
-```js	
+```js
 void SetFriendlyBuildingMoveToEnabled(bEnabled)
 ```
 # Class

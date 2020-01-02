@@ -1,5 +1,5 @@
 # SendToConsole
-```js	
+```js
 void SendToConsole(string_1)
 ```
 # Class

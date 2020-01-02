@@ -1,5 +1,5 @@
 # GetStickyItemDisabled
-```js	
+```js
 bool GetStickyItemDisabled()
 ```
 # Class

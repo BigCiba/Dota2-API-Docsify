@@ -1,5 +1,5 @@
 # ListenForQuerySucceeded
-```js	
+```js
 void ListenForQuerySucceeded(hFunction, hContext)
 ```
 # Class

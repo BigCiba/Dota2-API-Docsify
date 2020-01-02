@@ -1,5 +1,5 @@
 # HasTag
-```js	
+```js
 bool HasTag(pszTagName)
 ```
 # Class

@@ -1,5 +1,5 @@
 # IsAuraActiveOnDeath
-```js	
+```js
 bool IsAuraActiveOnDeath()
 ```
 # Class

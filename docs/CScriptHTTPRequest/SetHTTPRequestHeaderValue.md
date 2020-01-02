@@ -1,5 +1,5 @@
 # SetHTTPRequestHeaderValue
-```js	
+```js
 bool SetHTTPRequestHeaderValue(string_1, string_2)
 ```
 # Class

@@ -1,5 +1,5 @@
 # Attribute_SetIntValue
-```js	
+```js
 void Attribute_SetIntValue(pName, nValue)
 ```
 # Class

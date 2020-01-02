@@ -1,5 +1,5 @@
 # SetMusicStatus
-```js	
+```js
 void SetMusicStatus(nMusicStatus, flIntensity)
 ```
 # Class

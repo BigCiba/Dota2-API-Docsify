@@ -1,5 +1,5 @@
 # LoadKeyValues
-```js	
+```js
 table LoadKeyValues(string_1)
 ```
 # Class

@@ -1,5 +1,5 @@
 # FireEntityIOInputNameOnly
-```js	
+```js
 void FireEntityIOInputNameOnly(ehandle_1, string_2)
 ```
 # Class

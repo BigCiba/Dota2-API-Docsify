@@ -1,5 +1,5 @@
 # GetUpgradeRecommended
-```js	
+```js
 bool GetUpgradeRecommended()
 ```
 # Class

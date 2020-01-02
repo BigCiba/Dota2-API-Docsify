@@ -1,5 +1,5 @@
 # SetFrozenCooldown
-```js	
+```js
 void SetFrozenCooldown(bFrozenCooldown)
 ```
 # Class

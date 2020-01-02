@@ -1,5 +1,5 @@
 # GetMaxMana
-```js	
+```js
 float GetMaxMana()
 ```
 # Class

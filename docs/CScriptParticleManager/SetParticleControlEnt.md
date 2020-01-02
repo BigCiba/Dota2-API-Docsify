@@ -1,5 +1,5 @@
 # SetParticleControlEnt
-```js	
+```js
 void SetParticleControlEnt(int_1, int_2, handle_3, int_4, string_5, Vector_6, bool_7)
 ```
 # Class

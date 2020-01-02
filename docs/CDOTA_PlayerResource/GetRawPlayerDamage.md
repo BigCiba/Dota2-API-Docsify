@@ -1,5 +1,5 @@
 # GetRawPlayerDamage
-```js	
+```js
 int GetRawPlayerDamage(iPlayerID)
 ```
 # Class

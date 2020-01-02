@@ -1,5 +1,5 @@
 # ActiveSequenceDuration
-```js	
+```js
 float ActiveSequenceDuration()
 ```
 # Class

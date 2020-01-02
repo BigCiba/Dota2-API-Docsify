@@ -1,5 +1,5 @@
 # FindByModel
-```js	
+```js
 handle FindByModel(handle_1, string_2)
 ```
 # Class

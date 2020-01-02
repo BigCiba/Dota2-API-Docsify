@@ -1,5 +1,5 @@
 # SetInAbilityPhase
-```js	
+```js
 void SetInAbilityPhase(bInAbilityPhase)
 ```
 # Class

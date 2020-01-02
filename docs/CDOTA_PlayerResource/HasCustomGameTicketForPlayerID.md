@@ -1,5 +1,5 @@
 # HasCustomGameTicketForPlayerID
-```js	
+```js
 bool HasCustomGameTicketForPlayerID(iPlayerID)
 ```
 # Class

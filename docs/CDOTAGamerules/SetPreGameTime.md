@@ -1,5 +1,5 @@
 # SetPreGameTime
-```js	
+```js
 void SetPreGameTime(float_1)
 ```
 # Class

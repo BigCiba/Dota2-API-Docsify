@@ -1,5 +1,5 @@
 # TraceHull
-```js	
+```js
 bool TraceHull(handle_1)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetPartyID
-```js	
+```js
 uint64 GetPartyID(iPlayerID)
 ```
 # Class

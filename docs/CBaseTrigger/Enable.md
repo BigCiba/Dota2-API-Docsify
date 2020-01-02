@@ -1,5 +1,5 @@
 # Enable
-```js	
+```js
 void Enable()
 ```
 # Class

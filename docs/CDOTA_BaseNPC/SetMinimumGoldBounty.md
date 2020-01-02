@@ -1,5 +1,5 @@
 # SetMinimumGoldBounty
-```js	
+```js
 void SetMinimumGoldBounty(iGoldBountyMin)
 ```
 # Class

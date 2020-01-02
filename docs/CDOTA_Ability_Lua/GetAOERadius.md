@@ -1,5 +1,5 @@
 # GetAOERadius
-```js	
+```js
 float GetAOERadius()
 ```
 # Class

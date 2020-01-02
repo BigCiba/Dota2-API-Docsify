@@ -1,5 +1,5 @@
 # GetClaimedMisses
-```js	
+```js
 int GetClaimedMisses(iPlayerID)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetAnimation
-```js	
+```js
 void SetAnimation(pAnimation)
 ```
 # Class

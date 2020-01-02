@@ -1,5 +1,5 @@
 # GetGroundPosition
-```js	
+```js
 Vector GetGroundPosition(Vector_1, handle_2)
 ```
 # Class

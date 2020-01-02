@@ -1,5 +1,5 @@
 # GetAttachmentForward
-```js	
+```js
 Vector GetAttachmentForward(iAttachment)
 ```
 # Class

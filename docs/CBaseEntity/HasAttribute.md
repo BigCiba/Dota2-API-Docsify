@@ -1,5 +1,5 @@
 # HasAttribute
-```js	
+```js
 bool HasAttribute(pName)
 ```
 # Class

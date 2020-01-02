@@ -1,5 +1,5 @@
 # RemoveSpawnGroupFilterProxy
-```js	
+```js
 void RemoveSpawnGroupFilterProxy(string_1)
 ```
 # Class

@@ -1,5 +1,5 @@
 # StartGestureWithPlaybackRate
-```js	
+```js
 void StartGestureWithPlaybackRate(nActivity, flRate)
 ```
 # Class

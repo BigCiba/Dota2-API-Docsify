@@ -1,5 +1,5 @@
 # GetStateTransitionTime
-```js	
+```js
 float GetStateTransitionTime()
 ```
 # Class

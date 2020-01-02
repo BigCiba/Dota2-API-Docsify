@@ -1,5 +1,5 @@
 # IsOwnersGoldEnough
-```js	
+```js
 bool IsOwnersGoldEnough(nIssuerPlayerID)
 ```
 # Class

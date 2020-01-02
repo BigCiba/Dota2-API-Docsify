@@ -1,5 +1,5 @@
 # IsDeniable
-```js	
+```js
 bool IsDeniable()
 ```
 # Class

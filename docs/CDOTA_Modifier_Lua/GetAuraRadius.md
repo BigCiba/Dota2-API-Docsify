@@ -1,5 +1,5 @@
 # GetAuraRadius
-```js	
+```js
 int GetAuraRadius()
 ```
 # Class

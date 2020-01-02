@@ -1,5 +1,5 @@
 # Cancel
-```js	
+```js
 void Cancel()
 ```
 # Class

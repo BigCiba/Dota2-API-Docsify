@@ -1,5 +1,5 @@
 # AxisAngleToQuaternion
-```js	
+```js
 Quaternion AxisAngleToQuaternion(Vector_1, float_2)
 ```
 # Class

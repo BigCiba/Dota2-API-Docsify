@@ -1,5 +1,5 @@
 # GetGoldPerMin
-```js	
+```js
 float GetGoldPerMin(iPlayerID)
 ```
 # Class

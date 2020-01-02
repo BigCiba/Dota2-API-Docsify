@@ -1,5 +1,5 @@
 # StopFacing
-```js	
+```js
 void StopFacing()
 ```
 # Class

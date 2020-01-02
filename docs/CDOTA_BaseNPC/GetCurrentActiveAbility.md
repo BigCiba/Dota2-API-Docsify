@@ -1,5 +1,5 @@
 # GetCurrentActiveAbility
-```js	
+```js
 handle GetCurrentActiveAbility()
 ```
 # Class

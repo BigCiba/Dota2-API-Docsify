@@ -1,5 +1,5 @@
 # TransformPointWorldToEntity
-```js	
+```js
 Vector TransformPointWorldToEntity(vPoint)
 ```
 # Class

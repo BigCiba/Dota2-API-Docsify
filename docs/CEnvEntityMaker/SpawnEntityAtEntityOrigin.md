@@ -1,5 +1,5 @@
 # SpawnEntityAtEntityOrigin
-```js	
+```js
 void SpawnEntityAtEntityOrigin(hEntity)
 ```
 # Class

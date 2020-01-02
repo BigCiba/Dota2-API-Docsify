@@ -1,5 +1,5 @@
 # EyePosition
-```js	
+```js
 Vector EyePosition()
 ```
 # Class

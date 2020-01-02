@@ -1,5 +1,5 @@
 # DoScriptAssert
-```js	
+```js
 void DoScriptAssert(bool_1, string_2)
 ```
 # Class

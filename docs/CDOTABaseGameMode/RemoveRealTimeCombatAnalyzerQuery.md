@@ -1,5 +1,5 @@
 # RemoveRealTimeCombatAnalyzerQuery
-```js	
+```js
 void RemoveRealTimeCombatAnalyzerQuery(nQueryID)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetAnnouncerDisabled
-```js	
+```js
 void SetAnnouncerDisabled(bDisabled)
 ```
 # Class

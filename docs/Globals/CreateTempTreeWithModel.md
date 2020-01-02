@@ -1,5 +1,5 @@
 # CreateTempTreeWithModel
-```js	
+```js
 handle CreateTempTreeWithModel(Vector_1, float_2, string_3)
 ```
 # Class

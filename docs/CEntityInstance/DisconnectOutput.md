@@ -1,5 +1,5 @@
 # DisconnectOutput
-```js	
+```js
 void DisconnectOutput(string_1, string_2)
 ```
 # Class

@@ -1,5 +1,5 @@
 # IsRefreshable
-```js	
+```js
 bool IsRefreshable()
 ```
 # Class

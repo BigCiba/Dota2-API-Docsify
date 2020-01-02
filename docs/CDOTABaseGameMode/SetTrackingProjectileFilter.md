@@ -1,5 +1,5 @@
 # SetTrackingProjectileFilter
-```js	
+```js
 void SetTrackingProjectileFilter(hFunction, hContext)
 ```
 # Class

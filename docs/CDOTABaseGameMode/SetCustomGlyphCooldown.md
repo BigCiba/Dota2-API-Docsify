@@ -1,5 +1,5 @@
 # SetCustomGlyphCooldown
-```js	
+```js
 void SetCustomGlyphCooldown(flCooldown)
 ```
 # Class

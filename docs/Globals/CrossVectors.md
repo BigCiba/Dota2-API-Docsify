@@ -1,5 +1,5 @@
 # CrossVectors
-```js	
+```js
 Vector CrossVectors(Vector_1, Vector_2)
 ```
 # Class

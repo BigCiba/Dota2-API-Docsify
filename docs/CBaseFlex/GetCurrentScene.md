@@ -1,5 +1,5 @@
 # GetCurrentScene
-```js	
+```js
 handle GetCurrentScene()
 ```
 # Class

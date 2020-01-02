@@ -1,5 +1,5 @@
 # GetPrimaryStatValue
-```js	
+```js
 float GetPrimaryStatValue()
 ```
 # Class

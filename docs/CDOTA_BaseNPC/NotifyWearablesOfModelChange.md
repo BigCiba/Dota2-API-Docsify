@@ -1,5 +1,5 @@
 # NotifyWearablesOfModelChange
-```js	
+```js
 void NotifyWearablesOfModelChange(bOriginalModel)
 ```
 # Class

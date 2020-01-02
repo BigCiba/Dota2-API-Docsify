@@ -1,5 +1,5 @@
 # SetHTTPRequestGetOrPostParameter
-```js	
+```js
 bool SetHTTPRequestGetOrPostParameter(string_1, string_2)
 ```
 # Class

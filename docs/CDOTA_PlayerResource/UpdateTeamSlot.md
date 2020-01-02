@@ -1,5 +1,5 @@
 # UpdateTeamSlot
-```js	
+```js
 void UpdateTeamSlot(iPlayerID, iTeamNumber, desiredSlot)
 ```
 # Class

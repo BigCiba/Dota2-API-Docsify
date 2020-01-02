@@ -1,5 +1,5 @@
 # DestroyOnExpire
-```js	
+```js
 bool DestroyOnExpire()
 ```
 # Class

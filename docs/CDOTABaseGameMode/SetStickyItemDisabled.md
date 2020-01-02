@@ -1,5 +1,5 @@
 # SetStickyItemDisabled
-```js	
+```js
 void SetStickyItemDisabled(bDisabled)
 ```
 # Class

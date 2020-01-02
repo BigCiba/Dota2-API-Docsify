@@ -1,5 +1,5 @@
 # IsFort
-```js	
+```js
 bool IsFort()
 ```
 # Class

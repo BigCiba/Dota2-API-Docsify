@@ -1,5 +1,5 @@
 # IsStunned
-```js	
+```js
 bool IsStunned()
 ```
 # Class

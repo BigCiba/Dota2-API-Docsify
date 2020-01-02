@@ -1,5 +1,5 @@
 # ScriptLookupAttachment
-```js	
+```js
 int ScriptLookupAttachment(pAttachmentName)
 ```
 # Class

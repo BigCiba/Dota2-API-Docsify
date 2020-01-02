@@ -1,5 +1,5 @@
 # PrecacheEntityListFromTable
-```js	
+```js
 void PrecacheEntityListFromTable(handle_1, handle_2)
 ```
 # Class

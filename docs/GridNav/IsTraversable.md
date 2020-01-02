@@ -1,5 +1,5 @@
 # IsTraversable
-```js	
+```js
 bool IsTraversable(Vector_1)
 ```
 # Class

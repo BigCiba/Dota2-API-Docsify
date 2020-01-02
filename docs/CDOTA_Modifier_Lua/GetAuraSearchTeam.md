@@ -1,5 +1,5 @@
 # GetAuraSearchTeam
-```js	
+```js
 int GetAuraSearchTeam()
 ```
 # Class

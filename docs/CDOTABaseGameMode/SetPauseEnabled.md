@@ -1,5 +1,5 @@
 # SetPauseEnabled
-```js	
+```js
 void SetPauseEnabled(bEnabled)
 ```
 # Class

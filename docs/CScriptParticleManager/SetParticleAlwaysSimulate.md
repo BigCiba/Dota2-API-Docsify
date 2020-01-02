@@ -1,5 +1,5 @@
 # SetParticleAlwaysSimulate
-```js	
+```js
 void SetParticleAlwaysSimulate(int_1)
 ```
 # Class

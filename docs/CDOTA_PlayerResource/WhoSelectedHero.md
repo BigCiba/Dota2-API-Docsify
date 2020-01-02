@@ -1,5 +1,5 @@
 # WhoSelectedHero
-```js	
+```js
 int WhoSelectedHero(pHeroFilename)
 ```
 # Class

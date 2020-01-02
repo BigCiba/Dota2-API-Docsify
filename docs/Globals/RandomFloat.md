@@ -1,5 +1,5 @@
 # RandomFloat
-```js	
+```js
 float RandomFloat(float_1, float_2)
 ```
 # Class

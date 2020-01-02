@@ -1,5 +1,5 @@
 # GetLevel
-```js	
+```js
 int GetLevel()
 ```
 # Class

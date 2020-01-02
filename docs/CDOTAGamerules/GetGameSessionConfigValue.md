@@ -1,5 +1,5 @@
 # GetGameSessionConfigValue
-```js	
+```js
 string GetGameSessionConfigValue(string_1, string_2)
 ```
 # Class

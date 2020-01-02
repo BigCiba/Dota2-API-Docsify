@@ -1,5 +1,5 @@
 # GetAbilityTargetTeam
-```js	
+```js
 int GetAbilityTargetTeam()
 ```
 # Class

@@ -1,5 +1,5 @@
 # IsCreep
-```js	
+```js
 bool IsCreep()
 ```
 # Class

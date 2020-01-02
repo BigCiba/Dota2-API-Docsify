@@ -1,5 +1,5 @@
 # SetDisableResistanceGain
-```js	
+```js
 void SetDisableResistanceGain(flDisableResistanceGain)
 ```
 # Class

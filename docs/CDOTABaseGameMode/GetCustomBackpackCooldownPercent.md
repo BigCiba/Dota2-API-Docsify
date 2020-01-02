@@ -1,5 +1,5 @@
 # GetCustomBackpackCooldownPercent
-```js	
+```js
 float GetCustomBackpackCooldownPercent()
 ```
 # Class

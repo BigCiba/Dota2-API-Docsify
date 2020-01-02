@@ -1,5 +1,5 @@
 # OnVerticalMotionInterrupted
-```js	
+```js
 void OnVerticalMotionInterrupted()
 ```
 # Class

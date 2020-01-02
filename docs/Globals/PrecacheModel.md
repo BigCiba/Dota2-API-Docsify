@@ -1,5 +1,5 @@
 # PrecacheModel
-```js	
+```js
 void PrecacheModel(string_1, handle_2)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetAttributes
-```js	
+```js
 int GetAttributes()
 ```
 # Class

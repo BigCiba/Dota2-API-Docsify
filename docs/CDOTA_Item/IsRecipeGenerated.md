@@ -1,5 +1,5 @@
 # IsRecipeGenerated
-```js	
+```js
 bool IsRecipeGenerated()
 ```
 # Class

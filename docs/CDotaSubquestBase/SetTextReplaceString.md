@@ -1,5 +1,5 @@
 # SetTextReplaceString
-```js	
+```js
 void SetTextReplaceString(pszString)
 ```
 # Class

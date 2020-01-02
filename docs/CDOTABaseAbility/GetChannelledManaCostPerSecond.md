@@ -1,5 +1,5 @@
 # GetChannelledManaCostPerSecond
-```js	
+```js
 int GetChannelledManaCostPerSecond(iLevel)
 ```
 # Class

@@ -1,5 +1,5 @@
 # ClearActivityModifiers
-```js	
+```js
 void ClearActivityModifiers()
 ```
 # Class

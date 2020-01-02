@@ -1,5 +1,5 @@
 # SetFirstBloodActive
-```js	
+```js
 void SetFirstBloodActive(bool_1)
 ```
 # Class

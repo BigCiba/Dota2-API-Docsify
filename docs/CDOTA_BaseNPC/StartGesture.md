@@ -1,5 +1,5 @@
 # StartGesture
-```js	
+```js
 void StartGesture(nActivity)
 ```
 # Class

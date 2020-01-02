@@ -1,5 +1,5 @@
 # GetGoldBounty
-```js	
+```js
 int GetGoldBounty()
 ```
 # Class

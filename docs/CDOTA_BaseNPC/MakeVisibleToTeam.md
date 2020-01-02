@@ -1,5 +1,5 @@
 # MakeVisibleToTeam
-```js	
+```js
 void MakeVisibleToTeam(iTeam, flDuration)
 ```
 # Class

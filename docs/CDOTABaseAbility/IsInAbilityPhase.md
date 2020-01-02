@@ -1,5 +1,5 @@
 # IsInAbilityPhase
-```js	
+```js
 bool IsInAbilityPhase()
 ```
 # Class

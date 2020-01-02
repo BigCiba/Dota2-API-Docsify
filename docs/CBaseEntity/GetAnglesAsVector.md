@@ -1,5 +1,5 @@
 # GetAnglesAsVector
-```js	
+```js
 Vector GetAnglesAsVector()
 ```
 # Class

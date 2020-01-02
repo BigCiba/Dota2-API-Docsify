@@ -1,5 +1,5 @@
 # SetLevel
-```js	
+```js
 void SetLevel(iLevel)
 ```
 # Class

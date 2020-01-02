@@ -1,5 +1,5 @@
 # RecordConsumableAbilityChargeChange
-```js	
+```js
 void RecordConsumableAbilityChargeChange(iPlayerID, item_definition_index, nChargeIncrementOrDecrement)
 ```
 # Class

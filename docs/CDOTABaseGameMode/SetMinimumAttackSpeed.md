@@ -1,5 +1,5 @@
 # SetMinimumAttackSpeed
-```js	
+```js
 void SetMinimumAttackSpeed(nMinSpeed)
 ```
 # Class

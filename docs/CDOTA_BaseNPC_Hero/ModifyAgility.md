@@ -1,5 +1,5 @@
 # ModifyAgility
-```js	
+```js
 void ModifyAgility(flNewAgility)
 ```
 # Class

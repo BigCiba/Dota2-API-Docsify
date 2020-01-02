@@ -1,5 +1,5 @@
 # SetMoveSpeedGain
-```js	
+```js
 void SetMoveSpeedGain(nMoveSpeedGain)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetPurchaser
-```js	
+```js
 void SetPurchaser(hPurchaser)
 ```
 # Class

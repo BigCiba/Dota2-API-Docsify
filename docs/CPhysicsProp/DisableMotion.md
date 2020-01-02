@@ -1,5 +1,5 @@
 # DisableMotion
-```js	
+```js
 void DisableMotion()
 ```
 # Class

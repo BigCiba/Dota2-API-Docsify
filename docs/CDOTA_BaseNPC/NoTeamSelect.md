@@ -1,5 +1,5 @@
 # NoTeamSelect
-```js	
+```js
 bool NoTeamSelect()
 ```
 # Class

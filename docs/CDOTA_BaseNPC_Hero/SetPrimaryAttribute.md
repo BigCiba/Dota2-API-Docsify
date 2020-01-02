@@ -1,5 +1,5 @@
 # SetPrimaryAttribute
-```js	
+```js
 void SetPrimaryAttribute(nPrimaryAttribute)
 ```
 # Class

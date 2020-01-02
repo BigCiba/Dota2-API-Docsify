@@ -1,5 +1,5 @@
 # SetSequence
-```js	
+```js
 void SetSequence(pSequenceName)
 ```
 # Class

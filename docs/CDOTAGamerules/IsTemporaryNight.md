@@ -1,5 +1,5 @@
 # IsTemporaryNight
-```js	
+```js
 bool IsTemporaryNight()
 ```
 # Class

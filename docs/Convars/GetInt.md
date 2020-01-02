@@ -1,5 +1,5 @@
 # GetInt
-```js	
+```js
 table GetInt(string_1)
 ```
 # Class

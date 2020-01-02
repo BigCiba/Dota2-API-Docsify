@@ -1,5 +1,5 @@
 # SetAngularVelocity
-```js	
+```js
 void SetAngularVelocity(pitchVel, yawVel, rollVel)
 ```
 # Class

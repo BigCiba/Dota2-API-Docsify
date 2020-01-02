@@ -1,5 +1,5 @@
 # SetTimeOfDay
-```js	
+```js
 void SetTimeOfDay(float_1)
 ```
 # Class

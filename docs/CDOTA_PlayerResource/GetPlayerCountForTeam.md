@@ -1,5 +1,5 @@
 # GetPlayerCountForTeam
-```js	
+```js
 int GetPlayerCountForTeam(iTeam)
 ```
 # Class

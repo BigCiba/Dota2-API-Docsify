@@ -1,5 +1,5 @@
 # DynamicHud_Destroy
-```js	
+```js
 void DynamicHud_Destroy(int_1, string_2)
 ```
 # Class

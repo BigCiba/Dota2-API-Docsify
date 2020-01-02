@@ -1,5 +1,5 @@
 # GetCursorPosition
-```js	
+```js
 Vector GetCursorPosition()
 ```
 # Class

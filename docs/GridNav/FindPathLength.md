@@ -1,5 +1,5 @@
 # FindPathLength
-```js	
+```js
 float FindPathLength(Vector_1, Vector_2)
 ```
 # Class

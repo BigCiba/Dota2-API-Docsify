@@ -1,5 +1,5 @@
 # GetAngularVelocity
-```js	
+```js
 Vector GetAngularVelocity()
 ```
 # Class

@@ -1,5 +1,5 @@
 # IsUnableToMiss
-```js	
+```js
 bool IsUnableToMiss()
 ```
 # Class

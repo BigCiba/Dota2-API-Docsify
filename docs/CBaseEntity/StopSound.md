@@ -1,5 +1,5 @@
 # StopSound
-```js	
+```js
 void StopSound(soundname)
 ```
 # Class

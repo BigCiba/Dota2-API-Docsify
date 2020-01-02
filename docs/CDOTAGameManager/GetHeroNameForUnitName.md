@@ -1,5 +1,5 @@
 # GetHeroNameForUnitName
-```js	
+```js
 string GetHeroNameForUnitName(string_1)
 ```
 # Class

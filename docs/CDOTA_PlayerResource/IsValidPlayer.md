@@ -1,5 +1,5 @@
 # IsValidPlayer
-```js	
+```js
 bool IsValidPlayer(iPlayerID)
 ```
 # Class

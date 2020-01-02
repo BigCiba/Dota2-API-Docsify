@@ -1,5 +1,5 @@
 # GetAnimationIgnoresModelScale
-```js	
+```js
 bool GetAnimationIgnoresModelScale()
 ```
 # Class

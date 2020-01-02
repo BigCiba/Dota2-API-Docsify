@@ -1,5 +1,5 @@
 # GetHandAttachment
-```js	
+```js
 handle GetHandAttachment()
 ```
 # Class

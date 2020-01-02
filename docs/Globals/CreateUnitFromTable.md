@@ -1,5 +1,5 @@
 # CreateUnitFromTable
-```js	
+```js
 handle CreateUnitFromTable(handle_1, Vector_2)
 ```
 # Class

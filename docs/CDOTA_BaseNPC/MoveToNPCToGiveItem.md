@@ -1,5 +1,5 @@
 # MoveToNPCToGiveItem
-```js	
+```js
 void MoveToNPCToGiveItem(hNPC, hItem)
 ```
 # Class

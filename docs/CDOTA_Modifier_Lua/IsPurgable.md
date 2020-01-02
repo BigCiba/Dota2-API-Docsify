@@ -1,5 +1,5 @@
 # IsPurgable
-```js	
+```js
 bool IsPurgable()
 ```
 # Class

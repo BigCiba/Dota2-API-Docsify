@@ -1,5 +1,5 @@
 # IsMuted
-```js	
+```js
 bool IsMuted()
 ```
 # Class

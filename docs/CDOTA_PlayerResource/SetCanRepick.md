@@ -1,5 +1,5 @@
 # SetCanRepick
-```js	
+```js
 void SetCanRepick(iPlayerID, bCanRepick)
 ```
 # Class

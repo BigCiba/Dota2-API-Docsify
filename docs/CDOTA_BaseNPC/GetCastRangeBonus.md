@@ -1,5 +1,5 @@
 # GetCastRangeBonus
-```js	
+```js
 float GetCastRangeBonus()
 ```
 # Class

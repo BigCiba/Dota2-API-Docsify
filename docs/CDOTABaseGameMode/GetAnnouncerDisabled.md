@@ -1,5 +1,5 @@
 # GetAnnouncerDisabled
-```js	
+```js
 bool GetAnnouncerDisabled()
 ```
 # Class

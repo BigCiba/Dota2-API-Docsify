@@ -1,5 +1,5 @@
 # GetConnectionState
-```js	
+```js
 <unknown> GetConnectionState(iPlayerID)
 ```
 # Class

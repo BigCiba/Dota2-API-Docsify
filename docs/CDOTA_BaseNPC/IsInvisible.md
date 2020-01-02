@@ -1,5 +1,5 @@
 # IsInvisible
-```js	
+```js
 bool IsInvisible()
 ```
 # Class

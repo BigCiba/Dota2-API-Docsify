@@ -1,5 +1,5 @@
 # SetStr
-```js	
+```js
 void SetStr(string_1, string_2)
 ```
 # Class

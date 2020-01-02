@@ -1,5 +1,5 @@
 # ListenToGameEvent
-```js	
+```js
 int ListenToGameEvent(string_1, handle_2, handle_3)
 ```
 # Class

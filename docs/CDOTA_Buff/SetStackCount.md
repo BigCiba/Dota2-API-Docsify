@@ -1,5 +1,5 @@
 # SetStackCount
-```js	
+```js
 void SetStackCount(iCount)
 ```
 # Class

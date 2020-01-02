@@ -1,5 +1,5 @@
 # GetEffectName
-```js	
+```js
 string GetEffectName()
 ```
 # Class

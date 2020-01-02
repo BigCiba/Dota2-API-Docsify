@@ -1,5 +1,5 @@
 # GetAuraDuration
-```js	
+```js
 float GetAuraDuration()
 ```
 # Class

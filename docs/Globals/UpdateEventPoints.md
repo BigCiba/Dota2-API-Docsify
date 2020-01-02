@@ -1,5 +1,5 @@
 # UpdateEventPoints
-```js	
+```js
 void UpdateEventPoints(handle_1)
 ```
 # Class

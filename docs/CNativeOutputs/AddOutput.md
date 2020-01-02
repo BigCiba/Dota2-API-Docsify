@@ -1,5 +1,5 @@
 # AddOutput
-```js	
+```js
 void AddOutput(string_1, string_2)
 ```
 # Class

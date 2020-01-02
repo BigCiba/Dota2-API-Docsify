@@ -1,5 +1,5 @@
 # ApplyAbsVelocityImpulse
-```js	
+```js
 void ApplyAbsVelocityImpulse(vecImpulse)
 ```
 # Class

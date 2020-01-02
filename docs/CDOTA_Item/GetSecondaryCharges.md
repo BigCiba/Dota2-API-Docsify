@@ -1,5 +1,5 @@
 # GetSecondaryCharges
-```js	
+```js
 int GetSecondaryCharges()
 ```
 # Class

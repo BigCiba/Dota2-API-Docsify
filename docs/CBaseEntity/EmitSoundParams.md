@@ -1,5 +1,5 @@
 # EmitSoundParams
-```js	
+```js
 void EmitSoundParams(soundname, nPitch, flVolume, flDelay)
 ```
 # Class

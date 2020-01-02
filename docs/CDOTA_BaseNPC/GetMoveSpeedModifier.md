@@ -1,5 +1,5 @@
 # GetMoveSpeedModifier
-```js	
+```js
 float GetMoveSpeedModifier(flBaseSpeed, bReturnUnslowed)
 ```
 # Class

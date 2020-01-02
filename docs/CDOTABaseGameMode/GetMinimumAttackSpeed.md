@@ -1,5 +1,5 @@
 # GetMinimumAttackSpeed
-```js	
+```js
 int GetMinimumAttackSpeed()
 ```
 # Class

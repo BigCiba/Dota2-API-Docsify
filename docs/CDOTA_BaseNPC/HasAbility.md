@@ -1,5 +1,5 @@
 # HasAbility
-```js	
+```js
 bool HasAbility(pszAbilityName)
 ```
 # Class

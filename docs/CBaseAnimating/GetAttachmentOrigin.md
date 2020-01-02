@@ -1,5 +1,5 @@
 # GetAttachmentOrigin
-```js	
+```js
 Vector GetAttachmentOrigin(iAttachment)
 ```
 # Class

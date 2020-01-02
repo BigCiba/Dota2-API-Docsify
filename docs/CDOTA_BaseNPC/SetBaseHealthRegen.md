@@ -1,5 +1,5 @@
 # SetBaseHealthRegen
-```js	
+```js
 void SetBaseHealthRegen(flHealthRegen)
 ```
 # Class

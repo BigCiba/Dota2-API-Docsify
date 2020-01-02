@@ -1,5 +1,5 @@
 # PayGoldCost
-```js	
+```js
 void PayGoldCost()
 ```
 # Class

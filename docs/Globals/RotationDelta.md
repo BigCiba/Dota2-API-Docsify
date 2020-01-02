@@ -1,5 +1,5 @@
 # RotationDelta
-```js	
+```js
 QAngle RotationDelta(QAngle_1, QAngle_2)
 ```
 # Class

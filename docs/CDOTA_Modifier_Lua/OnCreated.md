@@ -1,5 +1,5 @@
 # OnCreated
-```js	
+```js
 void OnCreated(table)
 ```
 # Class

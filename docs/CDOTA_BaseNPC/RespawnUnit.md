@@ -1,5 +1,5 @@
 # RespawnUnit
-```js	
+```js
 void RespawnUnit()
 ```
 # Class

@@ -1,5 +1,5 @@
 # AttackNoEarlierThan
-```js	
+```js
 void AttackNoEarlierThan(flTime)
 ```
 # Class

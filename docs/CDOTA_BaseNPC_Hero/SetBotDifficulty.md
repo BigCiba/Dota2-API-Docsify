@@ -1,5 +1,5 @@
 # SetBotDifficulty
-```js	
+```js
 void SetBotDifficulty(nDifficulty)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetBuybackCost
-```js	
+```js
 int GetBuybackCost(bReturnOldValues)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetAbilityIndex
-```js	
+```js
 int GetAbilityIndex()
 ```
 # Class

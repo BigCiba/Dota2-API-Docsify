@@ -1,5 +1,5 @@
 # IsPurgeException
-```js	
+```js
 bool IsPurgeException()
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetAuraSearchType
-```js	
+```js
 int GetAuraSearchType()
 ```
 # Class

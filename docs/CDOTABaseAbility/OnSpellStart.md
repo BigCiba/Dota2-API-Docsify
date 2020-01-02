@@ -1,5 +1,5 @@
 # OnSpellStart
-```js	
+```js
 void OnSpellStart()
 ```
 # Class

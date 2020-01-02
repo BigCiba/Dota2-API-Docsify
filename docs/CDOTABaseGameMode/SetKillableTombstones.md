@@ -1,5 +1,5 @@
 # SetKillableTombstones
-```js	
+```js
 void SetKillableTombstones(bEnabled)
 ```
 # Class

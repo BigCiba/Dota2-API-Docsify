@@ -1,5 +1,5 @@
 # GetIdealSpeed
-```js	
+```js
 float GetIdealSpeed()
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetKillCamUnit
-```js	
+```js
 void SetKillCamUnit(hEntity)
 ```
 # Class

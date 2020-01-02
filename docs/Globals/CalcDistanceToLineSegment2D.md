@@ -1,5 +1,5 @@
 # CalcDistanceToLineSegment2D
-```js	
+```js
 float CalcDistanceToLineSegment2D(Vector_1, Vector_2, Vector_3)
 ```
 # Class

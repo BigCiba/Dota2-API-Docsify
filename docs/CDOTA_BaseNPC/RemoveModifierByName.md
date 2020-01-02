@@ -1,5 +1,5 @@
 # RemoveModifierByName
-```js	
+```js
 void RemoveModifierByName(pszScriptName)
 ```
 # Class

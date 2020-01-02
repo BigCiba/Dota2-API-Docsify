@@ -1,5 +1,5 @@
 # GetSpellAmplification
-```js	
+```js
 float GetSpellAmplification(bBaseOnly)
 ```
 # Class

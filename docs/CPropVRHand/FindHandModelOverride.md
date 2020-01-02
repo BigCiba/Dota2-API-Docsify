@@ -1,5 +1,5 @@
 # FindHandModelOverride
-```js	
+```js
 handle FindHandModelOverride(pModelName)
 ```
 # Class

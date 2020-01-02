@@ -1,5 +1,5 @@
 # SetFloat
-```js	
+```js
 void SetFloat(string_1, float_2)
 ```
 # Class

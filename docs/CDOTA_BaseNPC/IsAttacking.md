@@ -1,5 +1,5 @@
 # IsAttacking
-```js	
+```js
 bool IsAttacking()
 ```
 # Class

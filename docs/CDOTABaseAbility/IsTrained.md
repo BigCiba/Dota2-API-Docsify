@@ -1,5 +1,5 @@
 # IsTrained
-```js	
+```js
 bool IsTrained()
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetNearbyCreepDeaths
-```js	
+```js
 int GetNearbyCreepDeaths(iPlayerID)
 ```
 # Class

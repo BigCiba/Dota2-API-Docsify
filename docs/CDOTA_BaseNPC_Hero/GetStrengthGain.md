@@ -1,5 +1,5 @@
 # GetStrengthGain
-```js	
+```js
 float GetStrengthGain()
 ```
 # Class

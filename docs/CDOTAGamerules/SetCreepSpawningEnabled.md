@@ -1,5 +1,5 @@
 # SetCreepSpawningEnabled
-```js	
+```js
 void SetCreepSpawningEnabled(bool_1)
 ```
 # Class

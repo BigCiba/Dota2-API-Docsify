@@ -1,5 +1,5 @@
 # GetInitialGoalEntity
-```js	
+```js
 handle GetInitialGoalEntity()
 ```
 # Class

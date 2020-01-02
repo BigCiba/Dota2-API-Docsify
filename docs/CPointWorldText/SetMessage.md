@@ -1,5 +1,5 @@
 # SetMessage
-```js	
+```js
 void SetMessage(pMessage)
 ```
 # Class

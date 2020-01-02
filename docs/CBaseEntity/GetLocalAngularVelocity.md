@@ -1,5 +1,5 @@
 # GetLocalAngularVelocity
-```js	
+```js
 QAngle GetLocalAngularVelocity()
 ```
 # Class

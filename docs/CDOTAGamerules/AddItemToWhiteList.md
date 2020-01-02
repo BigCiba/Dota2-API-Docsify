@@ -1,5 +1,5 @@
 # AddItemToWhiteList
-```js	
+```js
 void AddItemToWhiteList(string_1)
 ```
 # Class

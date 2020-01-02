@@ -1,5 +1,5 @@
 # SetBodygroup
-```js	
+```js
 void SetBodygroup(iGroup, iValue)
 ```
 # Class

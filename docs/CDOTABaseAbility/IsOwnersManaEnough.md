@@ -1,5 +1,5 @@
 # IsOwnersManaEnough
-```js	
+```js
 bool IsOwnersManaEnough()
 ```
 # Class

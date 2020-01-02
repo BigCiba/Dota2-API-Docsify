@@ -1,5 +1,5 @@
 # IsOutOfGame
-```js	
+```js
 bool IsOutOfGame()
 ```
 # Class

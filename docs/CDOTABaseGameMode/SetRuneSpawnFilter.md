@@ -1,5 +1,5 @@
 # SetRuneSpawnFilter
-```js	
+```js
 void SetRuneSpawnFilter(hFunction, hContext)
 ```
 # Class

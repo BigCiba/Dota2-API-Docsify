@@ -1,5 +1,5 @@
 # ClearModifierGainedFilter
-```js	
+```js
 void ClearModifierGainedFilter()
 ```
 # Class

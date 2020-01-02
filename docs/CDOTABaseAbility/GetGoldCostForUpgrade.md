@@ -1,5 +1,5 @@
 # GetGoldCostForUpgrade
-```js	
+```js
 int GetGoldCostForUpgrade(iLevel)
 ```
 # Class

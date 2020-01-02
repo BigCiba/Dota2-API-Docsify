@@ -1,5 +1,5 @@
 # DebugBreak
-```js	
+```js
 void DebugBreak()
 ```
 # Class

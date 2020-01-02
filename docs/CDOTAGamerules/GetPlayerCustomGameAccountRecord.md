@@ -1,5 +1,5 @@
 # GetPlayerCustomGameAccountRecord
-```js	
+```js
 table GetPlayerCustomGameAccountRecord(int_1)
 ```
 # Class

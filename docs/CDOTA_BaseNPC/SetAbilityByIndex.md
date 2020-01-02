@@ -1,5 +1,5 @@
 # SetAbilityByIndex
-```js	
+```js
 void SetAbilityByIndex(hAbility, iIndex)
 ```
 # Class

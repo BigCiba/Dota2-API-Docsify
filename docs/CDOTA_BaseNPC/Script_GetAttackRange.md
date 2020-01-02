@@ -1,5 +1,5 @@
 # Script_GetAttackRange
-```js	
+```js
 float Script_GetAttackRange()
 ```
 # Class

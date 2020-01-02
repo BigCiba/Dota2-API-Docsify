@@ -1,5 +1,5 @@
 # RemoveItemFromWhiteList
-```js	
+```js
 void RemoveItemFromWhiteList(string_1)
 ```
 # Class

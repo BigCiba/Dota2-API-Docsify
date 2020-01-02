@@ -1,5 +1,5 @@
 # UnloadSpawnGroup
-```js	
+```js
 void UnloadSpawnGroup(string_1)
 ```
 # Class

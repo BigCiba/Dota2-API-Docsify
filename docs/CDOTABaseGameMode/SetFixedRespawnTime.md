@@ -1,5 +1,5 @@
 # SetFixedRespawnTime
-```js	
+```js
 void SetFixedRespawnTime(flFixedRespawnTime)
 ```
 # Class

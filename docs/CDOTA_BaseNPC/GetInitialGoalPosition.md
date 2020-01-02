@@ -1,5 +1,5 @@
 # GetInitialGoalPosition
-```js	
+```js
 Vector GetInitialGoalPosition()
 ```
 # Class

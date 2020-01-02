@@ -1,5 +1,5 @@
 # SetLightGroup
-```js	
+```js
 void SetLightGroup(pLightGroup)
 ```
 # Class

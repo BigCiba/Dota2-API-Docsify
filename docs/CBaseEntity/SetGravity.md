@@ -1,5 +1,5 @@
 # SetGravity
-```js	
+```js
 void SetGravity(flGravity)
 ```
 # Class

@@ -1,5 +1,5 @@
 # IsCosmetic
-```js	
+```js
 bool IsCosmetic(hEntity)
 ```
 # Class

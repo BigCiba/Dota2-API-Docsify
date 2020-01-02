@@ -1,5 +1,5 @@
 # SetSize
-```js	
+```js
 void SetSize(mins, maxs)
 ```
 # Class

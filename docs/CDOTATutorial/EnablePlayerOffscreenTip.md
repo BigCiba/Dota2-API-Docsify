@@ -1,5 +1,5 @@
 # EnablePlayerOffscreenTip
-```js	
+```js
 void EnablePlayerOffscreenTip(bool_1)
 ```
 # Class

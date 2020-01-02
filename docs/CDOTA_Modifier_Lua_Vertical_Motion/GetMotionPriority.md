@@ -1,5 +1,5 @@
 # GetMotionPriority
-```js	
+```js
 int GetMotionPriority()
 ```
 # Class

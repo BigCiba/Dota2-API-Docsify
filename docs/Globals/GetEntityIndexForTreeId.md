@@ -1,5 +1,5 @@
 # GetEntityIndexForTreeId
-```js	
+```js
 <unknown> GetEntityIndexForTreeId(unsigned_1)
 ```
 # Class

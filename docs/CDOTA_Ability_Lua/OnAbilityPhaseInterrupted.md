@@ -1,5 +1,5 @@
 # OnAbilityPhaseInterrupted
-```js	
+```js
 void OnAbilityPhaseInterrupted()
 ```
 # Class

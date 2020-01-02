@@ -1,5 +1,5 @@
 # GetMaterialGroupMask
-```js	
+```js
 uint64 GetMaterialGroupMask()
 ```
 # Class

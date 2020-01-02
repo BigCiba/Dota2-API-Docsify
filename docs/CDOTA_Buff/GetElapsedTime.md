@@ -1,5 +1,5 @@
 # GetElapsedTime
-```js	
+```js
 float GetElapsedTime()
 ```
 # Class

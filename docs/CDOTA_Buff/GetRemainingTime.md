@@ -1,5 +1,5 @@
 # GetRemainingTime
-```js	
+```js
 float GetRemainingTime()
 ```
 # Class

@@ -1,5 +1,5 @@
 # IsSharedWithTeammates
-```js	
+```js
 bool IsSharedWithTeammates()
 ```
 # Class

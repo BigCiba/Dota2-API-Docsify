@@ -1,5 +1,5 @@
 # GetAbilityPoints
-```js	
+```js
 int GetAbilityPoints()
 ```
 # Class

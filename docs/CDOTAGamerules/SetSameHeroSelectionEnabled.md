@@ -1,5 +1,5 @@
 # SetSameHeroSelectionEnabled
-```js	
+```js
 void SetSameHeroSelectionEnabled(bool_1)
 ```
 # Class

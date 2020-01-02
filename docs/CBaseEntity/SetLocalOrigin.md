@@ -1,5 +1,5 @@
 # SetLocalOrigin
-```js	
+```js
 void SetLocalOrigin(origin)
 ```
 # Class

@@ -1,5 +1,5 @@
 # IsActivated
-```js	
+```js
 bool IsActivated()
 ```
 # Class

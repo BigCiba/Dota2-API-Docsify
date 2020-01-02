@@ -1,5 +1,5 @@
 # GetAbilityTargetFlags
-```js	
+```js
 int GetAbilityTargetFlags()
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetPlayerCount
-```js	
+```js
 int GetPlayerCount()
 ```
 # Class

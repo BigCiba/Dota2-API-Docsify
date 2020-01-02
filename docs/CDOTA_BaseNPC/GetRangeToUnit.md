@@ -1,5 +1,5 @@
 # GetRangeToUnit
-```js	
+```js
 float GetRangeToUnit(hNPC)
 ```
 # Class

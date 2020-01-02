@@ -1,5 +1,5 @@
 # OnIntervalThink
-```js	
+```js
 void OnIntervalThink()
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetActivated
-```js	
+```js
 void SetActivated(bActivated)
 ```
 # Class

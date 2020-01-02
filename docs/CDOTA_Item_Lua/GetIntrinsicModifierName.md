@@ -1,5 +1,5 @@
 # GetIntrinsicModifierName
-```js	
+```js
 string GetIntrinsicModifierName()
 ```
 # Class

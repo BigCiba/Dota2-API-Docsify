@@ -1,5 +1,5 @@
 # ClearHealingFilter
-```js	
+```js
 void ClearHealingFilter()
 ```
 # Class

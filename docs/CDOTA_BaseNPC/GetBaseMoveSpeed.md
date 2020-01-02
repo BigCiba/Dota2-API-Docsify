@@ -1,5 +1,5 @@
 # GetBaseMoveSpeed
-```js	
+```js
 float GetBaseMoveSpeed()
 ```
 # Class

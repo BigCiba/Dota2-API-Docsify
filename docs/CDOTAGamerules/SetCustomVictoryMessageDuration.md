@@ -1,5 +1,5 @@
 # SetCustomVictoryMessageDuration
-```js	
+```js
 void SetCustomVictoryMessageDuration(float_1)
 ```
 # Class

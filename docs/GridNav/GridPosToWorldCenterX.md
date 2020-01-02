@@ -1,5 +1,5 @@
 # GridPosToWorldCenterX
-```js	
+```js
 float GridPosToWorldCenterX(int_1)
 ```
 # Class

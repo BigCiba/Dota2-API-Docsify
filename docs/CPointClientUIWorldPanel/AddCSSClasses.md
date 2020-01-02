@@ -1,5 +1,5 @@
 # AddCSSClasses
-```js	
+```js
 void AddCSSClasses(pszClasses)
 ```
 # Class

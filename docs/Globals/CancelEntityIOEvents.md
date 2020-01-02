@@ -1,5 +1,5 @@
 # CancelEntityIOEvents
-```js	
+```js
 void CancelEntityIOEvents(ehandle_1)
 ```
 # Class

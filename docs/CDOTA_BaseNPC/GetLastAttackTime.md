@@ -1,5 +1,5 @@
 # GetLastAttackTime
-```js	
+```js
 float GetLastAttackTime()
 ```
 # Class

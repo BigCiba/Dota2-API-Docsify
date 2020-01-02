@@ -1,5 +1,5 @@
 # RespawnHero
-```js	
+```js
 void RespawnHero(bBuyBack, bRespawnPenalty)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetHealth
-```js	
+```js
 int GetHealth()
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetBaseDamageMin
-```js	
+```js
 void SetBaseDamageMin(nMin)
 ```
 # Class

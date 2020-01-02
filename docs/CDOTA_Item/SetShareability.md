@@ -1,5 +1,5 @@
 # SetShareability
-```js	
+```js
 void SetShareability(iShareability)
 ```
 # Class

@@ -1,5 +1,5 @@
 # QueryVector
-```js	
+```js
 Vector QueryVector(tok, vDefault)
 ```
 # Class

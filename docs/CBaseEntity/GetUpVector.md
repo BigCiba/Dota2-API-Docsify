@@ -1,5 +1,5 @@
 # GetUpVector
-```js	
+```js
 Vector GetUpVector()
 ```
 # Class

@@ -1,5 +1,5 @@
 # MoveToTargetToAttack
-```js	
+```js
 void MoveToTargetToAttack(hTarget)
 ```
 # Class

@@ -1,5 +1,5 @@
 # DestroyDamageInfo
-```js	
+```js
 void DestroyDamageInfo(handle_1)
 ```
 # Class

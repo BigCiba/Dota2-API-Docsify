@@ -1,5 +1,5 @@
 # QueryInt
-```js	
+```js
 int QueryInt(tok, nDefault)
 ```
 # Class

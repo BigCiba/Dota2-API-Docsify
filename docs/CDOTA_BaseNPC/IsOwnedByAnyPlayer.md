@@ -1,5 +1,5 @@
 # IsOwnedByAnyPlayer
-```js	
+```js
 bool IsOwnedByAnyPlayer()
 ```
 # Class

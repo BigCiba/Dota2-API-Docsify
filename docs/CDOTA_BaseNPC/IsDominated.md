@@ -1,5 +1,5 @@
 # IsDominated
-```js	
+```js
 bool IsDominated()
 ```
 # Class

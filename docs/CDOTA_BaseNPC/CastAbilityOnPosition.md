@@ -1,5 +1,5 @@
 # CastAbilityOnPosition
-```js	
+```js
 void CastAbilityOnPosition(vPosition, hAbility, iPlayerIndex)
 ```
 # Class

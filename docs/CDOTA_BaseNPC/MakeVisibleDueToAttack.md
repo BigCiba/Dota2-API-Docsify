@@ -1,5 +1,5 @@
 # MakeVisibleDueToAttack
-```js	
+```js
 void MakeVisibleDueToAttack(iTeam, flRadius)
 ```
 # Class

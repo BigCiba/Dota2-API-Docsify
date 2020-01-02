@@ -1,5 +1,5 @@
 # QueryColor
-```js	
+```js
 Vector QueryColor(tok, vDefault)
 ```
 # Class

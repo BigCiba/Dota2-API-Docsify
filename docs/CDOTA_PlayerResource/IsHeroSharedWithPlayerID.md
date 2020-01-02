@@ -1,5 +1,5 @@
 # IsHeroSharedWithPlayerID
-```js	
+```js
 bool IsHeroSharedWithPlayerID(nUnitOwnerPlayerID, nOtherPlayerID)
 ```
 # Class

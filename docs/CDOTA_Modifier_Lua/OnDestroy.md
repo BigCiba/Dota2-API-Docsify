@@ -1,5 +1,5 @@
 # OnDestroy
-```js	
+```js
 void OnDestroy()
 ```
 # Class

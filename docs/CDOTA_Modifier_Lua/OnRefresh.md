@@ -1,5 +1,5 @@
 # OnRefresh
-```js	
+```js
 void OnRefresh(table)
 ```
 # Class

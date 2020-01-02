@@ -1,5 +1,5 @@
 # Attribute_SetFloatValue
-```js	
+```js
 void Attribute_SetFloatValue(pName, flValue)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetRenderColor
-```js	
+```js
 void SetRenderColor(r, g, b)
 ```
 # Class

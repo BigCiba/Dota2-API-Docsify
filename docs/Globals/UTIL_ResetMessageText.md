@@ -1,5 +1,5 @@
 # UTIL_ResetMessageText
-```js	
+```js
 void UTIL_ResetMessageText(int_1)
 ```
 # Class

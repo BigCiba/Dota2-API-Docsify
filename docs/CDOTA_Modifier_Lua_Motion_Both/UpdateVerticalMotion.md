@@ -1,5 +1,5 @@
 # UpdateVerticalMotion
-```js	
+```js
 void UpdateVerticalMotion(me, dt)
 ```
 # Class

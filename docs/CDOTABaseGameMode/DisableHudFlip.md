@@ -1,5 +1,5 @@
 # DisableHudFlip
-```js	
+```js
 void DisableHudFlip(bDisable)
 ```
 # Class

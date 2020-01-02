@@ -1,5 +1,5 @@
 # GetMatchID
-```js	
+```js
 uint64 GetMatchID()
 ```
 # Class

@@ -1,5 +1,5 @@
 # WorldToGridPosY
-```js	
+```js
 int WorldToGridPosY(float_1)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetSoundDuration
-```js	
+```js
 float GetSoundDuration(soundname, actormodel)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetBountyRunePickupFilter
-```js	
+```js
 void SetBountyRunePickupFilter(hFunction, hContext)
 ```
 # Class

@@ -1,5 +1,5 @@
 # IsVRDashboardShowing
-```js	
+```js
 bool IsVRDashboardShowing()
 ```
 # Class

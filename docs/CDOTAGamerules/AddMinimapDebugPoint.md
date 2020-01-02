@@ -1,5 +1,5 @@
 # AddMinimapDebugPoint
-```js	
+```js
 void AddMinimapDebugPoint(int_1, Vector_2, int_3, int_4, int_5, int_6, float_7)
 ```
 # Class

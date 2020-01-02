@@ -1,5 +1,5 @@
 # FireEntityIOInputString
-```js	
+```js
 void FireEntityIOInputString(ehandle_1, string_2, string_3)
 ```
 # Class

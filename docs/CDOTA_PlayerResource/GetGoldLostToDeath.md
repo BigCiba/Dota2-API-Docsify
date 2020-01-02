@@ -1,5 +1,5 @@
 # GetGoldLostToDeath
-```js	
+```js
 int GetGoldLostToDeath(iPlayerID)
 ```
 # Class

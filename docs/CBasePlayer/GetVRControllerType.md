@@ -1,5 +1,5 @@
 # GetVRControllerType
-```js	
+```js
 <unknown> GetVRControllerType()
 ```
 # Class

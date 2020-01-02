@@ -1,5 +1,5 @@
 # SetUseCustomHeroXPValues
-```js	
+```js
 void SetUseCustomHeroXPValues(bool_1)
 ```
 # Class

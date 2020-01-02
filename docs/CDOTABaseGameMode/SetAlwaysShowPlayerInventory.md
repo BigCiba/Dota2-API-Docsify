@@ -1,5 +1,5 @@
 # SetAlwaysShowPlayerInventory
-```js	
+```js
 void SetAlwaysShowPlayerInventory(bAlwaysShow)
 ```
 # Class

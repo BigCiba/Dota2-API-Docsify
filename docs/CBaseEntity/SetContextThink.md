@@ -1,5 +1,5 @@
 # SetContextThink
-```js	
+```js
 void SetContextThink(pszContextName, hThinkFunc, flInterval)
 ```
 # Class

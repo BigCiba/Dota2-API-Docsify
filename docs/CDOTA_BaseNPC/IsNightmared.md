@@ -1,5 +1,5 @@
 # IsNightmared
-```js	
+```js
 bool IsNightmared()
 ```
 # Class

@@ -1,5 +1,5 @@
 # CanEntityBeSeenByMyTeam
-```js	
+```js
 bool CanEntityBeSeenByMyTeam(hEntity)
 ```
 # Class

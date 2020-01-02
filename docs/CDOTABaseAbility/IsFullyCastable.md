@@ -1,5 +1,5 @@
 # IsFullyCastable
-```js	
+```js
 bool IsFullyCastable()
 ```
 # Class

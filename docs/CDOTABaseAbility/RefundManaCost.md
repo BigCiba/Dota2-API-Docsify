@@ -1,5 +1,5 @@
 # RefundManaCost
-```js	
+```js
 void RefundManaCost()
 ```
 # Class

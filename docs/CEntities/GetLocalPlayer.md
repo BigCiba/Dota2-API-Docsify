@@ -1,5 +1,5 @@
 # GetLocalPlayer
-```js	
+```js
 handle GetLocalPlayer()
 ```
 # Class

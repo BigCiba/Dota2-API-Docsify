@@ -1,5 +1,5 @@
 # BoundingRadius2D
-```js	
+```js
 float BoundingRadius2D()
 ```
 # Class

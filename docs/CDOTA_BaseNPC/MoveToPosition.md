@@ -1,5 +1,5 @@
 # MoveToPosition
-```js	
+```js
 void MoveToPosition(vDest)
 ```
 # Class

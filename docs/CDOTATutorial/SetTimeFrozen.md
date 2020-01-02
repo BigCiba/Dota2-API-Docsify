@@ -1,5 +1,5 @@
 # SetTimeFrozen
-```js	
+```js
 void SetTimeFrozen(bool_1)
 ```
 # Class

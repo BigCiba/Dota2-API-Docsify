@@ -1,5 +1,5 @@
 # GetAdditionalOwnedUnits
-```js	
+```js
 table GetAdditionalOwnedUnits()
 ```
 # Class

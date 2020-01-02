@@ -1,5 +1,5 @@
 # SetBuybackGoldLimitTime
-```js	
+```js
 void SetBuybackGoldLimitTime(nPlayerID, flBuybackCooldown)
 ```
 # Class

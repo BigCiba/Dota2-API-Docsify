@@ -1,5 +1,5 @@
 # SpawnEntityFromTableSynchronous
-```js	
+```js
 handle SpawnEntityFromTableSynchronous(string_1, handle_2)
 ```
 # Class

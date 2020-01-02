@@ -1,5 +1,5 @@
 # GetGoldSpentOnItems
-```js	
+```js
 int GetGoldSpentOnItems(iPlayerID)
 ```
 # Class

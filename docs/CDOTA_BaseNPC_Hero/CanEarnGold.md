@@ -1,5 +1,5 @@
 # CanEarnGold
-```js	
+```js
 bool CanEarnGold()
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetNeverMoveToClearSpace
-```js	
+```js
 bool GetNeverMoveToClearSpace()
 ```
 # Class

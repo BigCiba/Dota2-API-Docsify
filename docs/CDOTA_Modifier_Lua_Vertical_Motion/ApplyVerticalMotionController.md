@@ -1,5 +1,5 @@
 # ApplyVerticalMotionController
-```js	
+```js
 bool ApplyVerticalMotionController()
 ```
 # Class

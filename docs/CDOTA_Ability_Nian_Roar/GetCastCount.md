@@ -1,5 +1,5 @@
 # GetCastCount
-```js	
+```js
 int GetCastCount()
 ```
 # Class

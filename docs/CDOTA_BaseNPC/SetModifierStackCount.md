@@ -1,5 +1,5 @@
 # SetModifierStackCount
-```js	
+```js
 void SetModifierStackCount(pszScriptName, hCaster, nStackCount)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetXPPerMin
-```js	
+```js
 float GetXPPerMin(iPlayerID)
 ```
 # Class

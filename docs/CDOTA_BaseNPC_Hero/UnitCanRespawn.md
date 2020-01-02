@@ -1,5 +1,5 @@
 # UnitCanRespawn
-```js	
+```js
 bool UnitCanRespawn()
 ```
 # Class

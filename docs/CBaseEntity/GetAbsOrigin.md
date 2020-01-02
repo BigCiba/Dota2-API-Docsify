@@ -1,5 +1,5 @@
 # GetAbsOrigin
-```js	
+```js
 Vector GetAbsOrigin()
 ```
 # Class

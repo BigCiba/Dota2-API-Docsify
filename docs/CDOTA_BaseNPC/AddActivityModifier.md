@@ -1,5 +1,5 @@
 # AddActivityModifier
-```js	
+```js
 void AddActivityModifier(szName)
 ```
 # Class

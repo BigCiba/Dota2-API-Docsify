@@ -1,5 +1,5 @@
 # GetSelectedHeroName
-```js	
+```js
 string GetSelectedHeroName(iPlayerID)
 ```
 # Class

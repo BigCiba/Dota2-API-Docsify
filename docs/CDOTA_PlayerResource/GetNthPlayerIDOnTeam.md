@@ -1,5 +1,5 @@
 # GetNthPlayerIDOnTeam
-```js	
+```js
 int GetNthPlayerIDOnTeam(iTeamNumber, iNthPlayer)
 ```
 # Class

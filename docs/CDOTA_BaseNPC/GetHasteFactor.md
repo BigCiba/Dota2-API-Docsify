@@ -1,5 +1,5 @@
 # GetHasteFactor
-```js	
+```js
 float GetHasteFactor()
 ```
 # Class

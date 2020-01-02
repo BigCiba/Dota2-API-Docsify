@@ -1,5 +1,5 @@
 # GetAttackCapability
-```js	
+```js
 int GetAttackCapability()
 ```
 # Class

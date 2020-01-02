@@ -1,5 +1,5 @@
 # SetOrModifyPlayerGold
-```js	
+```js
 void SetOrModifyPlayerGold(int_1, bool_2)
 ```
 # Class

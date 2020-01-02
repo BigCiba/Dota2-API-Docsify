@@ -1,5 +1,5 @@
 # GetGoldSoundDisabled
-```js	
+```js
 bool GetGoldSoundDisabled()
 ```
 # Class

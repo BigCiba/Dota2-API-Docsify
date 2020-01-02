@@ -1,5 +1,5 @@
 # CreateIllusions
-```js	
+```js
 table CreateIllusions(handle_1, handle_2, handle_3, int_4, int_5, bool_6, bool_7)
 ```
 # Class

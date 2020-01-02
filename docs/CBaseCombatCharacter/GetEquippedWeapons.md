@@ -1,5 +1,5 @@
 # GetEquippedWeapons
-```js	
+```js
 table GetEquippedWeapons()
 ```
 # Class

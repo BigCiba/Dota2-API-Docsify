@@ -1,5 +1,5 @@
 # GetMaxLevel
-```js	
+```js
 int GetMaxLevel()
 ```
 # Class

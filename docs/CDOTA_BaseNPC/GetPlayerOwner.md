@@ -1,5 +1,5 @@
 # GetPlayerOwner
-```js	
+```js
 handle GetPlayerOwner()
 ```
 # Class

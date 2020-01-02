@@ -1,5 +1,5 @@
 # Send
-```js	
+```js
 bool Send(handle_1)
 ```
 # Class

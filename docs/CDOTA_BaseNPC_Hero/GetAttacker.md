@@ -1,5 +1,5 @@
 # GetAttacker
-```js	
+```js
 int GetAttacker(nIndex)
 ```
 # Class

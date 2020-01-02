@@ -1,5 +1,5 @@
 # IsBuybackDisabledByReapersScythe
-```js	
+```js
 bool IsBuybackDisabledByReapersScythe()
 ```
 # Class

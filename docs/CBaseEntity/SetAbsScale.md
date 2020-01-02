@@ -1,5 +1,5 @@
 # SetAbsScale
-```js	
+```js
 void SetAbsScale(flScale)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetHullRadius
-```js	
+```js
 float GetHullRadius()
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetRenderAlpha
-```js	
+```js
 void SetRenderAlpha(nAlpha)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetLastHitMultikill
-```js	
+```js
 int GetLastHitMultikill(iPlayerID)
 ```
 # Class

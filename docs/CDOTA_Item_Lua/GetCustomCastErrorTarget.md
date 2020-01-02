@@ -1,5 +1,5 @@
 # GetCustomCastErrorTarget
-```js	
+```js
 string GetCustomCastErrorTarget(hTarget)
 ```
 # Class

@@ -1,5 +1,5 @@
 # IsConsideredHero
-```js	
+```js
 bool IsConsideredHero()
 ```
 # Class

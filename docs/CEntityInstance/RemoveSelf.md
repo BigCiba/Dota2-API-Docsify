@@ -1,5 +1,5 @@
 # RemoveSelf
-```js	
+```js
 void RemoveSelf()
 ```
 # Class

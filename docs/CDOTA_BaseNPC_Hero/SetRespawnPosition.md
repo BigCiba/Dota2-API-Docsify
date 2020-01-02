@@ -1,5 +1,5 @@
 # SetRespawnPosition
-```js	
+```js
 void SetRespawnPosition(vOrigin)
 ```
 # Class

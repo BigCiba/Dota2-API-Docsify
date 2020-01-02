@@ -1,5 +1,5 @@
 # SetDuration
-```js	
+```js
 void SetDuration(flDuration, bInformClient)
 ```
 # Class

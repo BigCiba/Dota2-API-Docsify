@@ -1,5 +1,5 @@
 # GetMaxOutputDelay
-```js	
+```js
 float GetMaxOutputDelay(ehandle_1, string_2)
 ```
 # Class

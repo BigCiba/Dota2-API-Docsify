@@ -1,5 +1,5 @@
 # UTIL_ResetMessageTextAll
-```js	
+```js
 void UTIL_ResetMessageTextAll()
 ```
 # Class

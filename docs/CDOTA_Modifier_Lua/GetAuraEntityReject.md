@@ -1,5 +1,5 @@
 # GetAuraEntityReject
-```js	
+```js
 bool GetAuraEntityReject(hEntity)
 ```
 # Class

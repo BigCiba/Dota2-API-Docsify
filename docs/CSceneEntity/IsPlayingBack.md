@@ -1,5 +1,5 @@
 # IsPlayingBack
-```js	
+```js
 bool IsPlayingBack()
 ```
 # Class

@@ -1,5 +1,5 @@
 # AddRunePickup
-```js	
+```js
 void AddRunePickup(iPlayerID)
 ```
 # Class

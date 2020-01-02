@@ -1,5 +1,5 @@
 # SetBaseAgility
-```js	
+```js
 void SetBaseAgility(flAgility)
 ```
 # Class

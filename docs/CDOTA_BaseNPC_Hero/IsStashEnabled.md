@@ -1,5 +1,5 @@
 # IsStashEnabled
-```js	
+```js
 bool IsStashEnabled()
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetParticleControl
-```js	
+```js
 void SetParticleControl(int_1, int_2, Vector_3)
 ```
 # Class

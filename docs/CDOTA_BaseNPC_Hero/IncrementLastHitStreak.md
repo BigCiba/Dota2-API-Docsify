@@ -1,5 +1,5 @@
 # IncrementLastHitStreak
-```js	
+```js
 void IncrementLastHitStreak()
 ```
 # Class

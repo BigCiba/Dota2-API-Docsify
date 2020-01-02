@@ -1,5 +1,5 @@
 # GetGoldSpentOnSupport
-```js	
+```js
 int GetGoldSpentOnSupport(iPlayerID)
 ```
 # Class

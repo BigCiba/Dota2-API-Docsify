@@ -1,5 +1,5 @@
 # SetBotsMaxPushTier
-```js	
+```js
 void SetBotsMaxPushTier(nMaxTier)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetAuraOwner
-```js	
+```js
 handle GetAuraOwner()
 ```
 # Class

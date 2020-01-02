@@ -1,5 +1,5 @@
 # GetHorn
-```js	
+```js
 handle GetHorn()
 ```
 # Class

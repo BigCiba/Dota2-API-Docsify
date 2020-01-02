@@ -1,5 +1,5 @@
 # HasFlyMovementCapability
-```js	
+```js
 bool HasFlyMovementCapability()
 ```
 # Class

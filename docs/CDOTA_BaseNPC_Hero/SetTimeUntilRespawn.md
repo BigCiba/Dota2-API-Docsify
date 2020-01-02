@@ -1,5 +1,5 @@
 # SetTimeUntilRespawn
-```js	
+```js
 void SetTimeUntilRespawn(time)
 ```
 # Class

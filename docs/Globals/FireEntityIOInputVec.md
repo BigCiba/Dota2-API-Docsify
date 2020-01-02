@@ -1,5 +1,5 @@
 # FireEntityIOInputVec
-```js	
+```js
 void FireEntityIOInputVec(ehandle_1, string_2, Vector_3)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetGraphParameter
-```js	
+```js
 table GetGraphParameter(pszParam)
 ```
 # Class

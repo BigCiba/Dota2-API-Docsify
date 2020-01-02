@@ -1,5 +1,5 @@
 # OnProjectileThink_ExtraData
-```js	
+```js
 void OnProjectileThink_ExtraData(vLocation, table)
 ```
 # Class

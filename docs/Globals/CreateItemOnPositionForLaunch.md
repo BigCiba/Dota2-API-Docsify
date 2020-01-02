@@ -1,5 +1,5 @@
 # CreateItemOnPositionForLaunch
-```js	
+```js
 handle CreateItemOnPositionForLaunch(Vector_1, handle_2)
 ```
 # Class

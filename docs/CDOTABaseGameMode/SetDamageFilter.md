@@ -1,5 +1,5 @@
 # SetDamageFilter
-```js	
+```js
 void SetDamageFilter(hFunction, hContext)
 ```
 # Class

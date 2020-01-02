@@ -1,5 +1,5 @@
 # SetCustomTeamAssignment
-```js	
+```js
 void SetCustomTeamAssignment(iPlayerID, iTeamAssignment)
 ```
 # Class

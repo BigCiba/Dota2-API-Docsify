@@ -1,5 +1,5 @@
 # GetParent
-```js	
+```js
 handle GetParent()
 ```
 # Class

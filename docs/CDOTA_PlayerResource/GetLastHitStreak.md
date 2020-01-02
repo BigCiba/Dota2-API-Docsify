@@ -1,5 +1,5 @@
 # GetLastHitStreak
-```js	
+```js
 int GetLastHitStreak(iPlayerID)
 ```
 # Class

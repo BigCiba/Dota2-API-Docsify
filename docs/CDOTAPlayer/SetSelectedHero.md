@@ -1,5 +1,5 @@
 # SetSelectedHero
-```js	
+```js
 void SetSelectedHero(pszHeroName)
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetUnseenFogOfWarEnabled
-```js	
+```js
 void SetUnseenFogOfWarEnabled(bEnabled)
 ```
 # Class

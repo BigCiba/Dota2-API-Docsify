@@ -1,5 +1,5 @@
 # GetDOTACommandClient
-```js	
+```js
 handle GetDOTACommandClient()
 ```
 # Class

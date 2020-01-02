@@ -1,5 +1,5 @@
 # GetBaseAttackRange
-```js	
+```js
 int GetBaseAttackRange()
 ```
 # Class

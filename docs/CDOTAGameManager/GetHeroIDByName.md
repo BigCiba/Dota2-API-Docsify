@@ -1,5 +1,5 @@
 # GetHeroIDByName
-```js	
+```js
 int GetHeroIDByName(string_1)
 ```
 # Class

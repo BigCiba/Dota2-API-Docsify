@@ -1,5 +1,5 @@
 # GetWorldMaxX
-```js	
+```js
 float GetWorldMaxX()
 ```
 # Class

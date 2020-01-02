@@ -1,5 +1,5 @@
 # GetCustomBuybackCooldown
-```js	
+```js
 float GetCustomBuybackCooldown(iPlayerID)
 ```
 # Class

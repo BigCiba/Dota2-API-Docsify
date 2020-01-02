@@ -1,5 +1,5 @@
 # DebugDrawClear
-```js	
+```js
 void DebugDrawClear()
 ```
 # Class

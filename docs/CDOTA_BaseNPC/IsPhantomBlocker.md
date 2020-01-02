@@ -1,5 +1,5 @@
 # IsPhantomBlocker
-```js	
+```js
 bool IsPhantomBlocker()
 ```
 # Class

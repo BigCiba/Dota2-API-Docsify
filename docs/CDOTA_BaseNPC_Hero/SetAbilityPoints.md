@@ -1,5 +1,5 @@
 # SetAbilityPoints
-```js	
+```js
 void SetAbilityPoints(iPoints)
 ```
 # Class

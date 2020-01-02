@@ -1,5 +1,5 @@
 # IsSellable
-```js	
+```js
 bool IsSellable()
 ```
 # Class

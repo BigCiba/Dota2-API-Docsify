@@ -1,5 +1,5 @@
 # IsPermanent
-```js	
+```js
 bool IsPermanent()
 ```
 # Class

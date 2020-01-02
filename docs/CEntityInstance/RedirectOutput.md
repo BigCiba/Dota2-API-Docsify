@@ -1,5 +1,5 @@
 # RedirectOutput
-```js	
+```js
 void RedirectOutput(string_1, string_2, handle_3)
 ```
 # Class

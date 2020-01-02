@@ -1,5 +1,5 @@
 # StopListeningToGameEvent
-```js	
+```js
 bool StopListeningToGameEvent(int_1)
 ```
 # Class

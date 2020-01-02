@@ -1,5 +1,5 @@
 # GetSystemTime
-```js	
+```js
 string GetSystemTime()
 ```
 # Class

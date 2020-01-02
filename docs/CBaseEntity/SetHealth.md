@@ -1,5 +1,5 @@
 # SetHealth
-```js	
+```js
 void SetHealth(nHealth)
 ```
 # Class

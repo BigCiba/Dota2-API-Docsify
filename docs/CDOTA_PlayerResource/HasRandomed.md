@@ -1,5 +1,5 @@
 # HasRandomed
-```js	
+```js
 bool HasRandomed(iPlayerID)
 ```
 # Class

@@ -1,5 +1,5 @@
 # OnStackCountChanged
-```js	
+```js
 void OnStackCountChanged(iStackCount)
 ```
 # Class

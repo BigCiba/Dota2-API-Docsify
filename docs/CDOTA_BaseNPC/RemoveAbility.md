@@ -1,5 +1,5 @@
 # RemoveAbility
-```js	
+```js
 void RemoveAbility(pszAbilityName)
 ```
 # Class

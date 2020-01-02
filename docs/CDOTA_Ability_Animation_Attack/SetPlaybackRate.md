@@ -1,5 +1,5 @@
 # SetPlaybackRate
-```js	
+```js
 void SetPlaybackRate(flRate)
 ```
 # Class

@@ -1,5 +1,5 @@
 # IsInRangeOfShop
-```js	
+```js
 bool IsInRangeOfShop(nShopType, bPhysical)
 ```
 # Class

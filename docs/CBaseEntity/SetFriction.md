@@ -1,5 +1,5 @@
 # SetFriction
-```js	
+```js
 void SetFriction(flFriction)
 ```
 # Class

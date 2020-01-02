@@ -1,5 +1,5 @@
 # SetCustomGameSetupAutoLaunchDelay
-```js	
+```js
 void SetCustomGameSetupAutoLaunchDelay(float_1)
 ```
 # Class

@@ -1,5 +1,5 @@
 # GetTeamPlayerCount
-```js	
+```js
 int GetTeamPlayerCount()
 ```
 # Class

@@ -1,5 +1,5 @@
 # SetBaseIntellect
-```js	
+```js
 void SetBaseIntellect(flIntellect)
 ```
 # Class

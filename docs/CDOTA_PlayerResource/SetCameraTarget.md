@@ -1,5 +1,5 @@
 # SetCameraTarget
-```js	
+```js
 void SetCameraTarget(nPlayerID, hTarget)
 ```
 # Class

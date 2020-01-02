@@ -1,5 +1,5 @@
 # SetCustomVictoryMessage
-```js	
+```js
 void SetCustomVictoryMessage(string_1)
 ```
 # Class

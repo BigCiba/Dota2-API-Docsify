@@ -1,5 +1,5 @@
 # IsClient
-```js	
+```js
 bool IsClient()
 ```
 # Class
