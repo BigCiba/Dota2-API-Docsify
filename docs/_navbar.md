@@ -1,5 +1,5 @@
-* [modifierfunction](Constants/modifierfunction)
-* [modifierstate](Constants/modifierstate)
+* [modifierfunction](Constants/modifierfunction/modifierfunction)
+* [modifierstate](Constants/modifierstate/modifierstate)
 * [Modifier_Lua](CDOTA_Modifier_Lua/_sidebar)
 * [Ability_Lua](CDOTA_Ability_Lua/_sidebar)
 * Overview
@@ -14,5 +14,5 @@
 	* [Modifier_Lua](CDOTA_Modifier_Lua/_sidebar)
 	* [Buff](CDOTA_Buff/_sidebar)
 	* [ParticleManager](CScriptParticleManager/_sidebar)
-	* [modifierfunction](Constants/modifierfunction)
-	* [modifierstate](Constants/modifierstate)
+	* [modifierfunction](Constants/modifierfunction/modifierfunction)
+	* [modifierstate](Constants/modifierstate/modifierstate)
