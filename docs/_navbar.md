@@ -1,3 +1,7 @@
+* [modifierfunction](Constants/modifierfunction)
+* [modifierstate](Constants/modifierstate)
+* [Modifier_Lua](CDOTA_Modifier_Lua/_sidebar)
+* [Ability_Lua](CDOTA_Ability_Lua/_sidebar)
 * Overview
 	* [PlayerResource](CDOTA_PlayerResource/_sidebar)
 	* [Gamerules](CDOTAGamerules/_sidebar)

@@ -3,7 +3,7 @@
 
 Name|Value|Lua Function|Description|Client
 --|:--:|--|--|:--:
-MODIFIER_EVENT_ON_ABILITY_END_CHANNEL|168|OnAbilityEndChannel|No Description Set|✔
+MODIFIER_EVENT_ON_ABILITY_END_CHANNEL|168|OnAbilityEndChannel|当持续施法结束|✔
 MODIFIER_EVENT_ON_ABILITY_EXECUTED|165|OnAbilityExecuted|No Description Set|✔
 MODIFIER_EVENT_ON_ABILITY_FULLY_CAST|166|OnAbilityFullyCast|No Description Set|✔
 MODIFIER_EVENT_ON_ABILITY_START|164|OnAbilityStart|No Description Set|✔

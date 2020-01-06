@@ -73,4 +73,4 @@
 * [**GridNav**](GridNav/_sidebar)
 * [**ProjectileManager**](ProjectileManager/_sidebar)
 * [**SteamInfo**](SteamInfo/_sidebar)
-* [**Constants**](Constants/Constants)
+* [**Constants**](Constants/_sidebar.md)

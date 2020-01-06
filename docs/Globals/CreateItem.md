@@ -1,16 +1,25 @@
 # CreateItem
 ```js
-handle CreateItem(string_1, handle_2, handle_3)
+handle CreateItem(sItemName, hOwner, hOwner)
 ```
 # Class
 ✔ `Server: Globals`  
 ✖ `Client: undefined`  
 
 # Function Description
-Create a DOTA item
+创建一个物品
 # Parameters
 Type|Name|Description
 --|--|--
-string|string_1|No Description Set
-handle|handle_2|No Description Set
-handle|handle_3|No Description Set
+string|sItemName|物品名字
+handle|hOwner|拥有者
+handle|hOwner|拥有者
+
+# Example
+```lua
+function windrunner_windrun:OnSpellStart()
+	local hCaster = self:GetCaster()
+	local hItem = CreateItem("item_rapier_shareable", hCaster, hCaster)
+	hCaster:AddItem(hItem)
+end
+```
