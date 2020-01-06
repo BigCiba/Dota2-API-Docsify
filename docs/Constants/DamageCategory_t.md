@@ -3,5 +3,5 @@
 
 Name|Value|Description|Client
 --|:--:|--|:--:
-DOTA_DAMAGE_CATEGORY_ATTACK|1|No Description Set|✖
-DOTA_DAMAGE_CATEGORY_SPELL|0|No Description Set|✖
+DOTA_DAMAGE_CATEGORY_ATTACK|1|攻击伤害类型|✖
+DOTA_DAMAGE_CATEGORY_SPELL|0|施法伤害类型|✖
