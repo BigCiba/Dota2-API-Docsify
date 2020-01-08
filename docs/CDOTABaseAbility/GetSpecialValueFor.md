@@ -7,8 +7,16 @@ table GetSpecialValueFor(szName)
 ✔ `Client: C_DOTABaseAbility`  
 
 # Function Description
-Gets a value from this ability's special value block for its current level.
+从该技能的当前等级的特殊值中获取值。
 # Parameters
 Type|Name|Description
 --|--|--
-string|szName|No Description Set
+string|szName|特殊值名字
+
+# Example
+```lua
+function phantom_assassin_blur_imba:OnSpellStart()
+	local hCaster = self:GetCaster()
+	local duration = self:GetSpecialValueFor("duration")
+end
+```

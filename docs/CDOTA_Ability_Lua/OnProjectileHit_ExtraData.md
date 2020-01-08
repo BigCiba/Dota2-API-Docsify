@@ -1,16 +1,33 @@
 # OnProjectileHit_ExtraData
 ```js
-bool OnProjectileHit_ExtraData(hTarget, vLocation, table)
+bool OnProjectileHit_ExtraData(hTarget, vLocation, ExtraData)
 ```
 # Class
 ✔ `Server: CDOTA_Ability_Lua`  
 ✖ `Client: undefined`  
 
 # Function Description
-(HSCRIPT hTarget, Vector vLocation, table kv) Projectile has collided with a given target or reached its destination (target is invalid).
+当投射物命中目标或者到达最远距离（此时hTarget为无效值）
 # Parameters
 Type|Name|Description
 --|--|--
-handle|hTarget|No Description Set
-Vector|vLocation|No Description Set
-handle|table|No Description Set
+handle|hTarget|击中的目标
+Vector|vLocation|目标位置
+handle|ExtraData|额外参数
+
+# Example
+```lua
+function mirana_arrow:OnProjectileHit_ExtraData(hTarget, vLocation, ExtraData)
+	local hCaster = self:GetCaster()
+	local tDamageTable = 
+	{
+		ability = self,
+		attacker = hCaster,
+		victim = hTarget,
+		damage = ExtraData.flDamage
+		damage_type = self:GetAbilityDamageType()
+	}
+	ApplyDamage(damage_table)
+	return true -- 返回true会销毁投射物
+end
+```

@@ -25,7 +25,7 @@ Name|Value|Lua Function|Description|Client
 [MODIFIER_EVENT_ON_DOMINATED](Constants/modifierfunction/MODIFIER_EVENT_ON_DOMINATED)|207|OnDominated|No Description Set|✔
 [MODIFIER_EVENT_ON_HEALTH_GAINED](Constants/modifierfunction/MODIFIER_EVENT_ON_HEALTH_GAINED)|184|OnHealthGained|No Description Set|✔
 [MODIFIER_EVENT_ON_HEAL_RECEIVED](Constants/modifierfunction/MODIFIER_EVENT_ON_HEAL_RECEIVED)|188|OnHealReceived|No Description Set|✔
-[MODIFIER_EVENT_ON_HERO_KILLED](Constants/modifierfunction/MODIFIER_EVENT_ON_HERO_KILLED)|187|OnHeroKilled|No Description Set|✔
+[MODIFIER_EVENT_ON_HERO_KILLED](Constants/modifierfunction/MODIFIER_EVENT_ON_HERO_KILLED)|187|OnHeroKilled|击杀英雄事件|✔
 [MODIFIER_EVENT_ON_MANA_GAINED](Constants/modifierfunction/MODIFIER_EVENT_ON_MANA_GAINED)|185|OnManaGained|No Description Set|✔
 [MODIFIER_EVENT_ON_MODEL_CHANGED](Constants/modifierfunction/MODIFIER_EVENT_ON_MODEL_CHANGED)|190|OnModelChanged|No Description Set|✔
 [MODIFIER_EVENT_ON_MODIFIER_ADDED](Constants/modifierfunction/MODIFIER_EVENT_ON_MODIFIER_ADDED)|191|OnModifierAdded|No Description Set|✔
@@ -165,7 +165,7 @@ Name|Value|Lua Function|Description|Client
 [MODIFIER_PROPERTY_OVERRIDE_ANIMATION](Constants/modifierfunction/MODIFIER_PROPERTY_OVERRIDE_ANIMATION)|121|GetOverrideAnimation|No Description Set|✔
 [MODIFIER_PROPERTY_OVERRIDE_ANIMATION_RATE](Constants/modifierfunction/MODIFIER_PROPERTY_OVERRIDE_ANIMATION_RATE)|123|GetOverrideAnimationRate|No Description Set|✔
 [MODIFIER_PROPERTY_OVERRIDE_ANIMATION_WEIGHT](Constants/modifierfunction/MODIFIER_PROPERTY_OVERRIDE_ANIMATION_WEIGHT)|122|GetOverrideAnimationWeight|No Description Set|✔
-[MODIFIER_PROPERTY_OVERRIDE_ATTACK_DAMAGE](Constants/modifierfunction/MODIFIER_PROPERTY_OVERRIDE_ATTACK_DAMAGE)|9|GetModifierOverrideAttackDamage|No Description Set|✔
+[MODIFIER_PROPERTY_OVERRIDE_ATTACK_DAMAGE](Constants/modifierfunction/MODIFIER_PROPERTY_OVERRIDE_ATTACK_DAMAGE)|9|GetModifierOverrideAttackDamage|重写攻击伤害|✔
 [MODIFIER_PROPERTY_OVERRIDE_ATTACK_MAGICAL](Constants/modifierfunction/MODIFIER_PROPERTY_OVERRIDE_ATTACK_MAGICAL)|147|GetOverrideAttackMagical|No Description Set|✔
 [MODIFIER_PROPERTY_PERSISTENT_INVISIBILITY](Constants/modifierfunction/MODIFIER_PROPERTY_PERSISTENT_INVISIBILITY)|13|GetModifierPersistentInvisibility|No Description Set|✔
 [MODIFIER_PROPERTY_PHYSICAL_ARMOR_BASE_PERCENTAGE](Constants/modifierfunction/MODIFIER_PROPERTY_PHYSICAL_ARMOR_BASE_PERCENTAGE)|61|GetModifierPhysicalArmorBase_Percentage|No Description Set|✔
@@ -195,10 +195,10 @@ Name|Value|Lua Function|Description|Client
 [MODIFIER_PROPERTY_REFLECT_SPELL](Constants/modifierfunction/MODIFIER_PROPERTY_REFLECT_SPELL)|125|GetReflectSpell|No Description Set|✔
 [MODIFIER_PROPERTY_REINCARNATION](Constants/modifierfunction/MODIFIER_PROPERTY_REINCARNATION)|103|ReincarnateTime|No Description Set|✔
 [MODIFIER_PROPERTY_RESPAWNTIME](Constants/modifierfunction/MODIFIER_PROPERTY_RESPAWNTIME)|104|GetModifierConstantRespawnTime|No Description Set|✔
-[MODIFIER_PROPERTY_RESPAWNTIME_PERCENTAGE](Constants/modifierfunction/MODIFIER_PROPERTY_RESPAWNTIME_PERCENTAGE)|105|GetModifierPercentageRespawnTime|No Description Set|✔
+[MODIFIER_PROPERTY_RESPAWNTIME_PERCENTAGE](Constants/modifierfunction/MODIFIER_PROPERTY_RESPAWNTIME_PERCENTAGE)|105|GetModifierPercentageRespawnTime|复活时间缩减百分比|✔
 [MODIFIER_PROPERTY_RESPAWNTIME_STACKING](Constants/modifierfunction/MODIFIER_PROPERTY_RESPAWNTIME_STACKING)|106|GetModifierStackingRespawnTime|No Description Set|✔
 [MODIFIER_PROPERTY_SPELLS_REQUIRE_HP](Constants/modifierfunction/MODIFIER_PROPERTY_SPELLS_REQUIRE_HP)|201|GetModifierSpellsRequireHP|No Description Set|✔
-[MODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE](Constants/modifierfunction/MODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE)|39|GetModifierSpellAmplify_Percentage|No Description Set|✔
+[MODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE](Constants/modifierfunction/MODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE)|39|GetModifierSpellAmplify_Percentage|技能增强百分比|✔
 [MODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE_UNIQUE](Constants/modifierfunction/MODIFIER_PROPERTY_SPELL_AMPLIFY_PERCENTAGE_UNIQUE)|40|GetModifierSpellAmplify_PercentageUnique|No Description Set|✔
 [MODIFIER_PROPERTY_STATS_AGILITY_BONUS](Constants/modifierfunction/MODIFIER_PROPERTY_STATS_AGILITY_BONUS)|87|GetModifierBonusStats_Agility|No Description Set|✔
 [MODIFIER_PROPERTY_STATS_AGILITY_BONUS_PERCENTAGE](Constants/modifierfunction/MODIFIER_PROPERTY_STATS_AGILITY_BONUS_PERCENTAGE)|90|GetModifierBonusStats_Agility_Percentage|No Description Set|✔
