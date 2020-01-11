@@ -39,12 +39,12 @@ function mirana_arrow:OnSpellStart()
 		vVelocity = (vPosition - hCaster:GetAbsOrigin()):Normalized() * iSpeed, -- 速度
 		bProvidesVision = true, -- 是否提供视野
 		iVisionRadius = 1000, -- 视野半径
-		iVisionTeamNumber = hCaster:GetTeamNumber() -- 视野队伍
+		iVisionTeamNumber = hCaster:GetTeamNumber(), -- 视野队伍
 		ExtraData = 
 		{
 			flDamage = 360,
 		},
 	}
-	projectile = ProjectileManager:CreateLinearProjectile(info)
+	projectile = ProjectileManager:CreateLinearProjectile(tInfo)
 end
 ```
